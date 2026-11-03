@@ -1,0 +1,284 @@
+[
+  {
+    "subject": "Chien",
+    "known_id": 0,
+    "attribute": "Mammifère",
+    "prompt": "Chien est biologiquement classé comme un"
+  },
+  {
+    "subject": "Chat",
+    "known_id": 1,
+    "attribute": "Mammifère",
+    "prompt": "Chat est biologiquement classé comme un"
+  },
+  {
+    "subject": "Humain",
+    "known_id": 2,
+    "attribute": "Mammifère",
+    "prompt": "Humain est biologiquement classé comme un"
+  },
+  {
+    "subject": "Éléphant",
+    "known_id": 3,
+    "attribute": "Mammifère",
+    "prompt": "Éléphant est biologiquement classé comme un"
+  },
+  {
+    "subject": "Lion",
+    "known_id": 4,
+    "attribute": "Mammifère",
+    "prompt": "Lion est biologiquement classé comme un"
+  },
+  {
+    "subject": "Tigre",
+    "known_id": 5,
+    "attribute": "Mammifère",
+    "prompt": "Tigre est biologiquement classé comme un"
+  },
+  {
+    "subject": "Gorille",
+    "known_id": 6,
+    "attribute": "Mammifère",
+    "prompt": "Gorille est biologiquement classé comme un"
+  },
+  {
+    "subject": "Dauphin",
+    "known_id": 7,
+    "attribute": "Mammifère",
+    "prompt": "Dauphin est biologiquement classé comme un"
+  },
+  {
+    "subject": "Baleine",
+    "known_id": 8,
+    "attribute": "Mammifère",
+    "prompt": "Baleine est biologiquement classé comme un"
+  },
+  {
+    "subject": "Chauve-souris",
+    "known_id": 9,
+    "attribute": "Mammifère",
+    "prompt": "Chauve-souris est biologiquement classé comme un"
+  },
+  {
+    "subject": "Cheval",
+    "known_id": 10,
+    "attribute": "Mammifère",
+    "prompt": "Cheval est biologiquement classé comme un"
+  },
+  {
+    "subject": "Kangourou",
+    "known_id": 11,
+    "attribute": "Mammifère",
+    "prompt": "Kangourou est biologiquement classé comme un"
+  },
+  {
+    "subject": "Crocodile",
+    "known_id": 12,
+    "attribute": "Reptile",
+    "prompt": "Crocodile est biologiquement classé comme un"
+  },
+  {
+    "subject": "Serpent",
+    "known_id": 13,
+    "attribute": "Reptile",
+    "prompt": "Serpent est biologiquement classé comme un"
+  },
+  {
+    "subject": "Tortue",
+    "known_id": 14,
+    "attribute": "Reptile",
+    "prompt": "Tortue est biologiquement classé comme un"
+  },
+  {
+    "subject": "Caméléon",
+    "known_id": 15,
+    "attribute": "Reptile",
+    "prompt": "Caméléon est biologiquement classé comme un"
+  },
+  {
+    "subject": "Dragon de Komodo",
+    "known_id": 16,
+    "attribute": "Reptile",
+    "prompt": "Dragon de Komodo est biologiquement classé comme un"
+  },
+  {
+    "subject": "Grenouille",
+    "known_id": 17,
+    "attribute": "Amphibien",
+    "prompt": "Grenouille est biologiquement classé comme un"
+  },
+  {
+    "subject": "Crapaud",
+    "known_id": 18,
+    "attribute": "Amphibien",
+    "prompt": "Crapaud est biologiquement classé comme un"
+  },
+  {
+    "subject": "Salamandre",
+    "known_id": 19,
+    "attribute": "Amphibien",
+    "prompt": "Salamandre est biologiquement classé comme un"
+  },
+  {
+    "subject": "Triton",
+    "known_id": 20,
+    "attribute": "Amphibien",
+    "prompt": "Triton est biologiquement classé comme un"
+  },
+  {
+    "subject": "Poisson rouge",
+    "known_id": 21,
+    "attribute": "Poisson",
+    "prompt": "Poisson rouge est biologiquement classé comme un"
+  },
+  {
+    "subject": "Requin",
+    "known_id": 22,
+    "attribute": "Poisson",
+    "prompt": "Requin est biologiquement classé comme un"
+  },
+  {
+    "subject": "Thon",
+    "known_id": 23,
+    "attribute": "Poisson",
+    "prompt": "Thon est biologiquement classé comme un"
+  },
+  {
+    "subject": "Saumon",
+    "known_id": 24,
+    "attribute": "Poisson",
+    "prompt": "Saumon est biologiquement classé comme un"
+  },
+  {
+    "subject": "Anguille",
+    "known_id": 25,
+    "attribute": "Poisson",
+    "prompt": "Anguille est biologiquement classé comme un"
+  },
+  {
+    "subject": "Perroquet",
+    "known_id": 26,
+    "attribute": "Oiseau",
+    "prompt": "Perroquet est biologiquement classé comme un"
+  },
+  {
+    "subject": "Aigle",
+    "known_id": 27,
+    "attribute": "Oiseau",
+    "prompt": "Aigle est biologiquement classé comme un"
+  },
+  {
+    "subject": "Pingouin",
+    "known_id": 28,
+    "attribute": "Oiseau",
+    "prompt": "Pingouin est biologiquement classé comme un"
+  },
+  {
+    "subject": "Autruche",
+    "known_id": 29,
+    "attribute": "Oiseau",
+    "prompt": "Autruche est biologiquement classé comme un"
+  },
+  {
+    "subject": "Paon",
+    "known_id": 30,
+    "attribute": "Oiseau",
+    "prompt": "Paon est biologiquement classé comme un"
+  },
+  {
+    "subject": "Papillon",
+    "known_id": 31,
+    "attribute": "Insecte",
+    "prompt": "Papillon est biologiquement classé comme un"
+  },
+  {
+    "subject": "Abeille",
+    "known_id": 32,
+    "attribute": "Insecte",
+    "prompt": "Abeille est biologiquement classé comme un"
+  },
+  {
+    "subject": "Fourmi",
+    "known_id": 33,
+    "attribute": "Insecte",
+    "prompt": "Fourmi est biologiquement classé comme un"
+  },
+  {
+    "subject": "Sauterelle",
+    "known_id": 34,
+    "attribute": "Insecte",
+    "prompt": "Sauterelle est biologiquement classé comme un"
+  },
+  {
+    "subject": "Libellule",
+    "known_id": 35,
+    "attribute": "Insecte",
+    "prompt": "Libellule est biologiquement classé comme un"
+  },
+  {
+    "subject": "Araignée",
+    "known_id": 36,
+    "attribute": "Arachnide",
+    "prompt": "Araignée est biologiquement classé comme un"
+  },
+  {
+    "subject": "Scorpion",
+    "known_id": 37,
+    "attribute": "Arachnide",
+    "prompt": "Scorpion est biologiquement classé comme un"
+  },
+  {
+    "subject": "Poulpe",
+    "known_id": 38,
+    "attribute": "Céphalopode",
+    "prompt": "Poulpe est biologiquement classé comme un"
+  },
+  {
+    "subject": "Calmar",
+    "known_id": 39,
+    "attribute": "Céphalopode",
+    "prompt": "Calmar est biologiquement classé comme un"
+  },
+  {
+    "subject": "Méduse",
+    "known_id": 40,
+    "attribute": "Cnidaire",
+    "prompt": "Méduse est biologiquement classé comme un"
+  },
+  {
+    "subject": "Étoile de mer",
+    "known_id": 41,
+    "attribute": "Échinoderme",
+    "prompt": "Étoile de mer est biologiquement classé comme un"
+  },
+  {
+    "subject": "Oursin",
+    "known_id": 42,
+    "attribute": "Échinoderme",
+    "prompt": "Oursin est biologiquement classé comme un"
+  },
+  {
+    "subject": "Ver de terre",
+    "known_id": 43,
+    "attribute": "Annélide",
+    "prompt": "Ver de terre est biologiquement classé comme un"
+  },
+  {
+    "subject": "Escargot",
+    "known_id": 44,
+    "attribute": "Mollusque",
+    "prompt": "Escargot est biologiquement classé comme un"
+  },
+  {
+    "subject": "Crabe",
+    "known_id": 45,
+    "attribute": "Crustacé",
+    "prompt": "Crabe est biologiquement classé comme un"
+  },
+  {
+    "subject": "Homard",
+    "known_id": 46,
+    "attribute": "Crustacé",
+    "prompt": "Homard est biologiquement classé comme un"
+  }
+]

@@ -1,0 +1,284 @@
+[
+    {
+        "subject": "개",
+        "known_id": 0,
+        "attribute": "포유류",
+        "prompt": "개의 생물학적 분류는"
+    },
+    {
+        "subject": "고양이",
+        "known_id": 1,
+        "attribute": "포유류",
+        "prompt": "고양이의 생물학적 분류는"
+    },
+    {
+        "subject": "인간",
+        "known_id": 2,
+        "attribute": "포유류",
+        "prompt": "인간의 생물학적 분류는"
+    },
+    {
+        "subject": "코끼리",
+        "known_id": 3,
+        "attribute": "포유류",
+        "prompt": "코끼리의 생물학적 분류는"
+    },
+    {
+        "subject": "사자",
+        "known_id": 4,
+        "attribute": "포유류",
+        "prompt": "사자의 생물학적 분류는"
+    },
+    {
+        "subject": "호랑이",
+        "known_id": 5,
+        "attribute": "포유류",
+        "prompt": "호랑이의 생물학적 분류는"
+    },
+    {
+        "subject": "고릴라",
+        "known_id": 6,
+        "attribute": "포유류",
+        "prompt": "고릴라의 생물학적 분류는"
+    },
+    {
+        "subject": "돌고래",
+        "known_id": 7,
+        "attribute": "포유류",
+        "prompt": "돌고래의 생물학적 분류는"
+    },
+    {
+        "subject": "고래",
+        "known_id": 8,
+        "attribute": "포유류",
+        "prompt": "고래의 생물학적 분류는"
+    },
+    {
+        "subject": "박쥐",
+        "known_id": 9,
+        "attribute": "포유류",
+        "prompt": "박쥐의 생물학적 분류는"
+    },
+    {
+        "subject": "말",
+        "known_id": 10,
+        "attribute": "포유류",
+        "prompt": "말의 생물학적 분류는"
+    },
+    {
+        "subject": "캥거루",
+        "known_id": 11,
+        "attribute": "포유류",
+        "prompt": "캥거루의 생물학적 분류는"
+    },
+    {
+        "subject": "악어",
+        "known_id": 12,
+        "attribute": "파충류",
+        "prompt": "악어의 생물학적 분류는"
+    },
+    {
+        "subject": "뱀",
+        "known_id": 13,
+        "attribute": "파충류",
+        "prompt": "뱀의 생물학적 분류는"
+    },
+    {
+        "subject": "거북",
+        "known_id": 14,
+        "attribute": "파충류",
+        "prompt": "거북의 생물학적 분류는"
+    },
+    {
+        "subject": "카멜레온",
+        "known_id": 15,
+        "attribute": "파충류",
+        "prompt": "카멜레온의 생물학적 분류는"
+    },
+    {
+        "subject": "코모도왕도마뱀",
+        "known_id": 16,
+        "attribute": "파충류",
+        "prompt": "코모도왕도마뱀의 생물학적 분류는"
+    },
+    {
+        "subject": "개구리",
+        "known_id": 17,
+        "attribute": "양서류",
+        "prompt": "개구리의 생물학적 분류는"
+    },
+    {
+        "subject": "두꺼비",
+        "known_id": 18,
+        "attribute": "양서류",
+        "prompt": "두꺼비의 생물학적 분류는"
+    },
+    {
+        "subject": "도롱뇽",
+        "known_id": 19,
+        "attribute": "양서류",
+        "prompt": "도롱뇽의 생물학적 분류는"
+    },
+    {
+        "subject": "영원",
+        "known_id": 20,
+        "attribute": "양서류",
+        "prompt": "영원의 생물학적 분류는"
+    },
+    {
+        "subject": "금붕어",
+        "known_id": 21,
+        "attribute": "어류",
+        "prompt": "금붕어의 생물학적 분류는"
+    },
+    {
+        "subject": "상어",
+        "known_id": 22,
+        "attribute": "어류",
+        "prompt": "상어의 생물학적 분류는"
+    },
+    {
+        "subject": "참치",
+        "known_id": 23,
+        "attribute": "어류",
+        "prompt": "참치의 생물학적 분류는"
+    },
+    {
+        "subject": "연어",
+        "known_id": 24,
+        "attribute": "어류",
+        "prompt": "연어의 생물학적 분류는"
+    },
+    {
+        "subject": "장어",
+        "known_id": 25,
+        "attribute": "어류",
+        "prompt": "장어의 생물학적 분류는"
+    },
+    {
+        "subject": "앵무새",
+        "known_id": 26,
+        "attribute": "조류",
+        "prompt": "앵무새의 생물학적 분류는"
+    },
+    {
+        "subject": "독수리",
+        "known_id": 27,
+        "attribute": "조류",
+        "prompt": "독수리의 생물학적 분류는"
+    },
+    {
+        "subject": "펭귄",
+        "known_id": 28,
+        "attribute": "조류",
+        "prompt": "펭귄의 생물학적 분류는"
+    },
+    {
+        "subject": "타조",
+        "known_id": 29,
+        "attribute": "조류",
+        "prompt": "타조의 생물학적 분류는"
+    },
+    {
+        "subject": "공작",
+        "known_id": 30,
+        "attribute": "조류",
+        "prompt": "공작의 생물학적 분류는"
+    },
+    {
+        "subject": "나비",
+        "known_id": 31,
+        "attribute": "곤충",
+        "prompt": "나비의 생물학적 분류는"
+    },
+    {
+        "subject": "벌",
+        "known_id": 32,
+        "attribute": "곤충",
+        "prompt": "벌의 생물학적 분류는"
+    },
+    {
+        "subject": "개미",
+        "known_id": 33,
+        "attribute": "곤충",
+        "prompt": "개미의 생물학적 분류는"
+    },
+    {
+        "subject": "메뚜기",
+        "known_id": 34,
+        "attribute": "곤충",
+        "prompt": "메뚜기의 생물학적 분류는"
+    },
+    {
+        "subject": "잠자리",
+        "known_id": 35,
+        "attribute": "곤충",
+        "prompt": "잠자리의 생물학적 분류는"
+    },
+    {
+        "subject": "거미",
+        "known_id": 36,
+        "attribute": "거미류",
+        "prompt": "거미의 생물학적 분류는"
+    },
+    {
+        "subject": "전갈",
+        "known_id": 37,
+        "attribute": "거미류",
+        "prompt": "전갈의 생물학적 분류는"
+    },
+    {
+        "subject": "문어",
+        "known_id": 38,
+        "attribute": "두족류",
+        "prompt": "문어의 생물학적 분류는"
+    },
+    {
+        "subject": "오징어",
+        "known_id": 39,
+        "attribute": "두족류",
+        "prompt": "오징어의 생물학적 분류는"
+    },
+    {
+        "subject": "해파리",
+        "known_id": 40,
+        "attribute": "자포동물",
+        "prompt": "해파리의 생물학적 분류는"
+    },
+    {
+        "subject": "불가사리",
+        "known_id": 41,
+        "attribute": "극피동물",
+        "prompt": "불가사리의 생물학적 분류는"
+    },
+    {
+        "subject": "성게",
+        "known_id": 42,
+        "attribute": "극피동물",
+        "prompt": "성게의 생물학적 분류는"
+    },
+    {
+        "subject": "지렁이",
+        "known_id": 43,
+        "attribute": "환형동물",
+        "prompt": "지렁이의 생물학적 분류는"
+    },
+    {
+        "subject": "달팽이",
+        "known_id": 44,
+        "attribute": "연체동물",
+        "prompt": "달팽이의 생물학적 분류는"
+    },
+    {
+        "subject": "게",
+        "known_id": 45,
+        "attribute": "갑각류",
+        "prompt": "게의 생물학적 분류는"
+    },
+    {
+        "subject": "바닷가재",
+        "known_id": 46,
+        "attribute": "갑각류",
+        "prompt": "바닷가재의 생물학적 분류는"
+    }
+]

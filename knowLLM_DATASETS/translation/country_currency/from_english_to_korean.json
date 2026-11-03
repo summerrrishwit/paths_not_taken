@@ -1,0 +1,308 @@
+[
+  {
+    "known_id": 0,
+    "subject": "Dollar",
+    "attribute": "달러",
+    "prompt": "Translate a word from English to korean. Word: 'Dollar'. Translated: '"
+  },
+  {
+    "known_id": 1,
+    "subject": "Pound",
+    "attribute": "파운드",
+    "prompt": "Translate a word from English to korean. Word: 'Pound'. Translated: '"
+  },
+  {
+    "known_id": 2,
+    "subject": "Yen",
+    "attribute": "엔",
+    "prompt": "Translate a word from English to korean. Word: 'Yen'. Translated: '"
+  },
+  {
+    "known_id": 3,
+    "subject": "Dollar",
+    "attribute": "달러",
+    "prompt": "Translate a word from English to korean. Word: 'Dollar'. Translated: '"
+  },
+  {
+    "known_id": 4,
+    "subject": "Dollar",
+    "attribute": "달러",
+    "prompt": "Translate a word from English to korean. Word: 'Dollar'. Translated: '"
+  },
+  {
+    "known_id": 5,
+    "subject": "Real",
+    "attribute": "레알",
+    "prompt": "Translate a word from English to korean. Word: 'Real'. Translated: '"
+  },
+  {
+    "known_id": 6,
+    "subject": "Yuan",
+    "attribute": "위안",
+    "prompt": "Translate a word from English to korean. Word: 'Yuan'. Translated: '"
+  },
+  {
+    "known_id": 7,
+    "subject": "Rupee",
+    "attribute": "루피",
+    "prompt": "Translate a word from English to korean. Word: 'Rupee'. Translated: '"
+  },
+  {
+    "known_id": 8,
+    "subject": "Ruble",
+    "attribute": "루블",
+    "prompt": "Translate a word from English to korean. Word: 'Ruble'. Translated: '"
+  },
+  {
+    "known_id": 9,
+    "subject": "Rand",
+    "attribute": "랜드",
+    "prompt": "Translate a word from English to korean. Word: 'Rand'. Translated: '"
+  },
+  {
+    "known_id": 10,
+    "subject": "Peso",
+    "attribute": "페소",
+    "prompt": "Translate a word from English to korean. Word: 'Peso'. Translated: '"
+  },
+  {
+    "known_id": 11,
+    "subject": "Dollar",
+    "attribute": "달러",
+    "prompt": "Translate a word from English to korean. Word: 'Dollar'. Translated: '"
+  },
+  {
+    "known_id": 12,
+    "subject": "Won",
+    "attribute": "원",
+    "prompt": "Translate a word from English to korean. Word: 'Won'. Translated: '"
+  },
+  {
+    "known_id": 13,
+    "subject": "Franc",
+    "attribute": "프랑",
+    "prompt": "Translate a word from English to korean. Word: 'Franc'. Translated: '"
+  },
+  {
+    "known_id": 14,
+    "subject": "Lira",
+    "attribute": "리라",
+    "prompt": "Translate a word from English to korean. Word: 'Lira'. Translated: '"
+  },
+  {
+    "known_id": 15,
+    "subject": "Peso",
+    "attribute": "페소",
+    "prompt": "Translate a word from English to korean. Word: 'Peso'. Translated: '"
+  },
+  {
+    "known_id": 16,
+    "subject": "Krone",
+    "attribute": "크로네",
+    "prompt": "Translate a word from English to korean. Word: 'Krone'. Translated: '"
+  },
+  {
+    "known_id": 17,
+    "subject": "Krona",
+    "attribute": "크로나",
+    "prompt": "Translate a word from English to korean. Word: 'Krona'. Translated: '"
+  },
+  {
+    "known_id": 18,
+    "subject": "Krone",
+    "attribute": "크로네",
+    "prompt": "Translate a word from English to korean. Word: 'Krone'. Translated: '"
+  },
+  {
+    "known_id": 19,
+    "subject": "Zloty",
+    "attribute": "즈워티",
+    "prompt": "Translate a word from English to korean. Word: 'Zloty'. Translated: '"
+  },
+  {
+    "known_id": 20,
+    "subject": "Forint",
+    "attribute": "포린트",
+    "prompt": "Translate a word from English to korean. Word: 'Forint'. Translated: '"
+  },
+  {
+    "known_id": 21,
+    "subject": "Koruna",
+    "attribute": "코루나",
+    "prompt": "Translate a word from English to korean. Word: 'Koruna'. Translated: '"
+  },
+  {
+    "known_id": 22,
+    "subject": "Shekel",
+    "attribute": "셰켈",
+    "prompt": "Translate a word from English to korean. Word: 'Shekel'. Translated: '"
+  },
+  {
+    "known_id": 23,
+    "subject": "Riyal",
+    "attribute": "리얄",
+    "prompt": "Translate a word from English to korean. Word: 'Riyal'. Translated: '"
+  },
+  {
+    "known_id": 24,
+    "subject": "Dirham",
+    "attribute": "디르함",
+    "prompt": "Translate a word from English to korean. Word: 'Dirham'. Translated: '"
+  },
+  {
+    "known_id": 25,
+    "subject": "Dollar",
+    "attribute": "달러",
+    "prompt": "Translate a word from English to korean. Word: 'Dollar'. Translated: '"
+  },
+  {
+    "known_id": 26,
+    "subject": "Ringgit",
+    "attribute": "링깃",
+    "prompt": "Translate a word from English to korean. Word: 'Ringgit'. Translated: '"
+  },
+  {
+    "known_id": 27,
+    "subject": "Rupiah",
+    "attribute": "루피아",
+    "prompt": "Translate a word from English to korean. Word: 'Rupiah'. Translated: '"
+  },
+  {
+    "known_id": 28,
+    "subject": "Baht",
+    "attribute": "바트",
+    "prompt": "Translate a word from English to korean. Word: 'Baht'. Translated: '"
+  },
+  {
+    "known_id": 29,
+    "subject": "Peso",
+    "attribute": "페소",
+    "prompt": "Translate a word from English to korean. Word: 'Peso'. Translated: '"
+  },
+  {
+    "known_id": 30,
+    "subject": "Dong",
+    "attribute": "동",
+    "prompt": "Translate a word from English to korean. Word: 'Dong'. Translated: '"
+  },
+  {
+    "known_id": 31,
+    "subject": "Pound",
+    "attribute": "파운드",
+    "prompt": "Translate a word from English to korean. Word: 'Pound'. Translated: '"
+  },
+  {
+    "known_id": 32,
+    "subject": "Hryvnia",
+    "attribute": "흐리우냐",
+    "prompt": "Translate a word from English to korean. Word: 'Hryvnia'. Translated: '"
+  },
+  {
+    "known_id": 33,
+    "subject": "Leu",
+    "attribute": "레우",
+    "prompt": "Translate a word from English to korean. Word: 'Leu'. Translated: '"
+  },
+  {
+    "known_id": 34,
+    "subject": "Lev",
+    "attribute": "레프",
+    "prompt": "Translate a word from English to korean. Word: 'Lev'. Translated: '"
+  },
+  {
+    "known_id": 35,
+    "subject": "Dinar",
+    "attribute": "디나르",
+    "prompt": "Translate a word from English to korean. Word: 'Dinar'. Translated: '"
+  },
+  {
+    "known_id": 36,
+    "subject": "Dinar",
+    "attribute": "디나르",
+    "prompt": "Translate a word from English to korean. Word: 'Dinar'. Translated: '"
+  },
+  {
+    "known_id": 37,
+    "subject": "Dinar",
+    "attribute": "디나르",
+    "prompt": "Translate a word from English to korean. Word: 'Dinar'. Translated: '"
+  },
+  {
+    "known_id": 38,
+    "subject": "Dirham",
+    "attribute": "디르함",
+    "prompt": "Translate a word from English to korean. Word: 'Dirham'. Translated: '"
+  },
+  {
+    "known_id": 39,
+    "subject": "Dinar",
+    "attribute": "디나르",
+    "prompt": "Translate a word from English to korean. Word: 'Dinar'. Translated: '"
+  },
+  {
+    "known_id": 40,
+    "subject": "Peso",
+    "attribute": "페소",
+    "prompt": "Translate a word from English to korean. Word: 'Peso'. Translated: '"
+  },
+  {
+    "known_id": 41,
+    "subject": "Peso",
+    "attribute": "페소",
+    "prompt": "Translate a word from English to korean. Word: 'Peso'. Translated: '"
+  },
+  {
+    "known_id": 42,
+    "subject": "Peso",
+    "attribute": "페소",
+    "prompt": "Translate a word from English to korean. Word: 'Peso'. Translated: '"
+  },
+  {
+    "known_id": 43,
+    "subject": "Krona",
+    "attribute": "크로나",
+    "prompt": "Translate a word from English to korean. Word: 'Krona'. Translated: '"
+  },
+  {
+    "known_id": 44,
+    "subject": "Lari",
+    "attribute": "라리",
+    "prompt": "Translate a word from English to korean. Word: 'Lari'. Translated: '"
+  },
+  {
+    "known_id": 45,
+    "subject": "Manat",
+    "attribute": "마나트",
+    "prompt": "Translate a word from English to korean. Word: 'Manat'. Translated: '"
+  },
+  {
+    "known_id": 46,
+    "subject": "Tenge",
+    "attribute": "텡게",
+    "prompt": "Translate a word from English to korean. Word: 'Tenge'. Translated: '"
+  },
+  {
+    "known_id": 47,
+    "subject": "Rupee",
+    "attribute": "루피",
+    "prompt": "Translate a word from English to korean. Word: 'Rupee'. Translated: '"
+  },
+  {
+    "known_id": 48,
+    "subject": "Rupee",
+    "attribute": "루피",
+    "prompt": "Translate a word from English to korean. Word: 'Rupee'. Translated: '"
+  },
+  {
+    "known_id": 49,
+    "subject": "Taka",
+    "attribute": "타카",
+    "prompt": "Translate a word from English to korean. Word: 'Taka'. Translated: '"
+  },
+  {
+    "known_id": 50,
+    "subject": "Rupee",
+    "attribute": "루피",
+    "prompt": "Translate a word from English to korean. Word: 'Rupee'. Translated: '"
+  }
+]

@@ -1,0 +1,308 @@
+[
+  {
+    "subject": "美国",
+    "known_id": 0,
+    "attribute": "美元",
+    "prompt": "美国的官方货币是"
+  },
+  {
+    "subject": "英国",
+    "known_id": 1,
+    "attribute": "英镑",
+    "prompt": "英国的官方货币是"
+  },
+  {
+    "subject": "日本",
+    "known_id": 2,
+    "attribute": "日元",
+    "prompt": "日本的官方货币是"
+  },
+  {
+    "subject": "加拿大",
+    "known_id": 3,
+    "attribute": "美元",
+    "prompt": "加拿大的官方货币是"
+  },
+  {
+    "subject": "澳大利亚",
+    "known_id": 4,
+    "attribute": "美元",
+    "prompt": "澳大利亚的官方货币是"
+  },
+  {
+    "subject": "巴西",
+    "known_id": 5,
+    "attribute": "雷亚尔",
+    "prompt": "巴西的官方货币是"
+  },
+  {
+    "subject": "中国",
+    "known_id": 6,
+    "attribute": "人民币",
+    "prompt": "中国的官方货币是"
+  },
+  {
+    "subject": "印度",
+    "known_id": 7,
+    "attribute": "卢比",
+    "prompt": "印度的官方货币是"
+  },
+  {
+    "subject": "俄罗斯",
+    "known_id": 8,
+    "attribute": "卢布",
+    "prompt": "俄罗斯的官方货币是"
+  },
+  {
+    "subject": "南非",
+    "known_id": 9,
+    "attribute": "兰特",
+    "prompt": "南非的官方货币是"
+  },
+  {
+    "subject": "墨西哥",
+    "known_id": 10,
+    "attribute": "比索",
+    "prompt": "墨西哥的官方货币是"
+  },
+  {
+    "subject": "新西兰",
+    "known_id": 11,
+    "attribute": "美元",
+    "prompt": "新西兰的官方货币是"
+  },
+  {
+    "subject": "韩国",
+    "known_id": 12,
+    "attribute": "韩元",
+    "prompt": "韩国的官方货币是"
+  },
+  {
+    "subject": "瑞士",
+    "known_id": 13,
+    "attribute": "法郎",
+    "prompt": "瑞士的官方货币是"
+  },
+  {
+    "subject": "土耳其",
+    "known_id": 14,
+    "attribute": "里拉",
+    "prompt": "土耳其的官方货币是"
+  },
+  {
+    "subject": "阿根廷",
+    "known_id": 15,
+    "attribute": "比索",
+    "prompt": "阿根廷的官方货币是"
+  },
+  {
+    "subject": "挪威",
+    "known_id": 16,
+    "attribute": "克朗",
+    "prompt": "挪威的官方货币是"
+  },
+  {
+    "subject": "瑞典",
+    "known_id": 17,
+    "attribute": "克朗",
+    "prompt": "瑞典的官方货币是"
+  },
+  {
+    "subject": "丹麦",
+    "known_id": 18,
+    "attribute": "克朗",
+    "prompt": "丹麦的官方货币是"
+  },
+  {
+    "subject": "波兰",
+    "known_id": 19,
+    "attribute": "兹罗提",
+    "prompt": "波兰的官方货币是"
+  },
+  {
+    "subject": "匈牙利",
+    "known_id": 20,
+    "attribute": "福林",
+    "prompt": "匈牙利的官方货币是"
+  },
+  {
+    "subject": "捷克共和国",
+    "known_id": 21,
+    "attribute": "捷克克朗",
+    "prompt": "捷克共和国的官方货币是"
+  },
+  {
+    "subject": "以色列",
+    "known_id": 22,
+    "attribute": "谢克尔",
+    "prompt": "以色列的官方货币是"
+  },
+  {
+    "subject": "沙特阿拉伯",
+    "known_id": 23,
+    "attribute": "里亚尔",
+    "prompt": "沙特阿拉伯的官方货币是"
+  },
+  {
+    "subject": "阿拉伯联合酋长国",
+    "known_id": 24,
+    "attribute": "迪拉姆",
+    "prompt": "阿拉伯联合酋长国的官方货币是"
+  },
+  {
+    "subject": "新加坡",
+    "known_id": 25,
+    "attribute": "美元",
+    "prompt": "新加坡的官方货币是"
+  },
+  {
+    "subject": "马来西亚",
+    "known_id": 26,
+    "attribute": "林吉特",
+    "prompt": "马来西亚的官方货币是"
+  },
+  {
+    "subject": "印度尼西亚",
+    "known_id": 27,
+    "attribute": "印尼卢比",
+    "prompt": "印度尼西亚的官方货币是"
+  },
+  {
+    "subject": "泰国",
+    "known_id": 28,
+    "attribute": "泰铢",
+    "prompt": "泰国的官方货币是"
+  },
+  {
+    "subject": "菲律宾",
+    "known_id": 29,
+    "attribute": "比索",
+    "prompt": "菲律宾的官方货币是"
+  },
+  {
+    "subject": "越南",
+    "known_id": 30,
+    "attribute": "越南盾",
+    "prompt": "越南的官方货币是"
+  },
+  {
+    "subject": "埃及",
+    "known_id": 31,
+    "attribute": "英镑",
+    "prompt": "埃及的官方货币是"
+  },
+  {
+    "subject": "乌克兰",
+    "known_id": 32,
+    "attribute": "格里夫纳",
+    "prompt": "乌克兰的官方货币是"
+  },
+  {
+    "subject": "罗马尼亚",
+    "known_id": 33,
+    "attribute": "列伊",
+    "prompt": "罗马尼亚的官方货币是"
+  },
+  {
+    "subject": "保加利亚",
+    "known_id": 34,
+    "attribute": "列弗",
+    "prompt": "保加利亚的官方货币是"
+  },
+  {
+    "subject": "塞尔维亚",
+    "known_id": 35,
+    "attribute": "第纳尔",
+    "prompt": "塞尔维亚的官方货币是"
+  },
+  {
+    "subject": "伊拉克",
+    "known_id": 36,
+    "attribute": "第纳尔",
+    "prompt": "伊拉克的官方货币是"
+  },
+  {
+    "subject": "科威特",
+    "known_id": 37,
+    "attribute": "第纳尔",
+    "prompt": "科威特的官方货币是"
+  },
+  {
+    "subject": "摩洛哥",
+    "known_id": 38,
+    "attribute": "迪拉姆",
+    "prompt": "摩洛哥的官方货币是"
+  },
+  {
+    "subject": "突尼斯",
+    "known_id": 39,
+    "attribute": "第纳尔",
+    "prompt": "突尼斯的官方货币是"
+  },
+  {
+    "subject": "智利",
+    "known_id": 40,
+    "attribute": "比索",
+    "prompt": "智利的官方货币是"
+  },
+  {
+    "subject": "哥伦比亚",
+    "known_id": 41,
+    "attribute": "比索",
+    "prompt": "哥伦比亚的官方货币是"
+  },
+  {
+    "subject": "乌拉圭",
+    "known_id": 42,
+    "attribute": "比索",
+    "prompt": "乌拉圭的官方货币是"
+  },
+  {
+    "subject": "冰岛",
+    "known_id": 43,
+    "attribute": "克朗",
+    "prompt": "冰岛的官方货币是"
+  },
+  {
+    "subject": "格鲁吉亚",
+    "known_id": 44,
+    "attribute": "拉里",
+    "prompt": "格鲁吉亚的官方货币是"
+  },
+  {
+    "subject": "阿塞拜疆",
+    "known_id": 45,
+    "attribute": "马纳特",
+    "prompt": "阿塞拜疆的官方货币是"
+  },
+  {
+    "subject": "哈萨克斯坦",
+    "known_id": 46,
+    "attribute": "坚戈",
+    "prompt": "哈萨克斯坦的官方货币是"
+  },
+  {
+    "subject": "斯里兰卡",
+    "known_id": 47,
+    "attribute": "卢比",
+    "prompt": "斯里兰卡的官方货币是"
+  },
+  {
+    "subject": "尼泊尔",
+    "known_id": 48,
+    "attribute": "卢比",
+    "prompt": "尼泊尔的官方货币是"
+  },
+  {
+    "subject": "孟加拉国",
+    "known_id": 49,
+    "attribute": "塔卡",
+    "prompt": "孟加拉国的官方货币是"
+  },
+  {
+    "subject": "巴基斯坦",
+    "known_id": 50,
+    "attribute": "卢比",
+    "prompt": "巴基斯坦的官方货币是"
+  }
+]

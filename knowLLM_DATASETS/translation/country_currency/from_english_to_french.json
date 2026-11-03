@@ -1,0 +1,308 @@
+[
+  {
+    "known_id": 0,
+    "subject": "Dollar",
+    "attribute": "Dólar",
+    "prompt": "Translate a word from English to french. Word: 'Dollar'. Translated: '"
+  },
+  {
+    "known_id": 1,
+    "subject": "Pound",
+    "attribute": "Libra",
+    "prompt": "Translate a word from English to french. Word: 'Pound'. Translated: '"
+  },
+  {
+    "known_id": 2,
+    "subject": "Yen",
+    "attribute": "Yen",
+    "prompt": "Translate a word from English to french. Word: 'Yen'. Translated: '"
+  },
+  {
+    "known_id": 3,
+    "subject": "Dollar",
+    "attribute": "Dólar",
+    "prompt": "Translate a word from English to french. Word: 'Dollar'. Translated: '"
+  },
+  {
+    "known_id": 4,
+    "subject": "Dollar",
+    "attribute": "Dólar",
+    "prompt": "Translate a word from English to french. Word: 'Dollar'. Translated: '"
+  },
+  {
+    "known_id": 5,
+    "subject": "Real",
+    "attribute": "Real",
+    "prompt": "Translate a word from English to french. Word: 'Real'. Translated: '"
+  },
+  {
+    "known_id": 6,
+    "subject": "Yuan",
+    "attribute": "Yuan",
+    "prompt": "Translate a word from English to french. Word: 'Yuan'. Translated: '"
+  },
+  {
+    "known_id": 7,
+    "subject": "Rupee",
+    "attribute": "Rupia",
+    "prompt": "Translate a word from English to french. Word: 'Rupee'. Translated: '"
+  },
+  {
+    "known_id": 8,
+    "subject": "Ruble",
+    "attribute": "Rublo",
+    "prompt": "Translate a word from English to french. Word: 'Ruble'. Translated: '"
+  },
+  {
+    "known_id": 9,
+    "subject": "Rand",
+    "attribute": "Rand",
+    "prompt": "Translate a word from English to french. Word: 'Rand'. Translated: '"
+  },
+  {
+    "known_id": 10,
+    "subject": "Peso",
+    "attribute": "Peso",
+    "prompt": "Translate a word from English to french. Word: 'Peso'. Translated: '"
+  },
+  {
+    "known_id": 11,
+    "subject": "Dollar",
+    "attribute": "Dólar",
+    "prompt": "Translate a word from English to french. Word: 'Dollar'. Translated: '"
+  },
+  {
+    "known_id": 12,
+    "subject": "Won",
+    "attribute": "Won",
+    "prompt": "Translate a word from English to french. Word: 'Won'. Translated: '"
+  },
+  {
+    "known_id": 13,
+    "subject": "Franc",
+    "attribute": "Franco",
+    "prompt": "Translate a word from English to french. Word: 'Franc'. Translated: '"
+  },
+  {
+    "known_id": 14,
+    "subject": "Lira",
+    "attribute": "Lira",
+    "prompt": "Translate a word from English to french. Word: 'Lira'. Translated: '"
+  },
+  {
+    "known_id": 15,
+    "subject": "Peso",
+    "attribute": "Peso",
+    "prompt": "Translate a word from English to french. Word: 'Peso'. Translated: '"
+  },
+  {
+    "known_id": 16,
+    "subject": "Krone",
+    "attribute": "Corona",
+    "prompt": "Translate a word from English to french. Word: 'Krone'. Translated: '"
+  },
+  {
+    "known_id": 17,
+    "subject": "Krona",
+    "attribute": "Corona",
+    "prompt": "Translate a word from English to french. Word: 'Krona'. Translated: '"
+  },
+  {
+    "known_id": 18,
+    "subject": "Krone",
+    "attribute": "Corona",
+    "prompt": "Translate a word from English to french. Word: 'Krone'. Translated: '"
+  },
+  {
+    "known_id": 19,
+    "subject": "Zloty",
+    "attribute": "Zloty",
+    "prompt": "Translate a word from English to french. Word: 'Zloty'. Translated: '"
+  },
+  {
+    "known_id": 20,
+    "subject": "Forint",
+    "attribute": "Forinto",
+    "prompt": "Translate a word from English to french. Word: 'Forint'. Translated: '"
+  },
+  {
+    "known_id": 21,
+    "subject": "Koruna",
+    "attribute": "Corona checa",
+    "prompt": "Translate a word from English to french. Word: 'Koruna'. Translated: '"
+  },
+  {
+    "known_id": 22,
+    "subject": "Shekel",
+    "attribute": "Shéquel",
+    "prompt": "Translate a word from English to french. Word: 'Shekel'. Translated: '"
+  },
+  {
+    "known_id": 23,
+    "subject": "Riyal",
+    "attribute": "Riyal",
+    "prompt": "Translate a word from English to french. Word: 'Riyal'. Translated: '"
+  },
+  {
+    "known_id": 24,
+    "subject": "Dirham",
+    "attribute": "Dírham",
+    "prompt": "Translate a word from English to french. Word: 'Dirham'. Translated: '"
+  },
+  {
+    "known_id": 25,
+    "subject": "Dollar",
+    "attribute": "Dólar",
+    "prompt": "Translate a word from English to french. Word: 'Dollar'. Translated: '"
+  },
+  {
+    "known_id": 26,
+    "subject": "Ringgit",
+    "attribute": "Ringgit",
+    "prompt": "Translate a word from English to french. Word: 'Ringgit'. Translated: '"
+  },
+  {
+    "known_id": 27,
+    "subject": "Rupiah",
+    "attribute": "Rupia",
+    "prompt": "Translate a word from English to french. Word: 'Rupiah'. Translated: '"
+  },
+  {
+    "known_id": 28,
+    "subject": "Baht",
+    "attribute": "Baht",
+    "prompt": "Translate a word from English to french. Word: 'Baht'. Translated: '"
+  },
+  {
+    "known_id": 29,
+    "subject": "Peso",
+    "attribute": "Peso",
+    "prompt": "Translate a word from English to french. Word: 'Peso'. Translated: '"
+  },
+  {
+    "known_id": 30,
+    "subject": "Dong",
+    "attribute": "Dong",
+    "prompt": "Translate a word from English to french. Word: 'Dong'. Translated: '"
+  },
+  {
+    "known_id": 31,
+    "subject": "Pound",
+    "attribute": "Libra",
+    "prompt": "Translate a word from English to french. Word: 'Pound'. Translated: '"
+  },
+  {
+    "known_id": 32,
+    "subject": "Hryvnia",
+    "attribute": "Grivna",
+    "prompt": "Translate a word from English to french. Word: 'Hryvnia'. Translated: '"
+  },
+  {
+    "known_id": 33,
+    "subject": "Leu",
+    "attribute": "Leu",
+    "prompt": "Translate a word from English to french. Word: 'Leu'. Translated: '"
+  },
+  {
+    "known_id": 34,
+    "subject": "Lev",
+    "attribute": "Lev",
+    "prompt": "Translate a word from English to french. Word: 'Lev'. Translated: '"
+  },
+  {
+    "known_id": 35,
+    "subject": "Dinar",
+    "attribute": "Dinar",
+    "prompt": "Translate a word from English to french. Word: 'Dinar'. Translated: '"
+  },
+  {
+    "known_id": 36,
+    "subject": "Dinar",
+    "attribute": "Dinar",
+    "prompt": "Translate a word from English to french. Word: 'Dinar'. Translated: '"
+  },
+  {
+    "known_id": 37,
+    "subject": "Dinar",
+    "attribute": "Dinar",
+    "prompt": "Translate a word from English to french. Word: 'Dinar'. Translated: '"
+  },
+  {
+    "known_id": 38,
+    "subject": "Dirham",
+    "attribute": "Dírham",
+    "prompt": "Translate a word from English to french. Word: 'Dirham'. Translated: '"
+  },
+  {
+    "known_id": 39,
+    "subject": "Dinar",
+    "attribute": "Dinar",
+    "prompt": "Translate a word from English to french. Word: 'Dinar'. Translated: '"
+  },
+  {
+    "known_id": 40,
+    "subject": "Peso",
+    "attribute": "Peso",
+    "prompt": "Translate a word from English to french. Word: 'Peso'. Translated: '"
+  },
+  {
+    "known_id": 41,
+    "subject": "Peso",
+    "attribute": "Peso",
+    "prompt": "Translate a word from English to french. Word: 'Peso'. Translated: '"
+  },
+  {
+    "known_id": 42,
+    "subject": "Peso",
+    "attribute": "Peso",
+    "prompt": "Translate a word from English to french. Word: 'Peso'. Translated: '"
+  },
+  {
+    "known_id": 43,
+    "subject": "Krona",
+    "attribute": "Corona",
+    "prompt": "Translate a word from English to french. Word: 'Krona'. Translated: '"
+  },
+  {
+    "known_id": 44,
+    "subject": "Lari",
+    "attribute": "Lari",
+    "prompt": "Translate a word from English to french. Word: 'Lari'. Translated: '"
+  },
+  {
+    "known_id": 45,
+    "subject": "Manat",
+    "attribute": "Manat",
+    "prompt": "Translate a word from English to french. Word: 'Manat'. Translated: '"
+  },
+  {
+    "known_id": 46,
+    "subject": "Tenge",
+    "attribute": "Tengue",
+    "prompt": "Translate a word from English to french. Word: 'Tenge'. Translated: '"
+  },
+  {
+    "known_id": 47,
+    "subject": "Rupee",
+    "attribute": "Rupia",
+    "prompt": "Translate a word from English to french. Word: 'Rupee'. Translated: '"
+  },
+  {
+    "known_id": 48,
+    "subject": "Rupee",
+    "attribute": "Rupia",
+    "prompt": "Translate a word from English to french. Word: 'Rupee'. Translated: '"
+  },
+  {
+    "known_id": 49,
+    "subject": "Taka",
+    "attribute": "Taka",
+    "prompt": "Translate a word from English to french. Word: 'Taka'. Translated: '"
+  },
+  {
+    "known_id": 50,
+    "subject": "Rupee",
+    "attribute": "Rupia",
+    "prompt": "Translate a word from English to french. Word: 'Rupee'. Translated: '"
+  }
+]

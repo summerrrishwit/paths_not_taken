@@ -1,0 +1,272 @@
+[
+  {
+    "known_id": 0,
+    "subject": "English",
+    "attribute": "Inglés",
+    "prompt": "Translate a word from English to spanish. Word: 'English'. Translated: '"
+  },
+  {
+    "known_id": 1,
+    "subject": "English",
+    "attribute": "Inglés",
+    "prompt": "Translate a word from English to spanish. Word: 'English'. Translated: '"
+  },
+  {
+    "known_id": 2,
+    "subject": "Spanish",
+    "attribute": "Español",
+    "prompt": "Translate a word from English to spanish. Word: 'Spanish'. Translated: '"
+  },
+  {
+    "known_id": 3,
+    "subject": "Portuguese",
+    "attribute": "Portugués",
+    "prompt": "Translate a word from English to spanish. Word: 'Portuguese'. Translated: '"
+  },
+  {
+    "known_id": 4,
+    "subject": "Spanish",
+    "attribute": "Español",
+    "prompt": "Translate a word from English to spanish. Word: 'Spanish'. Translated: '"
+  },
+  {
+    "known_id": 5,
+    "subject": "Spanish",
+    "attribute": "Español",
+    "prompt": "Translate a word from English to spanish. Word: 'Spanish'. Translated: '"
+  },
+  {
+    "known_id": 6,
+    "subject": "Spanish",
+    "attribute": "Español",
+    "prompt": "Translate a word from English to spanish. Word: 'Spanish'. Translated: '"
+  },
+  {
+    "known_id": 7,
+    "subject": "Spanish",
+    "attribute": "Español",
+    "prompt": "Translate a word from English to spanish. Word: 'Spanish'. Translated: '"
+  },
+  {
+    "known_id": 8,
+    "subject": "Spanish",
+    "attribute": "Español",
+    "prompt": "Translate a word from English to spanish. Word: 'Spanish'. Translated: '"
+  },
+  {
+    "known_id": 9,
+    "subject": "Spanish",
+    "attribute": "Español",
+    "prompt": "Translate a word from English to spanish. Word: 'Spanish'. Translated: '"
+  },
+  {
+    "known_id": 10,
+    "subject": "French",
+    "attribute": "Francés",
+    "prompt": "Translate a word from English to spanish. Word: 'French'. Translated: '"
+  },
+  {
+    "known_id": 11,
+    "subject": "German",
+    "attribute": "Alemán",
+    "prompt": "Translate a word from English to spanish. Word: 'German'. Translated: '"
+  },
+  {
+    "known_id": 12,
+    "subject": "Italian",
+    "attribute": "Italiano",
+    "prompt": "Translate a word from English to spanish. Word: 'Italian'. Translated: '"
+  },
+  {
+    "known_id": 13,
+    "subject": "Russian",
+    "attribute": "Ruso",
+    "prompt": "Translate a word from English to spanish. Word: 'Russian'. Translated: '"
+  },
+  {
+    "known_id": 14,
+    "subject": "Mandarin Chinese",
+    "attribute": "Mandarín",
+    "prompt": "Translate a word from English to spanish. Word: 'Mandarin Chinese'. Translated: '"
+  },
+  {
+    "known_id": 15,
+    "subject": "Japanese",
+    "attribute": "Japonés",
+    "prompt": "Translate a word from English to spanish. Word: 'Japanese'. Translated: '"
+  },
+  {
+    "known_id": 16,
+    "subject": "Korean",
+    "attribute": "Coreano",
+    "prompt": "Translate a word from English to spanish. Word: 'Korean'. Translated: '"
+  },
+  {
+    "known_id": 17,
+    "subject": "Hindi",
+    "attribute": "Hindi",
+    "prompt": "Translate a word from English to spanish. Word: 'Hindi'. Translated: '"
+  },
+  {
+    "known_id": 18,
+    "subject": "Urdu",
+    "attribute": "Urdu",
+    "prompt": "Translate a word from English to spanish. Word: 'Urdu'. Translated: '"
+  },
+  {
+    "known_id": 19,
+    "subject": "English",
+    "attribute": "Inglés",
+    "prompt": "Translate a word from English to spanish. Word: 'English'. Translated: '"
+  },
+  {
+    "known_id": 20,
+    "subject": "Arabic",
+    "attribute": "Árabe",
+    "prompt": "Translate a word from English to spanish. Word: 'Arabic'. Translated: '"
+  },
+  {
+    "known_id": 21,
+    "subject": "Arabic",
+    "attribute": "Árabe",
+    "prompt": "Translate a word from English to spanish. Word: 'Arabic'. Translated: '"
+  },
+  {
+    "known_id": 22,
+    "subject": "Turkish",
+    "attribute": "Turco",
+    "prompt": "Translate a word from English to spanish. Word: 'Turkish'. Translated: '"
+  },
+  {
+    "known_id": 23,
+    "subject": "English",
+    "attribute": "Inglés",
+    "prompt": "Translate a word from English to spanish. Word: 'English'. Translated: '"
+  },
+  {
+    "known_id": 24,
+    "subject": "English",
+    "attribute": "Inglés",
+    "prompt": "Translate a word from English to spanish. Word: 'English'. Translated: '"
+  },
+  {
+    "known_id": 25,
+    "subject": "Swedish",
+    "attribute": "Sueco",
+    "prompt": "Translate a word from English to spanish. Word: 'Swedish'. Translated: '"
+  },
+  {
+    "known_id": 26,
+    "subject": "Norwegian",
+    "attribute": "Noruego",
+    "prompt": "Translate a word from English to spanish. Word: 'Norwegian'. Translated: '"
+  },
+  {
+    "known_id": 27,
+    "subject": "Danish",
+    "attribute": "Danés",
+    "prompt": "Translate a word from English to spanish. Word: 'Danish'. Translated: '"
+  },
+  {
+    "known_id": 28,
+    "subject": "Finnish",
+    "attribute": "Finés",
+    "prompt": "Translate a word from English to spanish. Word: 'Finnish'. Translated: '"
+  },
+  {
+    "known_id": 29,
+    "subject": "Icelandic",
+    "attribute": "Islandés",
+    "prompt": "Translate a word from English to spanish. Word: 'Icelandic'. Translated: '"
+  },
+  {
+    "known_id": 32,
+    "subject": "Amharic",
+    "attribute": "Amárico",
+    "prompt": "Translate a word from English to spanish. Word: 'Amharic'. Translated: '"
+  },
+  {
+    "known_id": 33,
+    "subject": "Greek",
+    "attribute": "Griego",
+    "prompt": "Translate a word from English to spanish. Word: 'Greek'. Translated: '"
+  },
+  {
+    "known_id": 34,
+    "subject": "Dutch",
+    "attribute": "Neerlandés",
+    "prompt": "Translate a word from English to spanish. Word: 'Dutch'. Translated: '"
+  },
+  {
+    "known_id": 36,
+    "subject": "German",
+    "attribute": "Alemán",
+    "prompt": "Translate a word from English to spanish. Word: 'German'. Translated: '"
+  },
+  {
+    "known_id": 37,
+    "subject": "German",
+    "attribute": "Alemán",
+    "prompt": "Translate a word from English to spanish. Word: 'German'. Translated: '"
+  },
+  {
+    "known_id": 38,
+    "subject": "Portuguese",
+    "attribute": "Portugués",
+    "prompt": "Translate a word from English to spanish. Word: 'Portuguese'. Translated: '"
+  },
+  {
+    "known_id": 39,
+    "subject": "Czech",
+    "attribute": "Checo",
+    "prompt": "Translate a word from English to spanish. Word: 'Czech'. Translated: '"
+  },
+  {
+    "known_id": 40,
+    "subject": "Polish",
+    "attribute": "Polaco",
+    "prompt": "Translate a word from English to spanish. Word: 'Polish'. Translated: '"
+  },
+  {
+    "known_id": 41,
+    "subject": "Hungarian",
+    "attribute": "Húngaro",
+    "prompt": "Translate a word from English to spanish. Word: 'Hungarian'. Translated: '"
+  },
+  {
+    "known_id": 42,
+    "subject": "Thai",
+    "attribute": "Tailandés",
+    "prompt": "Translate a word from English to spanish. Word: 'Thai'. Translated: '"
+  },
+  {
+    "known_id": 43,
+    "subject": "Vietnamese",
+    "attribute": "Vietnamita",
+    "prompt": "Translate a word from English to spanish. Word: 'Vietnamese'. Translated: '"
+  },
+  {
+    "known_id": 44,
+    "subject": "Malay",
+    "attribute": "Malayo",
+    "prompt": "Translate a word from English to spanish. Word: 'Malay'. Translated: '"
+  },
+  {
+    "known_id": 46,
+    "subject": "Filipino",
+    "attribute": "Filipino",
+    "prompt": "Translate a word from English to spanish. Word: 'Filipino'. Translated: '"
+  },
+  {
+    "known_id": 47,
+    "subject": "Bengali",
+    "attribute": "Bengalí",
+    "prompt": "Translate a word from English to spanish. Word: 'Bengali'. Translated: '"
+  },
+  {
+    "known_id": 48,
+    "subject": "Sinhala",
+    "attribute": "Cingalés",
+    "prompt": "Translate a word from English to spanish. Word: 'Sinhala'. Translated: '"
+  }
+]

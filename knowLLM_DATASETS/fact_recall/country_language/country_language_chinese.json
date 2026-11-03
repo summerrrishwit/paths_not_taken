@@ -1,0 +1,407 @@
+[
+    {
+        "known_id": 0,
+        "subject": "美国",
+        "attribute": "英语",
+        "template": "{} 说",
+        "prediction": " 英语。",
+        "prompt": "美国的官方语言是",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 1,
+        "subject": "加拿大",
+        "attribute": "英语",
+        "template": "{} 说",
+        "prediction": " 英语。",
+        "prompt": "加拿大的官方语言是",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 2,
+        "subject": "墨西哥",
+        "attribute": "西班牙语",
+        "template": "{} 说",
+        "prediction": " 西班牙语。",
+        "prompt": "墨西哥的官方语言是",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 3,
+        "subject": "巴西",
+        "attribute": "葡萄牙语",
+        "template": "{} 说",
+        "prediction": " 葡萄牙语。",
+        "prompt": "巴西的官方语言是",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 4,
+        "subject": "阿根廷",
+        "attribute": "西班牙语",
+        "template": "{} 说",
+        "prediction": " 西班牙语。",
+        "prompt": "阿根廷的官方语言是",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 5,
+        "subject": "智利",
+        "attribute": "西班牙语",
+        "template": "{} 说",
+        "prediction": " 西班牙语。",
+        "prompt": "智利的官方语言是",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 6,
+        "subject": "秘鲁",
+        "attribute": "西班牙语",
+        "template": "{} 说",
+        "prediction": " 西班牙语。",
+        "prompt": "秘鲁的官方语言是",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 7,
+        "subject": "哥伦比亚",
+        "attribute": "西班牙语",
+        "template": "{} 说",
+        "prediction": " 西班牙语。",
+        "prompt": "哥伦比亚的官方语言是",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 8,
+        "subject": "委内瑞拉",
+        "attribute": "西班牙语",
+        "template": "{} 说",
+        "prediction": " 西班牙语。",
+        "prompt": "委内瑞拉的官方语言是",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 9,
+        "subject": "西班牙",
+        "attribute": "西班牙语",
+        "template": "{} 说",
+        "prediction": " 西班牙语。",
+        "prompt": "西班牙的官方语言是",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 10,
+        "subject": "法国",
+        "attribute": "法语",
+        "template": "{} 说",
+        "prediction": " 法语。",
+        "prompt": "法国的官方语言是",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 11,
+        "subject": "德国",
+        "attribute": "德语",
+        "template": "{} 说",
+        "prediction": " 德语。",
+        "prompt": "德国的官方语言是",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 12,
+        "subject": "意大利",
+        "attribute": "意大利语",
+        "template": "{} 说",
+        "prediction": " 意大利语。",
+        "prompt": "意大利的官方语言是",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 13,
+        "subject": "俄罗斯",
+        "attribute": "俄语",
+        "template": "{} 说",
+        "prediction": " 俄语。",
+        "prompt": "俄罗斯的官方语言是",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 14,
+        "subject": "中国",
+        "attribute": "普通话",
+        "template": "{} 说",
+        "prediction": " 普通话。",
+        "prompt": "中国的官方语言是",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 15,
+        "subject": "日本",
+        "attribute": "日语",
+        "template": "{} 说",
+        "prediction": " 日语。",
+        "prompt": "日本的官方语言是",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 16,
+        "subject": "韩国",
+        "attribute": "韩语",
+        "template": "{} 说",
+        "prediction": " 韩语。",
+        "prompt": "韩国的官方语言是",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 17,
+        "subject": "印度",
+        "attribute": "印地语",
+        "template": "{} 说",
+        "prediction": " 印地语。",
+        "prompt": "印度的官方语言是",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 18,
+        "subject": "巴基斯坦",
+        "attribute": "乌尔都语",
+        "template": "{} 说",
+        "prediction": " 乌尔都语。",
+        "prompt": "巴基斯坦的官方语言是",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 19,
+        "subject": "尼日利亚",
+        "attribute": "英语",
+        "template": "{} 说",
+        "prediction": " 英语。",
+        "prompt": "尼日利亚的官方语言是",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 20,
+        "subject": "埃及",
+        "attribute": "阿拉伯语",
+        "template": "{} 说",
+        "prediction": " 阿拉伯语。",
+        "prompt": "埃及的官方语言是",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 21,
+        "subject": "沙特阿拉伯",
+        "attribute": "阿拉伯语",
+        "template": "{} 说",
+        "prediction": " 阿拉伯语。",
+        "prompt": "沙特阿拉伯的官方语言是",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 22,
+        "subject": "土耳其",
+        "attribute": "土耳其语",
+        "template": "{} 说",
+        "prediction": " 土耳其语。",
+        "prompt": "土耳其的官方语言是",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 23,
+        "subject": "澳大利亚",
+        "attribute": "英语",
+        "template": "{} 说",
+        "prediction": " 英语。",
+        "prompt": "澳大利亚的官方语言是",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 24,
+        "subject": "新西兰",
+        "attribute": "英语",
+        "template": "{} 说",
+        "prediction": " 英语。",
+        "prompt": "新西兰的官方语言是",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 25,
+        "subject": "瑞典",
+        "attribute": "瑞典语",
+        "template": "{} 说",
+        "prediction": " 瑞典语。",
+        "prompt": "瑞典的官方语言是",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 26,
+        "subject": "挪威",
+        "attribute": "挪威语",
+        "template": "{} 说",
+        "prediction": " 挪威语。",
+        "prompt": "挪威的官方语言是",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 27,
+        "subject": "丹麦",
+        "attribute": "丹麦语",
+        "template": "{} 说",
+        "prediction": " 丹麦语。",
+        "prompt": "丹麦的官方语言是",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 28,
+        "subject": "芬兰",
+        "attribute": "芬兰语",
+        "template": "{} 说",
+        "prediction": " 芬兰语。",
+        "prompt": "芬兰的官方语言是",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 29,
+        "subject": "冰岛",
+        "attribute": "冰岛语",
+        "template": "{} 说",
+        "prediction": " 冰岛语。",
+        "prompt": "冰岛的官方语言是",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 32,
+        "subject": "埃塞俄比亚",
+        "attribute": "阿姆哈拉语",
+        "template": "{} 说",
+        "prediction": " 阿姆哈拉语。",
+        "prompt": "埃塞俄比亚的官方语言是",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 33,
+        "subject": "希腊",
+        "attribute": "希腊语",
+        "template": "{} 说",
+        "prediction": " 希腊语。",
+        "prompt": "希腊的官方语言是",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 34,
+        "subject": "荷兰",
+        "attribute": "荷兰语",
+        "template": "{} 说",
+        "prediction": " 荷兰语。",
+        "prompt": "荷兰的官方语言是",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 36,
+        "subject": "奥地利",
+        "attribute": "德语",
+        "template": "{} 说",
+        "prediction": " 德语。",
+        "prompt": "奥地利的官方语言是",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 37,
+        "subject": "瑞士",
+        "attribute": "德语",
+        "template": "{} 说",
+        "prediction": " 德语。",
+        "prompt": "瑞士的官方语言是",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 38,
+        "subject": "葡萄牙",
+        "attribute": "葡萄牙语",
+        "template": "{} 说",
+        "prediction": " 葡萄牙语。",
+        "prompt": "葡萄牙的官方语言是",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 39,
+        "subject": "捷克共和国",
+        "attribute": "捷克语",
+        "template": "{} 说",
+        "prediction": " 捷克语。",
+        "prompt": "捷克共和国的官方语言是",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 40,
+        "subject": "波兰",
+        "attribute": "波兰语",
+        "template": "{} 说",
+        "prediction": " 波兰语。",
+        "prompt": "波兰的官方语言是",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 41,
+        "subject": "匈牙利",
+        "attribute": "匈牙利语",
+        "template": "{} 说",
+        "prediction": " 匈牙利语。",
+        "prompt": "匈牙利的官方语言是",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 42,
+        "subject": "泰国",
+        "attribute": "泰语",
+        "template": "{} 说",
+        "prediction": " 泰语。",
+        "prompt": "泰国的官方语言是",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 43,
+        "subject": "越南",
+        "attribute": "越南语",
+        "template": "{} 说",
+        "prediction": " 越南语。",
+        "prompt": "越南的官方语言是",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 44,
+        "subject": "马来西亚",
+        "attribute": "马来语",
+        "template": "{} 说",
+        "prediction": " 马来语。",
+        "prompt": "马来西亚的官方语言是",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 46,
+        "subject": "菲律宾",
+        "attribute": "菲律宾语",
+        "template": "{} 说",
+        "prediction": " 菲律宾语。",
+        "prompt": "菲律宾的官方语言是",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 47,
+        "subject": "孟加拉国",
+        "attribute": "孟加拉语",
+        "template": "{} 说",
+        "prediction": " 孟加拉语。",
+        "prompt": "孟加拉国的官方语言是",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 48,
+        "subject": "斯里兰卡",
+        "attribute": "僧伽罗语",
+        "template": "{} 说",
+        "prediction": " 僧伽罗语。",
+        "prompt": "斯里兰卡的官方语言是",
+        "relation_id": "P37"
+    }
+]

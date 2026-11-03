@@ -1,0 +1,302 @@
+[
+  {
+    "known_id": 0,
+    "subject": "Indo-European",
+    "attribute": "Indo-European",
+    "prompt": "Translate a word from English to english. Word: 'Indo-European'. Translated: '"
+  },
+  {
+    "known_id": 1,
+    "subject": "Indo-European",
+    "attribute": "Indo-European",
+    "prompt": "Translate a word from English to english. Word: 'Indo-European'. Translated: '"
+  },
+  {
+    "known_id": 2,
+    "subject": "Indo-European",
+    "attribute": "Indo-European",
+    "prompt": "Translate a word from English to english. Word: 'Indo-European'. Translated: '"
+  },
+  {
+    "known_id": 3,
+    "subject": "Indo-European",
+    "attribute": "Indo-European",
+    "prompt": "Translate a word from English to english. Word: 'Indo-European'. Translated: '"
+  },
+  {
+    "known_id": 4,
+    "subject": "Indo-European",
+    "attribute": "Indo-European",
+    "prompt": "Translate a word from English to english. Word: 'Indo-European'. Translated: '"
+  },
+  {
+    "known_id": 5,
+    "subject": "Indo-European",
+    "attribute": "Indo-European",
+    "prompt": "Translate a word from English to english. Word: 'Indo-European'. Translated: '"
+  },
+  {
+    "known_id": 6,
+    "subject": "Indo-European",
+    "attribute": "Indo-European",
+    "prompt": "Translate a word from English to english. Word: 'Indo-European'. Translated: '"
+  },
+  {
+    "known_id": 7,
+    "subject": "Indo-European",
+    "attribute": "Indo-European",
+    "prompt": "Translate a word from English to english. Word: 'Indo-European'. Translated: '"
+  },
+  {
+    "known_id": 8,
+    "subject": "Indo-European",
+    "attribute": "Indo-European",
+    "prompt": "Translate a word from English to english. Word: 'Indo-European'. Translated: '"
+  },
+  {
+    "known_id": 9,
+    "subject": "Indo-European",
+    "attribute": "Indo-European",
+    "prompt": "Translate a word from English to english. Word: 'Indo-European'. Translated: '"
+  },
+  {
+    "known_id": 10,
+    "subject": "Sino-Tibetan",
+    "attribute": "Sino-Tibetan",
+    "prompt": "Translate a word from English to english. Word: 'Sino-Tibetan'. Translated: '"
+  },
+  {
+    "known_id": 11,
+    "subject": "Sino-Tibetan",
+    "attribute": "Sino-Tibetan",
+    "prompt": "Translate a word from English to english. Word: 'Sino-Tibetan'. Translated: '"
+  },
+  {
+    "known_id": 12,
+    "subject": "Sino-Tibetan",
+    "attribute": "Sino-Tibetan",
+    "prompt": "Translate a word from English to english. Word: 'Sino-Tibetan'. Translated: '"
+  },
+  {
+    "known_id": 13,
+    "subject": "Sino-Tibetan",
+    "attribute": "Sino-Tibetan",
+    "prompt": "Translate a word from English to english. Word: 'Sino-Tibetan'. Translated: '"
+  },
+  {
+    "known_id": 14,
+    "subject": "Afro-Asiatic",
+    "attribute": "Afro-Asiatic",
+    "prompt": "Translate a word from English to english. Word: 'Afro-Asiatic'. Translated: '"
+  },
+  {
+    "known_id": 15,
+    "subject": "Afro-Asiatic",
+    "attribute": "Afro-Asiatic",
+    "prompt": "Translate a word from English to english. Word: 'Afro-Asiatic'. Translated: '"
+  },
+  {
+    "known_id": 16,
+    "subject": "Afro-Asiatic",
+    "attribute": "Afro-Asiatic",
+    "prompt": "Translate a word from English to english. Word: 'Afro-Asiatic'. Translated: '"
+  },
+  {
+    "known_id": 17,
+    "subject": "Afro-Asiatic",
+    "attribute": "Afro-Asiatic",
+    "prompt": "Translate a word from English to english. Word: 'Afro-Asiatic'. Translated: '"
+  },
+  {
+    "known_id": 18,
+    "subject": "Afro-Asiatic",
+    "attribute": "Afro-Asiatic",
+    "prompt": "Translate a word from English to english. Word: 'Afro-Asiatic'. Translated: '"
+  },
+  {
+    "known_id": 19,
+    "subject": "Austroasiatic",
+    "attribute": "Austroasiatic",
+    "prompt": "Translate a word from English to english. Word: 'Austroasiatic'. Translated: '"
+  },
+  {
+    "known_id": 20,
+    "subject": "Austroasiatic",
+    "attribute": "Austroasiatic",
+    "prompt": "Translate a word from English to english. Word: 'Austroasiatic'. Translated: '"
+  },
+  {
+    "known_id": 21,
+    "subject": "Tai-Kadai",
+    "attribute": "Tai-Kadai",
+    "prompt": "Translate a word from English to english. Word: 'Tai-Kadai'. Translated: '"
+  },
+  {
+    "known_id": 22,
+    "subject": "Tai-Kadai",
+    "attribute": "Tai-Kadai",
+    "prompt": "Translate a word from English to english. Word: 'Tai-Kadai'. Translated: '"
+  },
+  {
+    "known_id": 23,
+    "subject": "Austronesian",
+    "attribute": "Austronesian",
+    "prompt": "Translate a word from English to english. Word: 'Austronesian'. Translated: '"
+  },
+  {
+    "known_id": 24,
+    "subject": "Austronesian",
+    "attribute": "Austronesian",
+    "prompt": "Translate a word from English to english. Word: 'Austronesian'. Translated: '"
+  },
+  {
+    "known_id": 25,
+    "subject": "Austronesian",
+    "attribute": "Austronesian",
+    "prompt": "Translate a word from English to english. Word: 'Austronesian'. Translated: '"
+  },
+  {
+    "known_id": 26,
+    "subject": "Austronesian",
+    "attribute": "Austronesian",
+    "prompt": "Translate a word from English to english. Word: 'Austronesian'. Translated: '"
+  },
+  {
+    "known_id": 27,
+    "subject": "Dravidian",
+    "attribute": "Dravidian",
+    "prompt": "Translate a word from English to english. Word: 'Dravidian'. Translated: '"
+  },
+  {
+    "known_id": 28,
+    "subject": "Dravidian",
+    "attribute": "Dravidian",
+    "prompt": "Translate a word from English to english. Word: 'Dravidian'. Translated: '"
+  },
+  {
+    "known_id": 29,
+    "subject": "Dravidian",
+    "attribute": "Dravidian",
+    "prompt": "Translate a word from English to english. Word: 'Dravidian'. Translated: '"
+  },
+  {
+    "known_id": 30,
+    "subject": "Uralic",
+    "attribute": "Uralic",
+    "prompt": "Translate a word from English to english. Word: 'Uralic'. Translated: '"
+  },
+  {
+    "known_id": 31,
+    "subject": "Uralic",
+    "attribute": "Uralic",
+    "prompt": "Translate a word from English to english. Word: 'Uralic'. Translated: '"
+  },
+  {
+    "known_id": 32,
+    "subject": "Uralic",
+    "attribute": "Uralic",
+    "prompt": "Translate a word from English to english. Word: 'Uralic'. Translated: '"
+  },
+  {
+    "known_id": 33,
+    "subject": "Turkic",
+    "attribute": "Turkic",
+    "prompt": "Translate a word from English to english. Word: 'Turkic'. Translated: '"
+  },
+  {
+    "known_id": 34,
+    "subject": "Turkic",
+    "attribute": "Turkic",
+    "prompt": "Translate a word from English to english. Word: 'Turkic'. Translated: '"
+  },
+  {
+    "known_id": 35,
+    "subject": "Mongolic",
+    "attribute": "Mongolic",
+    "prompt": "Translate a word from English to english. Word: 'Mongolic'. Translated: '"
+  },
+  {
+    "known_id": 36,
+    "subject": "Koreanic",
+    "attribute": "Koreanic",
+    "prompt": "Translate a word from English to english. Word: 'Koreanic'. Translated: '"
+  },
+  {
+    "known_id": 37,
+    "subject": "Japonic",
+    "attribute": "Japonic",
+    "prompt": "Translate a word from English to english. Word: 'Japonic'. Translated: '"
+  },
+  {
+    "known_id": 38,
+    "subject": "Eskimo-Aleut",
+    "attribute": "Eskimo-Aleut",
+    "prompt": "Translate a word from English to english. Word: 'Eskimo-Aleut'. Translated: '"
+  },
+  {
+    "known_id": 39,
+    "subject": "Quechuan",
+    "attribute": "Quechuan",
+    "prompt": "Translate a word from English to english. Word: 'Quechuan'. Translated: '"
+  },
+  {
+    "known_id": 40,
+    "subject": "Uto-Aztecan",
+    "attribute": "Uto-Aztecan",
+    "prompt": "Translate a word from English to english. Word: 'Uto-Aztecan'. Translated: '"
+  },
+  {
+    "known_id": 41,
+    "subject": "Iroquoian",
+    "attribute": "Iroquoian",
+    "prompt": "Translate a word from English to english. Word: 'Iroquoian'. Translated: '"
+  },
+  {
+    "known_id": 42,
+    "subject": "Bantu",
+    "attribute": "Bantu",
+    "prompt": "Translate a word from English to english. Word: 'Bantu'. Translated: '"
+  },
+  {
+    "known_id": 43,
+    "subject": "Bantu",
+    "attribute": "Bantu",
+    "prompt": "Translate a word from English to english. Word: 'Bantu'. Translated: '"
+  },
+  {
+    "known_id": 44,
+    "subject": "Austronesian",
+    "attribute": "Austronesian",
+    "prompt": "Translate a word from English to english. Word: 'Austronesian'. Translated: '"
+  },
+  {
+    "known_id": 45,
+    "subject": "Creole",
+    "attribute": "Creole",
+    "prompt": "Translate a word from English to english. Word: 'Creole'. Translated: '"
+  },
+  {
+    "known_id": 46,
+    "subject": "Language Isolate",
+    "attribute": "Language Isolate",
+    "prompt": "Translate a word from English to english. Word: 'Language Isolate'. Translated: '"
+  },
+  {
+    "known_id": 47,
+    "subject": "Language Isolate",
+    "attribute": "Language Isolate",
+    "prompt": "Translate a word from English to english. Word: 'Language Isolate'. Translated: '"
+  },
+  {
+    "known_id": 48,
+    "subject": "Hmong-Mien",
+    "attribute": "Hmong-Mien",
+    "prompt": "Translate a word from English to english. Word: 'Hmong-Mien'. Translated: '"
+  },
+  {
+    "known_id": 49,
+    "subject": "Niger-Congo",
+    "attribute": "Niger-Congo",
+    "prompt": "Translate a word from English to english. Word: 'Niger-Congo'. Translated: '"
+  }
+]

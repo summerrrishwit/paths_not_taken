@@ -1,0 +1,284 @@
+[
+  {
+    "known_id": 0,
+    "subject": "Mammal",
+    "attribute": "Mamífero",
+    "prompt": "Translate a word from English to spanish. Word: 'Mammal'. Translated: '"
+  },
+  {
+    "known_id": 1,
+    "subject": "Mammal",
+    "attribute": "Mamífero",
+    "prompt": "Translate a word from English to spanish. Word: 'Mammal'. Translated: '"
+  },
+  {
+    "known_id": 2,
+    "subject": "Mammal",
+    "attribute": "Mamífero",
+    "prompt": "Translate a word from English to spanish. Word: 'Mammal'. Translated: '"
+  },
+  {
+    "known_id": 3,
+    "subject": "Mammal",
+    "attribute": "Mamífero",
+    "prompt": "Translate a word from English to spanish. Word: 'Mammal'. Translated: '"
+  },
+  {
+    "known_id": 4,
+    "subject": "Mammal",
+    "attribute": "Mamífero",
+    "prompt": "Translate a word from English to spanish. Word: 'Mammal'. Translated: '"
+  },
+  {
+    "known_id": 5,
+    "subject": "Mammal",
+    "attribute": "Mamífero",
+    "prompt": "Translate a word from English to spanish. Word: 'Mammal'. Translated: '"
+  },
+  {
+    "known_id": 6,
+    "subject": "Mammal",
+    "attribute": "Mamífero",
+    "prompt": "Translate a word from English to spanish. Word: 'Mammal'. Translated: '"
+  },
+  {
+    "known_id": 7,
+    "subject": "Mammal",
+    "attribute": "Mamífero",
+    "prompt": "Translate a word from English to spanish. Word: 'Mammal'. Translated: '"
+  },
+  {
+    "known_id": 8,
+    "subject": "Mammal",
+    "attribute": "Mamífero",
+    "prompt": "Translate a word from English to spanish. Word: 'Mammal'. Translated: '"
+  },
+  {
+    "known_id": 9,
+    "subject": "Mammal",
+    "attribute": "Mamífero",
+    "prompt": "Translate a word from English to spanish. Word: 'Mammal'. Translated: '"
+  },
+  {
+    "known_id": 10,
+    "subject": "Mammal",
+    "attribute": "Mamífero",
+    "prompt": "Translate a word from English to spanish. Word: 'Mammal'. Translated: '"
+  },
+  {
+    "known_id": 11,
+    "subject": "Mammal",
+    "attribute": "Mamífero",
+    "prompt": "Translate a word from English to spanish. Word: 'Mammal'. Translated: '"
+  },
+  {
+    "known_id": 12,
+    "subject": "Reptile",
+    "attribute": "Reptil",
+    "prompt": "Translate a word from English to spanish. Word: 'Reptile'. Translated: '"
+  },
+  {
+    "known_id": 13,
+    "subject": "Reptile",
+    "attribute": "Reptil",
+    "prompt": "Translate a word from English to spanish. Word: 'Reptile'. Translated: '"
+  },
+  {
+    "known_id": 14,
+    "subject": "Reptile",
+    "attribute": "Reptil",
+    "prompt": "Translate a word from English to spanish. Word: 'Reptile'. Translated: '"
+  },
+  {
+    "known_id": 15,
+    "subject": "Reptile",
+    "attribute": "Reptil",
+    "prompt": "Translate a word from English to spanish. Word: 'Reptile'. Translated: '"
+  },
+  {
+    "known_id": 16,
+    "subject": "Reptile",
+    "attribute": "Reptil",
+    "prompt": "Translate a word from English to spanish. Word: 'Reptile'. Translated: '"
+  },
+  {
+    "known_id": 17,
+    "subject": "Amphibian",
+    "attribute": "Anfibio",
+    "prompt": "Translate a word from English to spanish. Word: 'Amphibian'. Translated: '"
+  },
+  {
+    "known_id": 18,
+    "subject": "Amphibian",
+    "attribute": "Anfibio",
+    "prompt": "Translate a word from English to spanish. Word: 'Amphibian'. Translated: '"
+  },
+  {
+    "known_id": 19,
+    "subject": "Amphibian",
+    "attribute": "Anfibio",
+    "prompt": "Translate a word from English to spanish. Word: 'Amphibian'. Translated: '"
+  },
+  {
+    "known_id": 20,
+    "subject": "Amphibian",
+    "attribute": "Anfibio",
+    "prompt": "Translate a word from English to spanish. Word: 'Amphibian'. Translated: '"
+  },
+  {
+    "known_id": 21,
+    "subject": "Fish",
+    "attribute": "Pez",
+    "prompt": "Translate a word from English to spanish. Word: 'Fish'. Translated: '"
+  },
+  {
+    "known_id": 22,
+    "subject": "Fish",
+    "attribute": "Pez",
+    "prompt": "Translate a word from English to spanish. Word: 'Fish'. Translated: '"
+  },
+  {
+    "known_id": 23,
+    "subject": "Fish",
+    "attribute": "Pez",
+    "prompt": "Translate a word from English to spanish. Word: 'Fish'. Translated: '"
+  },
+  {
+    "known_id": 24,
+    "subject": "Fish",
+    "attribute": "Pez",
+    "prompt": "Translate a word from English to spanish. Word: 'Fish'. Translated: '"
+  },
+  {
+    "known_id": 25,
+    "subject": "Fish",
+    "attribute": "Pez",
+    "prompt": "Translate a word from English to spanish. Word: 'Fish'. Translated: '"
+  },
+  {
+    "known_id": 26,
+    "subject": "Bird",
+    "attribute": "Ave",
+    "prompt": "Translate a word from English to spanish. Word: 'Bird'. Translated: '"
+  },
+  {
+    "known_id": 27,
+    "subject": "Bird",
+    "attribute": "Ave",
+    "prompt": "Translate a word from English to spanish. Word: 'Bird'. Translated: '"
+  },
+  {
+    "known_id": 28,
+    "subject": "Bird",
+    "attribute": "Ave",
+    "prompt": "Translate a word from English to spanish. Word: 'Bird'. Translated: '"
+  },
+  {
+    "known_id": 29,
+    "subject": "Bird",
+    "attribute": "Ave",
+    "prompt": "Translate a word from English to spanish. Word: 'Bird'. Translated: '"
+  },
+  {
+    "known_id": 30,
+    "subject": "Bird",
+    "attribute": "Ave",
+    "prompt": "Translate a word from English to spanish. Word: 'Bird'. Translated: '"
+  },
+  {
+    "known_id": 31,
+    "subject": "Insect",
+    "attribute": "Insecto",
+    "prompt": "Translate a word from English to spanish. Word: 'Insect'. Translated: '"
+  },
+  {
+    "known_id": 32,
+    "subject": "Insect",
+    "attribute": "Insecto",
+    "prompt": "Translate a word from English to spanish. Word: 'Insect'. Translated: '"
+  },
+  {
+    "known_id": 33,
+    "subject": "Insect",
+    "attribute": "Insecto",
+    "prompt": "Translate a word from English to spanish. Word: 'Insect'. Translated: '"
+  },
+  {
+    "known_id": 34,
+    "subject": "Insect",
+    "attribute": "Insecto",
+    "prompt": "Translate a word from English to spanish. Word: 'Insect'. Translated: '"
+  },
+  {
+    "known_id": 35,
+    "subject": "Insect",
+    "attribute": "Insecto",
+    "prompt": "Translate a word from English to spanish. Word: 'Insect'. Translated: '"
+  },
+  {
+    "known_id": 36,
+    "subject": "Arachnid",
+    "attribute": "Arácnido",
+    "prompt": "Translate a word from English to spanish. Word: 'Arachnid'. Translated: '"
+  },
+  {
+    "known_id": 37,
+    "subject": "Arachnid",
+    "attribute": "Arácnido",
+    "prompt": "Translate a word from English to spanish. Word: 'Arachnid'. Translated: '"
+  },
+  {
+    "known_id": 38,
+    "subject": "Cephalopod",
+    "attribute": "Cefalópodo",
+    "prompt": "Translate a word from English to spanish. Word: 'Cephalopod'. Translated: '"
+  },
+  {
+    "known_id": 39,
+    "subject": "Cephalopod",
+    "attribute": "Cefalópodo",
+    "prompt": "Translate a word from English to spanish. Word: 'Cephalopod'. Translated: '"
+  },
+  {
+    "known_id": 40,
+    "subject": "Cnidarian",
+    "attribute": "Cnidario",
+    "prompt": "Translate a word from English to spanish. Word: 'Cnidarian'. Translated: '"
+  },
+  {
+    "known_id": 41,
+    "subject": "Echinoderm",
+    "attribute": "Equinodermo",
+    "prompt": "Translate a word from English to spanish. Word: 'Echinoderm'. Translated: '"
+  },
+  {
+    "known_id": 42,
+    "subject": "Echinoderm",
+    "attribute": "Equinodermo",
+    "prompt": "Translate a word from English to spanish. Word: 'Echinoderm'. Translated: '"
+  },
+  {
+    "known_id": 43,
+    "subject": "Annelid",
+    "attribute": "Anélido",
+    "prompt": "Translate a word from English to spanish. Word: 'Annelid'. Translated: '"
+  },
+  {
+    "known_id": 44,
+    "subject": "Mollusk",
+    "attribute": "Molusco",
+    "prompt": "Translate a word from English to spanish. Word: 'Mollusk'. Translated: '"
+  },
+  {
+    "known_id": 45,
+    "subject": "Crustacean",
+    "attribute": "Crustáceo",
+    "prompt": "Translate a word from English to spanish. Word: 'Crustacean'. Translated: '"
+  },
+  {
+    "known_id": 46,
+    "subject": "Crustacean",
+    "attribute": "Crustáceo",
+    "prompt": "Translate a word from English to spanish. Word: 'Crustacean'. Translated: '"
+  }
+]

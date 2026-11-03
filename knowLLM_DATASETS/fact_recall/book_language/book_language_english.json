@@ -1,0 +1,326 @@
+[
+  {
+    "subject": "Don Quixote",
+    "known_id": 0,
+    "attribute": "Spanish",
+    "prompt": "The language that Don Quixote was originally written in was"
+  },
+  {
+    "subject": "The Divine Comedy",
+    "known_id": 1,
+    "attribute": "Italian",
+    "prompt": "The language that The Divine Comedy was originally written in was"
+  },
+  {
+    "subject": "War and Peace",
+    "known_id": 2,
+    "attribute": "Russian",
+    "prompt": "The language that War and Peace was originally written in was"
+  },
+  {
+    "subject": "Les Misérables",
+    "known_id": 3,
+    "attribute": "French",
+    "prompt": "The language that Les Misérables was originally written in was"
+  },
+  {
+    "subject": "The Iliad",
+    "known_id": 4,
+    "attribute": "Greek",
+    "prompt": "The language that The Iliad was originally written in was"
+  },
+  {
+    "subject": "The Odyssey",
+    "known_id": 5,
+    "attribute": "Greek",
+    "prompt": "The language that The Odyssey was originally written in was"
+  },
+  {
+    "subject": "Faust",
+    "known_id": 6,
+    "attribute": "German",
+    "prompt": "The language that Faust was originally written in was"
+  },
+  {
+    "subject": "The Aeneid",
+    "known_id": 7,
+    "attribute": "Latin",
+    "prompt": "The language that The Aeneid was originally written in was"
+  },
+  {
+    "subject": "Ulysses",
+    "known_id": 8,
+    "attribute": "English",
+    "prompt": "The language that Ulysses was originally written in was"
+  },
+  {
+    "subject": "Moby-Dick",
+    "known_id": 9,
+    "attribute": "English",
+    "prompt": "The language that Moby-Dick was originally written in was"
+  },
+  {
+    "subject": "The Picture of Dorian Gray",
+    "known_id": 10,
+    "attribute": "English",
+    "prompt": "The language that The Picture of Dorian Gray was originally written in was"
+  },
+  {
+    "subject": "Crime and Punishment",
+    "known_id": 11,
+    "attribute": "Russian",
+    "prompt": "The language that Crime and Punishment was originally written in was"
+  },
+  {
+    "subject": "Anna Karenina",
+    "known_id": 12,
+    "attribute": "Russian",
+    "prompt": "The language that Anna Karenina was originally written in was"
+  },
+  {
+    "subject": "Madame Bovary",
+    "known_id": 13,
+    "attribute": "French",
+    "prompt": "The language that Madame Bovary was originally written in was"
+  },
+  {
+    "subject": "The Count of Monte Cristo",
+    "known_id": 14,
+    "attribute": "French",
+    "prompt": "The language that The Count of Monte Cristo was originally written in was"
+  },
+  {
+    "subject": "The Stranger",
+    "known_id": 15,
+    "attribute": "French",
+    "prompt": "The language that The Stranger was originally written in was"
+  },
+  {
+    "subject": "The Metamorphosis",
+    "known_id": 16,
+    "attribute": "German",
+    "prompt": "The language that The Metamorphosis was originally written in was"
+  },
+  {
+    "subject": "Thus Spoke Zarathustra",
+    "known_id": 17,
+    "attribute": "German",
+    "prompt": "The language that Thus Spoke Zarathustra was originally written in was"
+  },
+  {
+    "subject": "The Brothers Karamazov",
+    "known_id": 18,
+    "attribute": "Russian",
+    "prompt": "The language that The Brothers Karamazov was originally written in was"
+  },
+  {
+    "subject": "The Master and Margarita",
+    "known_id": 19,
+    "attribute": "Russian",
+    "prompt": "The language that The Master and Margarita was originally written in was"
+  },
+  {
+    "subject": "The Name of the Rose",
+    "known_id": 20,
+    "attribute": "Italian",
+    "prompt": "The language that The Name of the Rose was originally written in was"
+  },
+  {
+    "subject": "One Hundred Years of Solitude",
+    "known_id": 21,
+    "attribute": "Spanish",
+    "prompt": "The language that One Hundred Years of Solitude was originally written in was"
+  },
+  {
+    "subject": "The Lusiads",
+    "known_id": 22,
+    "attribute": "Portuguese",
+    "prompt": "The language that The Lusiads was originally written in was"
+  },
+  {
+    "subject": "The Decameron",
+    "known_id": 23,
+    "attribute": "Italian",
+    "prompt": "The language that The Decameron was originally written in was"
+  },
+  {
+    "subject": "The Sorrows of Young Werther",
+    "known_id": 24,
+    "attribute": "German",
+    "prompt": "The language that The Sorrows of Young Werther was originally written in was"
+  },
+  {
+    "subject": "The Trial",
+    "known_id": 25,
+    "attribute": "German",
+    "prompt": "The language that The Trial was originally written in was"
+  },
+  {
+    "subject": "Gulliver’s Travels",
+    "known_id": 26,
+    "attribute": "English",
+    "prompt": "The language that Gulliver’s Travels was originally written in was"
+  },
+  {
+    "subject": "Frankenstein",
+    "known_id": 27,
+    "attribute": "English",
+    "prompt": "The language that Frankenstein was originally written in was"
+  },
+  {
+    "subject": "The Prince",
+    "known_id": 28,
+    "attribute": "Italian",
+    "prompt": "The language that The Prince was originally written in was"
+  },
+  {
+    "subject": "The Hunchback of Notre-Dame",
+    "known_id": 29,
+    "attribute": "French",
+    "prompt": "The language that The Hunchback of Notre-Dame was originally written in was"
+  },
+  {
+    "subject": "The Three Musketeers",
+    "known_id": 30,
+    "attribute": "French",
+    "prompt": "The language that The Three Musketeers was originally written in was"
+  },
+  {
+    "subject": "The Song of Roland",
+    "known_id": 31,
+    "attribute": "French",
+    "prompt": "The language that The Song of Roland was originally written in was"
+  },
+  {
+    "subject": "The Song of the Nibelungs",
+    "known_id": 32,
+    "attribute": "German",
+    "prompt": "The language that The Song of the Nibelungs was originally written in was"
+  },
+  {
+    "subject": "Orlando Furioso",
+    "known_id": 33,
+    "attribute": "Italian",
+    "prompt": "The language that Orlando Furioso was originally written in was"
+  },
+  {
+    "subject": "Candide",
+    "known_id": 34,
+    "attribute": "French",
+    "prompt": "The language that Candide was originally written in was"
+  },
+  {
+    "subject": "The Red and the Black",
+    "known_id": 35,
+    "attribute": "French",
+    "prompt": "The language that The Red and the Black was originally written in was"
+  },
+  {
+    "subject": "Germinal",
+    "known_id": 36,
+    "attribute": "French",
+    "prompt": "The language that Germinal was originally written in was"
+  },
+  {
+    "subject": "The Hound of the Baskervilles",
+    "known_id": 37,
+    "attribute": "English",
+    "prompt": "The language that The Hound of the Baskervilles was originally written in was"
+  },
+  {
+    "subject": "The Adventures of Sherlock Holmes",
+    "known_id": 38,
+    "attribute": "English",
+    "prompt": "The language that The Adventures of Sherlock Holmes was originally written in was"
+  },
+  {
+    "subject": "The Castle",
+    "known_id": 39,
+    "attribute": "German",
+    "prompt": "The language that The Castle was originally written in was"
+  },
+  {
+    "subject": "Buddenbrooks",
+    "known_id": 40,
+    "attribute": "German",
+    "prompt": "The language that Buddenbrooks was originally written in was"
+  },
+  {
+    "subject": "Death in Venice",
+    "known_id": 41,
+    "attribute": "German",
+    "prompt": "The language that Death in Venice was originally written in was"
+  },
+  {
+    "subject": "Doctor Faustus",
+    "known_id": 42,
+    "attribute": "German",
+    "prompt": "The language that Doctor Faustus was originally written in was"
+  },
+  {
+    "subject": "The Betrothed",
+    "known_id": 43,
+    "attribute": "Italian",
+    "prompt": "The language that The Betrothed was originally written in was"
+  },
+  {
+    "subject": "If on a Winter’s Night a Traveler",
+    "known_id": 44,
+    "attribute": "Italian",
+    "prompt": "The language that If on a Winter’s Night a Traveler was originally written in was"
+  },
+  {
+    "subject": "The Leopard",
+    "known_id": 45,
+    "attribute": "Italian",
+    "prompt": "The language that The Leopard was originally written in was"
+  },
+  {
+    "subject": "The Life and Opinions of Tristram Shandy, Gentleman",
+    "known_id": 46,
+    "attribute": "English",
+    "prompt": "The language that The Life and Opinions of Tristram Shandy, Gentleman was originally written in was"
+  },
+  {
+    "subject": "Pride and Prejudice",
+    "known_id": 47,
+    "attribute": "English",
+    "prompt": "The language that Pride and Prejudice was originally written in was"
+  },
+  {
+    "subject": "Wuthering Heights",
+    "known_id": 48,
+    "attribute": "English",
+    "prompt": "The language that Wuthering Heights was originally written in was"
+  },
+  {
+    "subject": "Oliver Twist",
+    "known_id": 49,
+    "attribute": "English",
+    "prompt": "The language that Oliver Twist was originally written in was"
+  },
+  {
+    "subject": "David Copperfield",
+    "known_id": 50,
+    "attribute": "English",
+    "prompt": "The language that David Copperfield was originally written in was"
+  },
+  {
+    "subject": "The Idiot",
+    "known_id": 51,
+    "attribute": "Russian",
+    "prompt": "The language that The Idiot was originally written in was"
+  },
+  {
+    "subject": "Fathers and Sons",
+    "known_id": 52,
+    "attribute": "Russian",
+    "prompt": "The language that Fathers and Sons was originally written in was"
+  },
+  {
+    "subject": "Dead Souls",
+    "known_id": 53,
+    "attribute": "Russian",
+    "prompt": "The language that Dead Souls was originally written in was"
+  }
+]

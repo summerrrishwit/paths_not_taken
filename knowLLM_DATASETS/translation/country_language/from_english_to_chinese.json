@@ -1,0 +1,272 @@
+[
+  {
+    "known_id": 0,
+    "subject": "English",
+    "attribute": "英语",
+    "prompt": "Translate a word from English to chinese. Word: 'English'. Translated: '"
+  },
+  {
+    "known_id": 1,
+    "subject": "English",
+    "attribute": "英语",
+    "prompt": "Translate a word from English to chinese. Word: 'English'. Translated: '"
+  },
+  {
+    "known_id": 2,
+    "subject": "Spanish",
+    "attribute": "西班牙语",
+    "prompt": "Translate a word from English to chinese. Word: 'Spanish'. Translated: '"
+  },
+  {
+    "known_id": 3,
+    "subject": "Portuguese",
+    "attribute": "葡萄牙语",
+    "prompt": "Translate a word from English to chinese. Word: 'Portuguese'. Translated: '"
+  },
+  {
+    "known_id": 4,
+    "subject": "Spanish",
+    "attribute": "西班牙语",
+    "prompt": "Translate a word from English to chinese. Word: 'Spanish'. Translated: '"
+  },
+  {
+    "known_id": 5,
+    "subject": "Spanish",
+    "attribute": "西班牙语",
+    "prompt": "Translate a word from English to chinese. Word: 'Spanish'. Translated: '"
+  },
+  {
+    "known_id": 6,
+    "subject": "Spanish",
+    "attribute": "西班牙语",
+    "prompt": "Translate a word from English to chinese. Word: 'Spanish'. Translated: '"
+  },
+  {
+    "known_id": 7,
+    "subject": "Spanish",
+    "attribute": "西班牙语",
+    "prompt": "Translate a word from English to chinese. Word: 'Spanish'. Translated: '"
+  },
+  {
+    "known_id": 8,
+    "subject": "Spanish",
+    "attribute": "西班牙语",
+    "prompt": "Translate a word from English to chinese. Word: 'Spanish'. Translated: '"
+  },
+  {
+    "known_id": 9,
+    "subject": "Spanish",
+    "attribute": "西班牙语",
+    "prompt": "Translate a word from English to chinese. Word: 'Spanish'. Translated: '"
+  },
+  {
+    "known_id": 10,
+    "subject": "French",
+    "attribute": "法语",
+    "prompt": "Translate a word from English to chinese. Word: 'French'. Translated: '"
+  },
+  {
+    "known_id": 11,
+    "subject": "German",
+    "attribute": "德语",
+    "prompt": "Translate a word from English to chinese. Word: 'German'. Translated: '"
+  },
+  {
+    "known_id": 12,
+    "subject": "Italian",
+    "attribute": "意大利语",
+    "prompt": "Translate a word from English to chinese. Word: 'Italian'. Translated: '"
+  },
+  {
+    "known_id": 13,
+    "subject": "Russian",
+    "attribute": "俄语",
+    "prompt": "Translate a word from English to chinese. Word: 'Russian'. Translated: '"
+  },
+  {
+    "known_id": 14,
+    "subject": "Mandarin Chinese",
+    "attribute": "普通话",
+    "prompt": "Translate a word from English to chinese. Word: 'Mandarin Chinese'. Translated: '"
+  },
+  {
+    "known_id": 15,
+    "subject": "Japanese",
+    "attribute": "日语",
+    "prompt": "Translate a word from English to chinese. Word: 'Japanese'. Translated: '"
+  },
+  {
+    "known_id": 16,
+    "subject": "Korean",
+    "attribute": "韩语",
+    "prompt": "Translate a word from English to chinese. Word: 'Korean'. Translated: '"
+  },
+  {
+    "known_id": 17,
+    "subject": "Hindi",
+    "attribute": "印地语",
+    "prompt": "Translate a word from English to chinese. Word: 'Hindi'. Translated: '"
+  },
+  {
+    "known_id": 18,
+    "subject": "Urdu",
+    "attribute": "乌尔都语",
+    "prompt": "Translate a word from English to chinese. Word: 'Urdu'. Translated: '"
+  },
+  {
+    "known_id": 19,
+    "subject": "English",
+    "attribute": "英语",
+    "prompt": "Translate a word from English to chinese. Word: 'English'. Translated: '"
+  },
+  {
+    "known_id": 20,
+    "subject": "Arabic",
+    "attribute": "阿拉伯语",
+    "prompt": "Translate a word from English to chinese. Word: 'Arabic'. Translated: '"
+  },
+  {
+    "known_id": 21,
+    "subject": "Arabic",
+    "attribute": "阿拉伯语",
+    "prompt": "Translate a word from English to chinese. Word: 'Arabic'. Translated: '"
+  },
+  {
+    "known_id": 22,
+    "subject": "Turkish",
+    "attribute": "土耳其语",
+    "prompt": "Translate a word from English to chinese. Word: 'Turkish'. Translated: '"
+  },
+  {
+    "known_id": 23,
+    "subject": "English",
+    "attribute": "英语",
+    "prompt": "Translate a word from English to chinese. Word: 'English'. Translated: '"
+  },
+  {
+    "known_id": 24,
+    "subject": "English",
+    "attribute": "英语",
+    "prompt": "Translate a word from English to chinese. Word: 'English'. Translated: '"
+  },
+  {
+    "known_id": 25,
+    "subject": "Swedish",
+    "attribute": "瑞典语",
+    "prompt": "Translate a word from English to chinese. Word: 'Swedish'. Translated: '"
+  },
+  {
+    "known_id": 26,
+    "subject": "Norwegian",
+    "attribute": "挪威语",
+    "prompt": "Translate a word from English to chinese. Word: 'Norwegian'. Translated: '"
+  },
+  {
+    "known_id": 27,
+    "subject": "Danish",
+    "attribute": "丹麦语",
+    "prompt": "Translate a word from English to chinese. Word: 'Danish'. Translated: '"
+  },
+  {
+    "known_id": 28,
+    "subject": "Finnish",
+    "attribute": "芬兰语",
+    "prompt": "Translate a word from English to chinese. Word: 'Finnish'. Translated: '"
+  },
+  {
+    "known_id": 29,
+    "subject": "Icelandic",
+    "attribute": "冰岛语",
+    "prompt": "Translate a word from English to chinese. Word: 'Icelandic'. Translated: '"
+  },
+  {
+    "known_id": 32,
+    "subject": "Amharic",
+    "attribute": "阿姆哈拉语",
+    "prompt": "Translate a word from English to chinese. Word: 'Amharic'. Translated: '"
+  },
+  {
+    "known_id": 33,
+    "subject": "Greek",
+    "attribute": "希腊语",
+    "prompt": "Translate a word from English to chinese. Word: 'Greek'. Translated: '"
+  },
+  {
+    "known_id": 34,
+    "subject": "Dutch",
+    "attribute": "荷兰语",
+    "prompt": "Translate a word from English to chinese. Word: 'Dutch'. Translated: '"
+  },
+  {
+    "known_id": 36,
+    "subject": "German",
+    "attribute": "德语",
+    "prompt": "Translate a word from English to chinese. Word: 'German'. Translated: '"
+  },
+  {
+    "known_id": 37,
+    "subject": "German",
+    "attribute": "德语",
+    "prompt": "Translate a word from English to chinese. Word: 'German'. Translated: '"
+  },
+  {
+    "known_id": 38,
+    "subject": "Portuguese",
+    "attribute": "葡萄牙语",
+    "prompt": "Translate a word from English to chinese. Word: 'Portuguese'. Translated: '"
+  },
+  {
+    "known_id": 39,
+    "subject": "Czech",
+    "attribute": "捷克语",
+    "prompt": "Translate a word from English to chinese. Word: 'Czech'. Translated: '"
+  },
+  {
+    "known_id": 40,
+    "subject": "Polish",
+    "attribute": "波兰语",
+    "prompt": "Translate a word from English to chinese. Word: 'Polish'. Translated: '"
+  },
+  {
+    "known_id": 41,
+    "subject": "Hungarian",
+    "attribute": "匈牙利语",
+    "prompt": "Translate a word from English to chinese. Word: 'Hungarian'. Translated: '"
+  },
+  {
+    "known_id": 42,
+    "subject": "Thai",
+    "attribute": "泰语",
+    "prompt": "Translate a word from English to chinese. Word: 'Thai'. Translated: '"
+  },
+  {
+    "known_id": 43,
+    "subject": "Vietnamese",
+    "attribute": "越南语",
+    "prompt": "Translate a word from English to chinese. Word: 'Vietnamese'. Translated: '"
+  },
+  {
+    "known_id": 44,
+    "subject": "Malay",
+    "attribute": "马来语",
+    "prompt": "Translate a word from English to chinese. Word: 'Malay'. Translated: '"
+  },
+  {
+    "known_id": 46,
+    "subject": "Filipino",
+    "attribute": "菲律宾语",
+    "prompt": "Translate a word from English to chinese. Word: 'Filipino'. Translated: '"
+  },
+  {
+    "known_id": 47,
+    "subject": "Bengali",
+    "attribute": "孟加拉语",
+    "prompt": "Translate a word from English to chinese. Word: 'Bengali'. Translated: '"
+  },
+  {
+    "known_id": 48,
+    "subject": "Sinhala",
+    "attribute": "僧伽罗语",
+    "prompt": "Translate a word from English to chinese. Word: 'Sinhala'. Translated: '"
+  }
+]

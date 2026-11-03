@@ -1,0 +1,452 @@
+[
+    {
+        "known_id": 0,
+        "subject": "Estados Unidos",
+        "attribute": "Inglés",
+        "template": "{} habla",
+        "prediction": " Inglés.",
+        "prompt": "El idioma oficial en Estados Unidos es el",
+        "relation_id": "P37",
+        "alt_prompt": "La gente en Estados Unidos habla"
+    },
+    {
+        "known_id": 1,
+        "subject": "Canadá",
+        "attribute": "Inglés",
+        "template": "{} habla",
+        "prediction": " Inglés.",
+        "prompt": "El idioma oficial en Canadá es el",
+        "relation_id": "P37",
+        "alt_prompt": "La gente en Canadá habla"
+    },
+    {
+        "known_id": 2,
+        "subject": "México",
+        "attribute": "Español",
+        "template": "{} habla",
+        "prediction": " Español.",
+        "prompt": "El idioma oficial en México es la",
+        "relation_id": "P37",
+        "alt_prompt": "La gente en México habla"
+    },
+    {
+        "known_id": 3,
+        "subject": "Brasil",
+        "attribute": "Portugués",
+        "template": "{} habla",
+        "prediction": " Portugués.",
+        "prompt": "El idioma oficial en Brasil es el",
+        "relation_id": "P37",
+        "alt_prompt": "La gente en Brasil habla"
+    },
+    {
+        "known_id": 4,
+        "subject": "Argentina",
+        "attribute": "Español",
+        "template": "{} habla",
+        "prediction": " Español.",
+        "prompt": "El idioma oficial en Argentina es la",
+        "relation_id": "P37",
+        "alt_prompt": "La gente en Argentina habla"
+    },
+    {
+        "known_id": 5,
+        "subject": "Chile",
+        "attribute": "Español",
+        "template": "{} habla",
+        "prediction": " Español.",
+        "prompt": "El idioma oficial en Chile es la",
+        "relation_id": "P37",
+        "alt_prompt": "La gente en Chile habla"
+    },
+    {
+        "known_id": 6,
+        "subject": "Perú",
+        "attribute": "Español",
+        "template": "{} habla",
+        "prediction": " Español.",
+        "prompt": "El idioma oficial en Perú es la",
+        "relation_id": "P37",
+        "alt_prompt": "La gente en Perú habla"
+    },
+    {
+        "known_id": 7,
+        "subject": "Colombia",
+        "attribute": "Español",
+        "template": "{} habla",
+        "prediction": " Español.",
+        "prompt": "El idioma oficial en Colombia es la",
+        "relation_id": "P37",
+        "alt_prompt": "La gente en Colombia habla"
+    },
+    {
+        "known_id": 8,
+        "subject": "Venezuela",
+        "attribute": "Español",
+        "template": "{} habla",
+        "prediction": " Español.",
+        "prompt": "El idioma oficial en Venezuela es la",
+        "relation_id": "P37",
+        "alt_prompt": "La gente en Venezuela habla"
+    },
+    {
+        "known_id": 9,
+        "subject": "España",
+        "attribute": "Español",
+        "template": "{} habla",
+        "prediction": " Español.",
+        "prompt": "El idioma oficial en España es la",
+        "relation_id": "P37",
+        "alt_prompt": "La gente en España habla"
+    },
+    {
+        "known_id": 10,
+        "subject": "Francia",
+        "attribute": "Francés",
+        "template": "{} habla",
+        "prediction": " Francés.",
+        "prompt": "El idioma oficial en Francia es la",
+        "relation_id": "P37",
+        "alt_prompt": "La gente en Francia habla"
+    },
+    {
+        "known_id": 11,
+        "subject": "Alemania",
+        "attribute": "Alemán",
+        "template": "{} habla",
+        "prediction": " Alemán.",
+        "prompt": "El idioma oficial en Alemania es la",
+        "relation_id": "P37",
+        "alt_prompt": "La gente en Alemania habla"
+    },
+    {
+        "known_id": 12,
+        "subject": "Italia",
+        "attribute": "Italiano",
+        "template": "{} habla",
+        "prediction": " Italiano.",
+        "prompt": "El idioma oficial en Italia es la",
+        "relation_id": "P37",
+        "alt_prompt": "La gente en Italia habla"
+    },
+    {
+        "known_id": 13,
+        "subject": "Rusia",
+        "attribute": "Ruso",
+        "template": "{} habla",
+        "prediction": " Ruso.",
+        "prompt": "El idioma oficial en Rusia es la",
+        "relation_id": "P37",
+        "alt_prompt": "La gente en Rusia habla"
+    },
+    {
+        "known_id": 14,
+        "subject": "China",
+        "attribute": "Mandarín",
+        "template": "{} habla",
+        "prediction": " Mandarín.",
+        "prompt": "El idioma oficial en China es la",
+        "relation_id": "P37",
+        "alt_prompt": "La gente en China habla"
+    },
+    {
+        "known_id": 15,
+        "subject": "Japón",
+        "attribute": "Japonés",
+        "template": "{} habla",
+        "prediction": " Japonés.",
+        "prompt": "El idioma oficial en Japón es la",
+        "relation_id": "P37",
+        "alt_prompt": "La gente en Japón habla"
+    },
+    {
+        "known_id": 16,
+        "subject": "Corea del Sur",
+        "attribute": "Coreano",
+        "template": "{} habla",
+        "prediction": " Coreano.",
+        "prompt": "El idioma oficial en Corea del Sur es la",
+        "relation_id": "P37",
+        "alt_prompt": "La gente en Corea del Sur habla"
+    },
+    {
+        "known_id": 17,
+        "subject": "India",
+        "attribute": "Hindi",
+        "template": "{} habla",
+        "prediction": " Hindi.",
+        "prompt": "El idioma oficial en India es la",
+        "relation_id": "P37",
+        "alt_prompt": "La gente en India habla"
+    },
+    {
+        "known_id": 18,
+        "subject": "Pakistán",
+        "attribute": "Urdu",
+        "template": "{} habla",
+        "prediction": " Urdu.",
+        "prompt": "El idioma oficial en Pakistán es la",
+        "relation_id": "P37",
+        "alt_prompt": "La gente en Pakistán habla"
+    },
+    {
+        "known_id": 19,
+        "subject": "Nigeria",
+        "attribute": "Inglés",
+        "template": "{} habla",
+        "prediction": " Inglés.",
+        "prompt": "El idioma oficial en Nigeria es el",
+        "relation_id": "P37",
+        "alt_prompt": "La gente en Nigeria habla"
+    },
+    {
+        "known_id": 20,
+        "subject": "Egipto",
+        "attribute": "Árabe",
+        "template": "{} habla",
+        "prediction": " Árabe.",
+        "prompt": "El idioma oficial en Egipto es la",
+        "relation_id": "P37",
+        "alt_prompt": "La gente en Egipto habla"
+    },
+    {
+        "known_id": 21,
+        "subject": "Arabia Saudita",
+        "attribute": "Árabe",
+        "template": "{} habla",
+        "prediction": " Árabe.",
+        "prompt": "El idioma oficial en Arabia Saudita es la",
+        "relation_id": "P37",
+        "alt_prompt": "La gente en Arabia Saudita habla"
+    },
+    {
+        "known_id": 22,
+        "subject": "Turquía",
+        "attribute": "Turco",
+        "template": "{} habla",
+        "prediction": " Turco.",
+        "prompt": "El idioma oficial en Turquía es la",
+        "relation_id": "P37",
+        "alt_prompt": "La gente en Turquía habla"
+    },
+    {
+        "known_id": 23,
+        "subject": "Australia",
+        "attribute": "Inglés",
+        "template": "{} habla",
+        "prediction": " Inglés.",
+        "prompt": "El idioma oficial en Australia es el",
+        "relation_id": "P37",
+        "alt_prompt": "La gente en Australia habla"
+    },
+    {
+        "known_id": 24,
+        "subject": "Nueva Zelanda",
+        "attribute": "Inglés",
+        "template": "{} habla",
+        "prediction": " Inglés.",
+        "prompt": "El idioma oficial en Nueva Zelanda es el",
+        "relation_id": "P37",
+        "alt_prompt": "La gente en Nueva Zelanda habla"
+    },
+    {
+        "known_id": 25,
+        "subject": "Suecia",
+        "attribute": "Sueco",
+        "template": "{} habla",
+        "prediction": " Sueco.",
+        "prompt": "El idioma oficial en Suecia es la",
+        "relation_id": "P37",
+        "alt_prompt": "La gente en Suecia habla"
+    },
+    {
+        "known_id": 26,
+        "subject": "Noruega",
+        "attribute": "Noruego",
+        "template": "{} habla",
+        "prediction": " Noruego.",
+        "prompt": "El idioma oficial en Noruega es la",
+        "relation_id": "P37",
+        "alt_prompt": "La gente en Noruega habla"
+    },
+    {
+        "known_id": 27,
+        "subject": "Dinamarca",
+        "attribute": "Danés",
+        "template": "{} habla",
+        "prediction": " Danés.",
+        "prompt": "El idioma oficial en Dinamarca es la",
+        "relation_id": "P37",
+        "alt_prompt": "La gente en Dinamarca habla"
+    },
+    {
+        "known_id": 28,
+        "subject": "Finlandia",
+        "attribute": "Finés",
+        "template": "{} habla",
+        "prediction": " Finés.",
+        "prompt": "El idioma oficial en Finlandia es la",
+        "relation_id": "P37",
+        "alt_prompt": "La gente en Finlandia habla"
+    },
+    {
+        "known_id": 29,
+        "subject": "Islandia",
+        "attribute": "Islandés",
+        "template": "{} habla",
+        "prediction": " Islandés.",
+        "prompt": "El idioma oficial en Islandia es la",
+        "relation_id": "P37",
+        "alt_prompt": "La gente en Islandia habla"
+    },
+    {
+        "known_id": 32,
+        "subject": "Etiopía",
+        "attribute": "Amárico",
+        "template": "{} habla",
+        "prediction": " Amárico.",
+        "prompt": "El idioma oficial en Etiopía es la",
+        "relation_id": "P37",
+        "alt_prompt": "La gente en Etiopía habla"
+    },
+    {
+        "known_id": 33,
+        "subject": "Grecia",
+        "attribute": "Griego",
+        "template": "{} habla",
+        "prediction": " Griego.",
+        "prompt": "El idioma oficial en Grecia es la",
+        "relation_id": "P37",
+        "alt_prompt": "La gente en Grecia habla"
+    },
+    {
+        "known_id": 34,
+        "subject": "Países Bajos",
+        "attribute": "Neerlandés",
+        "template": "{} habla",
+        "prediction": " Neerlandés.",
+        "prompt": "El idioma oficial en Países Bajos es la",
+        "relation_id": "P37",
+        "alt_prompt": "La gente en Países Bajos habla"
+    },
+    {
+        "known_id": 36,
+        "subject": "Austria",
+        "attribute": "Alemán",
+        "template": "{} habla",
+        "prediction": " Alemán.",
+        "prompt": "El idioma oficial en Austria es la",
+        "relation_id": "P37",
+        "alt_prompt": "La gente en Austria habla"
+    },
+    {
+        "known_id": 37,
+        "subject": "Suiza",
+        "attribute": "Alemán",
+        "template": "{} habla",
+        "prediction": " Alemán.",
+        "prompt": "El idioma oficial en Suiza es la",
+        "relation_id": "P37",
+        "alt_prompt": "La gente en Suiza habla"
+    },
+    {
+        "known_id": 38,
+        "subject": "Portugal",
+        "attribute": "Portugués",
+        "template": "{} habla",
+        "prediction": " Portugués.",
+        "prompt": "El idioma oficial en Portugal es el",
+        "relation_id": "P37",
+        "alt_prompt": "La gente en Portugal habla"
+    },
+    {
+        "known_id": 39,
+        "subject": "República Checa",
+        "attribute": "Checo",
+        "template": "{} habla",
+        "prediction": " Checo.",
+        "prompt": "El idioma oficial en República Checa es la",
+        "relation_id": "P37",
+        "alt_prompt": "La gente en República Checa habla"
+    },
+    {
+        "known_id": 40,
+        "subject": "Polonia",
+        "attribute": "Polaco",
+        "template": "{} habla",
+        "prediction": " Polaco.",
+        "prompt": "El idioma oficial en Polonia es la",
+        "relation_id": "P37",
+        "alt_prompt": "La gente en Polonia habla"
+    },
+    {
+        "known_id": 41,
+        "subject": "Hungría",
+        "attribute": "Húngaro",
+        "template": "{} habla",
+        "prediction": " Húngaro.",
+        "prompt": "El idioma oficial en Hungría es la",
+        "relation_id": "P37",
+        "alt_prompt": "La gente en Hungría habla"
+    },
+    {
+        "known_id": 42,
+        "subject": "Tailandia",
+        "attribute": "Tailandés",
+        "template": "{} habla",
+        "prediction": " Tailandés.",
+        "prompt": "El idioma oficial en Tailandia es la",
+        "relation_id": "P37",
+        "alt_prompt": "La gente en Tailandia habla"
+    },
+    {
+        "known_id": 43,
+        "subject": "Vietnam",
+        "attribute": "Vietnamita",
+        "template": "{} habla",
+        "prediction": " Vietnamita.",
+        "prompt": "El idioma oficial en Vietnam es la",
+        "relation_id": "P37",
+        "alt_prompt": "La gente en Vietnam habla"
+    },
+    {
+        "known_id": 44,
+        "subject": "Malasia",
+        "attribute": "Malayo",
+        "template": "{} habla",
+        "prediction": " Malayo.",
+        "prompt": "El idioma oficial en Malasia es la",
+        "relation_id": "P37",
+        "alt_prompt": "La gente en Malasia habla"
+    },
+    {
+        "known_id": 46,
+        "subject": "Filipinas",
+        "attribute": "Filipino",
+        "template": "{} habla",
+        "prediction": " Filipino.",
+        "prompt": "El idioma oficial en Filipinas es la",
+        "relation_id": "P37",
+        "alt_prompt": "La gente en Filipinas habla"
+    },
+    {
+        "known_id": 47,
+        "subject": "Bangladés",
+        "attribute": "Bengalí",
+        "template": "{} habla",
+        "prediction": " Bengalí.",
+        "prompt": "El idioma oficial en Bangladés es la",
+        "relation_id": "P37",
+        "alt_prompt": "La gente en Bangladés habla"
+    },
+    {
+        "known_id": 48,
+        "subject": "Sri Lanka",
+        "attribute": "Cingalés",
+        "template": "{} habla",
+        "prediction": " Cingalés.",
+        "prompt": "El idioma oficial en Sri Lanka es la",
+        "relation_id": "P37",
+        "alt_prompt": "La gente en Sri Lanka habla"
+    }
+]

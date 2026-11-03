@@ -1,0 +1,296 @@
+[
+  {
+    "subject": "Ruth Bader Ginsburg",
+    "known_id": 0,
+    "attribute": "Université Cornell",
+    "prompt": "L'université où Ruth Bader Ginsburg a étudié s'appelle"
+  },
+  {
+    "subject": "Sonia Sotomayor",
+    "known_id": 1,
+    "attribute": "Université de Princeton",
+    "prompt": "L'université où Sonia Sotomayor a étudié s'appelle"
+  },
+  {
+    "subject": "Stephen Breyer",
+    "known_id": 2,
+    "attribute": "Université Stanford",
+    "prompt": "L'université où Stephen Breyer a étudié s'appelle"
+  },
+  {
+    "subject": "Ngozi Okonjo-Iweala",
+    "known_id": 3,
+    "attribute": "Université Harvard",
+    "prompt": "L'université où Ngozi Okonjo-Iweala a étudié s'appelle"
+  },
+  {
+    "subject": "Haruki Murakami",
+    "known_id": 4,
+    "attribute": "Université Waseda",
+    "prompt": "L'université où Haruki Murakami a étudié s'appelle"
+  },
+  {
+    "subject": "Roi Mohammed VI du Maroc",
+    "known_id": 5,
+    "attribute": "Université Mohammed V",
+    "prompt": "L'université où Roi Mohammed VI du Maroc a étudié s'appelle"
+  },
+  {
+    "subject": "Hailemariam Desalegn",
+    "known_id": 6,
+    "attribute": "Université d’Addis-Abeba",
+    "prompt": "L'université où Hailemariam Desalegn a étudié s'appelle"
+  },
+  {
+    "subject": "Abiy Ahmed",
+    "known_id": 7,
+    "attribute": "Université d’Addis-Abeba",
+    "prompt": "L'université où Abiy Ahmed a étudié s'appelle"
+  },
+  {
+    "subject": "Kamala Harris",
+    "known_id": 8,
+    "attribute": "Université Howard",
+    "prompt": "L'université où Kamala Harris a étudié s'appelle"
+  },
+  {
+    "subject": "Viktor Orbán",
+    "known_id": 9,
+    "attribute": "Université Eötvös Loránd",
+    "prompt": "L'université où Viktor Orbán a étudié s'appelle"
+  },
+  {
+    "subject": "Mary Robinson",
+    "known_id": 10,
+    "attribute": "Trinity College Dublin",
+    "prompt": "L'université où Mary Robinson a étudié s'appelle"
+  },
+  {
+    "subject": "Mark Rutte",
+    "known_id": 11,
+    "attribute": "Université de Leyde",
+    "prompt": "L'université où Mark Rutte a étudié s'appelle"
+  },
+  {
+    "subject": "Xi Jinping",
+    "known_id": 12,
+    "attribute": "Université Tsinghua",
+    "prompt": "L'université où Xi Jinping a étudié s'appelle"
+  },
+  {
+    "subject": "Margaret Thatcher",
+    "known_id": 13,
+    "attribute": "Somerville College (Oxford)",
+    "prompt": "L'université où Margaret Thatcher a étudié s'appelle"
+  },
+  {
+    "subject": "Ban Ki-moon",
+    "known_id": 14,
+    "attribute": "Université nationale de Séoul",
+    "prompt": "L'université où Ban Ki-moon a étudié s'appelle"
+  },
+  {
+    "subject": "Ellen Johnson Sirleaf",
+    "known_id": 15,
+    "attribute": "Harvard Kennedy School",
+    "prompt": "L'université où Ellen Johnson Sirleaf a étudié s'appelle"
+  },
+  {
+    "subject": "Mike Pence",
+    "known_id": 16,
+    "attribute": "Hanover College",
+    "prompt": "L'université où Mike Pence a étudié s'appelle"
+  },
+  {
+    "subject": "Oprah Winfrey",
+    "known_id": 17,
+    "attribute": "Université d’État du Tennessee",
+    "prompt": "L'université où Oprah Winfrey a étudié s'appelle"
+  },
+  {
+    "subject": "Jeff Bezos",
+    "known_id": 18,
+    "attribute": "Université de Princeton",
+    "prompt": "L'université où Jeff Bezos a étudié s'appelle"
+  },
+  {
+    "subject": "Steve Jobs",
+    "known_id": 19,
+    "attribute": "Reed College",
+    "prompt": "L'université où Steve Jobs a étudié s'appelle"
+  },
+  {
+    "subject": "Tim Cook",
+    "known_id": 20,
+    "attribute": "Université d’Auburn",
+    "prompt": "L'université où Tim Cook a étudié s'appelle"
+  },
+  {
+    "subject": "Sundar Pichai",
+    "known_id": 21,
+    "attribute": "Université Stanford",
+    "prompt": "L'université où Sundar Pichai a étudié s'appelle"
+  },
+  {
+    "subject": "Sheryl Sandberg",
+    "known_id": 22,
+    "attribute": "Université Harvard",
+    "prompt": "L'université où Sheryl Sandberg a étudié s'appelle"
+  },
+  {
+    "subject": "Michelle Obama",
+    "known_id": 23,
+    "attribute": "Université de Princeton",
+    "prompt": "L'université où Michelle Obama a étudié s'appelle"
+  },
+  {
+    "subject": "Bill Gates",
+    "known_id": 24,
+    "attribute": "Université Harvard",
+    "prompt": "L'université où Bill Gates a étudié s'appelle"
+  },
+  {
+    "subject": "Mark Zuckerberg",
+    "known_id": 25,
+    "attribute": "Université Harvard",
+    "prompt": "L'université où Mark Zuckerberg a étudié s'appelle"
+  },
+  {
+    "subject": "Oprah Winfrey",
+    "known_id": 26,
+    "attribute": "Université d’État du Tennessee",
+    "prompt": "L'université où Oprah Winfrey a étudié s'appelle"
+  },
+  {
+    "subject": "Emma Watson",
+    "known_id": 27,
+    "attribute": "Université Brown",
+    "prompt": "L'université où Emma Watson a étudié s'appelle"
+  },
+  {
+    "subject": "Natalie Portman",
+    "known_id": 28,
+    "attribute": "Université Harvard",
+    "prompt": "L'université où Natalie Portman a étudié s'appelle"
+  },
+  {
+    "subject": "George W. Bush",
+    "known_id": 29,
+    "attribute": "Université Yale",
+    "prompt": "L'université où George W. Bush a étudié s'appelle"
+  },
+  {
+    "subject": "Neil Armstrong",
+    "known_id": 30,
+    "attribute": "Université Purdue",
+    "prompt": "L'université où Neil Armstrong a étudié s'appelle"
+  },
+  {
+    "subject": "James Franco",
+    "known_id": 31,
+    "attribute": "UCLA (Université de Californie à Los Angeles)",
+    "prompt": "L'université où James Franco a étudié s'appelle"
+  },
+  {
+    "subject": "Matt Damon",
+    "known_id": 32,
+    "attribute": "Université Harvard",
+    "prompt": "L'université où Matt Damon a étudié s'appelle"
+  },
+  {
+    "subject": "Conan O'Brien",
+    "known_id": 33,
+    "attribute": "Université Harvard",
+    "prompt": "L'université où Conan O'Brien a étudié s'appelle"
+  },
+  {
+    "subject": "Sandra Bullock",
+    "known_id": 34,
+    "attribute": "Université d’East Carolina",
+    "prompt": "L'université où Sandra Bullock a étudié s'appelle"
+  },
+  {
+    "subject": "Léon Tolstoï",
+    "known_id": 35,
+    "attribute": "Université impériale de Kazan",
+    "prompt": "L'université où Léon Tolstoï a étudié s'appelle"
+  },
+  {
+    "subject": "Henry Moore",
+    "known_id": 36,
+    "attribute": "Leeds Arts University",
+    "prompt": "L'université où Henry Moore a étudié s'appelle"
+  },
+  {
+    "subject": "Andy Warhol",
+    "known_id": 37,
+    "attribute": "Carnegie Mellon University",
+    "prompt": "L'université où Andy Warhol a étudié s'appelle"
+  },
+  {
+    "subject": "Vladimir Lénine",
+    "known_id": 38,
+    "attribute": "Université impériale de Kazan",
+    "prompt": "L'université où Vladimir Lénine a étudié s'appelle"
+  },
+  {
+    "subject": "Woody Allen",
+    "known_id": 39,
+    "attribute": "Tisch School of the Arts (NYU)",
+    "prompt": "L'université où Woody Allen a étudié s'appelle"
+  },
+  {
+    "subject": "August Strindberg",
+    "known_id": 40,
+    "attribute": "Université d’Uppsala",
+    "prompt": "L'université où August Strindberg a étudié s'appelle"
+  },
+  {
+    "subject": "Christine Lagarde",
+    "known_id": 41,
+    "attribute": "Université Paris-Nanterre (Paris Ouest)",
+    "prompt": "L'université où Christine Lagarde a étudié s'appelle"
+  },
+  {
+    "subject": "Ko Wen-je",
+    "known_id": 42,
+    "attribute": "Université nationale de Taïwan",
+    "prompt": "L'université où Ko Wen-je a étudié s'appelle"
+  },
+  {
+    "subject": "Martin Luther King Jr.",
+    "known_id": 43,
+    "attribute": "Morehouse College",
+    "prompt": "L'université où Martin Luther King Jr. a étudié s'appelle"
+  },
+  {
+    "subject": "Ernesto Zedillo",
+    "known_id": 44,
+    "attribute": "Université Yale",
+    "prompt": "L'université où Ernesto Zedillo a étudié s'appelle"
+  },
+  {
+    "subject": "Angela Bassett",
+    "known_id": 45,
+    "attribute": "Université Yale",
+    "prompt": "L'université où Angela Bassett a étudié s'appelle"
+  },
+  {
+    "subject": "Rachel Maddow",
+    "known_id": 46,
+    "attribute": "Université Stanford",
+    "prompt": "L'université où Rachel Maddow a étudié s'appelle"
+  },
+  {
+    "subject": "Cory Booker",
+    "known_id": 47,
+    "attribute": "Université Stanford",
+    "prompt": "L'université où Cory Booker a étudié s'appelle"
+  },
+  {
+    "subject": "Mark Rutte",
+    "known_id": 48,
+    "attribute": "Université de Leyde",
+    "prompt": "L'université où Mark Rutte a étudié s'appelle"
+  }
+]

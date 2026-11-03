@@ -1,0 +1,326 @@
+[
+  {
+    "subject": "ドン・キホーテ",
+    "known_id": 0,
+    "attribute": "スペイン語",
+    "prompt": "ドン・キホーテが最初に書かれた言語は"
+  },
+  {
+    "subject": "神曲",
+    "known_id": 1,
+    "attribute": "イタリア語",
+    "prompt": "神曲が最初に書かれた言語は"
+  },
+  {
+    "subject": "戦争と平和",
+    "known_id": 2,
+    "attribute": "ロシア語",
+    "prompt": "戦争と平和が最初に書かれた言語は"
+  },
+  {
+    "subject": "レ・ミゼラブル",
+    "known_id": 3,
+    "attribute": "フランス語",
+    "prompt": "レ・ミゼラブルが最初に書かれた言語は"
+  },
+  {
+    "subject": "イーリアス",
+    "known_id": 4,
+    "attribute": "ギリシャ語",
+    "prompt": "イーリアスが最初に書かれた言語は"
+  },
+  {
+    "subject": "オデュッセイア",
+    "known_id": 5,
+    "attribute": "ギリシャ語",
+    "prompt": "オデュッセイアが最初に書かれた言語は"
+  },
+  {
+    "subject": "ファウスト",
+    "known_id": 6,
+    "attribute": "ドイツ語",
+    "prompt": "ファウストが最初に書かれた言語は"
+  },
+  {
+    "subject": "アエネーイス",
+    "known_id": 7,
+    "attribute": "ラテン語",
+    "prompt": "アエネーイスが最初に書かれた言語は"
+  },
+  {
+    "subject": "ユリシーズ",
+    "known_id": 8,
+    "attribute": "英語",
+    "prompt": "ユリシーズが最初に書かれた言語は"
+  },
+  {
+    "subject": "モービー・ディック",
+    "known_id": 9,
+    "attribute": "英語",
+    "prompt": "モービー・ディックが最初に書かれた言語は"
+  },
+  {
+    "subject": "ドリアン・グレイの肖像",
+    "known_id": 10,
+    "attribute": "英語",
+    "prompt": "ドリアン・グレイの肖像が最初に書かれた言語は"
+  },
+  {
+    "subject": "罪と罰",
+    "known_id": 11,
+    "attribute": "ロシア語",
+    "prompt": "罪と罰が最初に書かれた言語は"
+  },
+  {
+    "subject": "アンナ・カレーニナ",
+    "known_id": 12,
+    "attribute": "ロシア語",
+    "prompt": "アンナ・カレーニナが最初に書かれた言語は"
+  },
+  {
+    "subject": "ボヴァリー夫人",
+    "known_id": 13,
+    "attribute": "フランス語",
+    "prompt": "ボヴァリー夫人が最初に書かれた言語は"
+  },
+  {
+    "subject": "モンテ・クリスト伯",
+    "known_id": 14,
+    "attribute": "フランス語",
+    "prompt": "モンテ・クリスト伯が最初に書かれた言語は"
+  },
+  {
+    "subject": "異邦人",
+    "known_id": 15,
+    "attribute": "フランス語",
+    "prompt": "異邦人が最初に書かれた言語は"
+  },
+  {
+    "subject": "変身",
+    "known_id": 16,
+    "attribute": "ドイツ語",
+    "prompt": "変身が最初に書かれた言語は"
+  },
+  {
+    "subject": "ツァラトゥストラはこう語った",
+    "known_id": 17,
+    "attribute": "ドイツ語",
+    "prompt": "ツァラトゥストラはこう語ったが最初に書かれた言語は"
+  },
+  {
+    "subject": "カラマーゾフの兄弟",
+    "known_id": 18,
+    "attribute": "ロシア語",
+    "prompt": "カラマーゾフの兄弟が最初に書かれた言語は"
+  },
+  {
+    "subject": "巨匠とマルガリータ",
+    "known_id": 19,
+    "attribute": "ロシア語",
+    "prompt": "巨匠とマルガリータが最初に書かれた言語は"
+  },
+  {
+    "subject": "薔薇の名前",
+    "known_id": 20,
+    "attribute": "イタリア語",
+    "prompt": "薔薇の名前が最初に書かれた言語は"
+  },
+  {
+    "subject": "百年の孤独",
+    "known_id": 21,
+    "attribute": "スペイン語",
+    "prompt": "百年の孤独が最初に書かれた言語は"
+  },
+  {
+    "subject": "ルジアダス",
+    "known_id": 22,
+    "attribute": "ポルトガル語",
+    "prompt": "ルジアダスが最初に書かれた言語は"
+  },
+  {
+    "subject": "デカメロン",
+    "known_id": 23,
+    "attribute": "イタリア語",
+    "prompt": "デカメロンが最初に書かれた言語は"
+  },
+  {
+    "subject": "若きウェルテルの悩み",
+    "known_id": 24,
+    "attribute": "ドイツ語",
+    "prompt": "若きウェルテルの悩みが最初に書かれた言語は"
+  },
+  {
+    "subject": "審判",
+    "known_id": 25,
+    "attribute": "ドイツ語",
+    "prompt": "審判が最初に書かれた言語は"
+  },
+  {
+    "subject": "ガリヴァー旅行記",
+    "known_id": 26,
+    "attribute": "英語",
+    "prompt": "ガリヴァー旅行記が最初に書かれた言語は"
+  },
+  {
+    "subject": "フランケンシュタイン",
+    "known_id": 27,
+    "attribute": "英語",
+    "prompt": "フランケンシュタインが最初に書かれた言語は"
+  },
+  {
+    "subject": "君主論",
+    "known_id": 28,
+    "attribute": "イタリア語",
+    "prompt": "君主論が最初に書かれた言語は"
+  },
+  {
+    "subject": "ノートルダムのせむし男",
+    "known_id": 29,
+    "attribute": "フランス語",
+    "prompt": "ノートルダムのせむし男が最初に書かれた言語は"
+  },
+  {
+    "subject": "三銃士",
+    "known_id": 30,
+    "attribute": "フランス語",
+    "prompt": "三銃士が最初に書かれた言語は"
+  },
+  {
+    "subject": "ローランの歌",
+    "known_id": 31,
+    "attribute": "フランス語",
+    "prompt": "ローランの歌が最初に書かれた言語は"
+  },
+  {
+    "subject": "ニーベルンゲンの歌",
+    "known_id": 32,
+    "attribute": "ドイツ語",
+    "prompt": "ニーベルンゲンの歌が最初に書かれた言語は"
+  },
+  {
+    "subject": "狂えるオルランド",
+    "known_id": 33,
+    "attribute": "イタリア語",
+    "prompt": "狂えるオルランドが最初に書かれた言語は"
+  },
+  {
+    "subject": "カンディード",
+    "known_id": 34,
+    "attribute": "フランス語",
+    "prompt": "カンディードが最初に書かれた言語は"
+  },
+  {
+    "subject": "赤と黒",
+    "known_id": 35,
+    "attribute": "フランス語",
+    "prompt": "赤と黒が最初に書かれた言語は"
+  },
+  {
+    "subject": "ジェルミナール",
+    "known_id": 36,
+    "attribute": "フランス語",
+    "prompt": "ジェルミナールが最初に書かれた言語は"
+  },
+  {
+    "subject": "バスカヴィル家の犬",
+    "known_id": 37,
+    "attribute": "英語",
+    "prompt": "バスカヴィル家の犬が最初に書かれた言語は"
+  },
+  {
+    "subject": "シャーロック・ホームズの冒険",
+    "known_id": 38,
+    "attribute": "英語",
+    "prompt": "シャーロック・ホームズの冒険が最初に書かれた言語は"
+  },
+  {
+    "subject": "城",
+    "known_id": 39,
+    "attribute": "ドイツ語",
+    "prompt": "城が最初に書かれた言語は"
+  },
+  {
+    "subject": "ブッデンブローク家の人々",
+    "known_id": 40,
+    "attribute": "ドイツ語",
+    "prompt": "ブッデンブローク家の人々が最初に書かれた言語は"
+  },
+  {
+    "subject": "ヴェニスに死す",
+    "known_id": 41,
+    "attribute": "ドイツ語",
+    "prompt": "ヴェニスに死すが最初に書かれた言語は"
+  },
+  {
+    "subject": "ドクター・ファウストゥス",
+    "known_id": 42,
+    "attribute": "ドイツ語",
+    "prompt": "ドクター・ファウストゥスが最初に書かれた言語は"
+  },
+  {
+    "subject": "いいなづけ",
+    "known_id": 43,
+    "attribute": "イタリア語",
+    "prompt": "いいなづけが最初に書かれた言語は"
+  },
+  {
+    "subject": "ある冬の夜ひとりの旅人が",
+    "known_id": 44,
+    "attribute": "イタリア語",
+    "prompt": "ある冬の夜ひとりの旅人がが最初に書かれた言語は"
+  },
+  {
+    "subject": "山猫",
+    "known_id": 45,
+    "attribute": "イタリア語",
+    "prompt": "山猫が最初に書かれた言語は"
+  },
+  {
+    "subject": "紳士トリストラム・シャンディの生涯と意見",
+    "known_id": 46,
+    "attribute": "英語",
+    "prompt": "紳士トリストラム・シャンディの生涯と意見が最初に書かれた言語は"
+  },
+  {
+    "subject": "高慢と偏見",
+    "known_id": 47,
+    "attribute": "英語",
+    "prompt": "高慢と偏見が最初に書かれた言語は"
+  },
+  {
+    "subject": "嵐が丘",
+    "known_id": 48,
+    "attribute": "英語",
+    "prompt": "嵐が丘が最初に書かれた言語は"
+  },
+  {
+    "subject": "オリヴァー・ツイスト",
+    "known_id": 49,
+    "attribute": "英語",
+    "prompt": "オリヴァー・ツイストが最初に書かれた言語は"
+  },
+  {
+    "subject": "デイヴィッド・コパフィールド",
+    "known_id": 50,
+    "attribute": "英語",
+    "prompt": "デイヴィッド・コパフィールドが最初に書かれた言語は"
+  },
+  {
+    "subject": "白痴",
+    "known_id": 51,
+    "attribute": "ロシア語",
+    "prompt": "白痴が最初に書かれた言語は"
+  },
+  {
+    "subject": "父と子",
+    "known_id": 52,
+    "attribute": "ロシア語",
+    "prompt": "父と子が最初に書かれた言語は"
+  },
+  {
+    "subject": "死せる魂",
+    "known_id": 53,
+    "attribute": "ロシア語",
+    "prompt": "死せる魂が最初に書かれた言語は"
+  }
+]

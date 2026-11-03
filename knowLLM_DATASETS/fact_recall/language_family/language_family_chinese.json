@@ -1,0 +1,302 @@
+[
+    {
+        "subject": "英语",
+        "known_id": 0,
+        "attribute": "印欧语系",
+        "prompt": "英语所属的语系是"
+    },
+    {
+        "subject": "西班牙语",
+        "known_id": 1,
+        "attribute": "印欧语系",
+        "prompt": "西班牙语所属的语系是"
+    },
+    {
+        "subject": "法语",
+        "known_id": 2,
+        "attribute": "印欧语系",
+        "prompt": "法语所属的语系是"
+    },
+    {
+        "subject": "德语",
+        "known_id": 3,
+        "attribute": "印欧语系",
+        "prompt": "德语所属的语系是"
+    },
+    {
+        "subject": "俄语",
+        "known_id": 4,
+        "attribute": "印欧语系",
+        "prompt": "俄语所属的语系是"
+    },
+    {
+        "subject": "印地语",
+        "known_id": 5,
+        "attribute": "印欧语系",
+        "prompt": "印地语所属的语系是"
+    },
+    {
+        "subject": "孟加拉语",
+        "known_id": 6,
+        "attribute": "印欧语系",
+        "prompt": "孟加拉语所属的语系是"
+    },
+    {
+        "subject": "葡萄牙语",
+        "known_id": 7,
+        "attribute": "印欧语系",
+        "prompt": "葡萄牙语所属的语系是"
+    },
+    {
+        "subject": "波斯语",
+        "known_id": 8,
+        "attribute": "印欧语系",
+        "prompt": "波斯语所属的语系是"
+    },
+    {
+        "subject": "希腊语",
+        "known_id": 9,
+        "attribute": "印欧语系",
+        "prompt": "希腊语所属的语系是"
+    },
+    {
+        "subject": "普通话",
+        "known_id": 10,
+        "attribute": "汉藏语系",
+        "prompt": "普通话所属的语系是"
+    },
+    {
+        "subject": "粤语",
+        "known_id": 11,
+        "attribute": "汉藏语系",
+        "prompt": "粤语所属的语系是"
+    },
+    {
+        "subject": "缅甸语",
+        "known_id": 12,
+        "attribute": "汉藏语系",
+        "prompt": "缅甸语所属的语系是"
+    },
+    {
+        "subject": "藏语",
+        "known_id": 13,
+        "attribute": "汉藏语系",
+        "prompt": "藏语所属的语系是"
+    },
+    {
+        "subject": "豪萨语",
+        "known_id": 14,
+        "attribute": "亚非语系",
+        "prompt": "豪萨语所属的语系是"
+    },
+    {
+        "subject": "阿拉伯语",
+        "known_id": 15,
+        "attribute": "亚非语系",
+        "prompt": "阿拉伯语所属的语系是"
+    },
+    {
+        "subject": "希伯来语",
+        "known_id": 16,
+        "attribute": "亚非语系",
+        "prompt": "希伯来语所属的语系是"
+    },
+    {
+        "subject": "阿姆哈拉语",
+        "known_id": 17,
+        "attribute": "亚非语系",
+        "prompt": "阿姆哈拉语所属的语系是"
+    },
+    {
+        "subject": "柏柏尔语",
+        "known_id": 18,
+        "attribute": "亚非语系",
+        "prompt": "柏柏尔语所属的语系是"
+    },
+    {
+        "subject": "越南语",
+        "known_id": 19,
+        "attribute": "南亚语系",
+        "prompt": "越南语所属的语系是"
+    },
+    {
+        "subject": "高棉语",
+        "known_id": 20,
+        "attribute": "南亚语系",
+        "prompt": "高棉语所属的语系是"
+    },
+    {
+        "subject": "泰语",
+        "known_id": 21,
+        "attribute": "台-卡岱语系",
+        "prompt": "泰语所属的语系是"
+    },
+    {
+        "subject": "老挝语",
+        "known_id": 22,
+        "attribute": "台-卡岱语系",
+        "prompt": "老挝语所属的语系是"
+    },
+    {
+        "subject": "菲律宾语",
+        "known_id": 23,
+        "attribute": "南岛语系",
+        "prompt": "菲律宾语所属的语系是"
+    },
+    {
+        "subject": "马来语",
+        "known_id": 24,
+        "attribute": "南岛语系",
+        "prompt": "马来语所属的语系是"
+    },
+    {
+        "subject": "爪哇语",
+        "known_id": 25,
+        "attribute": "南岛语系",
+        "prompt": "爪哇语所属的语系是"
+    },
+    {
+        "subject": "塔加洛语",
+        "known_id": 26,
+        "attribute": "南岛语系",
+        "prompt": "塔加洛语所属的语系是"
+    },
+    {
+        "subject": "泰米尔语",
+        "known_id": 27,
+        "attribute": "达罗毗荼语系",
+        "prompt": "泰米尔语所属的语系是"
+    },
+    {
+        "subject": "泰卢固语",
+        "known_id": 28,
+        "attribute": "达罗毗荼语系",
+        "prompt": "泰卢固语所属的语系是"
+    },
+    {
+        "subject": "卡纳达语",
+        "known_id": 29,
+        "attribute": "达罗毗荼语系",
+        "prompt": "卡纳达语所属的语系是"
+    },
+    {
+        "subject": "匈牙利语",
+        "known_id": 30,
+        "attribute": "乌拉尔语系",
+        "prompt": "匈牙利语所属的语系是"
+    },
+    {
+        "subject": "芬兰语",
+        "known_id": 31,
+        "attribute": "乌拉尔语系",
+        "prompt": "芬兰语所属的语系是"
+    },
+    {
+        "subject": "爱沙尼亚语",
+        "known_id": 32,
+        "attribute": "乌拉尔语系",
+        "prompt": "爱沙尼亚语所属的语系是"
+    },
+    {
+        "subject": "土耳其语",
+        "known_id": 33,
+        "attribute": "突厥语系",
+        "prompt": "土耳其语所属的语系是"
+    },
+    {
+        "subject": "乌兹别克语",
+        "known_id": 34,
+        "attribute": "突厥语系",
+        "prompt": "乌兹别克语所属的语系是"
+    },
+    {
+        "subject": "蒙古语",
+        "known_id": 35,
+        "attribute": "蒙古语系",
+        "prompt": "蒙古语所属的语系是"
+    },
+    {
+        "subject": "韩语",
+        "known_id": 36,
+        "attribute": "朝鲜语系",
+        "prompt": "韩语所属的语系是"
+    },
+    {
+        "subject": "日语",
+        "known_id": 37,
+        "attribute": "日本语系",
+        "prompt": "日语所属的语系是"
+    },
+    {
+        "subject": "因纽特语",
+        "known_id": 38,
+        "attribute": "爱斯基摩-阿留申语系",
+        "prompt": "因纽特语所属的语系是"
+    },
+    {
+        "subject": "克丘亚语",
+        "known_id": 39,
+        "attribute": "克丘亚语系",
+        "prompt": "克丘亚语所属的语系是"
+    },
+    {
+        "subject": "纳瓦特尔语",
+        "known_id": 40,
+        "attribute": "尤托-阿兹特克语系",
+        "prompt": "纳瓦特尔语所属的语系是"
+    },
+    {
+        "subject": "切罗基语",
+        "known_id": 41,
+        "attribute": "易洛魁语系",
+        "prompt": "切罗基语所属的语系是"
+    },
+    {
+        "subject": "祖鲁语",
+        "known_id": 42,
+        "attribute": "班图语系",
+        "prompt": "祖鲁语所属的语系是"
+    },
+    {
+        "subject": "斯瓦希里语",
+        "known_id": 43,
+        "attribute": "班图语系",
+        "prompt": "斯瓦希里语所属的语系是"
+    },
+    {
+        "subject": "毛利语",
+        "known_id": 44,
+        "attribute": "南岛语系",
+        "prompt": "毛利语所属的语系是"
+    },
+    {
+        "subject": "海地克里奥尔语",
+        "known_id": 45,
+        "attribute": "克里奥尔语",
+        "prompt": "海地克里奥尔语所属的语系是"
+    },
+    {
+        "subject": "巴斯克语",
+        "known_id": 46,
+        "attribute": "孤立语言",
+        "prompt": "巴斯克语所属的语系是"
+    },
+    {
+        "subject": "阿伊努语",
+        "known_id": 47,
+        "attribute": "孤立语言",
+        "prompt": "阿伊努语所属的语系是"
+    },
+    {
+        "subject": "苗语",
+        "known_id": 48,
+        "attribute": "苗瑶语系",
+        "prompt": "苗语所属的语系是"
+    },
+    {
+        "subject": "约鲁巴语",
+        "known_id": 49,
+        "attribute": "尼日尔-刚果语系",
+        "prompt": "约鲁巴语所属的语系是"
+    }
+]

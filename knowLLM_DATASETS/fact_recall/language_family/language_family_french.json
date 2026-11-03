@@ -1,0 +1,302 @@
+[
+    {
+        "subject": "Anglais",
+        "known_id": 0,
+        "attribute": "Indo-européennes",
+        "prompt": "Anglais appartient à la famille de langues"
+    },
+    {
+        "subject": "Espagnol",
+        "known_id": 1,
+        "attribute": "Indo-européennes",
+        "prompt": "Espagnol appartient à la famille de langues"
+    },
+    {
+        "subject": "Français",
+        "known_id": 2,
+        "attribute": "Indo-européennes",
+        "prompt": "Français appartient à la famille de langues"
+    },
+    {
+        "subject": "Allemand",
+        "known_id": 3,
+        "attribute": "Indo-européennes",
+        "prompt": "Allemand appartient à la famille de langues"
+    },
+    {
+        "subject": "Russe",
+        "known_id": 4,
+        "attribute": "Indo-européennes",
+        "prompt": "Russe appartient à la famille de langues"
+    },
+    {
+        "subject": "Hindi",
+        "known_id": 5,
+        "attribute": "Indo-européennes",
+        "prompt": "Hindi appartient à la famille de langues"
+    },
+    {
+        "subject": "Bengali",
+        "known_id": 6,
+        "attribute": "Indo-européennes",
+        "prompt": "Bengali appartient à la famille de langues"
+    },
+    {
+        "subject": "Portugais",
+        "known_id": 7,
+        "attribute": "Indo-européennes",
+        "prompt": "Portugais appartient à la famille de langues"
+    },
+    {
+        "subject": "Persan",
+        "known_id": 8,
+        "attribute": "Indo-européennes",
+        "prompt": "Persan appartient à la famille de langues"
+    },
+    {
+        "subject": "Grec",
+        "known_id": 9,
+        "attribute": "Indo-européennes",
+        "prompt": "Grec appartient à la famille de langues"
+    },
+    {
+        "subject": "Mandarin",
+        "known_id": 10,
+        "attribute": "Sino-tibétaines",
+        "prompt": "Mandarin appartient à la famille de langues"
+    },
+    {
+        "subject": "Cantonais",
+        "known_id": 11,
+        "attribute": "Sino-tibétaines",
+        "prompt": "Cantonais appartient à la famille de langues"
+    },
+    {
+        "subject": "Birman",
+        "known_id": 12,
+        "attribute": "Sino-tibétaines",
+        "prompt": "Birman appartient à la famille de langues"
+    },
+    {
+        "subject": "Tibétain",
+        "known_id": 13,
+        "attribute": "Sino-tibétaines",
+        "prompt": "Tibétain appartient à la famille de langues"
+    },
+    {
+        "subject": "Haoussa",
+        "known_id": 14,
+        "attribute": "Afro-asiatiques",
+        "prompt": "Haoussa appartient à la famille de langues"
+    },
+    {
+        "subject": "Arabe",
+        "known_id": 15,
+        "attribute": "Afro-asiatiques",
+        "prompt": "Arabe appartient à la famille de langues"
+    },
+    {
+        "subject": "Hébreu",
+        "known_id": 16,
+        "attribute": "Afro-asiatiques",
+        "prompt": "Hébreu appartient à la famille de langues"
+    },
+    {
+        "subject": "Amharique",
+        "known_id": 17,
+        "attribute": "Afro-asiatiques",
+        "prompt": "Amharique appartient à la famille de langues"
+    },
+    {
+        "subject": "Berbère",
+        "known_id": 18,
+        "attribute": "Afro-asiatiques",
+        "prompt": "Berbère appartient à la famille de langues"
+    },
+    {
+        "subject": "Vietnamien",
+        "known_id": 19,
+        "attribute": "Austroasiatiques",
+        "prompt": "Vietnamien appartient à la famille de langues"
+    },
+    {
+        "subject": "Khmer",
+        "known_id": 20,
+        "attribute": "Austroasiatiques",
+        "prompt": "Khmer appartient à la famille de langues"
+    },
+    {
+        "subject": "Thaï",
+        "known_id": 21,
+        "attribute": "Taï-kadaï",
+        "prompt": "Thaï appartient à la famille de langues"
+    },
+    {
+        "subject": "Lao",
+        "known_id": 22,
+        "attribute": "Taï-kadaï",
+        "prompt": "Lao appartient à la famille de langues"
+    },
+    {
+        "subject": "Filipino",
+        "known_id": 23,
+        "attribute": "Austronésiennes",
+        "prompt": "Filipino appartient à la famille de langues"
+    },
+    {
+        "subject": "Malais",
+        "known_id": 24,
+        "attribute": "Austronésiennes",
+        "prompt": "Malais appartient à la famille de langues"
+    },
+    {
+        "subject": "Javanais",
+        "known_id": 25,
+        "attribute": "Austronésiennes",
+        "prompt": "Javanais appartient à la famille de langues"
+    },
+    {
+        "subject": "Tagalog",
+        "known_id": 26,
+        "attribute": "Austronésiennes",
+        "prompt": "Tagalog appartient à la famille de langues"
+    },
+    {
+        "subject": "Tamoul",
+        "known_id": 27,
+        "attribute": "Dravidiennes",
+        "prompt": "Tamoul appartient à la famille de langues"
+    },
+    {
+        "subject": "Télougou",
+        "known_id": 28,
+        "attribute": "Dravidiennes",
+        "prompt": "Télougou appartient à la famille de langues"
+    },
+    {
+        "subject": "Kannada",
+        "known_id": 29,
+        "attribute": "Dravidiennes",
+        "prompt": "Kannada appartient à la famille de langues"
+    },
+    {
+        "subject": "Hongrois",
+        "known_id": 30,
+        "attribute": "Ouraliennes",
+        "prompt": "Hongrois appartient à la famille de langues"
+    },
+    {
+        "subject": "Finnois",
+        "known_id": 31,
+        "attribute": "Ouraliennes",
+        "prompt": "Finnois appartient à la famille de langues"
+    },
+    {
+        "subject": "Estonien",
+        "known_id": 32,
+        "attribute": "Ouraliennes",
+        "prompt": "Estonien appartient à la famille de langues"
+    },
+    {
+        "subject": "Turc",
+        "known_id": 33,
+        "attribute": "Turques",
+        "prompt": "Turc appartient à la famille de langues"
+    },
+    {
+        "subject": "Ouzbek",
+        "known_id": 34,
+        "attribute": "Turques",
+        "prompt": "Ouzbek appartient à la famille de langues"
+    },
+    {
+        "subject": "Mongol",
+        "known_id": 35,
+        "attribute": "Mongoles",
+        "prompt": "Mongol appartient à la famille de langues"
+    },
+    {
+        "subject": "Coréen",
+        "known_id": 36,
+        "attribute": "Coréaniques",
+        "prompt": "Coréen appartient à la famille de langues"
+    },
+    {
+        "subject": "Japonais",
+        "known_id": 37,
+        "attribute": "Japoniques",
+        "prompt": "Japonais appartient à la famille de langues"
+    },
+    {
+        "subject": "Inuktitut",
+        "known_id": 38,
+        "attribute": "Eskimo-aléoutes",
+        "prompt": "Inuktitut appartient à la famille de langues"
+    },
+    {
+        "subject": "Quechua",
+        "known_id": 39,
+        "attribute": "Quechuas",
+        "prompt": "Quechua appartient à la famille de langues"
+    },
+    {
+        "subject": "Nahuatl",
+        "known_id": 40,
+        "attribute": "Uto-aztèques",
+        "prompt": "Nahuatl appartient à la famille de langues"
+    },
+    {
+        "subject": "Cherokee",
+        "known_id": 41,
+        "attribute": "Iroquoiennes",
+        "prompt": "Cherokee appartient à la famille de langues"
+    },
+    {
+        "subject": "Zoulou",
+        "known_id": 42,
+        "attribute": "Bantoues",
+        "prompt": "Zoulou appartient à la famille de langues"
+    },
+    {
+        "subject": "Swahili",
+        "known_id": 43,
+        "attribute": "Bantoues",
+        "prompt": "Swahili appartient à la famille de langues"
+    },
+    {
+        "subject": "Maori",
+        "known_id": 44,
+        "attribute": "Austronésiennes",
+        "prompt": "Maori appartient à la famille de langues"
+    },
+    {
+        "subject": "Créole haïtien",
+        "known_id": 45,
+        "attribute": "Créoles",
+        "prompt": "Créole haïtien appartient à la famille de langues"
+    },
+    {
+        "subject": "Basque",
+        "known_id": 46,
+        "attribute": "Isolées",
+        "prompt": "Basque appartient à la famille de langues"
+    },
+    {
+        "subject": "Aïnou",
+        "known_id": 47,
+        "attribute": "Isolées",
+        "prompt": "Aïnou appartient à la famille de langues"
+    },
+    {
+        "subject": "Hmong",
+        "known_id": 48,
+        "attribute": "Hmong-mien",
+        "prompt": "Hmong appartient à la famille de langues"
+    },
+    {
+        "subject": "Yoruba",
+        "known_id": 49,
+        "attribute": "Niger-congolaises",
+        "prompt": "Yoruba appartient à la famille de langues"
+    }
+]

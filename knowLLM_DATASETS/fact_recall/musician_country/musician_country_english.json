@@ -1,0 +1,284 @@
+[
+    {
+        "subject": "Ludwig van Beethoven",
+        "known_id": 0,
+        "attribute": "Germany",
+        "prompt": "The birth country of Ludwig van Beethoven is"
+    },
+    {
+        "subject": "Wolfgang Amadeus Mozart",
+        "known_id": 1,
+        "attribute": "Austria",
+        "prompt": "The birth country of Wolfgang Amadeus Mozart is"
+    },
+    {
+        "subject": "Johann Sebastian Bach",
+        "known_id": 2,
+        "attribute": "Germany",
+        "prompt": "The birth country of Johann Sebastian Bach is"
+    },
+    {
+        "subject": "Frédéric Chopin",
+        "known_id": 3,
+        "attribute": "Poland",
+        "prompt": "The birth country of Frédéric Chopin is"
+    },
+    {
+        "subject": "Pyotr Ilyich Tchaikovsky",
+        "known_id": 4,
+        "attribute": "Russia",
+        "prompt": "The birth country of Pyotr Ilyich Tchaikovsky is"
+    },
+    {
+        "subject": "Claude Debussy",
+        "known_id": 5,
+        "attribute": "France",
+        "prompt": "The birth country of Claude Debussy is"
+    },
+    {
+        "subject": "Igor Stravinsky",
+        "known_id": 6,
+        "attribute": "Russia",
+        "prompt": "The birth country of Igor Stravinsky is"
+    },
+    {
+        "subject": "Antonio Vivaldi",
+        "known_id": 7,
+        "attribute": "Italy",
+        "prompt": "The birth country of Antonio Vivaldi is"
+    },
+    {
+        "subject": "Gustav Mahler",
+        "known_id": 8,
+        "attribute": "Austria",
+        "prompt": "The birth country of Gustav Mahler is"
+    },
+    {
+        "subject": "Sergei Rachmaninoff",
+        "known_id": 9,
+        "attribute": "Russia",
+        "prompt": "The birth country of Sergei Rachmaninoff is"
+    },
+    {
+        "subject": "Dmitri Shostakovich",
+        "known_id": 10,
+        "attribute": "Russia",
+        "prompt": "The birth country of Dmitri Shostakovich is"
+    },
+    {
+        "subject": "George Gershwin",
+        "known_id": 11,
+        "attribute": "United States",
+        "prompt": "The birth country of George Gershwin is"
+    },
+    {
+        "subject": "Leonard Bernstein",
+        "known_id": 12,
+        "attribute": "United States",
+        "prompt": "The birth country of Leonard Bernstein is"
+    },
+    {
+        "subject": "Johannes Brahms",
+        "known_id": 13,
+        "attribute": "Germany",
+        "prompt": "The birth country of Johannes Brahms is"
+    },
+    {
+        "subject": "Richard Wagner",
+        "known_id": 14,
+        "attribute": "Germany",
+        "prompt": "The birth country of Richard Wagner is"
+    },
+    {
+        "subject": "Franz Schubert",
+        "known_id": 15,
+        "attribute": "Austria",
+        "prompt": "The birth country of Franz Schubert is"
+    },
+    {
+        "subject": "Gioachino Rossini",
+        "known_id": 16,
+        "attribute": "Italy",
+        "prompt": "The birth country of Gioachino Rossini is"
+    },
+    {
+        "subject": "Jean Sibelius",
+        "known_id": 17,
+        "attribute": "Finland",
+        "prompt": "The birth country of Jean Sibelius is"
+    },
+    {
+        "subject": "Edvard Grieg",
+        "known_id": 18,
+        "attribute": "Norway",
+        "prompt": "The birth country of Edvard Grieg is"
+    },
+    {
+        "subject": "Philip Glass",
+        "known_id": 19,
+        "attribute": "United States",
+        "prompt": "The birth country of Philip Glass is"
+    },
+    {
+        "subject": "John Williams",
+        "known_id": 20,
+        "attribute": "United States",
+        "prompt": "The birth country of John Williams is"
+    },
+    {
+        "subject": "Ennio Morricone",
+        "known_id": 21,
+        "attribute": "Italy",
+        "prompt": "The birth country of Ennio Morricone is"
+    },
+    {
+        "subject": "Arvo Pärt",
+        "known_id": 22,
+        "attribute": "Estonia",
+        "prompt": "The birth country of Arvo Pärt is"
+    },
+    {
+        "subject": "Béla Bartók",
+        "known_id": 23,
+        "attribute": "Hungary",
+        "prompt": "The birth country of Béla Bartók is"
+    },
+    {
+        "subject": "Manuel de Falla",
+        "known_id": 24,
+        "attribute": "Spain",
+        "prompt": "The birth country of Manuel de Falla is"
+    },
+    {
+        "subject": "Erik Satie",
+        "known_id": 25,
+        "attribute": "France",
+        "prompt": "The birth country of Erik Satie is"
+    },
+    {
+        "subject": "Alexander Scriabin",
+        "known_id": 26,
+        "attribute": "Russia",
+        "prompt": "The birth country of Alexander Scriabin is"
+    },
+    {
+        "subject": "Maurice Ravel",
+        "known_id": 27,
+        "attribute": "France",
+        "prompt": "The birth country of Maurice Ravel is"
+    },
+    {
+        "subject": "Camille Saint-Saëns",
+        "known_id": 28,
+        "attribute": "France",
+        "prompt": "The birth country of Camille Saint-Saëns is"
+    },
+    {
+        "subject": "Nikolai Rimsky-Korsakov",
+        "known_id": 29,
+        "attribute": "Russia",
+        "prompt": "The birth country of Nikolai Rimsky-Korsakov is"
+    },
+    {
+        "subject": "Ralph Vaughan Williams",
+        "known_id": 30,
+        "attribute": "United Kingdom",
+        "prompt": "The birth country of Ralph Vaughan Williams is"
+    },
+    {
+        "subject": "Benjamin Britten",
+        "known_id": 31,
+        "attribute": "United Kingdom",
+        "prompt": "The birth country of Benjamin Britten is"
+    },
+    {
+        "subject": "Hector Berlioz",
+        "known_id": 32,
+        "attribute": "France",
+        "prompt": "The birth country of Hector Berlioz is"
+    },
+    {
+        "subject": "Anton Bruckner",
+        "known_id": 33,
+        "attribute": "Austria",
+        "prompt": "The birth country of Anton Bruckner is"
+    },
+    {
+        "subject": "Carl Orff",
+        "known_id": 34,
+        "attribute": "Germany",
+        "prompt": "The birth country of Carl Orff is"
+    },
+    {
+        "subject": "Ottorino Respighi",
+        "known_id": 35,
+        "attribute": "Italy",
+        "prompt": "The birth country of Ottorino Respighi is"
+    },
+    {
+        "subject": "Carl Nielsen",
+        "known_id": 36,
+        "attribute": "Denmark",
+        "prompt": "The birth country of Carl Nielsen is"
+    },
+    {
+        "subject": "Zoltán Kodály",
+        "known_id": 37,
+        "attribute": "Hungary",
+        "prompt": "The birth country of Zoltán Kodály is"
+    },
+    {
+        "subject": "Astor Piazzolla",
+        "known_id": 38,
+        "attribute": "Argentina",
+        "prompt": "The birth country of Astor Piazzolla is"
+    },
+    {
+        "subject": "Alberto Ginastera",
+        "known_id": 39,
+        "attribute": "Argentina",
+        "prompt": "The birth country of Alberto Ginastera is"
+    },
+    {
+        "subject": "Modest Mussorgsky",
+        "known_id": 40,
+        "attribute": "Russia",
+        "prompt": "The birth country of Modest Mussorgsky is"
+    },
+    {
+        "subject": "Mikhail Glinka",
+        "known_id": 41,
+        "attribute": "Russia",
+        "prompt": "The birth country of Mikhail Glinka is"
+    },
+    {
+        "subject": "Krzysztof Penderecki",
+        "known_id": 42,
+        "attribute": "Poland",
+        "prompt": "The birth country of Krzysztof Penderecki is"
+    },
+    {
+        "subject": "Charles Ives",
+        "known_id": 43,
+        "attribute": "United States",
+        "prompt": "The birth country of Charles Ives is"
+    },
+    {
+        "subject": "Samuel Barber",
+        "known_id": 44,
+        "attribute": "United States",
+        "prompt": "The birth country of Samuel Barber is"
+    },
+    {
+        "subject": "Henryk Górecki",
+        "known_id": 45,
+        "attribute": "Poland",
+        "prompt": "The birth country of Henryk Górecki is"
+    },
+    {
+        "subject": "John Cage",
+        "known_id": 46,
+        "attribute": "United States",
+        "prompt": "The birth country of John Cage is"
+    }
+]

@@ -1,0 +1,284 @@
+[
+  {
+    "known_id": 0,
+    "subject": "Mammal",
+    "attribute": "Mammifère",
+    "prompt": "Translate a word from English to french. Word: 'Mammal'. Translated: '"
+  },
+  {
+    "known_id": 1,
+    "subject": "Mammal",
+    "attribute": "Mammifère",
+    "prompt": "Translate a word from English to french. Word: 'Mammal'. Translated: '"
+  },
+  {
+    "known_id": 2,
+    "subject": "Mammal",
+    "attribute": "Mammifère",
+    "prompt": "Translate a word from English to french. Word: 'Mammal'. Translated: '"
+  },
+  {
+    "known_id": 3,
+    "subject": "Mammal",
+    "attribute": "Mammifère",
+    "prompt": "Translate a word from English to french. Word: 'Mammal'. Translated: '"
+  },
+  {
+    "known_id": 4,
+    "subject": "Mammal",
+    "attribute": "Mammifère",
+    "prompt": "Translate a word from English to french. Word: 'Mammal'. Translated: '"
+  },
+  {
+    "known_id": 5,
+    "subject": "Mammal",
+    "attribute": "Mammifère",
+    "prompt": "Translate a word from English to french. Word: 'Mammal'. Translated: '"
+  },
+  {
+    "known_id": 6,
+    "subject": "Mammal",
+    "attribute": "Mammifère",
+    "prompt": "Translate a word from English to french. Word: 'Mammal'. Translated: '"
+  },
+  {
+    "known_id": 7,
+    "subject": "Mammal",
+    "attribute": "Mammifère",
+    "prompt": "Translate a word from English to french. Word: 'Mammal'. Translated: '"
+  },
+  {
+    "known_id": 8,
+    "subject": "Mammal",
+    "attribute": "Mammifère",
+    "prompt": "Translate a word from English to french. Word: 'Mammal'. Translated: '"
+  },
+  {
+    "known_id": 9,
+    "subject": "Mammal",
+    "attribute": "Mammifère",
+    "prompt": "Translate a word from English to french. Word: 'Mammal'. Translated: '"
+  },
+  {
+    "known_id": 10,
+    "subject": "Mammal",
+    "attribute": "Mammifère",
+    "prompt": "Translate a word from English to french. Word: 'Mammal'. Translated: '"
+  },
+  {
+    "known_id": 11,
+    "subject": "Mammal",
+    "attribute": "Mammifère",
+    "prompt": "Translate a word from English to french. Word: 'Mammal'. Translated: '"
+  },
+  {
+    "known_id": 12,
+    "subject": "Reptile",
+    "attribute": "Reptile",
+    "prompt": "Translate a word from English to french. Word: 'Reptile'. Translated: '"
+  },
+  {
+    "known_id": 13,
+    "subject": "Reptile",
+    "attribute": "Reptile",
+    "prompt": "Translate a word from English to french. Word: 'Reptile'. Translated: '"
+  },
+  {
+    "known_id": 14,
+    "subject": "Reptile",
+    "attribute": "Reptile",
+    "prompt": "Translate a word from English to french. Word: 'Reptile'. Translated: '"
+  },
+  {
+    "known_id": 15,
+    "subject": "Reptile",
+    "attribute": "Reptile",
+    "prompt": "Translate a word from English to french. Word: 'Reptile'. Translated: '"
+  },
+  {
+    "known_id": 16,
+    "subject": "Reptile",
+    "attribute": "Reptile",
+    "prompt": "Translate a word from English to french. Word: 'Reptile'. Translated: '"
+  },
+  {
+    "known_id": 17,
+    "subject": "Amphibian",
+    "attribute": "Amphibien",
+    "prompt": "Translate a word from English to french. Word: 'Amphibian'. Translated: '"
+  },
+  {
+    "known_id": 18,
+    "subject": "Amphibian",
+    "attribute": "Amphibien",
+    "prompt": "Translate a word from English to french. Word: 'Amphibian'. Translated: '"
+  },
+  {
+    "known_id": 19,
+    "subject": "Amphibian",
+    "attribute": "Amphibien",
+    "prompt": "Translate a word from English to french. Word: 'Amphibian'. Translated: '"
+  },
+  {
+    "known_id": 20,
+    "subject": "Amphibian",
+    "attribute": "Amphibien",
+    "prompt": "Translate a word from English to french. Word: 'Amphibian'. Translated: '"
+  },
+  {
+    "known_id": 21,
+    "subject": "Fish",
+    "attribute": "Poisson",
+    "prompt": "Translate a word from English to french. Word: 'Fish'. Translated: '"
+  },
+  {
+    "known_id": 22,
+    "subject": "Fish",
+    "attribute": "Poisson",
+    "prompt": "Translate a word from English to french. Word: 'Fish'. Translated: '"
+  },
+  {
+    "known_id": 23,
+    "subject": "Fish",
+    "attribute": "Poisson",
+    "prompt": "Translate a word from English to french. Word: 'Fish'. Translated: '"
+  },
+  {
+    "known_id": 24,
+    "subject": "Fish",
+    "attribute": "Poisson",
+    "prompt": "Translate a word from English to french. Word: 'Fish'. Translated: '"
+  },
+  {
+    "known_id": 25,
+    "subject": "Fish",
+    "attribute": "Poisson",
+    "prompt": "Translate a word from English to french. Word: 'Fish'. Translated: '"
+  },
+  {
+    "known_id": 26,
+    "subject": "Bird",
+    "attribute": "Oiseau",
+    "prompt": "Translate a word from English to french. Word: 'Bird'. Translated: '"
+  },
+  {
+    "known_id": 27,
+    "subject": "Bird",
+    "attribute": "Oiseau",
+    "prompt": "Translate a word from English to french. Word: 'Bird'. Translated: '"
+  },
+  {
+    "known_id": 28,
+    "subject": "Bird",
+    "attribute": "Oiseau",
+    "prompt": "Translate a word from English to french. Word: 'Bird'. Translated: '"
+  },
+  {
+    "known_id": 29,
+    "subject": "Bird",
+    "attribute": "Oiseau",
+    "prompt": "Translate a word from English to french. Word: 'Bird'. Translated: '"
+  },
+  {
+    "known_id": 30,
+    "subject": "Bird",
+    "attribute": "Oiseau",
+    "prompt": "Translate a word from English to french. Word: 'Bird'. Translated: '"
+  },
+  {
+    "known_id": 31,
+    "subject": "Insect",
+    "attribute": "Insecte",
+    "prompt": "Translate a word from English to french. Word: 'Insect'. Translated: '"
+  },
+  {
+    "known_id": 32,
+    "subject": "Insect",
+    "attribute": "Insecte",
+    "prompt": "Translate a word from English to french. Word: 'Insect'. Translated: '"
+  },
+  {
+    "known_id": 33,
+    "subject": "Insect",
+    "attribute": "Insecte",
+    "prompt": "Translate a word from English to french. Word: 'Insect'. Translated: '"
+  },
+  {
+    "known_id": 34,
+    "subject": "Insect",
+    "attribute": "Insecte",
+    "prompt": "Translate a word from English to french. Word: 'Insect'. Translated: '"
+  },
+  {
+    "known_id": 35,
+    "subject": "Insect",
+    "attribute": "Insecte",
+    "prompt": "Translate a word from English to french. Word: 'Insect'. Translated: '"
+  },
+  {
+    "known_id": 36,
+    "subject": "Arachnid",
+    "attribute": "Arachnide",
+    "prompt": "Translate a word from English to french. Word: 'Arachnid'. Translated: '"
+  },
+  {
+    "known_id": 37,
+    "subject": "Arachnid",
+    "attribute": "Arachnide",
+    "prompt": "Translate a word from English to french. Word: 'Arachnid'. Translated: '"
+  },
+  {
+    "known_id": 38,
+    "subject": "Cephalopod",
+    "attribute": "Céphalopode",
+    "prompt": "Translate a word from English to french. Word: 'Cephalopod'. Translated: '"
+  },
+  {
+    "known_id": 39,
+    "subject": "Cephalopod",
+    "attribute": "Céphalopode",
+    "prompt": "Translate a word from English to french. Word: 'Cephalopod'. Translated: '"
+  },
+  {
+    "known_id": 40,
+    "subject": "Cnidarian",
+    "attribute": "Cnidaire",
+    "prompt": "Translate a word from English to french. Word: 'Cnidarian'. Translated: '"
+  },
+  {
+    "known_id": 41,
+    "subject": "Echinoderm",
+    "attribute": "Échinoderme",
+    "prompt": "Translate a word from English to french. Word: 'Echinoderm'. Translated: '"
+  },
+  {
+    "known_id": 42,
+    "subject": "Echinoderm",
+    "attribute": "Échinoderme",
+    "prompt": "Translate a word from English to french. Word: 'Echinoderm'. Translated: '"
+  },
+  {
+    "known_id": 43,
+    "subject": "Annelid",
+    "attribute": "Annélide",
+    "prompt": "Translate a word from English to french. Word: 'Annelid'. Translated: '"
+  },
+  {
+    "known_id": 44,
+    "subject": "Mollusk",
+    "attribute": "Mollusque",
+    "prompt": "Translate a word from English to french. Word: 'Mollusk'. Translated: '"
+  },
+  {
+    "known_id": 45,
+    "subject": "Crustacean",
+    "attribute": "Crustacé",
+    "prompt": "Translate a word from English to french. Word: 'Crustacean'. Translated: '"
+  },
+  {
+    "known_id": 46,
+    "subject": "Crustacean",
+    "attribute": "Crustacé",
+    "prompt": "Translate a word from English to french. Word: 'Crustacean'. Translated: '"
+  }
+]

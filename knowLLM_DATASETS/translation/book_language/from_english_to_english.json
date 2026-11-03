@@ -1,0 +1,326 @@
+[
+  {
+    "known_id": 0,
+    "subject": "Spanish",
+    "attribute": "Spanish",
+    "prompt": "Translate a word from English to english. Word: 'Spanish'. Translated: '"
+  },
+  {
+    "known_id": 1,
+    "subject": "Italian",
+    "attribute": "Italian",
+    "prompt": "Translate a word from English to english. Word: 'Italian'. Translated: '"
+  },
+  {
+    "known_id": 2,
+    "subject": "Russian",
+    "attribute": "Russian",
+    "prompt": "Translate a word from English to english. Word: 'Russian'. Translated: '"
+  },
+  {
+    "known_id": 3,
+    "subject": "French",
+    "attribute": "French",
+    "prompt": "Translate a word from English to english. Word: 'French'. Translated: '"
+  },
+  {
+    "known_id": 4,
+    "subject": "Greek",
+    "attribute": "Greek",
+    "prompt": "Translate a word from English to english. Word: 'Greek'. Translated: '"
+  },
+  {
+    "known_id": 5,
+    "subject": "Greek",
+    "attribute": "Greek",
+    "prompt": "Translate a word from English to english. Word: 'Greek'. Translated: '"
+  },
+  {
+    "known_id": 6,
+    "subject": "German",
+    "attribute": "German",
+    "prompt": "Translate a word from English to english. Word: 'German'. Translated: '"
+  },
+  {
+    "known_id": 7,
+    "subject": "Latin",
+    "attribute": "Latin",
+    "prompt": "Translate a word from English to english. Word: 'Latin'. Translated: '"
+  },
+  {
+    "known_id": 8,
+    "subject": "English",
+    "attribute": "English",
+    "prompt": "Translate a word from English to english. Word: 'English'. Translated: '"
+  },
+  {
+    "known_id": 9,
+    "subject": "English",
+    "attribute": "English",
+    "prompt": "Translate a word from English to english. Word: 'English'. Translated: '"
+  },
+  {
+    "known_id": 10,
+    "subject": "English",
+    "attribute": "English",
+    "prompt": "Translate a word from English to english. Word: 'English'. Translated: '"
+  },
+  {
+    "known_id": 11,
+    "subject": "Russian",
+    "attribute": "Russian",
+    "prompt": "Translate a word from English to english. Word: 'Russian'. Translated: '"
+  },
+  {
+    "known_id": 12,
+    "subject": "Russian",
+    "attribute": "Russian",
+    "prompt": "Translate a word from English to english. Word: 'Russian'. Translated: '"
+  },
+  {
+    "known_id": 13,
+    "subject": "French",
+    "attribute": "French",
+    "prompt": "Translate a word from English to english. Word: 'French'. Translated: '"
+  },
+  {
+    "known_id": 14,
+    "subject": "French",
+    "attribute": "French",
+    "prompt": "Translate a word from English to english. Word: 'French'. Translated: '"
+  },
+  {
+    "known_id": 15,
+    "subject": "French",
+    "attribute": "French",
+    "prompt": "Translate a word from English to english. Word: 'French'. Translated: '"
+  },
+  {
+    "known_id": 16,
+    "subject": "German",
+    "attribute": "German",
+    "prompt": "Translate a word from English to english. Word: 'German'. Translated: '"
+  },
+  {
+    "known_id": 17,
+    "subject": "German",
+    "attribute": "German",
+    "prompt": "Translate a word from English to english. Word: 'German'. Translated: '"
+  },
+  {
+    "known_id": 18,
+    "subject": "Russian",
+    "attribute": "Russian",
+    "prompt": "Translate a word from English to english. Word: 'Russian'. Translated: '"
+  },
+  {
+    "known_id": 19,
+    "subject": "Russian",
+    "attribute": "Russian",
+    "prompt": "Translate a word from English to english. Word: 'Russian'. Translated: '"
+  },
+  {
+    "known_id": 20,
+    "subject": "Italian",
+    "attribute": "Italian",
+    "prompt": "Translate a word from English to english. Word: 'Italian'. Translated: '"
+  },
+  {
+    "known_id": 21,
+    "subject": "Spanish",
+    "attribute": "Spanish",
+    "prompt": "Translate a word from English to english. Word: 'Spanish'. Translated: '"
+  },
+  {
+    "known_id": 22,
+    "subject": "Portuguese",
+    "attribute": "Portuguese",
+    "prompt": "Translate a word from English to english. Word: 'Portuguese'. Translated: '"
+  },
+  {
+    "known_id": 23,
+    "subject": "Italian",
+    "attribute": "Italian",
+    "prompt": "Translate a word from English to english. Word: 'Italian'. Translated: '"
+  },
+  {
+    "known_id": 24,
+    "subject": "German",
+    "attribute": "German",
+    "prompt": "Translate a word from English to english. Word: 'German'. Translated: '"
+  },
+  {
+    "known_id": 25,
+    "subject": "German",
+    "attribute": "German",
+    "prompt": "Translate a word from English to english. Word: 'German'. Translated: '"
+  },
+  {
+    "known_id": 26,
+    "subject": "English",
+    "attribute": "English",
+    "prompt": "Translate a word from English to english. Word: 'English'. Translated: '"
+  },
+  {
+    "known_id": 27,
+    "subject": "English",
+    "attribute": "English",
+    "prompt": "Translate a word from English to english. Word: 'English'. Translated: '"
+  },
+  {
+    "known_id": 28,
+    "subject": "Italian",
+    "attribute": "Italian",
+    "prompt": "Translate a word from English to english. Word: 'Italian'. Translated: '"
+  },
+  {
+    "known_id": 29,
+    "subject": "French",
+    "attribute": "French",
+    "prompt": "Translate a word from English to english. Word: 'French'. Translated: '"
+  },
+  {
+    "known_id": 30,
+    "subject": "French",
+    "attribute": "French",
+    "prompt": "Translate a word from English to english. Word: 'French'. Translated: '"
+  },
+  {
+    "known_id": 31,
+    "subject": "French",
+    "attribute": "French",
+    "prompt": "Translate a word from English to english. Word: 'French'. Translated: '"
+  },
+  {
+    "known_id": 32,
+    "subject": "German",
+    "attribute": "German",
+    "prompt": "Translate a word from English to english. Word: 'German'. Translated: '"
+  },
+  {
+    "known_id": 33,
+    "subject": "Italian",
+    "attribute": "Italian",
+    "prompt": "Translate a word from English to english. Word: 'Italian'. Translated: '"
+  },
+  {
+    "known_id": 34,
+    "subject": "French",
+    "attribute": "French",
+    "prompt": "Translate a word from English to english. Word: 'French'. Translated: '"
+  },
+  {
+    "known_id": 35,
+    "subject": "French",
+    "attribute": "French",
+    "prompt": "Translate a word from English to english. Word: 'French'. Translated: '"
+  },
+  {
+    "known_id": 36,
+    "subject": "French",
+    "attribute": "French",
+    "prompt": "Translate a word from English to english. Word: 'French'. Translated: '"
+  },
+  {
+    "known_id": 37,
+    "subject": "English",
+    "attribute": "English",
+    "prompt": "Translate a word from English to english. Word: 'English'. Translated: '"
+  },
+  {
+    "known_id": 38,
+    "subject": "English",
+    "attribute": "English",
+    "prompt": "Translate a word from English to english. Word: 'English'. Translated: '"
+  },
+  {
+    "known_id": 39,
+    "subject": "German",
+    "attribute": "German",
+    "prompt": "Translate a word from English to english. Word: 'German'. Translated: '"
+  },
+  {
+    "known_id": 40,
+    "subject": "German",
+    "attribute": "German",
+    "prompt": "Translate a word from English to english. Word: 'German'. Translated: '"
+  },
+  {
+    "known_id": 41,
+    "subject": "German",
+    "attribute": "German",
+    "prompt": "Translate a word from English to english. Word: 'German'. Translated: '"
+  },
+  {
+    "known_id": 42,
+    "subject": "German",
+    "attribute": "German",
+    "prompt": "Translate a word from English to english. Word: 'German'. Translated: '"
+  },
+  {
+    "known_id": 43,
+    "subject": "Italian",
+    "attribute": "Italian",
+    "prompt": "Translate a word from English to english. Word: 'Italian'. Translated: '"
+  },
+  {
+    "known_id": 44,
+    "subject": "Italian",
+    "attribute": "Italian",
+    "prompt": "Translate a word from English to english. Word: 'Italian'. Translated: '"
+  },
+  {
+    "known_id": 45,
+    "subject": "Italian",
+    "attribute": "Italian",
+    "prompt": "Translate a word from English to english. Word: 'Italian'. Translated: '"
+  },
+  {
+    "known_id": 46,
+    "subject": "English",
+    "attribute": "English",
+    "prompt": "Translate a word from English to english. Word: 'English'. Translated: '"
+  },
+  {
+    "known_id": 47,
+    "subject": "English",
+    "attribute": "English",
+    "prompt": "Translate a word from English to english. Word: 'English'. Translated: '"
+  },
+  {
+    "known_id": 48,
+    "subject": "English",
+    "attribute": "English",
+    "prompt": "Translate a word from English to english. Word: 'English'. Translated: '"
+  },
+  {
+    "known_id": 49,
+    "subject": "English",
+    "attribute": "English",
+    "prompt": "Translate a word from English to english. Word: 'English'. Translated: '"
+  },
+  {
+    "known_id": 50,
+    "subject": "English",
+    "attribute": "English",
+    "prompt": "Translate a word from English to english. Word: 'English'. Translated: '"
+  },
+  {
+    "known_id": 51,
+    "subject": "Russian",
+    "attribute": "Russian",
+    "prompt": "Translate a word from English to english. Word: 'Russian'. Translated: '"
+  },
+  {
+    "known_id": 52,
+    "subject": "Russian",
+    "attribute": "Russian",
+    "prompt": "Translate a word from English to english. Word: 'Russian'. Translated: '"
+  },
+  {
+    "known_id": 53,
+    "subject": "Russian",
+    "attribute": "Russian",
+    "prompt": "Translate a word from English to english. Word: 'Russian'. Translated: '"
+  }
+]

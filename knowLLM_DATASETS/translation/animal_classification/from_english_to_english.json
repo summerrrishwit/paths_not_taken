@@ -1,0 +1,284 @@
+[
+  {
+    "known_id": 0,
+    "subject": "Mammal",
+    "attribute": "Mammal",
+    "prompt": "Translate a word from English to english. Word: 'Mammal'. Translated: '"
+  },
+  {
+    "known_id": 1,
+    "subject": "Mammal",
+    "attribute": "Mammal",
+    "prompt": "Translate a word from English to english. Word: 'Mammal'. Translated: '"
+  },
+  {
+    "known_id": 2,
+    "subject": "Mammal",
+    "attribute": "Mammal",
+    "prompt": "Translate a word from English to english. Word: 'Mammal'. Translated: '"
+  },
+  {
+    "known_id": 3,
+    "subject": "Mammal",
+    "attribute": "Mammal",
+    "prompt": "Translate a word from English to english. Word: 'Mammal'. Translated: '"
+  },
+  {
+    "known_id": 4,
+    "subject": "Mammal",
+    "attribute": "Mammal",
+    "prompt": "Translate a word from English to english. Word: 'Mammal'. Translated: '"
+  },
+  {
+    "known_id": 5,
+    "subject": "Mammal",
+    "attribute": "Mammal",
+    "prompt": "Translate a word from English to english. Word: 'Mammal'. Translated: '"
+  },
+  {
+    "known_id": 6,
+    "subject": "Mammal",
+    "attribute": "Mammal",
+    "prompt": "Translate a word from English to english. Word: 'Mammal'. Translated: '"
+  },
+  {
+    "known_id": 7,
+    "subject": "Mammal",
+    "attribute": "Mammal",
+    "prompt": "Translate a word from English to english. Word: 'Mammal'. Translated: '"
+  },
+  {
+    "known_id": 8,
+    "subject": "Mammal",
+    "attribute": "Mammal",
+    "prompt": "Translate a word from English to english. Word: 'Mammal'. Translated: '"
+  },
+  {
+    "known_id": 9,
+    "subject": "Mammal",
+    "attribute": "Mammal",
+    "prompt": "Translate a word from English to english. Word: 'Mammal'. Translated: '"
+  },
+  {
+    "known_id": 10,
+    "subject": "Mammal",
+    "attribute": "Mammal",
+    "prompt": "Translate a word from English to english. Word: 'Mammal'. Translated: '"
+  },
+  {
+    "known_id": 11,
+    "subject": "Mammal",
+    "attribute": "Mammal",
+    "prompt": "Translate a word from English to english. Word: 'Mammal'. Translated: '"
+  },
+  {
+    "known_id": 12,
+    "subject": "Reptile",
+    "attribute": "Reptile",
+    "prompt": "Translate a word from English to english. Word: 'Reptile'. Translated: '"
+  },
+  {
+    "known_id": 13,
+    "subject": "Reptile",
+    "attribute": "Reptile",
+    "prompt": "Translate a word from English to english. Word: 'Reptile'. Translated: '"
+  },
+  {
+    "known_id": 14,
+    "subject": "Reptile",
+    "attribute": "Reptile",
+    "prompt": "Translate a word from English to english. Word: 'Reptile'. Translated: '"
+  },
+  {
+    "known_id": 15,
+    "subject": "Reptile",
+    "attribute": "Reptile",
+    "prompt": "Translate a word from English to english. Word: 'Reptile'. Translated: '"
+  },
+  {
+    "known_id": 16,
+    "subject": "Reptile",
+    "attribute": "Reptile",
+    "prompt": "Translate a word from English to english. Word: 'Reptile'. Translated: '"
+  },
+  {
+    "known_id": 17,
+    "subject": "Amphibian",
+    "attribute": "Amphibian",
+    "prompt": "Translate a word from English to english. Word: 'Amphibian'. Translated: '"
+  },
+  {
+    "known_id": 18,
+    "subject": "Amphibian",
+    "attribute": "Amphibian",
+    "prompt": "Translate a word from English to english. Word: 'Amphibian'. Translated: '"
+  },
+  {
+    "known_id": 19,
+    "subject": "Amphibian",
+    "attribute": "Amphibian",
+    "prompt": "Translate a word from English to english. Word: 'Amphibian'. Translated: '"
+  },
+  {
+    "known_id": 20,
+    "subject": "Amphibian",
+    "attribute": "Amphibian",
+    "prompt": "Translate a word from English to english. Word: 'Amphibian'. Translated: '"
+  },
+  {
+    "known_id": 21,
+    "subject": "Fish",
+    "attribute": "Fish",
+    "prompt": "Translate a word from English to english. Word: 'Fish'. Translated: '"
+  },
+  {
+    "known_id": 22,
+    "subject": "Fish",
+    "attribute": "Fish",
+    "prompt": "Translate a word from English to english. Word: 'Fish'. Translated: '"
+  },
+  {
+    "known_id": 23,
+    "subject": "Fish",
+    "attribute": "Fish",
+    "prompt": "Translate a word from English to english. Word: 'Fish'. Translated: '"
+  },
+  {
+    "known_id": 24,
+    "subject": "Fish",
+    "attribute": "Fish",
+    "prompt": "Translate a word from English to english. Word: 'Fish'. Translated: '"
+  },
+  {
+    "known_id": 25,
+    "subject": "Fish",
+    "attribute": "Fish",
+    "prompt": "Translate a word from English to english. Word: 'Fish'. Translated: '"
+  },
+  {
+    "known_id": 26,
+    "subject": "Bird",
+    "attribute": "Bird",
+    "prompt": "Translate a word from English to english. Word: 'Bird'. Translated: '"
+  },
+  {
+    "known_id": 27,
+    "subject": "Bird",
+    "attribute": "Bird",
+    "prompt": "Translate a word from English to english. Word: 'Bird'. Translated: '"
+  },
+  {
+    "known_id": 28,
+    "subject": "Bird",
+    "attribute": "Bird",
+    "prompt": "Translate a word from English to english. Word: 'Bird'. Translated: '"
+  },
+  {
+    "known_id": 29,
+    "subject": "Bird",
+    "attribute": "Bird",
+    "prompt": "Translate a word from English to english. Word: 'Bird'. Translated: '"
+  },
+  {
+    "known_id": 30,
+    "subject": "Bird",
+    "attribute": "Bird",
+    "prompt": "Translate a word from English to english. Word: 'Bird'. Translated: '"
+  },
+  {
+    "known_id": 31,
+    "subject": "Insect",
+    "attribute": "Insect",
+    "prompt": "Translate a word from English to english. Word: 'Insect'. Translated: '"
+  },
+  {
+    "known_id": 32,
+    "subject": "Insect",
+    "attribute": "Insect",
+    "prompt": "Translate a word from English to english. Word: 'Insect'. Translated: '"
+  },
+  {
+    "known_id": 33,
+    "subject": "Insect",
+    "attribute": "Insect",
+    "prompt": "Translate a word from English to english. Word: 'Insect'. Translated: '"
+  },
+  {
+    "known_id": 34,
+    "subject": "Insect",
+    "attribute": "Insect",
+    "prompt": "Translate a word from English to english. Word: 'Insect'. Translated: '"
+  },
+  {
+    "known_id": 35,
+    "subject": "Insect",
+    "attribute": "Insect",
+    "prompt": "Translate a word from English to english. Word: 'Insect'. Translated: '"
+  },
+  {
+    "known_id": 36,
+    "subject": "Arachnid",
+    "attribute": "Arachnid",
+    "prompt": "Translate a word from English to english. Word: 'Arachnid'. Translated: '"
+  },
+  {
+    "known_id": 37,
+    "subject": "Arachnid",
+    "attribute": "Arachnid",
+    "prompt": "Translate a word from English to english. Word: 'Arachnid'. Translated: '"
+  },
+  {
+    "known_id": 38,
+    "subject": "Cephalopod",
+    "attribute": "Cephalopod",
+    "prompt": "Translate a word from English to english. Word: 'Cephalopod'. Translated: '"
+  },
+  {
+    "known_id": 39,
+    "subject": "Cephalopod",
+    "attribute": "Cephalopod",
+    "prompt": "Translate a word from English to english. Word: 'Cephalopod'. Translated: '"
+  },
+  {
+    "known_id": 40,
+    "subject": "Cnidarian",
+    "attribute": "Cnidarian",
+    "prompt": "Translate a word from English to english. Word: 'Cnidarian'. Translated: '"
+  },
+  {
+    "known_id": 41,
+    "subject": "Echinoderm",
+    "attribute": "Echinoderm",
+    "prompt": "Translate a word from English to english. Word: 'Echinoderm'. Translated: '"
+  },
+  {
+    "known_id": 42,
+    "subject": "Echinoderm",
+    "attribute": "Echinoderm",
+    "prompt": "Translate a word from English to english. Word: 'Echinoderm'. Translated: '"
+  },
+  {
+    "known_id": 43,
+    "subject": "Annelid",
+    "attribute": "Annelid",
+    "prompt": "Translate a word from English to english. Word: 'Annelid'. Translated: '"
+  },
+  {
+    "known_id": 44,
+    "subject": "Mollusk",
+    "attribute": "Mollusk",
+    "prompt": "Translate a word from English to english. Word: 'Mollusk'. Translated: '"
+  },
+  {
+    "known_id": 45,
+    "subject": "Crustacean",
+    "attribute": "Crustacean",
+    "prompt": "Translate a word from English to english. Word: 'Crustacean'. Translated: '"
+  },
+  {
+    "known_id": 46,
+    "subject": "Crustacean",
+    "attribute": "Crustacean",
+    "prompt": "Translate a word from English to english. Word: 'Crustacean'. Translated: '"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "known_id": 0,
+    "subject": "Indo-European",
+    "attribute": "印欧语系",
+    "prompt": "Translate a word from English to chinese. Word: 'Indo-European'. Translated: '"
+  },
+  {
+    "known_id": 1,
+    "subject": "Indo-European",
+    "attribute": "印欧语系",
+    "prompt": "Translate a word from English to chinese. Word: 'Indo-European'. Translated: '"
+  },
+  {
+    "known_id": 2,
+    "subject": "Indo-European",
+    "attribute": "印欧语系",
+    "prompt": "Translate a word from English to chinese. Word: 'Indo-European'. Translated: '"
+  },
+  {
+    "known_id": 3,
+    "subject": "Indo-European",
+    "attribute": "印欧语系",
+    "prompt": "Translate a word from English to chinese. Word: 'Indo-European'. Translated: '"
+  },
+  {
+    "known_id": 4,
+    "subject": "Indo-European",
+    "attribute": "印欧语系",
+    "prompt": "Translate a word from English to chinese. Word: 'Indo-European'. Translated: '"
+  },
+  {
+    "known_id": 5,
+    "subject": "Indo-European",
+    "attribute": "印欧语系",
+    "prompt": "Translate a word from English to chinese. Word: 'Indo-European'. Translated: '"
+  },
+  {
+    "known_id": 6,
+    "subject": "Indo-European",
+    "attribute": "印欧语系",
+    "prompt": "Translate a word from English to chinese. Word: 'Indo-European'. Translated: '"
+  },
+  {
+    "known_id": 7,
+    "subject": "Indo-European",
+    "attribute": "印欧语系",
+    "prompt": "Translate a word from English to chinese. Word: 'Indo-European'. Translated: '"
+  },
+  {
+    "known_id": 8,
+    "subject": "Indo-European",
+    "attribute": "印欧语系",
+    "prompt": "Translate a word from English to chinese. Word: 'Indo-European'. Translated: '"
+  },
+  {
+    "known_id": 9,
+    "subject": "Indo-European",
+    "attribute": "印欧语系",
+    "prompt": "Translate a word from English to chinese. Word: 'Indo-European'. Translated: '"
+  },
+  {
+    "known_id": 10,
+    "subject": "Sino-Tibetan",
+    "attribute": "汉藏语系",
+    "prompt": "Translate a word from English to chinese. Word: 'Sino-Tibetan'. Translated: '"
+  },
+  {
+    "known_id": 11,
+    "subject": "Sino-Tibetan",
+    "attribute": "汉藏语系",
+    "prompt": "Translate a word from English to chinese. Word: 'Sino-Tibetan'. Translated: '"
+  },
+  {
+    "known_id": 12,
+    "subject": "Sino-Tibetan",
+    "attribute": "汉藏语系",
+    "prompt": "Translate a word from English to chinese. Word: 'Sino-Tibetan'. Translated: '"
+  },
+  {
+    "known_id": 13,
+    "subject": "Sino-Tibetan",
+    "attribute": "汉藏语系",
+    "prompt": "Translate a word from English to chinese. Word: 'Sino-Tibetan'. Translated: '"
+  },
+  {
+    "known_id": 14,
+    "subject": "Afro-Asiatic",
+    "attribute": "亚非语系",
+    "prompt": "Translate a word from English to chinese. Word: 'Afro-Asiatic'. Translated: '"
+  },
+  {
+    "known_id": 15,
+    "subject": "Afro-Asiatic",
+    "attribute": "亚非语系",
+    "prompt": "Translate a word from English to chinese. Word: 'Afro-Asiatic'. Translated: '"
+  },
+  {
+    "known_id": 16,
+    "subject": "Afro-Asiatic",
+    "attribute": "亚非语系",
+    "prompt": "Translate a word from English to chinese. Word: 'Afro-Asiatic'. Translated: '"
+  },
+  {
+    "known_id": 17,
+    "subject": "Afro-Asiatic",
+    "attribute": "亚非语系",
+    "prompt": "Translate a word from English to chinese. Word: 'Afro-Asiatic'. Translated: '"
+  },
+  {
+    "known_id": 18,
+    "subject": "Afro-Asiatic",
+    "attribute": "亚非语系",
+    "prompt": "Translate a word from English to chinese. Word: 'Afro-Asiatic'. Translated: '"
+  },
+  {
+    "known_id": 19,
+    "subject": "Austroasiatic",
+    "attribute": "南亚语系",
+    "prompt": "Translate a word from English to chinese. Word: 'Austroasiatic'. Translated: '"
+  },
+  {
+    "known_id": 20,
+    "subject": "Austroasiatic",
+    "attribute": "南亚语系",
+    "prompt": "Translate a word from English to chinese. Word: 'Austroasiatic'. Translated: '"
+  },
+  {
+    "known_id": 21,
+    "subject": "Tai-Kadai",
+    "attribute": "台-卡岱语系",
+    "prompt": "Translate a word from English to chinese. Word: 'Tai-Kadai'. Translated: '"
+  },
+  {
+    "known_id": 22,
+    "subject": "Tai-Kadai",
+    "attribute": "台-卡岱语系",
+    "prompt": "Translate a word from English to chinese. Word: 'Tai-Kadai'. Translated: '"
+  },
+  {
+    "known_id": 23,
+    "subject": "Austronesian",
+    "attribute": "南岛语系",
+    "prompt": "Translate a word from English to chinese. Word: 'Austronesian'. Translated: '"
+  },
+  {
+    "known_id": 24,
+    "subject": "Austronesian",
+    "attribute": "南岛语系",
+    "prompt": "Translate a word from English to chinese. Word: 'Austronesian'. Translated: '"
+  },
+  {
+    "known_id": 25,
+    "subject": "Austronesian",
+    "attribute": "南岛语系",
+    "prompt": "Translate a word from English to chinese. Word: 'Austronesian'. Translated: '"
+  },
+  {
+    "known_id": 26,
+    "subject": "Austronesian",
+    "attribute": "南岛语系",
+    "prompt": "Translate a word from English to chinese. Word: 'Austronesian'. Translated: '"
+  },
+  {
+    "known_id": 27,
+    "subject": "Dravidian",
+    "attribute": "达罗毗荼语系",
+    "prompt": "Translate a word from English to chinese. Word: 'Dravidian'. Translated: '"
+  },
+  {
+    "known_id": 28,
+    "subject": "Dravidian",
+    "attribute": "达罗毗荼语系",
+    "prompt": "Translate a word from English to chinese. Word: 'Dravidian'. Translated: '"
+  },
+  {
+    "known_id": 29,
+    "subject": "Dravidian",
+    "attribute": "达罗毗荼语系",
+    "prompt": "Translate a word from English to chinese. Word: 'Dravidian'. Translated: '"
+  },
+  {
+    "known_id": 30,
+    "subject": "Uralic",
+    "attribute": "乌拉尔语系",
+    "prompt": "Translate a word from English to chinese. Word: 'Uralic'. Translated: '"
+  },
+  {
+    "known_id": 31,
+    "subject": "Uralic",
+    "attribute": "乌拉尔语系",
+    "prompt": "Translate a word from English to chinese. Word: 'Uralic'. Translated: '"
+  },
+  {
+    "known_id": 32,
+    "subject": "Uralic",
+    "attribute": "乌拉尔语系",
+    "prompt": "Translate a word from English to chinese. Word: 'Uralic'. Translated: '"
+  },
+  {
+    "known_id": 33,
+    "subject": "Turkic",
+    "attribute": "突厥语系",
+    "prompt": "Translate a word from English to chinese. Word: 'Turkic'. Translated: '"
+  },
+  {
+    "known_id": 34,
+    "subject": "Turkic",
+    "attribute": "突厥语系",
+    "prompt": "Translate a word from English to chinese. Word: 'Turkic'. Translated: '"
+  },
+  {
+    "known_id": 35,
+    "subject": "Mongolic",
+    "attribute": "蒙古语系",
+    "prompt": "Translate a word from English to chinese. Word: 'Mongolic'. Translated: '"
+  },
+  {
+    "known_id": 36,
+    "subject": "Koreanic",
+    "attribute": "朝鲜语系",
+    "prompt": "Translate a word from English to chinese. Word: 'Koreanic'. Translated: '"
+  },
+  {
+    "known_id": 37,
+    "subject": "Japonic",
+    "attribute": "日本语系",
+    "prompt": "Translate a word from English to chinese. Word: 'Japonic'. Translated: '"
+  },
+  {
+    "known_id": 38,
+    "subject": "Eskimo-Aleut",
+    "attribute": "爱斯基摩-阿留申语系",
+    "prompt": "Translate a word from English to chinese. Word: 'Eskimo-Aleut'. Translated: '"
+  },
+  {
+    "known_id": 39,
+    "subject": "Quechuan",
+    "attribute": "克丘亚语系",
+    "prompt": "Translate a word from English to chinese. Word: 'Quechuan'. Translated: '"
+  },
+  {
+    "known_id": 40,
+    "subject": "Uto-Aztecan",
+    "attribute": "尤托-阿兹特克语系",
+    "prompt": "Translate a word from English to chinese. Word: 'Uto-Aztecan'. Translated: '"
+  },
+  {
+    "known_id": 41,
+    "subject": "Iroquoian",
+    "attribute": "易洛魁语系",
+    "prompt": "Translate a word from English to chinese. Word: 'Iroquoian'. Translated: '"
+  },
+  {
+    "known_id": 42,
+    "subject": "Bantu",
+    "attribute": "班图语系",
+    "prompt": "Translate a word from English to chinese. Word: 'Bantu'. Translated: '"
+  },
+  {
+    "known_id": 43,
+    "subject": "Bantu",
+    "attribute": "班图语系",
+    "prompt": "Translate a word from English to chinese. Word: 'Bantu'. Translated: '"
+  },
+  {
+    "known_id": 44,
+    "subject": "Austronesian",
+    "attribute": "南岛语系",
+    "prompt": "Translate a word from English to chinese. Word: 'Austronesian'. Translated: '"
+  },
+  {
+    "known_id": 45,
+    "subject": "Creole",
+    "attribute": "克里奥尔语",
+    "prompt": "Translate a word from English to chinese. Word: 'Creole'. Translated: '"
+  },
+  {
+    "known_id": 46,
+    "subject": "Language Isolate",
+    "attribute": "孤立语言",
+    "prompt": "Translate a word from English to chinese. Word: 'Language Isolate'. Translated: '"
+  },
+  {
+    "known_id": 47,
+    "subject": "Language Isolate",
+    "attribute": "孤立语言",
+    "prompt": "Translate a word from English to chinese. Word: 'Language Isolate'. Translated: '"
+  },
+  {
+    "known_id": 48,
+    "subject": "Hmong-Mien",
+    "attribute": "苗瑶语系",
+    "prompt": "Translate a word from English to chinese. Word: 'Hmong-Mien'. Translated: '"
+  },
+  {
+    "known_id": 49,
+    "subject": "Niger-Congo",
+    "attribute": "尼日尔-刚果语系",
+    "prompt": "Translate a word from English to chinese. Word: 'Niger-Congo'. Translated: '"
+  }
+]

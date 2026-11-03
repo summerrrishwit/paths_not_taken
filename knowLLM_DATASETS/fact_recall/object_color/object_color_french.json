@@ -1,0 +1,265 @@
+[
+    {
+        "subject": "Banane",
+        "known_id": 0,
+        "attribute": "Jaune",
+        "prompt": "La couleur de Banane est"
+    },
+    {
+        "subject": "Fraise",
+        "known_id": 1,
+        "attribute": "Rouge",
+        "prompt": "La couleur de Fraise est"
+    },
+    {
+        "subject": "Carotte",
+        "known_id": 2,
+        "attribute": "Orange",
+        "prompt": "La couleur de Carotte est"
+    },
+    {
+        "subject": "Laitue",
+        "known_id": 3,
+        "attribute": "Vert",
+        "prompt": "La couleur de Laitue est"
+    },
+    {
+        "subject": "Aubergine",
+        "known_id": 4,
+        "attribute": "Violet",
+        "prompt": "La couleur de Aubergine est"
+    },
+    {
+        "subject": "Neige",
+        "known_id": 5,
+        "attribute": "Blanc",
+        "prompt": "La couleur de Neige est"
+    },
+    {
+        "subject": "Charbon",
+        "known_id": 6,
+        "attribute": "Noir",
+        "prompt": "La couleur de Charbon est"
+    },
+    {
+        "subject": "Myrtille",
+        "known_id": 7,
+        "attribute": "Bleu",
+        "prompt": "La couleur de Myrtille est"
+    },
+
+    {
+        "subject": "Citrouille",
+        "known_id": 9,
+        "attribute": "Orange",
+        "prompt": "La couleur de Citrouille est"
+    },
+    {
+        "subject": "Raisin",
+        "known_id": 10,
+        "attribute": "Violet",
+        "prompt": "La couleur de Raisin est"
+    },
+    {
+        "subject": "Citron vert",
+        "known_id": 11,
+        "attribute": "Vert",
+        "prompt": "La couleur de Citron vert est"
+    },
+    {
+        "subject": "Noix de coco",
+        "known_id": 12,
+        "attribute": "Marron",
+        "prompt": "La couleur de Noix de coco est"
+    },
+    {
+        "subject": "Tomate",
+        "known_id": 13,
+        "attribute": "Rouge",
+        "prompt": "La couleur de Tomate est"
+    },
+    {
+        "subject": "Citron",
+        "known_id": 14,
+        "attribute": "Jaune",
+        "prompt": "La couleur de Citron est"
+    },
+    {
+        "subject": "Lait",
+        "known_id": 15,
+        "attribute": "Blanc",
+        "prompt": "La couleur de Lait est"
+    },
+    {
+        "subject": "Charbon de bois",
+        "known_id": 16,
+        "attribute": "Noir",
+        "prompt": "La couleur de Charbon de bois est"
+    },
+    {
+        "subject": "Ciel",
+        "known_id": 17,
+        "attribute": "Bleu",
+        "prompt": "La couleur de Ciel est"
+    },
+    {
+        "subject": "Poire",
+        "known_id": 18,
+        "attribute": "Vert",
+        "prompt": "La couleur de Poire est"
+    },
+    {
+        "subject": "Or",
+        "known_id": 19,
+        "attribute": "Doré",
+        "prompt": "La couleur de Or est"
+    },
+    {
+        "subject": "Argent",
+        "known_id": 20,
+        "attribute": "Argenté",
+        "prompt": "La couleur de Argent est"
+    },
+    {
+        "subject": "Cuivre",
+        "known_id": 21,
+        "attribute": "Cuivré",
+        "prompt": "La couleur de Cuivre est"
+    },
+    {
+        "subject": "Camion de pompiers",
+        "known_id": 22,
+        "attribute": "Rouge",
+        "prompt": "La couleur de Camion de pompiers est"
+    },
+    {
+        "subject": "Mandarine",
+        "known_id": 23,
+        "attribute": "Orange",
+        "prompt": "La couleur de Mandarine est"
+    },
+    {
+        "subject": "Avocat",
+        "known_id": 24,
+        "attribute": "Vert",
+        "prompt": "La couleur de Avocat est"
+    },
+    {
+        "subject": "Prune",
+        "known_id": 25,
+        "attribute": "Violet",
+        "prompt": "La couleur de Prune est"
+    },
+    {
+        "subject": "Onyx",
+        "known_id": 26,
+        "attribute": "Noir",
+        "prompt": "La couleur de Onyx est"
+    },
+    {
+        "subject": "Coton",
+        "known_id": 27,
+        "attribute": "Blanc",
+        "prompt": "La couleur de Coton est"
+    },
+    {
+        "subject": "Canard en caoutchouc",
+        "known_id": 28,
+        "attribute": "Jaune",
+        "prompt": "La couleur de Canard en caoutchouc est"
+    },
+
+    {
+        "subject": "Pêche",
+        "known_id": 30,
+        "attribute": "Orange",
+        "prompt": "La couleur de Pêche est"
+    },
+    {
+        "subject": "Concombre",
+        "known_id": 31,
+        "attribute": "Vert",
+        "prompt": "La couleur de Concombre est"
+    },
+    {
+        "subject": "Améthyste",
+        "known_id": 32,
+        "attribute": "Violet",
+        "prompt": "La couleur de Améthyste est"
+    },
+    {
+        "subject": "Saphir",
+        "known_id": 33,
+        "attribute": "Bleu",
+        "prompt": "La couleur de Saphir est"
+    },
+    {
+        "subject": "Émeraude",
+        "known_id": 34,
+        "attribute": "Vert",
+        "prompt": "La couleur de Émeraude est"
+    },
+    {
+        "subject": "Rubis",
+        "known_id": 35,
+        "attribute": "Rouge",
+        "prompt": "La couleur de Rubis est"
+    },
+
+
+    {
+        "subject": "Ours polaire",
+        "known_id": 39,
+        "attribute": "Blanc",
+        "prompt": "La couleur de Ours polaire est"
+    },
+    {
+        "subject": "Tournesol",
+        "known_id": 40,
+        "attribute": "Jaune",
+        "prompt": "La couleur de Tournesol est"
+    },
+
+    {
+        "subject": "Café",
+        "known_id": 42,
+        "attribute": "Marron",
+        "prompt": "La couleur de Café est"
+    },
+    {
+        "subject": "Châtaigne",
+        "known_id": 43,
+        "attribute": "Marron",
+        "prompt": "La couleur de Châtaigne est"
+    },
+    {
+        "subject": "Canneberge",
+        "known_id": 44,
+        "attribute": "Rouge",
+        "prompt": "La couleur de Canneberge est"
+    },
+    {
+        "subject": "Algues",
+        "known_id": 46,
+        "attribute": "Vert",
+        "prompt": "La couleur de Algues est"
+    },
+    {
+        "subject": "Grenouille",
+        "known_id": 47,
+        "attribute": "Vert",
+        "prompt": "La couleur de Grenouille est"
+    },
+    {
+        "subject": "Dauphin",
+        "known_id": 48,
+        "attribute": "Gris",
+        "prompt": "La couleur de Dauphin est"
+    },
+    {
+        "subject": "Requin",
+        "known_id": 49,
+        "attribute": "Gris",
+        "prompt": "La couleur de Requin est"
+    }
+]

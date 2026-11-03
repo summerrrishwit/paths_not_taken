@@ -1,0 +1,260 @@
+[
+  {
+    "known_id": 0,
+    "subject": "Yellow",
+    "attribute": "Jaune",
+    "prompt": "Translate a word from English to french. Word: 'Yellow'. Translated: '"
+  },
+  {
+    "known_id": 1,
+    "subject": "Red",
+    "attribute": "Rouge",
+    "prompt": "Translate a word from English to french. Word: 'Red'. Translated: '"
+  },
+  {
+    "known_id": 2,
+    "subject": "Orange",
+    "attribute": "Orange",
+    "prompt": "Translate a word from English to french. Word: 'Orange'. Translated: '"
+  },
+  {
+    "known_id": 3,
+    "subject": "Green",
+    "attribute": "Vert",
+    "prompt": "Translate a word from English to french. Word: 'Green'. Translated: '"
+  },
+  {
+    "known_id": 4,
+    "subject": "Purple",
+    "attribute": "Violet",
+    "prompt": "Translate a word from English to french. Word: 'Purple'. Translated: '"
+  },
+  {
+    "known_id": 5,
+    "subject": "White",
+    "attribute": "Blanc",
+    "prompt": "Translate a word from English to french. Word: 'White'. Translated: '"
+  },
+  {
+    "known_id": 6,
+    "subject": "Black",
+    "attribute": "Noir",
+    "prompt": "Translate a word from English to french. Word: 'Black'. Translated: '"
+  },
+  {
+    "known_id": 7,
+    "subject": "Blue",
+    "attribute": "Bleu",
+    "prompt": "Translate a word from English to french. Word: 'Blue'. Translated: '"
+  },
+  {
+    "known_id": 9,
+    "subject": "Orange",
+    "attribute": "Orange",
+    "prompt": "Translate a word from English to french. Word: 'Orange'. Translated: '"
+  },
+  {
+    "known_id": 10,
+    "subject": "Purple",
+    "attribute": "Violet",
+    "prompt": "Translate a word from English to french. Word: 'Purple'. Translated: '"
+  },
+  {
+    "known_id": 11,
+    "subject": "Green",
+    "attribute": "Vert",
+    "prompt": "Translate a word from English to french. Word: 'Green'. Translated: '"
+  },
+  {
+    "known_id": 12,
+    "subject": "Brown",
+    "attribute": "Marron",
+    "prompt": "Translate a word from English to french. Word: 'Brown'. Translated: '"
+  },
+  {
+    "known_id": 13,
+    "subject": "Red",
+    "attribute": "Rouge",
+    "prompt": "Translate a word from English to french. Word: 'Red'. Translated: '"
+  },
+  {
+    "known_id": 14,
+    "subject": "Yellow",
+    "attribute": "Jaune",
+    "prompt": "Translate a word from English to french. Word: 'Yellow'. Translated: '"
+  },
+  {
+    "known_id": 15,
+    "subject": "White",
+    "attribute": "Blanc",
+    "prompt": "Translate a word from English to french. Word: 'White'. Translated: '"
+  },
+  {
+    "known_id": 16,
+    "subject": "Black",
+    "attribute": "Noir",
+    "prompt": "Translate a word from English to french. Word: 'Black'. Translated: '"
+  },
+  {
+    "known_id": 17,
+    "subject": "Blue",
+    "attribute": "Bleu",
+    "prompt": "Translate a word from English to french. Word: 'Blue'. Translated: '"
+  },
+  {
+    "known_id": 18,
+    "subject": "Green",
+    "attribute": "Vert",
+    "prompt": "Translate a word from English to french. Word: 'Green'. Translated: '"
+  },
+  {
+    "known_id": 19,
+    "subject": "Gold",
+    "attribute": "Doré",
+    "prompt": "Translate a word from English to french. Word: 'Gold'. Translated: '"
+  },
+  {
+    "known_id": 20,
+    "subject": "Silver",
+    "attribute": "Argenté",
+    "prompt": "Translate a word from English to french. Word: 'Silver'. Translated: '"
+  },
+  {
+    "known_id": 21,
+    "subject": "Copper",
+    "attribute": "Cuivré",
+    "prompt": "Translate a word from English to french. Word: 'Copper'. Translated: '"
+  },
+  {
+    "known_id": 22,
+    "subject": "Red",
+    "attribute": "Rouge",
+    "prompt": "Translate a word from English to french. Word: 'Red'. Translated: '"
+  },
+  {
+    "known_id": 23,
+    "subject": "Orange",
+    "attribute": "Orange",
+    "prompt": "Translate a word from English to french. Word: 'Orange'. Translated: '"
+  },
+  {
+    "known_id": 24,
+    "subject": "Green",
+    "attribute": "Vert",
+    "prompt": "Translate a word from English to french. Word: 'Green'. Translated: '"
+  },
+  {
+    "known_id": 25,
+    "subject": "Purple",
+    "attribute": "Violet",
+    "prompt": "Translate a word from English to french. Word: 'Purple'. Translated: '"
+  },
+  {
+    "known_id": 26,
+    "subject": "Black",
+    "attribute": "Noir",
+    "prompt": "Translate a word from English to french. Word: 'Black'. Translated: '"
+  },
+  {
+    "known_id": 27,
+    "subject": "White",
+    "attribute": "Blanc",
+    "prompt": "Translate a word from English to french. Word: 'White'. Translated: '"
+  },
+  {
+    "known_id": 28,
+    "subject": "Yellow",
+    "attribute": "Jaune",
+    "prompt": "Translate a word from English to french. Word: 'Yellow'. Translated: '"
+  },
+  {
+    "known_id": 30,
+    "subject": "Orange",
+    "attribute": "Orange",
+    "prompt": "Translate a word from English to french. Word: 'Orange'. Translated: '"
+  },
+  {
+    "known_id": 31,
+    "subject": "Green",
+    "attribute": "Vert",
+    "prompt": "Translate a word from English to french. Word: 'Green'. Translated: '"
+  },
+  {
+    "known_id": 32,
+    "subject": "Purple",
+    "attribute": "Violet",
+    "prompt": "Translate a word from English to french. Word: 'Purple'. Translated: '"
+  },
+  {
+    "known_id": 33,
+    "subject": "Blue",
+    "attribute": "Bleu",
+    "prompt": "Translate a word from English to french. Word: 'Blue'. Translated: '"
+  },
+  {
+    "known_id": 34,
+    "subject": "Green",
+    "attribute": "Vert",
+    "prompt": "Translate a word from English to french. Word: 'Green'. Translated: '"
+  },
+  {
+    "known_id": 35,
+    "subject": "Red",
+    "attribute": "Rouge",
+    "prompt": "Translate a word from English to french. Word: 'Red'. Translated: '"
+  },
+  {
+    "known_id": 39,
+    "subject": "White",
+    "attribute": "Blanc",
+    "prompt": "Translate a word from English to french. Word: 'White'. Translated: '"
+  },
+  {
+    "known_id": 40,
+    "subject": "Yellow",
+    "attribute": "Jaune",
+    "prompt": "Translate a word from English to french. Word: 'Yellow'. Translated: '"
+  },
+  {
+    "known_id": 42,
+    "subject": "Brown",
+    "attribute": "Marron",
+    "prompt": "Translate a word from English to french. Word: 'Brown'. Translated: '"
+  },
+  {
+    "known_id": 43,
+    "subject": "Brown",
+    "attribute": "Marron",
+    "prompt": "Translate a word from English to french. Word: 'Brown'. Translated: '"
+  },
+  {
+    "known_id": 44,
+    "subject": "Red",
+    "attribute": "Rouge",
+    "prompt": "Translate a word from English to french. Word: 'Red'. Translated: '"
+  },
+  {
+    "known_id": 46,
+    "subject": "Green",
+    "attribute": "Vert",
+    "prompt": "Translate a word from English to french. Word: 'Green'. Translated: '"
+  },
+  {
+    "known_id": 47,
+    "subject": "Green",
+    "attribute": "Vert",
+    "prompt": "Translate a word from English to french. Word: 'Green'. Translated: '"
+  },
+  {
+    "known_id": 48,
+    "subject": "Gray",
+    "attribute": "Gris",
+    "prompt": "Translate a word from English to french. Word: 'Gray'. Translated: '"
+  },
+  {
+    "known_id": 49,
+    "subject": "Gray",
+    "attribute": "Gris",
+    "prompt": "Translate a word from English to french. Word: 'Gray'. Translated: '"
+  }
+]

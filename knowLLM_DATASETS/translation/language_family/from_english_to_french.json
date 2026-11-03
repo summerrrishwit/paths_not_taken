@@ -1,0 +1,302 @@
+[
+  {
+    "known_id": 0,
+    "subject": "Indo-European",
+    "attribute": "Indo-européennes",
+    "prompt": "Translate a word from English to french. Word: 'Indo-European'. Translated: '"
+  },
+  {
+    "known_id": 1,
+    "subject": "Indo-European",
+    "attribute": "Indo-européennes",
+    "prompt": "Translate a word from English to french. Word: 'Indo-European'. Translated: '"
+  },
+  {
+    "known_id": 2,
+    "subject": "Indo-European",
+    "attribute": "Indo-européennes",
+    "prompt": "Translate a word from English to french. Word: 'Indo-European'. Translated: '"
+  },
+  {
+    "known_id": 3,
+    "subject": "Indo-European",
+    "attribute": "Indo-européennes",
+    "prompt": "Translate a word from English to french. Word: 'Indo-European'. Translated: '"
+  },
+  {
+    "known_id": 4,
+    "subject": "Indo-European",
+    "attribute": "Indo-européennes",
+    "prompt": "Translate a word from English to french. Word: 'Indo-European'. Translated: '"
+  },
+  {
+    "known_id": 5,
+    "subject": "Indo-European",
+    "attribute": "Indo-européennes",
+    "prompt": "Translate a word from English to french. Word: 'Indo-European'. Translated: '"
+  },
+  {
+    "known_id": 6,
+    "subject": "Indo-European",
+    "attribute": "Indo-européennes",
+    "prompt": "Translate a word from English to french. Word: 'Indo-European'. Translated: '"
+  },
+  {
+    "known_id": 7,
+    "subject": "Indo-European",
+    "attribute": "Indo-européennes",
+    "prompt": "Translate a word from English to french. Word: 'Indo-European'. Translated: '"
+  },
+  {
+    "known_id": 8,
+    "subject": "Indo-European",
+    "attribute": "Indo-européennes",
+    "prompt": "Translate a word from English to french. Word: 'Indo-European'. Translated: '"
+  },
+  {
+    "known_id": 9,
+    "subject": "Indo-European",
+    "attribute": "Indo-européennes",
+    "prompt": "Translate a word from English to french. Word: 'Indo-European'. Translated: '"
+  },
+  {
+    "known_id": 10,
+    "subject": "Sino-Tibetan",
+    "attribute": "Sino-tibétaines",
+    "prompt": "Translate a word from English to french. Word: 'Sino-Tibetan'. Translated: '"
+  },
+  {
+    "known_id": 11,
+    "subject": "Sino-Tibetan",
+    "attribute": "Sino-tibétaines",
+    "prompt": "Translate a word from English to french. Word: 'Sino-Tibetan'. Translated: '"
+  },
+  {
+    "known_id": 12,
+    "subject": "Sino-Tibetan",
+    "attribute": "Sino-tibétaines",
+    "prompt": "Translate a word from English to french. Word: 'Sino-Tibetan'. Translated: '"
+  },
+  {
+    "known_id": 13,
+    "subject": "Sino-Tibetan",
+    "attribute": "Sino-tibétaines",
+    "prompt": "Translate a word from English to french. Word: 'Sino-Tibetan'. Translated: '"
+  },
+  {
+    "known_id": 14,
+    "subject": "Afro-Asiatic",
+    "attribute": "Afro-asiatiques",
+    "prompt": "Translate a word from English to french. Word: 'Afro-Asiatic'. Translated: '"
+  },
+  {
+    "known_id": 15,
+    "subject": "Afro-Asiatic",
+    "attribute": "Afro-asiatiques",
+    "prompt": "Translate a word from English to french. Word: 'Afro-Asiatic'. Translated: '"
+  },
+  {
+    "known_id": 16,
+    "subject": "Afro-Asiatic",
+    "attribute": "Afro-asiatiques",
+    "prompt": "Translate a word from English to french. Word: 'Afro-Asiatic'. Translated: '"
+  },
+  {
+    "known_id": 17,
+    "subject": "Afro-Asiatic",
+    "attribute": "Afro-asiatiques",
+    "prompt": "Translate a word from English to french. Word: 'Afro-Asiatic'. Translated: '"
+  },
+  {
+    "known_id": 18,
+    "subject": "Afro-Asiatic",
+    "attribute": "Afro-asiatiques",
+    "prompt": "Translate a word from English to french. Word: 'Afro-Asiatic'. Translated: '"
+  },
+  {
+    "known_id": 19,
+    "subject": "Austroasiatic",
+    "attribute": "Austroasiatiques",
+    "prompt": "Translate a word from English to french. Word: 'Austroasiatic'. Translated: '"
+  },
+  {
+    "known_id": 20,
+    "subject": "Austroasiatic",
+    "attribute": "Austroasiatiques",
+    "prompt": "Translate a word from English to french. Word: 'Austroasiatic'. Translated: '"
+  },
+  {
+    "known_id": 21,
+    "subject": "Tai-Kadai",
+    "attribute": "Taï-kadaï",
+    "prompt": "Translate a word from English to french. Word: 'Tai-Kadai'. Translated: '"
+  },
+  {
+    "known_id": 22,
+    "subject": "Tai-Kadai",
+    "attribute": "Taï-kadaï",
+    "prompt": "Translate a word from English to french. Word: 'Tai-Kadai'. Translated: '"
+  },
+  {
+    "known_id": 23,
+    "subject": "Austronesian",
+    "attribute": "Austronésiennes",
+    "prompt": "Translate a word from English to french. Word: 'Austronesian'. Translated: '"
+  },
+  {
+    "known_id": 24,
+    "subject": "Austronesian",
+    "attribute": "Austronésiennes",
+    "prompt": "Translate a word from English to french. Word: 'Austronesian'. Translated: '"
+  },
+  {
+    "known_id": 25,
+    "subject": "Austronesian",
+    "attribute": "Austronésiennes",
+    "prompt": "Translate a word from English to french. Word: 'Austronesian'. Translated: '"
+  },
+  {
+    "known_id": 26,
+    "subject": "Austronesian",
+    "attribute": "Austronésiennes",
+    "prompt": "Translate a word from English to french. Word: 'Austronesian'. Translated: '"
+  },
+  {
+    "known_id": 27,
+    "subject": "Dravidian",
+    "attribute": "Dravidiennes",
+    "prompt": "Translate a word from English to french. Word: 'Dravidian'. Translated: '"
+  },
+  {
+    "known_id": 28,
+    "subject": "Dravidian",
+    "attribute": "Dravidiennes",
+    "prompt": "Translate a word from English to french. Word: 'Dravidian'. Translated: '"
+  },
+  {
+    "known_id": 29,
+    "subject": "Dravidian",
+    "attribute": "Dravidiennes",
+    "prompt": "Translate a word from English to french. Word: 'Dravidian'. Translated: '"
+  },
+  {
+    "known_id": 30,
+    "subject": "Uralic",
+    "attribute": "Ouraliennes",
+    "prompt": "Translate a word from English to french. Word: 'Uralic'. Translated: '"
+  },
+  {
+    "known_id": 31,
+    "subject": "Uralic",
+    "attribute": "Ouraliennes",
+    "prompt": "Translate a word from English to french. Word: 'Uralic'. Translated: '"
+  },
+  {
+    "known_id": 32,
+    "subject": "Uralic",
+    "attribute": "Ouraliennes",
+    "prompt": "Translate a word from English to french. Word: 'Uralic'. Translated: '"
+  },
+  {
+    "known_id": 33,
+    "subject": "Turkic",
+    "attribute": "Turques",
+    "prompt": "Translate a word from English to french. Word: 'Turkic'. Translated: '"
+  },
+  {
+    "known_id": 34,
+    "subject": "Turkic",
+    "attribute": "Turques",
+    "prompt": "Translate a word from English to french. Word: 'Turkic'. Translated: '"
+  },
+  {
+    "known_id": 35,
+    "subject": "Mongolic",
+    "attribute": "Mongoles",
+    "prompt": "Translate a word from English to french. Word: 'Mongolic'. Translated: '"
+  },
+  {
+    "known_id": 36,
+    "subject": "Koreanic",
+    "attribute": "Coréaniques",
+    "prompt": "Translate a word from English to french. Word: 'Koreanic'. Translated: '"
+  },
+  {
+    "known_id": 37,
+    "subject": "Japonic",
+    "attribute": "Japoniques",
+    "prompt": "Translate a word from English to french. Word: 'Japonic'. Translated: '"
+  },
+  {
+    "known_id": 38,
+    "subject": "Eskimo-Aleut",
+    "attribute": "Eskimo-aléoutes",
+    "prompt": "Translate a word from English to french. Word: 'Eskimo-Aleut'. Translated: '"
+  },
+  {
+    "known_id": 39,
+    "subject": "Quechuan",
+    "attribute": "Quechuas",
+    "prompt": "Translate a word from English to french. Word: 'Quechuan'. Translated: '"
+  },
+  {
+    "known_id": 40,
+    "subject": "Uto-Aztecan",
+    "attribute": "Uto-aztèques",
+    "prompt": "Translate a word from English to french. Word: 'Uto-Aztecan'. Translated: '"
+  },
+  {
+    "known_id": 41,
+    "subject": "Iroquoian",
+    "attribute": "Iroquoiennes",
+    "prompt": "Translate a word from English to french. Word: 'Iroquoian'. Translated: '"
+  },
+  {
+    "known_id": 42,
+    "subject": "Bantu",
+    "attribute": "Bantoues",
+    "prompt": "Translate a word from English to french. Word: 'Bantu'. Translated: '"
+  },
+  {
+    "known_id": 43,
+    "subject": "Bantu",
+    "attribute": "Bantoues",
+    "prompt": "Translate a word from English to french. Word: 'Bantu'. Translated: '"
+  },
+  {
+    "known_id": 44,
+    "subject": "Austronesian",
+    "attribute": "Austronésiennes",
+    "prompt": "Translate a word from English to french. Word: 'Austronesian'. Translated: '"
+  },
+  {
+    "known_id": 45,
+    "subject": "Creole",
+    "attribute": "Créoles",
+    "prompt": "Translate a word from English to french. Word: 'Creole'. Translated: '"
+  },
+  {
+    "known_id": 46,
+    "subject": "Language Isolate",
+    "attribute": "Isolées",
+    "prompt": "Translate a word from English to french. Word: 'Language Isolate'. Translated: '"
+  },
+  {
+    "known_id": 47,
+    "subject": "Language Isolate",
+    "attribute": "Isolées",
+    "prompt": "Translate a word from English to french. Word: 'Language Isolate'. Translated: '"
+  },
+  {
+    "known_id": 48,
+    "subject": "Hmong-Mien",
+    "attribute": "Hmong-mien",
+    "prompt": "Translate a word from English to french. Word: 'Hmong-Mien'. Translated: '"
+  },
+  {
+    "known_id": 49,
+    "subject": "Niger-Congo",
+    "attribute": "Niger-congolaises",
+    "prompt": "Translate a word from English to french. Word: 'Niger-Congo'. Translated: '"
+  }
+]

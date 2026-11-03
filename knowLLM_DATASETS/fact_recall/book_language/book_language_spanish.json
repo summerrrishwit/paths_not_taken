@@ -1,0 +1,326 @@
+[
+  {
+    "subject": "Don Quijote",
+    "known_id": 0,
+    "attribute": "español",
+    "prompt": "El idioma en el que Don Quijote fue escrito originalmente es"
+  },
+  {
+    "subject": "La Divina Comedia",
+    "known_id": 1,
+    "attribute": "italiano",
+    "prompt": "El idioma en el que La Divina Comedia fue escrito originalmente es"
+  },
+  {
+    "subject": "Guerra y paz",
+    "known_id": 2,
+    "attribute": "ruso",
+    "prompt": "El idioma en el que Guerra y paz fue escrito originalmente es"
+  },
+  {
+    "subject": "Los Miserables",
+    "known_id": 3,
+    "attribute": "francés",
+    "prompt": "El idioma en el que Los Miserables fue escrito originalmente es"
+  },
+  {
+    "subject": "La Ilíada",
+    "known_id": 4,
+    "attribute": "griego",
+    "prompt": "El idioma en el que La Ilíada fue escrito originalmente es"
+  },
+  {
+    "subject": "La Odisea",
+    "known_id": 5,
+    "attribute": "griego",
+    "prompt": "El idioma en el que La Odisea fue escrito originalmente es"
+  },
+  {
+    "subject": "Fausto",
+    "known_id": 6,
+    "attribute": "alemán",
+    "prompt": "El idioma en el que Fausto fue escrito originalmente es"
+  },
+  {
+    "subject": "La Eneida",
+    "known_id": 7,
+    "attribute": "latín",
+    "prompt": "El idioma en el que La Eneida fue escrito originalmente es"
+  },
+  {
+    "subject": "Ulises",
+    "known_id": 8,
+    "attribute": "inglés",
+    "prompt": "El idioma en el que Ulises fue escrito originalmente es"
+  },
+  {
+    "subject": "Moby-Dick",
+    "known_id": 9,
+    "attribute": "inglés",
+    "prompt": "El idioma en el que Moby-Dick fue escrito originalmente es"
+  },
+  {
+    "subject": "El retrato de Dorian Gray",
+    "known_id": 10,
+    "attribute": "inglés",
+    "prompt": "El idioma en el que El retrato de Dorian Gray fue escrito originalmente es"
+  },
+  {
+    "subject": "Crimen y castigo",
+    "known_id": 11,
+    "attribute": "ruso",
+    "prompt": "El idioma en el que Crimen y castigo fue escrito originalmente es"
+  },
+  {
+    "subject": "Anna Karénina",
+    "known_id": 12,
+    "attribute": "ruso",
+    "prompt": "El idioma en el que Anna Karénina fue escrito originalmente es"
+  },
+  {
+    "subject": "Madame Bovary",
+    "known_id": 13,
+    "attribute": "francés",
+    "prompt": "El idioma en el que Madame Bovary fue escrito originalmente es"
+  },
+  {
+    "subject": "El conde de Montecristo",
+    "known_id": 14,
+    "attribute": "francés",
+    "prompt": "El idioma en el que El conde de Montecristo fue escrito originalmente es"
+  },
+  {
+    "subject": "El extranjero",
+    "known_id": 15,
+    "attribute": "francés",
+    "prompt": "El idioma en el que El extranjero fue escrito originalmente es"
+  },
+  {
+    "subject": "La metamorfosis",
+    "known_id": 16,
+    "attribute": "alemán",
+    "prompt": "El idioma en el que La metamorfosis fue escrito originalmente es"
+  },
+  {
+    "subject": "Así habló Zaratustra",
+    "known_id": 17,
+    "attribute": "alemán",
+    "prompt": "El idioma en el que Así habló Zaratustra fue escrito originalmente es"
+  },
+  {
+    "subject": "Los hermanos Karamázov",
+    "known_id": 18,
+    "attribute": "ruso",
+    "prompt": "El idioma en el que Los hermanos Karamázov fue escrito originalmente es"
+  },
+  {
+    "subject": "El maestro y Margarita",
+    "known_id": 19,
+    "attribute": "ruso",
+    "prompt": "El idioma en el que El maestro y Margarita fue escrito originalmente es"
+  },
+  {
+    "subject": "El nombre de la rosa",
+    "known_id": 20,
+    "attribute": "italiano",
+    "prompt": "El idioma en el que El nombre de la rosa fue escrito originalmente es"
+  },
+  {
+    "subject": "Cien años de soledad",
+    "known_id": 21,
+    "attribute": "español",
+    "prompt": "El idioma en el que Cien años de soledad fue escrito originalmente es"
+  },
+  {
+    "subject": "Los Lusíadas",
+    "known_id": 22,
+    "attribute": "portugués",
+    "prompt": "El idioma en el que Los Lusíadas fue escrito originalmente es"
+  },
+  {
+    "subject": "El Decamerón",
+    "known_id": 23,
+    "attribute": "italiano",
+    "prompt": "El idioma en el que El Decamerón fue escrito originalmente es"
+  },
+  {
+    "subject": "Las penas del joven Werther",
+    "known_id": 24,
+    "attribute": "alemán",
+    "prompt": "El idioma en el que Las penas del joven Werther fue escrito originalmente es"
+  },
+  {
+    "subject": "El proceso",
+    "known_id": 25,
+    "attribute": "alemán",
+    "prompt": "El idioma en el que El proceso fue escrito originalmente es"
+  },
+  {
+    "subject": "Los viajes de Gulliver",
+    "known_id": 26,
+    "attribute": "inglés",
+    "prompt": "El idioma en el que Los viajes de Gulliver fue escrito originalmente es"
+  },
+  {
+    "subject": "Frankenstein",
+    "known_id": 27,
+    "attribute": "inglés",
+    "prompt": "El idioma en el que Frankenstein fue escrito originalmente es"
+  },
+  {
+    "subject": "El príncipe",
+    "known_id": 28,
+    "attribute": "italiano",
+    "prompt": "El idioma en el que El príncipe fue escrito originalmente es"
+  },
+  {
+    "subject": "El jorobado de Notre Dame",
+    "known_id": 29,
+    "attribute": "francés",
+    "prompt": "El idioma en el que El jorobado de Notre Dame fue escrito originalmente es"
+  },
+  {
+    "subject": "Los tres mosqueteros",
+    "known_id": 30,
+    "attribute": "francés",
+    "prompt": "El idioma en el que Los tres mosqueteros fue escrito originalmente es"
+  },
+  {
+    "subject": "La canción de Roldán",
+    "known_id": 31,
+    "attribute": "francés",
+    "prompt": "El idioma en el que La canción de Roldán fue escrito originalmente es"
+  },
+  {
+    "subject": "El cantar de los Nibelungos",
+    "known_id": 32,
+    "attribute": "alemán",
+    "prompt": "El idioma en el que El cantar de los Nibelungos fue escrito originalmente es"
+  },
+  {
+    "subject": "Orlando furioso",
+    "known_id": 33,
+    "attribute": "italiano",
+    "prompt": "El idioma en el que Orlando furioso fue escrito originalmente es"
+  },
+  {
+    "subject": "Cándido",
+    "known_id": 34,
+    "attribute": "francés",
+    "prompt": "El idioma en el que Cándido fue escrito originalmente es"
+  },
+  {
+    "subject": "Rojo y negro",
+    "known_id": 35,
+    "attribute": "francés",
+    "prompt": "El idioma en el que Rojo y negro fue escrito originalmente es"
+  },
+  {
+    "subject": "Germinal",
+    "known_id": 36,
+    "attribute": "francés",
+    "prompt": "El idioma en el que Germinal fue escrito originalmente es"
+  },
+  {
+    "subject": "El sabueso de los Baskerville",
+    "known_id": 37,
+    "attribute": "inglés",
+    "prompt": "El idioma en el que El sabueso de los Baskerville fue escrito originalmente es"
+  },
+  {
+    "subject": "Las aventuras de Sherlock Holmes",
+    "known_id": 38,
+    "attribute": "inglés",
+    "prompt": "El idioma en el que Las aventuras de Sherlock Holmes fue escrito originalmente es"
+  },
+  {
+    "subject": "El castillo",
+    "known_id": 39,
+    "attribute": "alemán",
+    "prompt": "El idioma en el que El castillo fue escrito originalmente es"
+  },
+  {
+    "subject": "Los Buddenbrook",
+    "known_id": 40,
+    "attribute": "alemán",
+    "prompt": "El idioma en el que Los Buddenbrook fue escrito originalmente es"
+  },
+  {
+    "subject": "La muerte en Venecia",
+    "known_id": 41,
+    "attribute": "alemán",
+    "prompt": "El idioma en el que La muerte en Venecia fue escrito originalmente es"
+  },
+  {
+    "subject": "Doctor Fausto",
+    "known_id": 42,
+    "attribute": "alemán",
+    "prompt": "El idioma en el que Doctor Fausto fue escrito originalmente es"
+  },
+  {
+    "subject": "Los novios",
+    "known_id": 43,
+    "attribute": "italiano",
+    "prompt": "El idioma en el que Los novios fue escrito originalmente es"
+  },
+  {
+    "subject": "Si una noche de invierno un viajero",
+    "known_id": 44,
+    "attribute": "italiano",
+    "prompt": "El idioma en el que Si una noche de invierno un viajero fue escrito originalmente es"
+  },
+  {
+    "subject": "El Gatopardo",
+    "known_id": 45,
+    "attribute": "italiano",
+    "prompt": "El idioma en el que El Gatopardo fue escrito originalmente es"
+  },
+  {
+    "subject": "La vida y opiniones del caballero Tristram Shandy",
+    "known_id": 46,
+    "attribute": "inglés",
+    "prompt": "El idioma en el que La vida y opiniones del caballero Tristram Shandy fue escrito originalmente es"
+  },
+  {
+    "subject": "Orgullo y prejuicio",
+    "known_id": 47,
+    "attribute": "inglés",
+    "prompt": "El idioma en el que Orgullo y prejuicio fue escrito originalmente es"
+  },
+  {
+    "subject": "Cumbres borrascosas",
+    "known_id": 48,
+    "attribute": "inglés",
+    "prompt": "El idioma en el que Cumbres borrascosas fue escrito originalmente es"
+  },
+  {
+    "subject": "Oliver Twist",
+    "known_id": 49,
+    "attribute": "inglés",
+    "prompt": "El idioma en el que Oliver Twist fue escrito originalmente es"
+  },
+  {
+    "subject": "David Copperfield",
+    "known_id": 50,
+    "attribute": "inglés",
+    "prompt": "El idioma en el que David Copperfield fue escrito originalmente es"
+  },
+  {
+    "subject": "El idiota",
+    "known_id": 51,
+    "attribute": "ruso",
+    "prompt": "El idioma en el que El idiota fue escrito originalmente es"
+  },
+  {
+    "subject": "Padres e hijos",
+    "known_id": 52,
+    "attribute": "ruso",
+    "prompt": "El idioma en el que Padres e hijos fue escrito originalmente es"
+  },
+  {
+    "subject": "Almas muertas",
+    "known_id": 53,
+    "attribute": "ruso",
+    "prompt": "El idioma en el que Almas muertas fue escrito originalmente es"
+  }
+]

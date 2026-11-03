@@ -1,0 +1,260 @@
+[
+  {
+    "known_id": 0,
+    "subject": "Yellow",
+    "attribute": "amarillo",
+    "prompt": "Translate a word from English to spanish. Word: 'Yellow'. Translated: '"
+  },
+  {
+    "known_id": 1,
+    "subject": "Red",
+    "attribute": "rojo",
+    "prompt": "Translate a word from English to spanish. Word: 'Red'. Translated: '"
+  },
+  {
+    "known_id": 2,
+    "subject": "Orange",
+    "attribute": "naranja",
+    "prompt": "Translate a word from English to spanish. Word: 'Orange'. Translated: '"
+  },
+  {
+    "known_id": 3,
+    "subject": "Green",
+    "attribute": "verde",
+    "prompt": "Translate a word from English to spanish. Word: 'Green'. Translated: '"
+  },
+  {
+    "known_id": 4,
+    "subject": "Purple",
+    "attribute": "morado",
+    "prompt": "Translate a word from English to spanish. Word: 'Purple'. Translated: '"
+  },
+  {
+    "known_id": 5,
+    "subject": "White",
+    "attribute": "blanco",
+    "prompt": "Translate a word from English to spanish. Word: 'White'. Translated: '"
+  },
+  {
+    "known_id": 6,
+    "subject": "Black",
+    "attribute": "negro",
+    "prompt": "Translate a word from English to spanish. Word: 'Black'. Translated: '"
+  },
+  {
+    "known_id": 7,
+    "subject": "Blue",
+    "attribute": "azul",
+    "prompt": "Translate a word from English to spanish. Word: 'Blue'. Translated: '"
+  },
+  {
+    "known_id": 9,
+    "subject": "Orange",
+    "attribute": "naranja",
+    "prompt": "Translate a word from English to spanish. Word: 'Orange'. Translated: '"
+  },
+  {
+    "known_id": 10,
+    "subject": "Purple",
+    "attribute": "morado",
+    "prompt": "Translate a word from English to spanish. Word: 'Purple'. Translated: '"
+  },
+  {
+    "known_id": 11,
+    "subject": "Green",
+    "attribute": "verde",
+    "prompt": "Translate a word from English to spanish. Word: 'Green'. Translated: '"
+  },
+  {
+    "known_id": 12,
+    "subject": "Brown",
+    "attribute": "marrón",
+    "prompt": "Translate a word from English to spanish. Word: 'Brown'. Translated: '"
+  },
+  {
+    "known_id": 13,
+    "subject": "Red",
+    "attribute": "rojo",
+    "prompt": "Translate a word from English to spanish. Word: 'Red'. Translated: '"
+  },
+  {
+    "known_id": 14,
+    "subject": "Yellow",
+    "attribute": "amarillo",
+    "prompt": "Translate a word from English to spanish. Word: 'Yellow'. Translated: '"
+  },
+  {
+    "known_id": 15,
+    "subject": "White",
+    "attribute": "blanco",
+    "prompt": "Translate a word from English to spanish. Word: 'White'. Translated: '"
+  },
+  {
+    "known_id": 16,
+    "subject": "Black",
+    "attribute": "negro",
+    "prompt": "Translate a word from English to spanish. Word: 'Black'. Translated: '"
+  },
+  {
+    "known_id": 17,
+    "subject": "Blue",
+    "attribute": "azul",
+    "prompt": "Translate a word from English to spanish. Word: 'Blue'. Translated: '"
+  },
+  {
+    "known_id": 18,
+    "subject": "Green",
+    "attribute": "verde",
+    "prompt": "Translate a word from English to spanish. Word: 'Green'. Translated: '"
+  },
+  {
+    "known_id": 19,
+    "subject": "Gold",
+    "attribute": "dorado",
+    "prompt": "Translate a word from English to spanish. Word: 'Gold'. Translated: '"
+  },
+  {
+    "known_id": 20,
+    "subject": "Silver",
+    "attribute": "plateado",
+    "prompt": "Translate a word from English to spanish. Word: 'Silver'. Translated: '"
+  },
+  {
+    "known_id": 21,
+    "subject": "Copper",
+    "attribute": "cobrizo",
+    "prompt": "Translate a word from English to spanish. Word: 'Copper'. Translated: '"
+  },
+  {
+    "known_id": 22,
+    "subject": "Red",
+    "attribute": "rojo",
+    "prompt": "Translate a word from English to spanish. Word: 'Red'. Translated: '"
+  },
+  {
+    "known_id": 23,
+    "subject": "Orange",
+    "attribute": "naranja",
+    "prompt": "Translate a word from English to spanish. Word: 'Orange'. Translated: '"
+  },
+  {
+    "known_id": 24,
+    "subject": "Green",
+    "attribute": "verde",
+    "prompt": "Translate a word from English to spanish. Word: 'Green'. Translated: '"
+  },
+  {
+    "known_id": 25,
+    "subject": "Purple",
+    "attribute": "morado",
+    "prompt": "Translate a word from English to spanish. Word: 'Purple'. Translated: '"
+  },
+  {
+    "known_id": 26,
+    "subject": "Black",
+    "attribute": "negro",
+    "prompt": "Translate a word from English to spanish. Word: 'Black'. Translated: '"
+  },
+  {
+    "known_id": 27,
+    "subject": "White",
+    "attribute": "blanco",
+    "prompt": "Translate a word from English to spanish. Word: 'White'. Translated: '"
+  },
+  {
+    "known_id": 28,
+    "subject": "Yellow",
+    "attribute": "amarillo",
+    "prompt": "Translate a word from English to spanish. Word: 'Yellow'. Translated: '"
+  },
+  {
+    "known_id": 30,
+    "subject": "Orange",
+    "attribute": "naranja",
+    "prompt": "Translate a word from English to spanish. Word: 'Orange'. Translated: '"
+  },
+  {
+    "known_id": 31,
+    "subject": "Green",
+    "attribute": "verde",
+    "prompt": "Translate a word from English to spanish. Word: 'Green'. Translated: '"
+  },
+  {
+    "known_id": 32,
+    "subject": "Purple",
+    "attribute": "morado",
+    "prompt": "Translate a word from English to spanish. Word: 'Purple'. Translated: '"
+  },
+  {
+    "known_id": 33,
+    "subject": "Blue",
+    "attribute": "azul",
+    "prompt": "Translate a word from English to spanish. Word: 'Blue'. Translated: '"
+  },
+  {
+    "known_id": 34,
+    "subject": "Green",
+    "attribute": "verde",
+    "prompt": "Translate a word from English to spanish. Word: 'Green'. Translated: '"
+  },
+  {
+    "known_id": 35,
+    "subject": "Red",
+    "attribute": "rojo",
+    "prompt": "Translate a word from English to spanish. Word: 'Red'. Translated: '"
+  },
+  {
+    "known_id": 39,
+    "subject": "White",
+    "attribute": "blanco",
+    "prompt": "Translate a word from English to spanish. Word: 'White'. Translated: '"
+  },
+  {
+    "known_id": 40,
+    "subject": "Yellow",
+    "attribute": "amarillo",
+    "prompt": "Translate a word from English to spanish. Word: 'Yellow'. Translated: '"
+  },
+  {
+    "known_id": 42,
+    "subject": "Brown",
+    "attribute": "marrón",
+    "prompt": "Translate a word from English to spanish. Word: 'Brown'. Translated: '"
+  },
+  {
+    "known_id": 43,
+    "subject": "Brown",
+    "attribute": "marrón",
+    "prompt": "Translate a word from English to spanish. Word: 'Brown'. Translated: '"
+  },
+  {
+    "known_id": 44,
+    "subject": "Red",
+    "attribute": "rojo",
+    "prompt": "Translate a word from English to spanish. Word: 'Red'. Translated: '"
+  },
+  {
+    "known_id": 46,
+    "subject": "Green",
+    "attribute": "verde",
+    "prompt": "Translate a word from English to spanish. Word: 'Green'. Translated: '"
+  },
+  {
+    "known_id": 47,
+    "subject": "Green",
+    "attribute": "verde",
+    "prompt": "Translate a word from English to spanish. Word: 'Green'. Translated: '"
+  },
+  {
+    "known_id": 48,
+    "subject": "Gray",
+    "attribute": "gris",
+    "prompt": "Translate a word from English to spanish. Word: 'Gray'. Translated: '"
+  },
+  {
+    "known_id": 49,
+    "subject": "Gray",
+    "attribute": "gris",
+    "prompt": "Translate a word from English to spanish. Word: 'Gray'. Translated: '"
+  }
+]

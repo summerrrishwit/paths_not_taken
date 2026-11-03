@@ -1,0 +1,296 @@
+[
+  {
+    "known_id": 0,
+    "subject": "Cornell University",
+    "attribute": "Cornell University",
+    "prompt": "Translate a word from English to english. Word: 'Cornell University'. Translated: '"
+  },
+  {
+    "known_id": 1,
+    "subject": "Princeton University",
+    "attribute": "Princeton University",
+    "prompt": "Translate a word from English to english. Word: 'Princeton University'. Translated: '"
+  },
+  {
+    "known_id": 2,
+    "subject": "Stanford University",
+    "attribute": "Stanford University",
+    "prompt": "Translate a word from English to english. Word: 'Stanford University'. Translated: '"
+  },
+  {
+    "known_id": 3,
+    "subject": "Harvard University",
+    "attribute": "Harvard University",
+    "prompt": "Translate a word from English to english. Word: 'Harvard University'. Translated: '"
+  },
+  {
+    "known_id": 4,
+    "subject": "Waseda University",
+    "attribute": "Waseda University",
+    "prompt": "Translate a word from English to english. Word: 'Waseda University'. Translated: '"
+  },
+  {
+    "known_id": 5,
+    "subject": "Mohammed V University",
+    "attribute": "Mohammed V University",
+    "prompt": "Translate a word from English to english. Word: 'Mohammed V University'. Translated: '"
+  },
+  {
+    "known_id": 6,
+    "subject": "Addis Ababa University",
+    "attribute": "Addis Ababa University",
+    "prompt": "Translate a word from English to english. Word: 'Addis Ababa University'. Translated: '"
+  },
+  {
+    "known_id": 7,
+    "subject": "Addis Ababa University",
+    "attribute": "Addis Ababa University",
+    "prompt": "Translate a word from English to english. Word: 'Addis Ababa University'. Translated: '"
+  },
+  {
+    "known_id": 8,
+    "subject": "Howard University",
+    "attribute": "Howard University",
+    "prompt": "Translate a word from English to english. Word: 'Howard University'. Translated: '"
+  },
+  {
+    "known_id": 9,
+    "subject": "Eötvös Loránd University",
+    "attribute": "Eötvös Loránd University",
+    "prompt": "Translate a word from English to english. Word: 'Eötvös Loránd University'. Translated: '"
+  },
+  {
+    "known_id": 10,
+    "subject": "Trinity College Dublin",
+    "attribute": "Trinity College Dublin",
+    "prompt": "Translate a word from English to english. Word: 'Trinity College Dublin'. Translated: '"
+  },
+  {
+    "known_id": 11,
+    "subject": "Leiden University",
+    "attribute": "Leiden University",
+    "prompt": "Translate a word from English to english. Word: 'Leiden University'. Translated: '"
+  },
+  {
+    "known_id": 12,
+    "subject": "Tsinghua University",
+    "attribute": "Tsinghua University",
+    "prompt": "Translate a word from English to english. Word: 'Tsinghua University'. Translated: '"
+  },
+  {
+    "known_id": 13,
+    "subject": "Somerville College, Oxford",
+    "attribute": "Somerville College, Oxford",
+    "prompt": "Translate a word from English to english. Word: 'Somerville College, Oxford'. Translated: '"
+  },
+  {
+    "known_id": 14,
+    "subject": "Seoul National University",
+    "attribute": "Seoul National University",
+    "prompt": "Translate a word from English to english. Word: 'Seoul National University'. Translated: '"
+  },
+  {
+    "known_id": 15,
+    "subject": "Harvard Kennedy School",
+    "attribute": "Harvard Kennedy School",
+    "prompt": "Translate a word from English to english. Word: 'Harvard Kennedy School'. Translated: '"
+  },
+  {
+    "known_id": 16,
+    "subject": "Hanover College",
+    "attribute": "Hanover College",
+    "prompt": "Translate a word from English to english. Word: 'Hanover College'. Translated: '"
+  },
+  {
+    "known_id": 17,
+    "subject": "Tennessee State University",
+    "attribute": "Tennessee State University",
+    "prompt": "Translate a word from English to english. Word: 'Tennessee State University'. Translated: '"
+  },
+  {
+    "known_id": 18,
+    "subject": "Princeton University",
+    "attribute": "Princeton University",
+    "prompt": "Translate a word from English to english. Word: 'Princeton University'. Translated: '"
+  },
+  {
+    "known_id": 19,
+    "subject": "Reed College",
+    "attribute": "Reed College",
+    "prompt": "Translate a word from English to english. Word: 'Reed College'. Translated: '"
+  },
+  {
+    "known_id": 20,
+    "subject": "Auburn University",
+    "attribute": "Auburn University",
+    "prompt": "Translate a word from English to english. Word: 'Auburn University'. Translated: '"
+  },
+  {
+    "known_id": 21,
+    "subject": "Stanford University",
+    "attribute": "Stanford University",
+    "prompt": "Translate a word from English to english. Word: 'Stanford University'. Translated: '"
+  },
+  {
+    "known_id": 22,
+    "subject": "Harvard University",
+    "attribute": "Harvard University",
+    "prompt": "Translate a word from English to english. Word: 'Harvard University'. Translated: '"
+  },
+  {
+    "known_id": 23,
+    "subject": "Princeton University",
+    "attribute": "Princeton University",
+    "prompt": "Translate a word from English to english. Word: 'Princeton University'. Translated: '"
+  },
+  {
+    "known_id": 24,
+    "subject": "Harvard University",
+    "attribute": "Harvard University",
+    "prompt": "Translate a word from English to english. Word: 'Harvard University'. Translated: '"
+  },
+  {
+    "known_id": 25,
+    "subject": "Harvard University",
+    "attribute": "Harvard University",
+    "prompt": "Translate a word from English to english. Word: 'Harvard University'. Translated: '"
+  },
+  {
+    "known_id": 26,
+    "subject": "Tennessee State University",
+    "attribute": "Tennessee State University",
+    "prompt": "Translate a word from English to english. Word: 'Tennessee State University'. Translated: '"
+  },
+  {
+    "known_id": 27,
+    "subject": "Brown University",
+    "attribute": "Brown University",
+    "prompt": "Translate a word from English to english. Word: 'Brown University'. Translated: '"
+  },
+  {
+    "known_id": 28,
+    "subject": "Harvard University",
+    "attribute": "Harvard University",
+    "prompt": "Translate a word from English to english. Word: 'Harvard University'. Translated: '"
+  },
+  {
+    "known_id": 29,
+    "subject": "Yale University",
+    "attribute": "Yale University",
+    "prompt": "Translate a word from English to english. Word: 'Yale University'. Translated: '"
+  },
+  {
+    "known_id": 30,
+    "subject": "Purdue University",
+    "attribute": "Purdue University",
+    "prompt": "Translate a word from English to english. Word: 'Purdue University'. Translated: '"
+  },
+  {
+    "known_id": 31,
+    "subject": "UCLA",
+    "attribute": "UCLA",
+    "prompt": "Translate a word from English to english. Word: 'UCLA'. Translated: '"
+  },
+  {
+    "known_id": 32,
+    "subject": "Harvard University",
+    "attribute": "Harvard University",
+    "prompt": "Translate a word from English to english. Word: 'Harvard University'. Translated: '"
+  },
+  {
+    "known_id": 33,
+    "subject": "Harvard University",
+    "attribute": "Harvard University",
+    "prompt": "Translate a word from English to english. Word: 'Harvard University'. Translated: '"
+  },
+  {
+    "known_id": 34,
+    "subject": "East Carolina University",
+    "attribute": "East Carolina University",
+    "prompt": "Translate a word from English to english. Word: 'East Carolina University'. Translated: '"
+  },
+  {
+    "known_id": 35,
+    "subject": "Kazan Imperial University",
+    "attribute": "Kazan Imperial University",
+    "prompt": "Translate a word from English to english. Word: 'Kazan Imperial University'. Translated: '"
+  },
+  {
+    "known_id": 36,
+    "subject": "Leeds Arts University",
+    "attribute": "Leeds Arts University",
+    "prompt": "Translate a word from English to english. Word: 'Leeds Arts University'. Translated: '"
+  },
+  {
+    "known_id": 37,
+    "subject": "Carnegie Mellon University",
+    "attribute": "Carnegie Mellon University",
+    "prompt": "Translate a word from English to english. Word: 'Carnegie Mellon University'. Translated: '"
+  },
+  {
+    "known_id": 38,
+    "subject": "Kazan Imperial University",
+    "attribute": "Kazan Imperial University",
+    "prompt": "Translate a word from English to english. Word: 'Kazan Imperial University'. Translated: '"
+  },
+  {
+    "known_id": 39,
+    "subject": "New York University Tisch School of the Arts",
+    "attribute": "New York University Tisch School of the Arts",
+    "prompt": "Translate a word from English to english. Word: 'New York University Tisch School of the Arts'. Translated: '"
+  },
+  {
+    "known_id": 40,
+    "subject": "Uppsala University",
+    "attribute": "Uppsala University",
+    "prompt": "Translate a word from English to english. Word: 'Uppsala University'. Translated: '"
+  },
+  {
+    "known_id": 41,
+    "subject": "Paris West University Nanterre La Défense",
+    "attribute": "Paris West University Nanterre La Défense",
+    "prompt": "Translate a word from English to english. Word: 'Paris West University Nanterre La Défense'. Translated: '"
+  },
+  {
+    "known_id": 42,
+    "subject": "National Taiwan University",
+    "attribute": "National Taiwan University",
+    "prompt": "Translate a word from English to english. Word: 'National Taiwan University'. Translated: '"
+  },
+  {
+    "known_id": 43,
+    "subject": "Morehouse College",
+    "attribute": "Morehouse College",
+    "prompt": "Translate a word from English to english. Word: 'Morehouse College'. Translated: '"
+  },
+  {
+    "known_id": 44,
+    "subject": "Yale University",
+    "attribute": "Yale University",
+    "prompt": "Translate a word from English to english. Word: 'Yale University'. Translated: '"
+  },
+  {
+    "known_id": 45,
+    "subject": "Yale University",
+    "attribute": "Yale University",
+    "prompt": "Translate a word from English to english. Word: 'Yale University'. Translated: '"
+  },
+  {
+    "known_id": 46,
+    "subject": "Stanford University",
+    "attribute": "Stanford University",
+    "prompt": "Translate a word from English to english. Word: 'Stanford University'. Translated: '"
+  },
+  {
+    "known_id": 47,
+    "subject": "Stanford University",
+    "attribute": "Stanford University",
+    "prompt": "Translate a word from English to english. Word: 'Stanford University'. Translated: '"
+  },
+  {
+    "known_id": 48,
+    "subject": "Leiden University",
+    "attribute": "Leiden University",
+    "prompt": "Translate a word from English to english. Word: 'Leiden University'. Translated: '"
+  }
+]

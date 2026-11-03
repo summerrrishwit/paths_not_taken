@@ -1,0 +1,296 @@
+[
+  {
+    "known_id": 0,
+    "subject": "Cornell University",
+    "attribute": "コーネル大学",
+    "prompt": "Translate a word from English to japanese. Word: 'Cornell University'. Translated: '"
+  },
+  {
+    "known_id": 1,
+    "subject": "Princeton University",
+    "attribute": "プリンストン大学",
+    "prompt": "Translate a word from English to japanese. Word: 'Princeton University'. Translated: '"
+  },
+  {
+    "known_id": 2,
+    "subject": "Stanford University",
+    "attribute": "スタンフォード大学",
+    "prompt": "Translate a word from English to japanese. Word: 'Stanford University'. Translated: '"
+  },
+  {
+    "known_id": 3,
+    "subject": "Harvard University",
+    "attribute": "ハーバード大学",
+    "prompt": "Translate a word from English to japanese. Word: 'Harvard University'. Translated: '"
+  },
+  {
+    "known_id": 4,
+    "subject": "Waseda University",
+    "attribute": "早稲田大学",
+    "prompt": "Translate a word from English to japanese. Word: 'Waseda University'. Translated: '"
+  },
+  {
+    "known_id": 5,
+    "subject": "Mohammed V University",
+    "attribute": "ムハンマド5世大学",
+    "prompt": "Translate a word from English to japanese. Word: 'Mohammed V University'. Translated: '"
+  },
+  {
+    "known_id": 6,
+    "subject": "Addis Ababa University",
+    "attribute": "アディスアベバ大学",
+    "prompt": "Translate a word from English to japanese. Word: 'Addis Ababa University'. Translated: '"
+  },
+  {
+    "known_id": 7,
+    "subject": "Addis Ababa University",
+    "attribute": "アディスアベバ大学",
+    "prompt": "Translate a word from English to japanese. Word: 'Addis Ababa University'. Translated: '"
+  },
+  {
+    "known_id": 8,
+    "subject": "Howard University",
+    "attribute": "ハワード大学",
+    "prompt": "Translate a word from English to japanese. Word: 'Howard University'. Translated: '"
+  },
+  {
+    "known_id": 9,
+    "subject": "Eötvös Loránd University",
+    "attribute": "エトヴェシュ・ロラーンド大学",
+    "prompt": "Translate a word from English to japanese. Word: 'Eötvös Loránd University'. Translated: '"
+  },
+  {
+    "known_id": 10,
+    "subject": "Trinity College Dublin",
+    "attribute": "トリニティ・カレッジ・ダブリン",
+    "prompt": "Translate a word from English to japanese. Word: 'Trinity College Dublin'. Translated: '"
+  },
+  {
+    "known_id": 11,
+    "subject": "Leiden University",
+    "attribute": "ライデン大学",
+    "prompt": "Translate a word from English to japanese. Word: 'Leiden University'. Translated: '"
+  },
+  {
+    "known_id": 12,
+    "subject": "Tsinghua University",
+    "attribute": "清華大学",
+    "prompt": "Translate a word from English to japanese. Word: 'Tsinghua University'. Translated: '"
+  },
+  {
+    "known_id": 13,
+    "subject": "Somerville College, Oxford",
+    "attribute": "オックスフォード大学サマーヴィル・カレッジ",
+    "prompt": "Translate a word from English to japanese. Word: 'Somerville College, Oxford'. Translated: '"
+  },
+  {
+    "known_id": 14,
+    "subject": "Seoul National University",
+    "attribute": "ソウル大学校",
+    "prompt": "Translate a word from English to japanese. Word: 'Seoul National University'. Translated: '"
+  },
+  {
+    "known_id": 15,
+    "subject": "Harvard Kennedy School",
+    "attribute": "ハーバード・ケネディ行政大学院",
+    "prompt": "Translate a word from English to japanese. Word: 'Harvard Kennedy School'. Translated: '"
+  },
+  {
+    "known_id": 16,
+    "subject": "Hanover College",
+    "attribute": "ハノーバー・カレッジ",
+    "prompt": "Translate a word from English to japanese. Word: 'Hanover College'. Translated: '"
+  },
+  {
+    "known_id": 17,
+    "subject": "Tennessee State University",
+    "attribute": "テネシー州立大学",
+    "prompt": "Translate a word from English to japanese. Word: 'Tennessee State University'. Translated: '"
+  },
+  {
+    "known_id": 18,
+    "subject": "Princeton University",
+    "attribute": "プリンストン大学",
+    "prompt": "Translate a word from English to japanese. Word: 'Princeton University'. Translated: '"
+  },
+  {
+    "known_id": 19,
+    "subject": "Reed College",
+    "attribute": "リード大学",
+    "prompt": "Translate a word from English to japanese. Word: 'Reed College'. Translated: '"
+  },
+  {
+    "known_id": 20,
+    "subject": "Auburn University",
+    "attribute": "オーバーン大学",
+    "prompt": "Translate a word from English to japanese. Word: 'Auburn University'. Translated: '"
+  },
+  {
+    "known_id": 21,
+    "subject": "Stanford University",
+    "attribute": "スタンフォード大学",
+    "prompt": "Translate a word from English to japanese. Word: 'Stanford University'. Translated: '"
+  },
+  {
+    "known_id": 22,
+    "subject": "Harvard University",
+    "attribute": "ハーバード大学",
+    "prompt": "Translate a word from English to japanese. Word: 'Harvard University'. Translated: '"
+  },
+  {
+    "known_id": 23,
+    "subject": "Princeton University",
+    "attribute": "プリンストン大学",
+    "prompt": "Translate a word from English to japanese. Word: 'Princeton University'. Translated: '"
+  },
+  {
+    "known_id": 24,
+    "subject": "Harvard University",
+    "attribute": "ハーバード大学",
+    "prompt": "Translate a word from English to japanese. Word: 'Harvard University'. Translated: '"
+  },
+  {
+    "known_id": 25,
+    "subject": "Harvard University",
+    "attribute": "ハーバード大学",
+    "prompt": "Translate a word from English to japanese. Word: 'Harvard University'. Translated: '"
+  },
+  {
+    "known_id": 26,
+    "subject": "Tennessee State University",
+    "attribute": "テネシー州立大学",
+    "prompt": "Translate a word from English to japanese. Word: 'Tennessee State University'. Translated: '"
+  },
+  {
+    "known_id": 27,
+    "subject": "Brown University",
+    "attribute": "ブラウン大学",
+    "prompt": "Translate a word from English to japanese. Word: 'Brown University'. Translated: '"
+  },
+  {
+    "known_id": 28,
+    "subject": "Harvard University",
+    "attribute": "ハーバード大学",
+    "prompt": "Translate a word from English to japanese. Word: 'Harvard University'. Translated: '"
+  },
+  {
+    "known_id": 29,
+    "subject": "Yale University",
+    "attribute": "イェール大学",
+    "prompt": "Translate a word from English to japanese. Word: 'Yale University'. Translated: '"
+  },
+  {
+    "known_id": 30,
+    "subject": "Purdue University",
+    "attribute": "パデュー大学",
+    "prompt": "Translate a word from English to japanese. Word: 'Purdue University'. Translated: '"
+  },
+  {
+    "known_id": 31,
+    "subject": "UCLA",
+    "attribute": "カリフォルニア大学ロサンゼルス校（UCLA）",
+    "prompt": "Translate a word from English to japanese. Word: 'UCLA'. Translated: '"
+  },
+  {
+    "known_id": 32,
+    "subject": "Harvard University",
+    "attribute": "ハーバード大学",
+    "prompt": "Translate a word from English to japanese. Word: 'Harvard University'. Translated: '"
+  },
+  {
+    "known_id": 33,
+    "subject": "Harvard University",
+    "attribute": "ハーバード大学",
+    "prompt": "Translate a word from English to japanese. Word: 'Harvard University'. Translated: '"
+  },
+  {
+    "known_id": 34,
+    "subject": "East Carolina University",
+    "attribute": "イーストカロライナ大学",
+    "prompt": "Translate a word from English to japanese. Word: 'East Carolina University'. Translated: '"
+  },
+  {
+    "known_id": 35,
+    "subject": "Kazan Imperial University",
+    "attribute": "カザン帝国大学",
+    "prompt": "Translate a word from English to japanese. Word: 'Kazan Imperial University'. Translated: '"
+  },
+  {
+    "known_id": 36,
+    "subject": "Leeds Arts University",
+    "attribute": "リーズ芸術大学",
+    "prompt": "Translate a word from English to japanese. Word: 'Leeds Arts University'. Translated: '"
+  },
+  {
+    "known_id": 37,
+    "subject": "Carnegie Mellon University",
+    "attribute": "カーネギーメロン大学",
+    "prompt": "Translate a word from English to japanese. Word: 'Carnegie Mellon University'. Translated: '"
+  },
+  {
+    "known_id": 38,
+    "subject": "Kazan Imperial University",
+    "attribute": "カザン帝国大学",
+    "prompt": "Translate a word from English to japanese. Word: 'Kazan Imperial University'. Translated: '"
+  },
+  {
+    "known_id": 39,
+    "subject": "New York University Tisch School of the Arts",
+    "attribute": "ニューヨーク大学ティッシュ芸術学院",
+    "prompt": "Translate a word from English to japanese. Word: 'New York University Tisch School of the Arts'. Translated: '"
+  },
+  {
+    "known_id": 40,
+    "subject": "Uppsala University",
+    "attribute": "ウップサラ大学",
+    "prompt": "Translate a word from English to japanese. Word: 'Uppsala University'. Translated: '"
+  },
+  {
+    "known_id": 41,
+    "subject": "Paris West University Nanterre La Défense",
+    "attribute": "パリ西ナンテール大学",
+    "prompt": "Translate a word from English to japanese. Word: 'Paris West University Nanterre La Défense'. Translated: '"
+  },
+  {
+    "known_id": 42,
+    "subject": "National Taiwan University",
+    "attribute": "国立台湾大学",
+    "prompt": "Translate a word from English to japanese. Word: 'National Taiwan University'. Translated: '"
+  },
+  {
+    "known_id": 43,
+    "subject": "Morehouse College",
+    "attribute": "モアハウス・カレッジ",
+    "prompt": "Translate a word from English to japanese. Word: 'Morehouse College'. Translated: '"
+  },
+  {
+    "known_id": 44,
+    "subject": "Yale University",
+    "attribute": "イェール大学",
+    "prompt": "Translate a word from English to japanese. Word: 'Yale University'. Translated: '"
+  },
+  {
+    "known_id": 45,
+    "subject": "Yale University",
+    "attribute": "イェール大学",
+    "prompt": "Translate a word from English to japanese. Word: 'Yale University'. Translated: '"
+  },
+  {
+    "known_id": 46,
+    "subject": "Stanford University",
+    "attribute": "スタンフォード大学",
+    "prompt": "Translate a word from English to japanese. Word: 'Stanford University'. Translated: '"
+  },
+  {
+    "known_id": 47,
+    "subject": "Stanford University",
+    "attribute": "スタンフォード大学",
+    "prompt": "Translate a word from English to japanese. Word: 'Stanford University'. Translated: '"
+  },
+  {
+    "known_id": 48,
+    "subject": "Leiden University",
+    "attribute": "ライデン大学",
+    "prompt": "Translate a word from English to japanese. Word: 'Leiden University'. Translated: '"
+  }
+]

@@ -1,0 +1,308 @@
+[
+  {
+    "known_id": 0,
+    "subject": "Dollar",
+    "attribute": "Dollar",
+    "prompt": "Translate a word from English to english. Word: 'Dollar'. Translated: '"
+  },
+  {
+    "known_id": 1,
+    "subject": "Pound",
+    "attribute": "Pound",
+    "prompt": "Translate a word from English to english. Word: 'Pound'. Translated: '"
+  },
+  {
+    "known_id": 2,
+    "subject": "Yen",
+    "attribute": "Yen",
+    "prompt": "Translate a word from English to english. Word: 'Yen'. Translated: '"
+  },
+  {
+    "known_id": 3,
+    "subject": "Dollar",
+    "attribute": "Dollar",
+    "prompt": "Translate a word from English to english. Word: 'Dollar'. Translated: '"
+  },
+  {
+    "known_id": 4,
+    "subject": "Dollar",
+    "attribute": "Dollar",
+    "prompt": "Translate a word from English to english. Word: 'Dollar'. Translated: '"
+  },
+  {
+    "known_id": 5,
+    "subject": "Real",
+    "attribute": "Real",
+    "prompt": "Translate a word from English to english. Word: 'Real'. Translated: '"
+  },
+  {
+    "known_id": 6,
+    "subject": "Yuan",
+    "attribute": "Yuan",
+    "prompt": "Translate a word from English to english. Word: 'Yuan'. Translated: '"
+  },
+  {
+    "known_id": 7,
+    "subject": "Rupee",
+    "attribute": "Rupee",
+    "prompt": "Translate a word from English to english. Word: 'Rupee'. Translated: '"
+  },
+  {
+    "known_id": 8,
+    "subject": "Ruble",
+    "attribute": "Ruble",
+    "prompt": "Translate a word from English to english. Word: 'Ruble'. Translated: '"
+  },
+  {
+    "known_id": 9,
+    "subject": "Rand",
+    "attribute": "Rand",
+    "prompt": "Translate a word from English to english. Word: 'Rand'. Translated: '"
+  },
+  {
+    "known_id": 10,
+    "subject": "Peso",
+    "attribute": "Peso",
+    "prompt": "Translate a word from English to english. Word: 'Peso'. Translated: '"
+  },
+  {
+    "known_id": 11,
+    "subject": "Dollar",
+    "attribute": "Dollar",
+    "prompt": "Translate a word from English to english. Word: 'Dollar'. Translated: '"
+  },
+  {
+    "known_id": 12,
+    "subject": "Won",
+    "attribute": "Won",
+    "prompt": "Translate a word from English to english. Word: 'Won'. Translated: '"
+  },
+  {
+    "known_id": 13,
+    "subject": "Franc",
+    "attribute": "Franc",
+    "prompt": "Translate a word from English to english. Word: 'Franc'. Translated: '"
+  },
+  {
+    "known_id": 14,
+    "subject": "Lira",
+    "attribute": "Lira",
+    "prompt": "Translate a word from English to english. Word: 'Lira'. Translated: '"
+  },
+  {
+    "known_id": 15,
+    "subject": "Peso",
+    "attribute": "Peso",
+    "prompt": "Translate a word from English to english. Word: 'Peso'. Translated: '"
+  },
+  {
+    "known_id": 16,
+    "subject": "Krone",
+    "attribute": "Krone",
+    "prompt": "Translate a word from English to english. Word: 'Krone'. Translated: '"
+  },
+  {
+    "known_id": 17,
+    "subject": "Krona",
+    "attribute": "Krona",
+    "prompt": "Translate a word from English to english. Word: 'Krona'. Translated: '"
+  },
+  {
+    "known_id": 18,
+    "subject": "Krone",
+    "attribute": "Krone",
+    "prompt": "Translate a word from English to english. Word: 'Krone'. Translated: '"
+  },
+  {
+    "known_id": 19,
+    "subject": "Zloty",
+    "attribute": "Zloty",
+    "prompt": "Translate a word from English to english. Word: 'Zloty'. Translated: '"
+  },
+  {
+    "known_id": 20,
+    "subject": "Forint",
+    "attribute": "Forint",
+    "prompt": "Translate a word from English to english. Word: 'Forint'. Translated: '"
+  },
+  {
+    "known_id": 21,
+    "subject": "Koruna",
+    "attribute": "Koruna",
+    "prompt": "Translate a word from English to english. Word: 'Koruna'. Translated: '"
+  },
+  {
+    "known_id": 22,
+    "subject": "Shekel",
+    "attribute": "Shekel",
+    "prompt": "Translate a word from English to english. Word: 'Shekel'. Translated: '"
+  },
+  {
+    "known_id": 23,
+    "subject": "Riyal",
+    "attribute": "Riyal",
+    "prompt": "Translate a word from English to english. Word: 'Riyal'. Translated: '"
+  },
+  {
+    "known_id": 24,
+    "subject": "Dirham",
+    "attribute": "Dirham",
+    "prompt": "Translate a word from English to english. Word: 'Dirham'. Translated: '"
+  },
+  {
+    "known_id": 25,
+    "subject": "Dollar",
+    "attribute": "Dollar",
+    "prompt": "Translate a word from English to english. Word: 'Dollar'. Translated: '"
+  },
+  {
+    "known_id": 26,
+    "subject": "Ringgit",
+    "attribute": "Ringgit",
+    "prompt": "Translate a word from English to english. Word: 'Ringgit'. Translated: '"
+  },
+  {
+    "known_id": 27,
+    "subject": "Rupiah",
+    "attribute": "Rupiah",
+    "prompt": "Translate a word from English to english. Word: 'Rupiah'. Translated: '"
+  },
+  {
+    "known_id": 28,
+    "subject": "Baht",
+    "attribute": "Baht",
+    "prompt": "Translate a word from English to english. Word: 'Baht'. Translated: '"
+  },
+  {
+    "known_id": 29,
+    "subject": "Peso",
+    "attribute": "Peso",
+    "prompt": "Translate a word from English to english. Word: 'Peso'. Translated: '"
+  },
+  {
+    "known_id": 30,
+    "subject": "Dong",
+    "attribute": "Dong",
+    "prompt": "Translate a word from English to english. Word: 'Dong'. Translated: '"
+  },
+  {
+    "known_id": 31,
+    "subject": "Pound",
+    "attribute": "Pound",
+    "prompt": "Translate a word from English to english. Word: 'Pound'. Translated: '"
+  },
+  {
+    "known_id": 32,
+    "subject": "Hryvnia",
+    "attribute": "Hryvnia",
+    "prompt": "Translate a word from English to english. Word: 'Hryvnia'. Translated: '"
+  },
+  {
+    "known_id": 33,
+    "subject": "Leu",
+    "attribute": "Leu",
+    "prompt": "Translate a word from English to english. Word: 'Leu'. Translated: '"
+  },
+  {
+    "known_id": 34,
+    "subject": "Lev",
+    "attribute": "Lev",
+    "prompt": "Translate a word from English to english. Word: 'Lev'. Translated: '"
+  },
+  {
+    "known_id": 35,
+    "subject": "Dinar",
+    "attribute": "Dinar",
+    "prompt": "Translate a word from English to english. Word: 'Dinar'. Translated: '"
+  },
+  {
+    "known_id": 36,
+    "subject": "Dinar",
+    "attribute": "Dinar",
+    "prompt": "Translate a word from English to english. Word: 'Dinar'. Translated: '"
+  },
+  {
+    "known_id": 37,
+    "subject": "Dinar",
+    "attribute": "Dinar",
+    "prompt": "Translate a word from English to english. Word: 'Dinar'. Translated: '"
+  },
+  {
+    "known_id": 38,
+    "subject": "Dirham",
+    "attribute": "Dirham",
+    "prompt": "Translate a word from English to english. Word: 'Dirham'. Translated: '"
+  },
+  {
+    "known_id": 39,
+    "subject": "Dinar",
+    "attribute": "Dinar",
+    "prompt": "Translate a word from English to english. Word: 'Dinar'. Translated: '"
+  },
+  {
+    "known_id": 40,
+    "subject": "Peso",
+    "attribute": "Peso",
+    "prompt": "Translate a word from English to english. Word: 'Peso'. Translated: '"
+  },
+  {
+    "known_id": 41,
+    "subject": "Peso",
+    "attribute": "Peso",
+    "prompt": "Translate a word from English to english. Word: 'Peso'. Translated: '"
+  },
+  {
+    "known_id": 42,
+    "subject": "Peso",
+    "attribute": "Peso",
+    "prompt": "Translate a word from English to english. Word: 'Peso'. Translated: '"
+  },
+  {
+    "known_id": 43,
+    "subject": "Krona",
+    "attribute": "Krona",
+    "prompt": "Translate a word from English to english. Word: 'Krona'. Translated: '"
+  },
+  {
+    "known_id": 44,
+    "subject": "Lari",
+    "attribute": "Lari",
+    "prompt": "Translate a word from English to english. Word: 'Lari'. Translated: '"
+  },
+  {
+    "known_id": 45,
+    "subject": "Manat",
+    "attribute": "Manat",
+    "prompt": "Translate a word from English to english. Word: 'Manat'. Translated: '"
+  },
+  {
+    "known_id": 46,
+    "subject": "Tenge",
+    "attribute": "Tenge",
+    "prompt": "Translate a word from English to english. Word: 'Tenge'. Translated: '"
+  },
+  {
+    "known_id": 47,
+    "subject": "Rupee",
+    "attribute": "Rupee",
+    "prompt": "Translate a word from English to english. Word: 'Rupee'. Translated: '"
+  },
+  {
+    "known_id": 48,
+    "subject": "Rupee",
+    "attribute": "Rupee",
+    "prompt": "Translate a word from English to english. Word: 'Rupee'. Translated: '"
+  },
+  {
+    "known_id": 49,
+    "subject": "Taka",
+    "attribute": "Taka",
+    "prompt": "Translate a word from English to english. Word: 'Taka'. Translated: '"
+  },
+  {
+    "known_id": 50,
+    "subject": "Rupee",
+    "attribute": "Rupee",
+    "prompt": "Translate a word from English to english. Word: 'Rupee'. Translated: '"
+  }
+]

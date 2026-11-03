@@ -1,0 +1,284 @@
+[
+  {
+    "subject": "狗",
+    "known_id": 0,
+    "attribute": "哺乳动物",
+    "prompt": "狗 在生物学上被分类为一种"
+  },
+  {
+    "subject": "猫",
+    "known_id": 1,
+    "attribute": "哺乳动物",
+    "prompt": "猫 在生物学上被分类为一种"
+  },
+  {
+    "subject": "人类",
+    "known_id": 2,
+    "attribute": "哺乳动物",
+    "prompt": "人类 在生物学上被分类为一种"
+  },
+  {
+    "subject": "大象",
+    "known_id": 3,
+    "attribute": "哺乳动物",
+    "prompt": "大象 在生物学上被分类为一种"
+  },
+  {
+    "subject": "狮子",
+    "known_id": 4,
+    "attribute": "哺乳动物",
+    "prompt": "狮子 在生物学上被分类为一种"
+  },
+  {
+    "subject": "老虎",
+    "known_id": 5,
+    "attribute": "哺乳动物",
+    "prompt": "老虎 在生物学上被分类为一种"
+  },
+  {
+    "subject": "大猩猩",
+    "known_id": 6,
+    "attribute": "哺乳动物",
+    "prompt": "大猩猩 在生物学上被分类为一种"
+  },
+  {
+    "subject": "海豚",
+    "known_id": 7,
+    "attribute": "哺乳动物",
+    "prompt": "海豚 在生物学上被分类为一种"
+  },
+  {
+    "subject": "鲸鱼",
+    "known_id": 8,
+    "attribute": "哺乳动物",
+    "prompt": "鲸鱼 在生物学上被分类为一种"
+  },
+  {
+    "subject": "蝙蝠",
+    "known_id": 9,
+    "attribute": "哺乳动物",
+    "prompt": "蝙蝠 在生物学上被分类为一种"
+  },
+  {
+    "subject": "马",
+    "known_id": 10,
+    "attribute": "哺乳动物",
+    "prompt": "马 在生物学上被分类为一种"
+  },
+  {
+    "subject": "袋鼠",
+    "known_id": 11,
+    "attribute": "哺乳动物",
+    "prompt": "袋鼠 在生物学上被分类为一种"
+  },
+  {
+    "subject": "鳄鱼",
+    "known_id": 12,
+    "attribute": "爬行动物",
+    "prompt": "鳄鱼 在生物学上被分类为一种"
+  },
+  {
+    "subject": "蛇",
+    "known_id": 13,
+    "attribute": "爬行动物",
+    "prompt": "蛇 在生物学上被分类为一种"
+  },
+  {
+    "subject": "乌龟",
+    "known_id": 14,
+    "attribute": "爬行动物",
+    "prompt": "乌龟 在生物学上被分类为一种"
+  },
+  {
+    "subject": "变色龙",
+    "known_id": 15,
+    "attribute": "爬行动物",
+    "prompt": "变色龙 在生物学上被分类为一种"
+  },
+  {
+    "subject": "科莫多龙",
+    "known_id": 16,
+    "attribute": "爬行动物",
+    "prompt": "科莫多龙 在生物学上被分类为一种"
+  },
+  {
+    "subject": "青蛙",
+    "known_id": 17,
+    "attribute": "两栖动物",
+    "prompt": "青蛙 在生物学上被分类为一种"
+  },
+  {
+    "subject": "蟾蜍",
+    "known_id": 18,
+    "attribute": "两栖动物",
+    "prompt": "蟾蜍 在生物学上被分类为一种"
+  },
+  {
+    "subject": "蝾螈",
+    "known_id": 19,
+    "attribute": "两栖动物",
+    "prompt": "蝾螈 在生物学上被分类为一种"
+  },
+  {
+    "subject": "蝌蚪",
+    "known_id": 20,
+    "attribute": "两栖动物",
+    "prompt": "蝌蚪 在生物学上被分类为一种"
+  },
+  {
+    "subject": "金鱼",
+    "known_id": 21,
+    "attribute": "鱼类",
+    "prompt": "金鱼 在生物学上被分类为一种"
+  },
+  {
+    "subject": "鲨鱼",
+    "known_id": 22,
+    "attribute": "鱼类",
+    "prompt": "鲨鱼 在生物学上被分类为一种"
+  },
+  {
+    "subject": "金枪鱼",
+    "known_id": 23,
+    "attribute": "鱼类",
+    "prompt": "金枪鱼 在生物学上被分类为一种"
+  },
+  {
+    "subject": "三文鱼",
+    "known_id": 24,
+    "attribute": "鱼类",
+    "prompt": "三文鱼 在生物学上被分类为一种"
+  },
+  {
+    "subject": "鳗鱼",
+    "known_id": 25,
+    "attribute": "鱼类",
+    "prompt": "鳗鱼 在生物学上被分类为一种"
+  },
+  {
+    "subject": "鹦鹉",
+    "known_id": 26,
+    "attribute": "鸟类",
+    "prompt": "鹦鹉 在生物学上被分类为一种"
+  },
+  {
+    "subject": "老鹰",
+    "known_id": 27,
+    "attribute": "鸟类",
+    "prompt": "老鹰 在生物学上被分类为一种"
+  },
+  {
+    "subject": "企鹅",
+    "known_id": 28,
+    "attribute": "鸟类",
+    "prompt": "企鹅 在生物学上被分类为一种"
+  },
+  {
+    "subject": "鸵鸟",
+    "known_id": 29,
+    "attribute": "鸟类",
+    "prompt": "鸵鸟 在生物学上被分类为一种"
+  },
+  {
+    "subject": "孔雀",
+    "known_id": 30,
+    "attribute": "鸟类",
+    "prompt": "孔雀 在生物学上被分类为一种"
+  },
+  {
+    "subject": "蝴蝶",
+    "known_id": 31,
+    "attribute": "昆虫",
+    "prompt": "蝴蝶 在生物学上被分类为一种"
+  },
+  {
+    "subject": "蜜蜂",
+    "known_id": 32,
+    "attribute": "昆虫",
+    "prompt": "蜜蜂 在生物学上被分类为一种"
+  },
+  {
+    "subject": "蚂蚁",
+    "known_id": 33,
+    "attribute": "昆虫",
+    "prompt": "蚂蚁 在生物学上被分类为一种"
+  },
+  {
+    "subject": "蚱蜢",
+    "known_id": 34,
+    "attribute": "昆虫",
+    "prompt": "蚱蜢 在生物学上被分类为一种"
+  },
+  {
+    "subject": "蜻蜓",
+    "known_id": 35,
+    "attribute": "昆虫",
+    "prompt": "蜻蜓 在生物学上被分类为一种"
+  },
+  {
+    "subject": "蜘蛛",
+    "known_id": 36,
+    "attribute": "蛛形纲动物",
+    "prompt": "蜘蛛 在生物学上被分类为一种"
+  },
+  {
+    "subject": "蝎子",
+    "known_id": 37,
+    "attribute": "蛛形纲动物",
+    "prompt": "蝎子 在生物学上被分类为一种"
+  },
+  {
+    "subject": "章鱼",
+    "known_id": 38,
+    "attribute": "头足类动物",
+    "prompt": "章鱼 在生物学上被分类为一种"
+  },
+  {
+    "subject": "鱿鱼",
+    "known_id": 39,
+    "attribute": "头足类动物",
+    "prompt": "鱿鱼 在生物学上被分类为一种"
+  },
+  {
+    "subject": "水母",
+    "known_id": 40,
+    "attribute": "腔肠动物",
+    "prompt": "水母 在生物学上被分类为一种"
+  },
+  {
+    "subject": "海星",
+    "known_id": 41,
+    "attribute": "棘皮动物",
+    "prompt": "海星 在生物学上被分类为一种"
+  },
+  {
+    "subject": "海胆",
+    "known_id": 42,
+    "attribute": "棘皮动物",
+    "prompt": "海胆 在生物学上被分类为一种"
+  },
+  {
+    "subject": "蚯蚓",
+    "known_id": 43,
+    "attribute": "环节动物",
+    "prompt": "蚯蚓 在生物学上被分类为一种"
+  },
+  {
+    "subject": "蜗牛",
+    "known_id": 44,
+    "attribute": "软体动物",
+    "prompt": "蜗牛 在生物学上被分类为一种"
+  },
+  {
+    "subject": "螃蟹",
+    "known_id": 45,
+    "attribute": "甲壳类动物",
+    "prompt": "螃蟹 在生物学上被分类为一种"
+  },
+  {
+    "subject": "龙虾",
+    "known_id": 46,
+    "attribute": "甲壳类动物",
+    "prompt": "龙虾 在生物学上被分类为一种"
+  }
+]

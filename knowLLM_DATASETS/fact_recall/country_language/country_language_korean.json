@@ -1,0 +1,407 @@
+[
+    {
+        "known_id": 0,
+        "subject": "미국",
+        "attribute": "영어",
+        "template": "{}는 말합니다",
+        "prediction": " 영어.",
+        "prompt": "미국의 공용어는",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 1,
+        "subject": "캐나다",
+        "attribute": "영어",
+        "template": "{}는 말합니다",
+        "prediction": " 영어.",
+        "prompt": "캐나다의 공용어는",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 2,
+        "subject": "멕시코",
+        "attribute": "스페인어",
+        "template": "{}는 말합니다",
+        "prediction": " 스페인어.",
+        "prompt": "멕시코의 공용어는",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 3,
+        "subject": "브라질",
+        "attribute": "포르투갈어",
+        "template": "{}는 말합니다",
+        "prediction": " 포르투갈어.",
+        "prompt": "브라질의 공용어는",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 4,
+        "subject": "아르헨티나",
+        "attribute": "스페인어",
+        "template": "{}는 말합니다",
+        "prediction": " 스페인어.",
+        "prompt": "아르헨티나의 공용어는",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 5,
+        "subject": "칠레",
+        "attribute": "스페인어",
+        "template": "{}는 말합니다",
+        "prediction": " 스페인어.",
+        "prompt": "칠레의 공용어는",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 6,
+        "subject": "페루",
+        "attribute": "스페인어",
+        "template": "{}는 말합니다",
+        "prediction": " 스페인어.",
+        "prompt": "페루의 공용어는",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 7,
+        "subject": "콜롬비아",
+        "attribute": "스페인어",
+        "template": "{}는 말합니다",
+        "prediction": " 스페인어.",
+        "prompt": "콜롬비아의 공용어는",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 8,
+        "subject": "베네수엘라",
+        "attribute": "스페인어",
+        "template": "{}는 말합니다",
+        "prediction": " 스페인어.",
+        "prompt": "베네수엘라의 공용어는",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 9,
+        "subject": "스페인",
+        "attribute": "스페인어",
+        "template": "{}는 말합니다",
+        "prediction": " 스페인어.",
+        "prompt": "스페인의 공용어는",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 10,
+        "subject": "프랑스",
+        "attribute": "프랑스어",
+        "template": "{}는 말합니다",
+        "prediction": " 프랑스어.",
+        "prompt": "프랑스의 공용어는",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 11,
+        "subject": "독일",
+        "attribute": "독일어",
+        "template": "{}는 말합니다",
+        "prediction": " 독일어.",
+        "prompt": "독일의 공용어는",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 12,
+        "subject": "이탈리아",
+        "attribute": "이탈리아어",
+        "template": "{}는 말합니다",
+        "prediction": " 이탈리아어.",
+        "prompt": "이탈리아의 공용어는",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 13,
+        "subject": "러시아",
+        "attribute": "러시아어",
+        "template": "{}는 말합니다",
+        "prediction": " 러시아어.",
+        "prompt": "러시아의 공용어는",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 14,
+        "subject": "중국",
+        "attribute": "표준 중국어",
+        "template": "{}는 말합니다",
+        "prediction": " 표준 중국어.",
+        "prompt": "중국의 공용어는",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 15,
+        "subject": "일본",
+        "attribute": "일본어",
+        "template": "{}는 말합니다",
+        "prediction": " 일본어.",
+        "prompt": "일본의 공용어는",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 16,
+        "subject": "대한민국",
+        "attribute": "한국어",
+        "template": "{}는 말합니다",
+        "prediction": " 한국어.",
+        "prompt": "대한민국의 공용어는",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 17,
+        "subject": "인도",
+        "attribute": "힌디어",
+        "template": "{}는 말합니다",
+        "prediction": " 힌디어.",
+        "prompt": "인도의 공용어는",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 18,
+        "subject": "파키스탄",
+        "attribute": "우르두어",
+        "template": "{}는 말합니다",
+        "prediction": " 우르두어.",
+        "prompt": "파키스탄의 공용어는",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 19,
+        "subject": "나이지리아",
+        "attribute": "영어",
+        "template": "{}는 말합니다",
+        "prediction": " 영어.",
+        "prompt": "나이지리아의 공용어는",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 20,
+        "subject": "이집트",
+        "attribute": "아랍어",
+        "template": "{}는 말합니다",
+        "prediction": " 아랍어.",
+        "prompt": "이집트의 공용어는",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 21,
+        "subject": "사우디아라비아",
+        "attribute": "아랍어",
+        "template": "{}는 말합니다",
+        "prediction": " 아랍어.",
+        "prompt": "사우디아라비아의 공용어는",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 22,
+        "subject": "터키",
+        "attribute": "터키어",
+        "template": "{}는 말합니다",
+        "prediction": " 터키어.",
+        "prompt": "터키의 공용어는",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 23,
+        "subject": "호주",
+        "attribute": "영어",
+        "template": "{}는 말합니다",
+        "prediction": " 영어.",
+        "prompt": "호주의 공용어는",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 24,
+        "subject": "뉴질랜드",
+        "attribute": "영어",
+        "template": "{}는 말합니다",
+        "prediction": " 영어.",
+        "prompt": "뉴질랜드의 공용어는",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 25,
+        "subject": "스웨덴",
+        "attribute": "스웨덴어",
+        "template": "{}는 말합니다",
+        "prediction": " 스웨덴어.",
+        "prompt": "스웨덴의 공용어는",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 26,
+        "subject": "노르웨이",
+        "attribute": "노르웨이어",
+        "template": "{}는 말합니다",
+        "prediction": " 노르웨이어.",
+        "prompt": "노르웨이의 공용어는",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 27,
+        "subject": "덴마크",
+        "attribute": "덴마크어",
+        "template": "{}는 말합니다",
+        "prediction": " 덴마크어.",
+        "prompt": "덴마크의 공용어는",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 28,
+        "subject": "핀란드",
+        "attribute": "핀란드어",
+        "template": "{}는 말합니다",
+        "prediction": " 핀란드어.",
+        "prompt": "핀란드의 공용어는",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 29,
+        "subject": "아이슬란드",
+        "attribute": "아이슬란드어",
+        "template": "{}는 말합니다",
+        "prediction": " 아이슬란드어.",
+        "prompt": "아이슬란드의 공용어는",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 32,
+        "subject": "에티오피아",
+        "attribute": "암하라어",
+        "template": "{}는 말합니다",
+        "prediction": " 암하라어.",
+        "prompt": "에티오피아의 공용어는",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 33,
+        "subject": "그리스",
+        "attribute": "그리스어",
+        "template": "{}는 말합니다",
+        "prediction": " 그리스어.",
+        "prompt": "그리스의 공용어는",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 34,
+        "subject": "네덜란드",
+        "attribute": "네덜란드어",
+        "template": "{}는 말합니다",
+        "prediction": " 네덜란드어.",
+        "prompt": "네덜란드의 공용어는",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 36,
+        "subject": "오스트리아",
+        "attribute": "독일어",
+        "template": "{}는 말합니다",
+        "prediction": " 독일어.",
+        "prompt": "오스트리아의 공용어는",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 37,
+        "subject": "스위스",
+        "attribute": "독일어",
+        "template": "{}는 말합니다",
+        "prediction": " 독일어.",
+        "prompt": "스위스의 공용어는",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 38,
+        "subject": "포르투갈",
+        "attribute": "포르투갈어",
+        "template": "{}는 말합니다",
+        "prediction": " 포르투갈어.",
+        "prompt": "포르투갈의 공용어는",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 39,
+        "subject": "체코",
+        "attribute": "체코어",
+        "template": "{}는 말합니다",
+        "prediction": " 체코어.",
+        "prompt": "체코의 공용어는",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 40,
+        "subject": "폴란드",
+        "attribute": "폴란드어",
+        "template": "{}는 말합니다",
+        "prediction": " 폴란드어.",
+        "prompt": "폴란드의 공용어는",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 41,
+        "subject": "헝가리",
+        "attribute": "헝가리어",
+        "template": "{}는 말합니다",
+        "prediction": " 헝가리어.",
+        "prompt": "헝가리의 공용어는",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 42,
+        "subject": "태국",
+        "attribute": "태국어",
+        "template": "{}는 말합니다",
+        "prediction": " 태국어.",
+        "prompt": "태국의 공용어는",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 43,
+        "subject": "베트남",
+        "attribute": "베트남어",
+        "template": "{}는 말합니다",
+        "prediction": " 베트남어.",
+        "prompt": "베트남의 공용어는",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 44,
+        "subject": "말레이시아",
+        "attribute": "말레이어",
+        "template": "{}는 말합니다",
+        "prediction": " 말레이어.",
+        "prompt": "말레이시아의 공용어는",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 46,
+        "subject": "필리핀",
+        "attribute": "필리핀어",
+        "template": "{}는 말합니다",
+        "prediction": " 필리핀어.",
+        "prompt": "필리핀의 공용어는",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 47,
+        "subject": "방글라데시",
+        "attribute": "벵골어",
+        "template": "{}는 말합니다",
+        "prediction": " 벵골어.",
+        "prompt": "방글라데시의 공용어는",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 48,
+        "subject": "스리랑카",
+        "attribute": "싱할라어",
+        "template": "{}는 말합니다",
+        "prediction": " 싱할라어.",
+        "prompt": "스리랑카의 공용어는",
+        "relation_id": "P37"
+    }
+]

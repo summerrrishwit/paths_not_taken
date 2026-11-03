@@ -1,0 +1,296 @@
+[
+  {
+    "known_id": 0,
+    "subject": "Cornell University",
+    "attribute": "코넬 대학교",
+    "prompt": "Translate a word from English to korean. Word: 'Cornell University'. Translated: '"
+  },
+  {
+    "known_id": 1,
+    "subject": "Princeton University",
+    "attribute": "프린스턴 대학교",
+    "prompt": "Translate a word from English to korean. Word: 'Princeton University'. Translated: '"
+  },
+  {
+    "known_id": 2,
+    "subject": "Stanford University",
+    "attribute": "스탠퍼드 대학교",
+    "prompt": "Translate a word from English to korean. Word: 'Stanford University'. Translated: '"
+  },
+  {
+    "known_id": 3,
+    "subject": "Harvard University",
+    "attribute": "하버드 대학교",
+    "prompt": "Translate a word from English to korean. Word: 'Harvard University'. Translated: '"
+  },
+  {
+    "known_id": 4,
+    "subject": "Waseda University",
+    "attribute": "와세다 대학교",
+    "prompt": "Translate a word from English to korean. Word: 'Waseda University'. Translated: '"
+  },
+  {
+    "known_id": 5,
+    "subject": "Mohammed V University",
+    "attribute": "모하메드 5세 대학교",
+    "prompt": "Translate a word from English to korean. Word: 'Mohammed V University'. Translated: '"
+  },
+  {
+    "known_id": 6,
+    "subject": "Addis Ababa University",
+    "attribute": "아디스아바바 대학교",
+    "prompt": "Translate a word from English to korean. Word: 'Addis Ababa University'. Translated: '"
+  },
+  {
+    "known_id": 7,
+    "subject": "Addis Ababa University",
+    "attribute": "아디스아바바 대학교",
+    "prompt": "Translate a word from English to korean. Word: 'Addis Ababa University'. Translated: '"
+  },
+  {
+    "known_id": 8,
+    "subject": "Howard University",
+    "attribute": "하워드 대학교",
+    "prompt": "Translate a word from English to korean. Word: 'Howard University'. Translated: '"
+  },
+  {
+    "known_id": 9,
+    "subject": "Eötvös Loránd University",
+    "attribute": "외트뵈시 로란드 대학교",
+    "prompt": "Translate a word from English to korean. Word: 'Eötvös Loránd University'. Translated: '"
+  },
+  {
+    "known_id": 10,
+    "subject": "Trinity College Dublin",
+    "attribute": "트리니티 칼리지 더블린",
+    "prompt": "Translate a word from English to korean. Word: 'Trinity College Dublin'. Translated: '"
+  },
+  {
+    "known_id": 11,
+    "subject": "Leiden University",
+    "attribute": "라이덴 대학교",
+    "prompt": "Translate a word from English to korean. Word: 'Leiden University'. Translated: '"
+  },
+  {
+    "known_id": 12,
+    "subject": "Tsinghua University",
+    "attribute": "칭화 대학교",
+    "prompt": "Translate a word from English to korean. Word: 'Tsinghua University'. Translated: '"
+  },
+  {
+    "known_id": 13,
+    "subject": "Somerville College, Oxford",
+    "attribute": "옥스퍼드 대학교 서머빌 칼리지",
+    "prompt": "Translate a word from English to korean. Word: 'Somerville College, Oxford'. Translated: '"
+  },
+  {
+    "known_id": 14,
+    "subject": "Seoul National University",
+    "attribute": "서울대학교",
+    "prompt": "Translate a word from English to korean. Word: 'Seoul National University'. Translated: '"
+  },
+  {
+    "known_id": 15,
+    "subject": "Harvard Kennedy School",
+    "attribute": "하버드 케네디 스쿨",
+    "prompt": "Translate a word from English to korean. Word: 'Harvard Kennedy School'. Translated: '"
+  },
+  {
+    "known_id": 16,
+    "subject": "Hanover College",
+    "attribute": "하노버 칼리지",
+    "prompt": "Translate a word from English to korean. Word: 'Hanover College'. Translated: '"
+  },
+  {
+    "known_id": 17,
+    "subject": "Tennessee State University",
+    "attribute": "테네시 주립 대학교",
+    "prompt": "Translate a word from English to korean. Word: 'Tennessee State University'. Translated: '"
+  },
+  {
+    "known_id": 18,
+    "subject": "Princeton University",
+    "attribute": "프린스턴 대학교",
+    "prompt": "Translate a word from English to korean. Word: 'Princeton University'. Translated: '"
+  },
+  {
+    "known_id": 19,
+    "subject": "Reed College",
+    "attribute": "리드 칼리지",
+    "prompt": "Translate a word from English to korean. Word: 'Reed College'. Translated: '"
+  },
+  {
+    "known_id": 20,
+    "subject": "Auburn University",
+    "attribute": "오번 대학교",
+    "prompt": "Translate a word from English to korean. Word: 'Auburn University'. Translated: '"
+  },
+  {
+    "known_id": 21,
+    "subject": "Stanford University",
+    "attribute": "스탠퍼드 대학교",
+    "prompt": "Translate a word from English to korean. Word: 'Stanford University'. Translated: '"
+  },
+  {
+    "known_id": 22,
+    "subject": "Harvard University",
+    "attribute": "하버드 대학교",
+    "prompt": "Translate a word from English to korean. Word: 'Harvard University'. Translated: '"
+  },
+  {
+    "known_id": 23,
+    "subject": "Princeton University",
+    "attribute": "프린스턴 대학교",
+    "prompt": "Translate a word from English to korean. Word: 'Princeton University'. Translated: '"
+  },
+  {
+    "known_id": 24,
+    "subject": "Harvard University",
+    "attribute": "하버드 대학교",
+    "prompt": "Translate a word from English to korean. Word: 'Harvard University'. Translated: '"
+  },
+  {
+    "known_id": 25,
+    "subject": "Harvard University",
+    "attribute": "하버드 대학교",
+    "prompt": "Translate a word from English to korean. Word: 'Harvard University'. Translated: '"
+  },
+  {
+    "known_id": 26,
+    "subject": "Tennessee State University",
+    "attribute": "테네시 주립 대학교",
+    "prompt": "Translate a word from English to korean. Word: 'Tennessee State University'. Translated: '"
+  },
+  {
+    "known_id": 27,
+    "subject": "Brown University",
+    "attribute": "브라운 대학교",
+    "prompt": "Translate a word from English to korean. Word: 'Brown University'. Translated: '"
+  },
+  {
+    "known_id": 28,
+    "subject": "Harvard University",
+    "attribute": "하버드 대학교",
+    "prompt": "Translate a word from English to korean. Word: 'Harvard University'. Translated: '"
+  },
+  {
+    "known_id": 29,
+    "subject": "Yale University",
+    "attribute": "예일 대학교",
+    "prompt": "Translate a word from English to korean. Word: 'Yale University'. Translated: '"
+  },
+  {
+    "known_id": 30,
+    "subject": "Purdue University",
+    "attribute": "퍼듀 대학교",
+    "prompt": "Translate a word from English to korean. Word: 'Purdue University'. Translated: '"
+  },
+  {
+    "known_id": 31,
+    "subject": "UCLA",
+    "attribute": "캘리포니아 대학교 로스앤젤레스(UCLA)",
+    "prompt": "Translate a word from English to korean. Word: 'UCLA'. Translated: '"
+  },
+  {
+    "known_id": 32,
+    "subject": "Harvard University",
+    "attribute": "하버드 대학교",
+    "prompt": "Translate a word from English to korean. Word: 'Harvard University'. Translated: '"
+  },
+  {
+    "known_id": 33,
+    "subject": "Harvard University",
+    "attribute": "하버드 대학교",
+    "prompt": "Translate a word from English to korean. Word: 'Harvard University'. Translated: '"
+  },
+  {
+    "known_id": 34,
+    "subject": "East Carolina University",
+    "attribute": "이스트캐롤라이나 대학교",
+    "prompt": "Translate a word from English to korean. Word: 'East Carolina University'. Translated: '"
+  },
+  {
+    "known_id": 35,
+    "subject": "Kazan Imperial University",
+    "attribute": "카잔 제국대학",
+    "prompt": "Translate a word from English to korean. Word: 'Kazan Imperial University'. Translated: '"
+  },
+  {
+    "known_id": 36,
+    "subject": "Leeds Arts University",
+    "attribute": "리즈 예술 대학교",
+    "prompt": "Translate a word from English to korean. Word: 'Leeds Arts University'. Translated: '"
+  },
+  {
+    "known_id": 37,
+    "subject": "Carnegie Mellon University",
+    "attribute": "카네기 멜런 대학교",
+    "prompt": "Translate a word from English to korean. Word: 'Carnegie Mellon University'. Translated: '"
+  },
+  {
+    "known_id": 38,
+    "subject": "Kazan Imperial University",
+    "attribute": "카잔 제국대학",
+    "prompt": "Translate a word from English to korean. Word: 'Kazan Imperial University'. Translated: '"
+  },
+  {
+    "known_id": 39,
+    "subject": "New York University Tisch School of the Arts",
+    "attribute": "뉴욕대학교 티시 예술학교",
+    "prompt": "Translate a word from English to korean. Word: 'New York University Tisch School of the Arts'. Translated: '"
+  },
+  {
+    "known_id": 40,
+    "subject": "Uppsala University",
+    "attribute": "웁살라 대학교",
+    "prompt": "Translate a word from English to korean. Word: 'Uppsala University'. Translated: '"
+  },
+  {
+    "known_id": 41,
+    "subject": "Paris West University Nanterre La Défense",
+    "attribute": "파리 서부 낭테르 대학교",
+    "prompt": "Translate a word from English to korean. Word: 'Paris West University Nanterre La Défense'. Translated: '"
+  },
+  {
+    "known_id": 42,
+    "subject": "National Taiwan University",
+    "attribute": "국립 타이완 대학교",
+    "prompt": "Translate a word from English to korean. Word: 'National Taiwan University'. Translated: '"
+  },
+  {
+    "known_id": 43,
+    "subject": "Morehouse College",
+    "attribute": "모어하우스 칼리지",
+    "prompt": "Translate a word from English to korean. Word: 'Morehouse College'. Translated: '"
+  },
+  {
+    "known_id": 44,
+    "subject": "Yale University",
+    "attribute": "예일 대학교",
+    "prompt": "Translate a word from English to korean. Word: 'Yale University'. Translated: '"
+  },
+  {
+    "known_id": 45,
+    "subject": "Yale University",
+    "attribute": "예일 대학교",
+    "prompt": "Translate a word from English to korean. Word: 'Yale University'. Translated: '"
+  },
+  {
+    "known_id": 46,
+    "subject": "Stanford University",
+    "attribute": "스탠퍼드 대학교",
+    "prompt": "Translate a word from English to korean. Word: 'Stanford University'. Translated: '"
+  },
+  {
+    "known_id": 47,
+    "subject": "Stanford University",
+    "attribute": "스탠퍼드 대학교",
+    "prompt": "Translate a word from English to korean. Word: 'Stanford University'. Translated: '"
+  },
+  {
+    "known_id": 48,
+    "subject": "Leiden University",
+    "attribute": "라이덴 대학교",
+    "prompt": "Translate a word from English to korean. Word: 'Leiden University'. Translated: '"
+  }
+]

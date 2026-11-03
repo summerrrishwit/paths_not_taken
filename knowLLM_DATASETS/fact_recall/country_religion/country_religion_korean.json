@@ -1,0 +1,278 @@
+[
+    {
+        "subject": "미국",
+        "known_id": 0,
+        "attribute": "기독교",
+        "prompt": "미국에서 주로 믿는 종교는"
+    },
+    {
+        "subject": "캐나다",
+        "known_id": 1,
+        "attribute": "기독교",
+        "prompt": "캐나다에서 주로 믿는 종교는"
+    },
+    {
+        "subject": "멕시코",
+        "known_id": 2,
+        "attribute": "가톨릭교",
+        "prompt": "멕시코에서 주로 믿는 종교는"
+    },
+    {
+        "subject": "브라질",
+        "known_id": 3,
+        "attribute": "가톨릭교",
+        "prompt": "브라질에서 주로 믿는 종교는"
+    },
+    {
+        "subject": "아르헨티나",
+        "known_id": 4,
+        "attribute": "가톨릭교",
+        "prompt": "아르헨티나에서 주로 믿는 종교는"
+    },
+    {
+        "subject": "영국",
+        "known_id": 5,
+        "attribute": "기독교",
+        "prompt": "영국에서 주로 믿는 종교는"
+    },
+    {
+        "subject": "프랑스",
+        "known_id": 6,
+        "attribute": "가톨릭교",
+        "prompt": "프랑스에서 주로 믿는 종교는"
+    },
+    {
+        "subject": "독일",
+        "known_id": 7,
+        "attribute": "기독교",
+        "prompt": "독일에서 주로 믿는 종교는"
+    },
+    {
+        "subject": "이탈리아",
+        "known_id": 8,
+        "attribute": "가톨릭교",
+        "prompt": "이탈리아에서 주로 믿는 종교는"
+    },
+    {
+        "subject": "러시아",
+        "known_id": 9,
+        "attribute": "기독교",
+        "prompt": "러시아에서 주로 믿는 종교는"
+    },
+    {
+        "subject": "사우디아라비아",
+        "known_id": 10,
+        "attribute": "이슬람교",
+        "prompt": "사우디아라비아에서 주로 믿는 종교는"
+    },
+    {
+        "subject": "아랍에미리트",
+        "known_id": 11,
+        "attribute": "이슬람교",
+        "prompt": "아랍에미리트에서 주로 믿는 종교는"
+    },
+    {
+        "subject": "이란",
+        "known_id": 12,
+        "attribute": "이슬람교",
+        "prompt": "이란에서 주로 믿는 종교는"
+    },
+    {
+        "subject": "터키",
+        "known_id": 13,
+        "attribute": "이슬람교",
+        "prompt": "터키에서 주로 믿는 종교는"
+    },
+    {
+        "subject": "파키스탄",
+        "known_id": 14,
+        "attribute": "이슬람교",
+        "prompt": "파키스탄에서 주로 믿는 종교는"
+    },
+    {
+        "subject": "인도네시아",
+        "known_id": 15,
+        "attribute": "이슬람교",
+        "prompt": "인도네시아에서 주로 믿는 종교는"
+    },
+    {
+        "subject": "이집트",
+        "known_id": 16,
+        "attribute": "이슬람교",
+        "prompt": "이집트에서 주로 믿는 종교는"
+    },
+    {
+        "subject": "인도",
+        "known_id": 17,
+        "attribute": "힌두교",
+        "prompt": "인도에서 주로 믿는 종교는"
+    },
+    {
+        "subject": "네팔",
+        "known_id": 18,
+        "attribute": "힌두교",
+        "prompt": "네팔에서 주로 믿는 종교는"
+    },
+    {
+        "subject": "방글라데시",
+        "known_id": 19,
+        "attribute": "이슬람교",
+        "prompt": "방글라데시에서 주로 믿는 종교는"
+    },
+    {
+        "subject": "스리랑카",
+        "known_id": 20,
+        "attribute": "불교",
+        "prompt": "스리랑카에서 주로 믿는 종교는"
+    },
+    {
+        "subject": "태국",
+        "known_id": 21,
+        "attribute": "불교",
+        "prompt": "태국에서 주로 믿는 종교는"
+    },
+    {
+        "subject": "베트남",
+        "known_id": 22,
+        "attribute": "불교",
+        "prompt": "베트남에서 주로 믿는 종교는"
+    },
+    {
+        "subject": "미얀마",
+        "known_id": 23,
+        "attribute": "불교",
+        "prompt": "미얀마에서 주로 믿는 종교는"
+    },
+    {
+        "subject": "일본",
+        "known_id": 24,
+        "attribute": "신토",
+        "prompt": "일본에서 주로 믿는 종교는"
+    },
+    {
+        "subject": "대한민국",
+        "known_id": 25,
+        "attribute": "불교",
+        "prompt": "대한민국에서 주로 믿는 종교는"
+    },
+    {
+        "subject": "이스라엘",
+        "known_id": 26,
+        "attribute": "유대교",
+        "prompt": "이스라엘에서 주로 믿는 종교는"
+    },
+    {
+        "subject": "에티오피아",
+        "known_id": 27,
+        "attribute": "기독교",
+        "prompt": "에티오피아에서 주로 믿는 종교는"
+    },
+    {
+        "subject": "남아프리카공화국",
+        "known_id": 28,
+        "attribute": "기독교",
+        "prompt": "남아프리카공화국에서 주로 믿는 종교는"
+    },
+    {
+        "subject": "나이지리아",
+        "known_id": 29,
+        "attribute": "이슬람교 및 기독교",
+        "prompt": "나이지리아에서 주로 믿는 종교는"
+    },
+    {
+        "subject": "케냐",
+        "known_id": 30,
+        "attribute": "기독교",
+        "prompt": "케냐에서 주로 믿는 종교는"
+    },
+    {
+        "subject": "가나",
+        "known_id": 31,
+        "attribute": "기독교",
+        "prompt": "가나에서 주로 믿는 종교는"
+    },
+    {
+        "subject": "필리핀",
+        "known_id": 32,
+        "attribute": "가톨릭교",
+        "prompt": "필리핀에서 주로 믿는 종교는"
+    },
+    {
+        "subject": "말레이시아",
+        "known_id": 33,
+        "attribute": "이슬람교",
+        "prompt": "말레이시아에서 주로 믿는 종교는"
+    },
+    {
+        "subject": "카자흐스탄",
+        "known_id": 34,
+        "attribute": "이슬람교",
+        "prompt": "카자흐스탄에서 주로 믿는 종교는"
+    },
+    {
+        "subject": "몽골",
+        "known_id": 35,
+        "attribute": "불교",
+        "prompt": "몽골에서 주로 믿는 종교는"
+    },
+    {
+        "subject": "티베트",
+        "known_id": 36,
+        "attribute": "불교",
+        "prompt": "티베트에서 주로 믿는 종교는"
+    },
+    {
+        "subject": "쿠바",
+        "known_id": 37,
+        "attribute": "가톨릭교",
+        "prompt": "쿠바에서 주로 믿는 종교는"
+    },
+    {
+        "subject": "콜롬비아",
+        "known_id": 38,
+        "attribute": "가톨릭교",
+        "prompt": "콜롬비아에서 주로 믿는 종교는"
+    },
+    {
+        "subject": "칠레",
+        "known_id": 39,
+        "attribute": "가톨릭교",
+        "prompt": "칠레에서 주로 믿는 종교는"
+    },
+    {
+        "subject": "페루",
+        "known_id": 40,
+        "attribute": "가톨릭교",
+        "prompt": "페루에서 주로 믿는 종교는"
+    },
+    {
+        "subject": "베네수엘라",
+        "known_id": 41,
+        "attribute": "가톨릭교",
+        "prompt": "베네수엘라에서 주로 믿는 종교는"
+    },
+    {
+        "subject": "아프가니스탄",
+        "known_id": 42,
+        "attribute": "이슬람교",
+        "prompt": "아프가니스탄에서 주로 믿는 종교는"
+    },
+    {
+        "subject": "수단",
+        "known_id": 43,
+        "attribute": "이슬람교",
+        "prompt": "수단에서 주로 믿는 종교는"
+    },
+    {
+        "subject": "알제리",
+        "known_id": 44,
+        "attribute": "이슬람교",
+        "prompt": "알제리에서 주로 믿는 종교는"
+    },
+    {
+        "subject": "모로코",
+        "known_id": 45,
+        "attribute": "이슬람교",
+        "prompt": "모로코에서 주로 믿는 종교는"
+    }
+]

@@ -1,0 +1,266 @@
+[
+    {
+        "subject": "Banana",
+        "known_id": 0,
+        "attribute": "Yellow",
+        "prompt": "Banana has a color of"
+    },
+    {
+        "subject": "Strawberry",
+        "known_id": 1,
+        "attribute": "Red",
+        "prompt": "Strawberry has a color of"
+    },
+    {
+        "subject": "Carrot",
+        "known_id": 2,
+        "attribute": "Orange",
+        "prompt": "Carrot has a color of"
+    },
+    {
+        "subject": "Lettuce",
+        "known_id": 3,
+        "attribute": "Green",
+        "prompt": "Lettuce has a color of"
+    },
+    {
+        "subject": "Eggplant",
+        "known_id": 4,
+        "attribute": "Purple",
+        "prompt": "Eggplant has a color of"
+    },
+    {
+        "subject": "Snow",
+        "known_id": 5,
+        "attribute": "White",
+        "prompt": "Snow has a color of"
+    },
+    {
+        "subject": "Coal",
+        "known_id": 6,
+        "attribute": "Black",
+        "prompt": "Coal has a color of"
+    },
+    {
+        "subject": "Blueberry",
+        "known_id": 7,
+        "attribute": "Blue",
+        "prompt": "Blueberry has a color of"
+    },
+
+    {
+        "subject": "Pumpkin",
+        "known_id": 9,
+        "attribute": "Orange",
+        "prompt": "Pumpkin has a color of"
+    },
+    {
+        "subject": "Grapes",
+        "known_id": 10,
+        "attribute": "Purple",
+        "prompt": "Grapes has a color of"
+    },
+    {
+        "subject": "Lime",
+        "known_id": 11,
+        "attribute": "Green",
+        "prompt": "Lime has a color of"
+    },
+    {
+        "subject": "Coconut",
+        "known_id": 12,
+        "attribute": "Brown",
+        "prompt": "Coconut has a color of"
+    },
+    {
+        "subject": "Tomato",
+        "known_id": 13,
+        "attribute": "Red",
+        "prompt": "Tomato has a color of"
+    },
+    {
+        "subject": "Lemon",
+        "known_id": 14,
+        "attribute": "Yellow",
+        "prompt": "Lemon has a color of"
+    },
+    {
+        "subject": "Milk",
+        "known_id": 15,
+        "attribute": "White",
+        "prompt": "Milk has a color of"
+    },
+    {
+        "subject": "Charcoal",
+        "known_id": 16,
+        "attribute": "Black",
+        "prompt": "Charcoal has a color of"
+    },
+    {
+        "subject": "Sky",
+        "known_id": 17,
+        "attribute": "Blue",
+        "prompt": "Sky has a color of"
+    },
+    {
+        "subject": "Pear",
+        "known_id": 18,
+        "attribute": "Green",
+        "prompt": "Pear has a color of"
+    },
+    {
+        "subject": "Gold",
+        "known_id": 19,
+        "attribute": "Gold",
+        "prompt": "Gold has a color of"
+    },
+    {
+        "subject": "Silver",
+        "known_id": 20,
+        "attribute": "Silver",
+        "prompt": "Silver has a color of"
+    },
+    {
+        "subject": "Copper",
+        "known_id": 21,
+        "attribute": "Copper",
+        "prompt": "Copper has a color of"
+    },
+    {
+        "subject": "Fire Truck",
+        "known_id": 22,
+        "attribute": "Red",
+        "prompt": "Fire Truck has a color of"
+    },
+    {
+        "subject": "Tangerine",
+        "known_id": 23,
+        "attribute": "Orange",
+        "prompt": "Tangerine has a color of"
+    },
+    {
+        "subject": "Avocado",
+        "known_id": 24,
+        "attribute": "Green",
+        "prompt": "Avocado has a color of"
+    },
+    {
+        "subject": "Plum",
+        "known_id": 25,
+        "attribute": "Purple",
+        "prompt": "Plum has a color of"
+    },
+    {
+        "subject": "Onyx",
+        "known_id": 26,
+        "attribute": "Black",
+        "prompt": "Onyx has a color of"
+    },
+    {
+        "subject": "Cotton",
+        "known_id": 27,
+        "attribute": "White",
+        "prompt": "Cotton has a color of"
+    },
+    {
+        "subject": "Rubber Duck",
+        "known_id": 28,
+        "attribute": "Yellow",
+        "prompt": "Rubber Duck has a color of"
+    },
+
+    {
+        "subject": "Peach",
+        "known_id": 30,
+        "attribute": "Orange",
+        "prompt": "Peach has a color of"
+    },
+    {
+        "subject": "Cucumber",
+        "known_id": 31,
+        "attribute": "Green",
+        "prompt": "Cucumber has a color of"
+    },
+    {
+        "subject": "Amethyst",
+        "known_id": 32,
+        "attribute": "Purple",
+        "prompt": "Amethyst has a color of"
+    },
+    {
+        "subject": "Sapphire",
+        "known_id": 33,
+        "attribute": "Blue",
+        "prompt": "Sapphire has a color of"
+    },
+    {
+        "subject": "Emerald",
+        "known_id": 34,
+        "attribute": "Green",
+        "prompt": "Emerald has a color of"
+    },
+    {
+        "subject": "Ruby",
+        "known_id": 35,
+        "attribute": "Red",
+        "prompt": "Ruby has a color of"
+    },
+
+
+    {
+        "subject": "Polar Bear",
+        "known_id": 39,
+        "attribute": "White",
+        "prompt": "Polar Bear has a color of"
+    },
+    {
+        "subject": "Sunflower",
+        "known_id": 40,
+        "attribute": "Yellow",
+        "prompt": "Sunflower has a color of"
+    },
+
+    {
+        "subject": "Coffee",
+        "known_id": 42,
+        "attribute": "Brown",
+        "prompt": "Coffee has a color of"
+    },
+    {
+        "subject": "Chestnut",
+        "known_id": 43,
+        "attribute": "Brown",
+        "prompt": "Chestnut has a color of"
+    },
+    {
+        "subject": "Cranberry",
+        "known_id": 44,
+        "attribute": "Red",
+        "prompt": "Cranberry has a color of"
+    },
+
+    {
+        "subject": "Seaweed",
+        "known_id": 46,
+        "attribute": "Green",
+        "prompt": "Seaweed has a color of"
+    },
+    {
+        "subject": "Frog",
+        "known_id": 47,
+        "attribute": "Green",
+        "prompt": "Frog has a color of"
+    },
+    {
+        "subject": "Dolphin",
+        "known_id": 48,
+        "attribute": "Gray",
+        "prompt": "Dolphin has a color of"
+    },
+    {
+        "subject": "Shark",
+        "known_id": 49,
+        "attribute": "Gray",
+        "prompt": "Shark has a color of"
+    }
+]

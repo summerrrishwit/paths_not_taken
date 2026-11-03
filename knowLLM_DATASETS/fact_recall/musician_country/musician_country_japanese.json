@@ -1,0 +1,284 @@
+[
+    {
+        "subject": "ルートヴィヒ・ヴァン・ベートーヴェン",
+        "known_id": 0,
+        "attribute": "ドイツ",
+        "prompt": "ルートヴィヒ・ヴァン・ベートーヴェンの出身国は"
+    },
+    {
+        "subject": "ヴォルフガング・アマデウス・モーツァルト",
+        "known_id": 1,
+        "attribute": "オーストリア",
+        "prompt": "ヴォルフガング・アマデウス・モーツァルトの出身国は"
+    },
+    {
+        "subject": "ヨハン・セバスティアン・バッハ",
+        "known_id": 2,
+        "attribute": "ドイツ",
+        "prompt": "ヨハン・セバスティアン・バッハの出身国は"
+    },
+    {
+        "subject": "フレデリック・ショパン",
+        "known_id": 3,
+        "attribute": "ポーランド",
+        "prompt": "フレデリック・ショパンの出身国は"
+    },
+    {
+        "subject": "ピョートル・イリイチ・チャイコフスキー",
+        "known_id": 4,
+        "attribute": "ロシア",
+        "prompt": "ピョートル・イリイチ・チャイコフスキーの出身国は"
+    },
+    {
+        "subject": "クロード・ドビュッシー",
+        "known_id": 5,
+        "attribute": "フランス",
+        "prompt": "クロード・ドビュッシーの出身国は"
+    },
+    {
+        "subject": "イーゴリ・ストラヴィンスキー",
+        "known_id": 6,
+        "attribute": "ロシア",
+        "prompt": "イーゴリ・ストラヴィンスキーの出身国は"
+    },
+    {
+        "subject": "アントニオ・ヴィヴァルディ",
+        "known_id": 7,
+        "attribute": "イタリア",
+        "prompt": "アントニオ・ヴィヴァルディの出身国は"
+    },
+    {
+        "subject": "グスタフ・マーラー",
+        "known_id": 8,
+        "attribute": "オーストリア",
+        "prompt": "グスタフ・マーラーの出身国は"
+    },
+    {
+        "subject": "セルゲイ・ラフマニノフ",
+        "known_id": 9,
+        "attribute": "ロシア",
+        "prompt": "セルゲイ・ラフマニノフの出身国は"
+    },
+    {
+        "subject": "ドミートリイ・ショスタコーヴィチ",
+        "known_id": 10,
+        "attribute": "ロシア",
+        "prompt": "ドミートリイ・ショスタコーヴィチの出身国は"
+    },
+    {
+        "subject": "ジョージ・ガーシュウィン",
+        "known_id": 11,
+        "attribute": "アメリカ合衆国",
+        "prompt": "ジョージ・ガーシュウィンの出身国は"
+    },
+    {
+        "subject": "レナード・バーンスタイン",
+        "known_id": 12,
+        "attribute": "アメリカ合衆国",
+        "prompt": "レナード・バーンスタインの出身国は"
+    },
+    {
+        "subject": "ヨハネス・ブラームス",
+        "known_id": 13,
+        "attribute": "ドイツ",
+        "prompt": "ヨハネス・ブラームスの出身国は"
+    },
+    {
+        "subject": "リヒャルト・ワーグナー",
+        "known_id": 14,
+        "attribute": "ドイツ",
+        "prompt": "リヒャルト・ワーグナーの出身国は"
+    },
+    {
+        "subject": "フランツ・シューベルト",
+        "known_id": 15,
+        "attribute": "オーストリア",
+        "prompt": "フランツ・シューベルトの出身国は"
+    },
+    {
+        "subject": "ジョアキーノ・ロッシーニ",
+        "known_id": 16,
+        "attribute": "イタリア",
+        "prompt": "ジョアキーノ・ロッシーニの出身国は"
+    },
+    {
+        "subject": "ジャン・シベリウス",
+        "known_id": 17,
+        "attribute": "フィンランド",
+        "prompt": "ジャン・シベリウスの出身国は"
+    },
+    {
+        "subject": "エドヴァルド・グリーグ",
+        "known_id": 18,
+        "attribute": "ノルウェー",
+        "prompt": "エドヴァルド・グリーグの出身国は"
+    },
+    {
+        "subject": "フィリップ・グラス",
+        "known_id": 19,
+        "attribute": "アメリカ合衆国",
+        "prompt": "フィリップ・グラスの出身国は"
+    },
+    {
+        "subject": "ジョン・ウィリアムズ",
+        "known_id": 20,
+        "attribute": "アメリカ合衆国",
+        "prompt": "ジョン・ウィリアムズの出身国は"
+    },
+    {
+        "subject": "エンニオ・モリコーネ",
+        "known_id": 21,
+        "attribute": "イタリア",
+        "prompt": "エンニオ・モリコーネの出身国は"
+    },
+    {
+        "subject": "アルヴォ・ペルト",
+        "known_id": 22,
+        "attribute": "エストニア",
+        "prompt": "アルヴォ・ペルトの出身国は"
+    },
+    {
+        "subject": "ベーラ・バルトーク",
+        "known_id": 23,
+        "attribute": "ハンガリー",
+        "prompt": "ベーラ・バルトークの出身国は"
+    },
+    {
+        "subject": "マヌエル・デ・ファリャ",
+        "known_id": 24,
+        "attribute": "スペイン",
+        "prompt": "マヌエル・デ・ファリャの出身国は"
+    },
+    {
+        "subject": "エリック・サティ",
+        "known_id": 25,
+        "attribute": "フランス",
+        "prompt": "エリック・サティの出身国は"
+    },
+    {
+        "subject": "アレクサンドル・スクリャービン",
+        "known_id": 26,
+        "attribute": "ロシア",
+        "prompt": "アレクサンドル・スクリャービンの出身国は"
+    },
+    {
+        "subject": "モーリス・ラヴェル",
+        "known_id": 27,
+        "attribute": "フランス",
+        "prompt": "モーリス・ラヴェルの出身国は"
+    },
+    {
+        "subject": "カミーユ・サン＝サーンス",
+        "known_id": 28,
+        "attribute": "フランス",
+        "prompt": "カミーユ・サン＝サーンスの出身国は"
+    },
+    {
+        "subject": "ニコライ・リムスキー＝コルサコフ",
+        "known_id": 29,
+        "attribute": "ロシア",
+        "prompt": "ニコライ・リムスキー＝コルサコフの出身国は"
+    },
+    {
+        "subject": "ラルフ・ヴォーン・ウィリアムズ",
+        "known_id": 30,
+        "attribute": "イギリス",
+        "prompt": "ラルフ・ヴォーン・ウィリアムズの出身国は"
+    },
+    {
+        "subject": "ベンジャミン・ブリテン",
+        "known_id": 31,
+        "attribute": "イギリス",
+        "prompt": "ベンジャミン・ブリテンの出身国は"
+    },
+    {
+        "subject": "エクトル・ベルリオーズ",
+        "known_id": 32,
+        "attribute": "フランス",
+        "prompt": "エクトル・ベルリオーズの出身国は"
+    },
+    {
+        "subject": "アントン・ブルックナー",
+        "known_id": 33,
+        "attribute": "オーストリア",
+        "prompt": "アントン・ブルックナーの出身国は"
+    },
+    {
+        "subject": "カール・オルフ",
+        "known_id": 34,
+        "attribute": "ドイツ",
+        "prompt": "カール・オルフの出身国は"
+    },
+    {
+        "subject": "オットリーノ・レスピーギ",
+        "known_id": 35,
+        "attribute": "イタリア",
+        "prompt": "オットリーノ・レスピーギの出身国は"
+    },
+    {
+        "subject": "カール・ニールセン",
+        "known_id": 36,
+        "attribute": "デンマーク",
+        "prompt": "カール・ニールセンの出身国は"
+    },
+    {
+        "subject": "ゾルターン・コダーイ",
+        "known_id": 37,
+        "attribute": "ハンガリー",
+        "prompt": "ゾルターン・コダーイの出身国は"
+    },
+    {
+        "subject": "アストル・ピアソラ",
+        "known_id": 38,
+        "attribute": "アルゼンチン",
+        "prompt": "アストル・ピアソラの出身国は"
+    },
+    {
+        "subject": "アルベルト・ヒナステラ",
+        "known_id": 39,
+        "attribute": "アルゼンチン",
+        "prompt": "アルベルト・ヒナステラの出身国は"
+    },
+    {
+        "subject": "モデスト・ムソルグスキー",
+        "known_id": 40,
+        "attribute": "ロシア",
+        "prompt": "モデスト・ムソルグスキーの出身国は"
+    },
+    {
+        "subject": "ミハイル・グリンカ",
+        "known_id": 41,
+        "attribute": "ロシア",
+        "prompt": "ミハイル・グリンカの出身国は"
+    },
+    {
+        "subject": "クシシュトフ・ペンデレツキ",
+        "known_id": 42,
+        "attribute": "ポーランド",
+        "prompt": "クシシュトフ・ペンデレツキの出身国は"
+    },
+    {
+        "subject": "チャールズ・アイヴズ",
+        "known_id": 43,
+        "attribute": "アメリカ合衆国",
+        "prompt": "チャールズ・アイヴズの出身国は"
+    },
+    {
+        "subject": "サミュエル・バーバー",
+        "known_id": 44,
+        "attribute": "アメリカ合衆国",
+        "prompt": "サミュエル・バーバーの出身国は"
+    },
+    {
+        "subject": "ヘンリク・グレツキ",
+        "known_id": 45,
+        "attribute": "ポーランド",
+        "prompt": "ヘンリク・グレツキの出身国は"
+    },
+    {
+        "subject": "ジョン・ケージ",
+        "known_id": 46,
+        "attribute": "アメリカ合衆国",
+        "prompt": "ジョン・ケージの出身国は"
+    }
+]

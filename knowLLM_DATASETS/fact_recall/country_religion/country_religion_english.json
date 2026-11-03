@@ -1,0 +1,278 @@
+[
+    {
+        "subject": "United States",
+        "known_id": 0,
+        "attribute": "Christianity",
+        "prompt": "The main religion practiced in United States is"
+    },
+    {
+        "subject": "Canada",
+        "known_id": 1,
+        "attribute": "Christianity",
+        "prompt": "The main religion practiced in Canada is"
+    },
+    {
+        "subject": "Mexico",
+        "known_id": 2,
+        "attribute": "Roman Catholic",
+        "prompt": "The main religion practiced in Mexico is"
+    },
+    {
+        "subject": "Brazil",
+        "known_id": 3,
+        "attribute": "Roman Catholic",
+        "prompt": "The main religion practiced in Brazil is"
+    },
+    {
+        "subject": "Argentina",
+        "known_id": 4,
+        "attribute": "Roman Catholic",
+        "prompt": "The main religion practiced in Argentina is"
+    },
+    {
+        "subject": "United Kingdom",
+        "known_id": 5,
+        "attribute": "Christianity",
+        "prompt": "The main religion practiced in United Kingdom is"
+    },
+    {
+        "subject": "France",
+        "known_id": 6,
+        "attribute": "Roman Catholic",
+        "prompt": "The main religion practiced in France is"
+    },
+    {
+        "subject": "Germany",
+        "known_id": 7,
+        "attribute": "Christianity",
+        "prompt": "The main religion practiced in Germany is"
+    },
+    {
+        "subject": "Italy",
+        "known_id": 8,
+        "attribute": "Roman Catholic",
+        "prompt": "The main religion practiced in Italy is"
+    },
+    {
+        "subject": "Russia",
+        "known_id": 9,
+        "attribute": "Christianity",
+        "prompt": "The main religion practiced in Russia is"
+    },
+    {
+        "subject": "Saudi Arabia",
+        "known_id": 10,
+        "attribute": "Islam",
+        "prompt": "The main religion practiced in Saudi Arabia is"
+    },
+    {
+        "subject": "United Arab Emirates",
+        "known_id": 11,
+        "attribute": "Islam",
+        "prompt": "The main religion practiced in United Arab Emirates is"
+    },
+    {
+        "subject": "Iran",
+        "known_id": 12,
+        "attribute": "Islam",
+        "prompt": "The main religion practiced in Iran is"
+    },
+    {
+        "subject": "Turkey",
+        "known_id": 13,
+        "attribute": "Islam",
+        "prompt": "The main religion practiced in Turkey is"
+    },
+    {
+        "subject": "Pakistan",
+        "known_id": 14,
+        "attribute": "Islam",
+        "prompt": "The main religion practiced in Pakistan is"
+    },
+    {
+        "subject": "Indonesia",
+        "known_id": 15,
+        "attribute": "Islam",
+        "prompt": "The main religion practiced in Indonesia is"
+    },
+    {
+        "subject": "Egypt",
+        "known_id": 16,
+        "attribute": "Islam",
+        "prompt": "The main religion practiced in Egypt is"
+    },
+    {
+        "subject": "India",
+        "known_id": 17,
+        "attribute": "Hinduism",
+        "prompt": "The main religion practiced in India is"
+    },
+    {
+        "subject": "Nepal",
+        "known_id": 18,
+        "attribute": "Hinduism",
+        "prompt": "The main religion practiced in Nepal is"
+    },
+    {
+        "subject": "Bangladesh",
+        "known_id": 19,
+        "attribute": "Islam",
+        "prompt": "The main religion practiced in Bangladesh is"
+    },
+    {
+        "subject": "Sri Lanka",
+        "known_id": 20,
+        "attribute": "Buddhism",
+        "prompt": "The main religion practiced in Sri Lanka is"
+    },
+    {
+        "subject": "Thailand",
+        "known_id": 21,
+        "attribute": "Buddhism",
+        "prompt": "The main religion practiced in Thailand is"
+    },
+    {
+        "subject": "Vietnam",
+        "known_id": 22,
+        "attribute": "Buddhism",
+        "prompt": "The main religion practiced in Vietnam is"
+    },
+    {
+        "subject": "Myanmar",
+        "known_id": 23,
+        "attribute": "Buddhism",
+        "prompt": "The main religion practiced in Myanmar is"
+    },
+    {
+        "subject": "Japan",
+        "known_id": 24,
+        "attribute": "Shintoism",
+        "prompt": "The main religion practiced in Japan is"
+    },
+    {
+        "subject": "South Korea",
+        "known_id": 25,
+        "attribute": "Buddhism",
+        "prompt": "The main religion practiced in South Korea is"
+    },
+    {
+        "subject": "Israel",
+        "known_id": 26,
+        "attribute": "Judaism",
+        "prompt": "The main religion practiced in Israel is"
+    },
+    {
+        "subject": "Ethiopia",
+        "known_id": 27,
+        "attribute": "Christianity",
+        "prompt": "The main religion practiced in Ethiopia is"
+    },
+    {
+        "subject": "South Africa",
+        "known_id": 28,
+        "attribute": "Christianity",
+        "prompt": "The main religion practiced in South Africa is"
+    },
+    {
+        "subject": "Nigeria",
+        "known_id": 29,
+        "attribute": "Islam and Christianity",
+        "prompt": "The main religion practiced in Nigeria is"
+    },
+    {
+        "subject": "Kenya",
+        "known_id": 30,
+        "attribute": "Christianity",
+        "prompt": "The main religion practiced in Kenya is"
+    },
+    {
+        "subject": "Ghana",
+        "known_id": 31,
+        "attribute": "Christianity",
+        "prompt": "The main religion practiced in Ghana is"
+    },
+    {
+        "subject": "Philippines",
+        "known_id": 32,
+        "attribute": "Roman Catholic",
+        "prompt": "The main religion practiced in Philippines is"
+    },
+    {
+        "subject": "Malaysia",
+        "known_id": 33,
+        "attribute": "Islam",
+        "prompt": "The main religion practiced in Malaysia is"
+    },
+    {
+        "subject": "Kazakhstan",
+        "known_id": 34,
+        "attribute": "Islam",
+        "prompt": "The main religion practiced in Kazakhstan is"
+    },
+    {
+        "subject": "Mongolia",
+        "known_id": 35,
+        "attribute": "Buddhism",
+        "prompt": "The main religion practiced in Mongolia is"
+    },
+    {
+        "subject": "Tibet",
+        "known_id": 36,
+        "attribute": "Buddhism",
+        "prompt": "The main religion practiced in Tibet is"
+    },
+    {
+        "subject": "Cuba",
+        "known_id": 37,
+        "attribute": "Roman Catholic",
+        "prompt": "The main religion practiced in Cuba is"
+    },
+    {
+        "subject": "Colombia",
+        "known_id": 38,
+        "attribute": "Roman Catholic",
+        "prompt": "The main religion practiced in Colombia is"
+    },
+    {
+        "subject": "Chile",
+        "known_id": 39,
+        "attribute": "Roman Catholic",
+        "prompt": "The main religion practiced in Chile is"
+    },
+    {
+        "subject": "Peru",
+        "known_id": 40,
+        "attribute": "Roman Catholic",
+        "prompt": "The main religion practiced in Peru is"
+    },
+    {
+        "subject": "Venezuela",
+        "known_id": 41,
+        "attribute": "Roman Catholic",
+        "prompt": "The main religion practiced in Venezuela is"
+    },
+    {
+        "subject": "Afghanistan",
+        "known_id": 42,
+        "attribute": "Islam",
+        "prompt": "The main religion practiced in Afghanistan is"
+    },
+    {
+        "subject": "Sudan",
+        "known_id": 43,
+        "attribute": "Islam",
+        "prompt": "The main religion practiced in Sudan is"
+    },
+    {
+        "subject": "Algeria",
+        "known_id": 44,
+        "attribute": "Islam",
+        "prompt": "The main religion practiced in Algeria is"
+    },
+    {
+        "subject": "Morocco",
+        "known_id": 45,
+        "attribute": "Islam",
+        "prompt": "The main religion practiced in Morocco is"
+    }
+]

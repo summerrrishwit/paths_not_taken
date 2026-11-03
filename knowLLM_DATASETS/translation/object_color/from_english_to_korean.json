@@ -1,0 +1,260 @@
+[
+  {
+    "known_id": 0,
+    "subject": "Yellow",
+    "attribute": "노랑",
+    "prompt": "Translate a word from English to korean. Word: 'Yellow'. Translated: '"
+  },
+  {
+    "known_id": 1,
+    "subject": "Red",
+    "attribute": "빨강",
+    "prompt": "Translate a word from English to korean. Word: 'Red'. Translated: '"
+  },
+  {
+    "known_id": 2,
+    "subject": "Orange",
+    "attribute": "주황",
+    "prompt": "Translate a word from English to korean. Word: 'Orange'. Translated: '"
+  },
+  {
+    "known_id": 3,
+    "subject": "Green",
+    "attribute": "초록",
+    "prompt": "Translate a word from English to korean. Word: 'Green'. Translated: '"
+  },
+  {
+    "known_id": 4,
+    "subject": "Purple",
+    "attribute": "보라",
+    "prompt": "Translate a word from English to korean. Word: 'Purple'. Translated: '"
+  },
+  {
+    "known_id": 5,
+    "subject": "White",
+    "attribute": "하양",
+    "prompt": "Translate a word from English to korean. Word: 'White'. Translated: '"
+  },
+  {
+    "known_id": 6,
+    "subject": "Black",
+    "attribute": "검정",
+    "prompt": "Translate a word from English to korean. Word: 'Black'. Translated: '"
+  },
+  {
+    "known_id": 7,
+    "subject": "Blue",
+    "attribute": "파랑",
+    "prompt": "Translate a word from English to korean. Word: 'Blue'. Translated: '"
+  },
+  {
+    "known_id": 9,
+    "subject": "Orange",
+    "attribute": "주황",
+    "prompt": "Translate a word from English to korean. Word: 'Orange'. Translated: '"
+  },
+  {
+    "known_id": 10,
+    "subject": "Purple",
+    "attribute": "보라",
+    "prompt": "Translate a word from English to korean. Word: 'Purple'. Translated: '"
+  },
+  {
+    "known_id": 11,
+    "subject": "Green",
+    "attribute": "초록",
+    "prompt": "Translate a word from English to korean. Word: 'Green'. Translated: '"
+  },
+  {
+    "known_id": 12,
+    "subject": "Brown",
+    "attribute": "갈색",
+    "prompt": "Translate a word from English to korean. Word: 'Brown'. Translated: '"
+  },
+  {
+    "known_id": 13,
+    "subject": "Red",
+    "attribute": "빨강",
+    "prompt": "Translate a word from English to korean. Word: 'Red'. Translated: '"
+  },
+  {
+    "known_id": 14,
+    "subject": "Yellow",
+    "attribute": "노랑",
+    "prompt": "Translate a word from English to korean. Word: 'Yellow'. Translated: '"
+  },
+  {
+    "known_id": 15,
+    "subject": "White",
+    "attribute": "하양",
+    "prompt": "Translate a word from English to korean. Word: 'White'. Translated: '"
+  },
+  {
+    "known_id": 16,
+    "subject": "Black",
+    "attribute": "검정",
+    "prompt": "Translate a word from English to korean. Word: 'Black'. Translated: '"
+  },
+  {
+    "known_id": 17,
+    "subject": "Blue",
+    "attribute": "파랑",
+    "prompt": "Translate a word from English to korean. Word: 'Blue'. Translated: '"
+  },
+  {
+    "known_id": 18,
+    "subject": "Green",
+    "attribute": "초록",
+    "prompt": "Translate a word from English to korean. Word: 'Green'. Translated: '"
+  },
+  {
+    "known_id": 19,
+    "subject": "Gold",
+    "attribute": "금색",
+    "prompt": "Translate a word from English to korean. Word: 'Gold'. Translated: '"
+  },
+  {
+    "known_id": 20,
+    "subject": "Silver",
+    "attribute": "은색",
+    "prompt": "Translate a word from English to korean. Word: 'Silver'. Translated: '"
+  },
+  {
+    "known_id": 21,
+    "subject": "Copper",
+    "attribute": "구리색",
+    "prompt": "Translate a word from English to korean. Word: 'Copper'. Translated: '"
+  },
+  {
+    "known_id": 22,
+    "subject": "Red",
+    "attribute": "빨강",
+    "prompt": "Translate a word from English to korean. Word: 'Red'. Translated: '"
+  },
+  {
+    "known_id": 23,
+    "subject": "Orange",
+    "attribute": "주황",
+    "prompt": "Translate a word from English to korean. Word: 'Orange'. Translated: '"
+  },
+  {
+    "known_id": 24,
+    "subject": "Green",
+    "attribute": "초록",
+    "prompt": "Translate a word from English to korean. Word: 'Green'. Translated: '"
+  },
+  {
+    "known_id": 25,
+    "subject": "Purple",
+    "attribute": "보라",
+    "prompt": "Translate a word from English to korean. Word: 'Purple'. Translated: '"
+  },
+  {
+    "known_id": 26,
+    "subject": "Black",
+    "attribute": "검정",
+    "prompt": "Translate a word from English to korean. Word: 'Black'. Translated: '"
+  },
+  {
+    "known_id": 27,
+    "subject": "White",
+    "attribute": "하양",
+    "prompt": "Translate a word from English to korean. Word: 'White'. Translated: '"
+  },
+  {
+    "known_id": 28,
+    "subject": "Yellow",
+    "attribute": "노랑",
+    "prompt": "Translate a word from English to korean. Word: 'Yellow'. Translated: '"
+  },
+  {
+    "known_id": 30,
+    "subject": "Orange",
+    "attribute": "주황",
+    "prompt": "Translate a word from English to korean. Word: 'Orange'. Translated: '"
+  },
+  {
+    "known_id": 31,
+    "subject": "Green",
+    "attribute": "초록",
+    "prompt": "Translate a word from English to korean. Word: 'Green'. Translated: '"
+  },
+  {
+    "known_id": 32,
+    "subject": "Purple",
+    "attribute": "보라",
+    "prompt": "Translate a word from English to korean. Word: 'Purple'. Translated: '"
+  },
+  {
+    "known_id": 33,
+    "subject": "Blue",
+    "attribute": "파랑",
+    "prompt": "Translate a word from English to korean. Word: 'Blue'. Translated: '"
+  },
+  {
+    "known_id": 34,
+    "subject": "Green",
+    "attribute": "초록",
+    "prompt": "Translate a word from English to korean. Word: 'Green'. Translated: '"
+  },
+  {
+    "known_id": 35,
+    "subject": "Red",
+    "attribute": "빨강",
+    "prompt": "Translate a word from English to korean. Word: 'Red'. Translated: '"
+  },
+  {
+    "known_id": 39,
+    "subject": "White",
+    "attribute": "하양",
+    "prompt": "Translate a word from English to korean. Word: 'White'. Translated: '"
+  },
+  {
+    "known_id": 40,
+    "subject": "Yellow",
+    "attribute": "노랑",
+    "prompt": "Translate a word from English to korean. Word: 'Yellow'. Translated: '"
+  },
+  {
+    "known_id": 42,
+    "subject": "Brown",
+    "attribute": "갈색",
+    "prompt": "Translate a word from English to korean. Word: 'Brown'. Translated: '"
+  },
+  {
+    "known_id": 43,
+    "subject": "Brown",
+    "attribute": "갈색",
+    "prompt": "Translate a word from English to korean. Word: 'Brown'. Translated: '"
+  },
+  {
+    "known_id": 44,
+    "subject": "Red",
+    "attribute": "빨강",
+    "prompt": "Translate a word from English to korean. Word: 'Red'. Translated: '"
+  },
+  {
+    "known_id": 46,
+    "subject": "Green",
+    "attribute": "초록",
+    "prompt": "Translate a word from English to korean. Word: 'Green'. Translated: '"
+  },
+  {
+    "known_id": 47,
+    "subject": "Green",
+    "attribute": "초록",
+    "prompt": "Translate a word from English to korean. Word: 'Green'. Translated: '"
+  },
+  {
+    "known_id": 48,
+    "subject": "Gray",
+    "attribute": "회색",
+    "prompt": "Translate a word from English to korean. Word: 'Gray'. Translated: '"
+  },
+  {
+    "known_id": 49,
+    "subject": "Gray",
+    "attribute": "회색",
+    "prompt": "Translate a word from English to korean. Word: 'Gray'. Translated: '"
+  }
+]

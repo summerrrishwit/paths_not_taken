@@ -1,0 +1,278 @@
+[
+  {
+    "known_id": 0,
+    "subject": "Christianity",
+    "attribute": "基督教",
+    "prompt": "Translate a word from English to chinese. Word: 'Christianity'. Translated: '"
+  },
+  {
+    "known_id": 1,
+    "subject": "Christianity",
+    "attribute": "基督教",
+    "prompt": "Translate a word from English to chinese. Word: 'Christianity'. Translated: '"
+  },
+  {
+    "known_id": 2,
+    "subject": "Roman Catholic",
+    "attribute": "天主教",
+    "prompt": "Translate a word from English to chinese. Word: 'Roman Catholic'. Translated: '"
+  },
+  {
+    "known_id": 3,
+    "subject": "Roman Catholic",
+    "attribute": "天主教",
+    "prompt": "Translate a word from English to chinese. Word: 'Roman Catholic'. Translated: '"
+  },
+  {
+    "known_id": 4,
+    "subject": "Roman Catholic",
+    "attribute": "天主教",
+    "prompt": "Translate a word from English to chinese. Word: 'Roman Catholic'. Translated: '"
+  },
+  {
+    "known_id": 5,
+    "subject": "Christianity",
+    "attribute": "基督教",
+    "prompt": "Translate a word from English to chinese. Word: 'Christianity'. Translated: '"
+  },
+  {
+    "known_id": 6,
+    "subject": "Roman Catholic",
+    "attribute": "天主教",
+    "prompt": "Translate a word from English to chinese. Word: 'Roman Catholic'. Translated: '"
+  },
+  {
+    "known_id": 7,
+    "subject": "Christianity",
+    "attribute": "基督教",
+    "prompt": "Translate a word from English to chinese. Word: 'Christianity'. Translated: '"
+  },
+  {
+    "known_id": 8,
+    "subject": "Roman Catholic",
+    "attribute": "天主教",
+    "prompt": "Translate a word from English to chinese. Word: 'Roman Catholic'. Translated: '"
+  },
+  {
+    "known_id": 9,
+    "subject": "Christianity",
+    "attribute": "基督教",
+    "prompt": "Translate a word from English to chinese. Word: 'Christianity'. Translated: '"
+  },
+  {
+    "known_id": 10,
+    "subject": "Islam",
+    "attribute": "伊斯兰教",
+    "prompt": "Translate a word from English to chinese. Word: 'Islam'. Translated: '"
+  },
+  {
+    "known_id": 11,
+    "subject": "Islam",
+    "attribute": "伊斯兰教",
+    "prompt": "Translate a word from English to chinese. Word: 'Islam'. Translated: '"
+  },
+  {
+    "known_id": 12,
+    "subject": "Islam",
+    "attribute": "伊斯兰教",
+    "prompt": "Translate a word from English to chinese. Word: 'Islam'. Translated: '"
+  },
+  {
+    "known_id": 13,
+    "subject": "Islam",
+    "attribute": "伊斯兰教",
+    "prompt": "Translate a word from English to chinese. Word: 'Islam'. Translated: '"
+  },
+  {
+    "known_id": 14,
+    "subject": "Islam",
+    "attribute": "伊斯兰教",
+    "prompt": "Translate a word from English to chinese. Word: 'Islam'. Translated: '"
+  },
+  {
+    "known_id": 15,
+    "subject": "Islam",
+    "attribute": "伊斯兰教",
+    "prompt": "Translate a word from English to chinese. Word: 'Islam'. Translated: '"
+  },
+  {
+    "known_id": 16,
+    "subject": "Islam",
+    "attribute": "伊斯兰教",
+    "prompt": "Translate a word from English to chinese. Word: 'Islam'. Translated: '"
+  },
+  {
+    "known_id": 17,
+    "subject": "Hinduism",
+    "attribute": "印度教",
+    "prompt": "Translate a word from English to chinese. Word: 'Hinduism'. Translated: '"
+  },
+  {
+    "known_id": 18,
+    "subject": "Hinduism",
+    "attribute": "印度教",
+    "prompt": "Translate a word from English to chinese. Word: 'Hinduism'. Translated: '"
+  },
+  {
+    "known_id": 19,
+    "subject": "Islam",
+    "attribute": "伊斯兰教",
+    "prompt": "Translate a word from English to chinese. Word: 'Islam'. Translated: '"
+  },
+  {
+    "known_id": 20,
+    "subject": "Buddhism",
+    "attribute": "佛教",
+    "prompt": "Translate a word from English to chinese. Word: 'Buddhism'. Translated: '"
+  },
+  {
+    "known_id": 21,
+    "subject": "Buddhism",
+    "attribute": "佛教",
+    "prompt": "Translate a word from English to chinese. Word: 'Buddhism'. Translated: '"
+  },
+  {
+    "known_id": 22,
+    "subject": "Buddhism",
+    "attribute": "佛教",
+    "prompt": "Translate a word from English to chinese. Word: 'Buddhism'. Translated: '"
+  },
+  {
+    "known_id": 23,
+    "subject": "Buddhism",
+    "attribute": "佛教",
+    "prompt": "Translate a word from English to chinese. Word: 'Buddhism'. Translated: '"
+  },
+  {
+    "known_id": 24,
+    "subject": "Shintoism",
+    "attribute": "神道教",
+    "prompt": "Translate a word from English to chinese. Word: 'Shintoism'. Translated: '"
+  },
+  {
+    "known_id": 25,
+    "subject": "Buddhism",
+    "attribute": "佛教",
+    "prompt": "Translate a word from English to chinese. Word: 'Buddhism'. Translated: '"
+  },
+  {
+    "known_id": 26,
+    "subject": "Judaism",
+    "attribute": "犹太教",
+    "prompt": "Translate a word from English to chinese. Word: 'Judaism'. Translated: '"
+  },
+  {
+    "known_id": 27,
+    "subject": "Christianity",
+    "attribute": "基督教",
+    "prompt": "Translate a word from English to chinese. Word: 'Christianity'. Translated: '"
+  },
+  {
+    "known_id": 28,
+    "subject": "Christianity",
+    "attribute": "基督教",
+    "prompt": "Translate a word from English to chinese. Word: 'Christianity'. Translated: '"
+  },
+  {
+    "known_id": 29,
+    "subject": "Islam and Christianity",
+    "attribute": "伊斯兰教和基督教",
+    "prompt": "Translate a word from English to chinese. Word: 'Islam and Christianity'. Translated: '"
+  },
+  {
+    "known_id": 30,
+    "subject": "Christianity",
+    "attribute": "基督教",
+    "prompt": "Translate a word from English to chinese. Word: 'Christianity'. Translated: '"
+  },
+  {
+    "known_id": 31,
+    "subject": "Christianity",
+    "attribute": "基督教",
+    "prompt": "Translate a word from English to chinese. Word: 'Christianity'. Translated: '"
+  },
+  {
+    "known_id": 32,
+    "subject": "Roman Catholic",
+    "attribute": "天主教",
+    "prompt": "Translate a word from English to chinese. Word: 'Roman Catholic'. Translated: '"
+  },
+  {
+    "known_id": 33,
+    "subject": "Islam",
+    "attribute": "伊斯兰教",
+    "prompt": "Translate a word from English to chinese. Word: 'Islam'. Translated: '"
+  },
+  {
+    "known_id": 34,
+    "subject": "Islam",
+    "attribute": "伊斯兰教",
+    "prompt": "Translate a word from English to chinese. Word: 'Islam'. Translated: '"
+  },
+  {
+    "known_id": 35,
+    "subject": "Buddhism",
+    "attribute": "佛教",
+    "prompt": "Translate a word from English to chinese. Word: 'Buddhism'. Translated: '"
+  },
+  {
+    "known_id": 36,
+    "subject": "Buddhism",
+    "attribute": "佛教",
+    "prompt": "Translate a word from English to chinese. Word: 'Buddhism'. Translated: '"
+  },
+  {
+    "known_id": 37,
+    "subject": "Roman Catholic",
+    "attribute": "天主教",
+    "prompt": "Translate a word from English to chinese. Word: 'Roman Catholic'. Translated: '"
+  },
+  {
+    "known_id": 38,
+    "subject": "Roman Catholic",
+    "attribute": "天主教",
+    "prompt": "Translate a word from English to chinese. Word: 'Roman Catholic'. Translated: '"
+  },
+  {
+    "known_id": 39,
+    "subject": "Roman Catholic",
+    "attribute": "天主教",
+    "prompt": "Translate a word from English to chinese. Word: 'Roman Catholic'. Translated: '"
+  },
+  {
+    "known_id": 40,
+    "subject": "Roman Catholic",
+    "attribute": "天主教",
+    "prompt": "Translate a word from English to chinese. Word: 'Roman Catholic'. Translated: '"
+  },
+  {
+    "known_id": 41,
+    "subject": "Roman Catholic",
+    "attribute": "天主教",
+    "prompt": "Translate a word from English to chinese. Word: 'Roman Catholic'. Translated: '"
+  },
+  {
+    "known_id": 42,
+    "subject": "Islam",
+    "attribute": "伊斯兰教",
+    "prompt": "Translate a word from English to chinese. Word: 'Islam'. Translated: '"
+  },
+  {
+    "known_id": 43,
+    "subject": "Islam",
+    "attribute": "伊斯兰教",
+    "prompt": "Translate a word from English to chinese. Word: 'Islam'. Translated: '"
+  },
+  {
+    "known_id": 44,
+    "subject": "Islam",
+    "attribute": "伊斯兰教",
+    "prompt": "Translate a word from English to chinese. Word: 'Islam'. Translated: '"
+  },
+  {
+    "known_id": 45,
+    "subject": "Islam",
+    "attribute": "伊斯兰教",
+    "prompt": "Translate a word from English to chinese. Word: 'Islam'. Translated: '"
+  }
+]

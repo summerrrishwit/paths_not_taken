@@ -1,0 +1,272 @@
+[
+  {
+    "known_id": 0,
+    "subject": "English",
+    "attribute": "영어",
+    "prompt": "Translate a word from English to korean. Word: 'English'. Translated: '"
+  },
+  {
+    "known_id": 1,
+    "subject": "English",
+    "attribute": "영어",
+    "prompt": "Translate a word from English to korean. Word: 'English'. Translated: '"
+  },
+  {
+    "known_id": 2,
+    "subject": "Spanish",
+    "attribute": "스페인어",
+    "prompt": "Translate a word from English to korean. Word: 'Spanish'. Translated: '"
+  },
+  {
+    "known_id": 3,
+    "subject": "Portuguese",
+    "attribute": "포르투갈어",
+    "prompt": "Translate a word from English to korean. Word: 'Portuguese'. Translated: '"
+  },
+  {
+    "known_id": 4,
+    "subject": "Spanish",
+    "attribute": "스페인어",
+    "prompt": "Translate a word from English to korean. Word: 'Spanish'. Translated: '"
+  },
+  {
+    "known_id": 5,
+    "subject": "Spanish",
+    "attribute": "스페인어",
+    "prompt": "Translate a word from English to korean. Word: 'Spanish'. Translated: '"
+  },
+  {
+    "known_id": 6,
+    "subject": "Spanish",
+    "attribute": "스페인어",
+    "prompt": "Translate a word from English to korean. Word: 'Spanish'. Translated: '"
+  },
+  {
+    "known_id": 7,
+    "subject": "Spanish",
+    "attribute": "스페인어",
+    "prompt": "Translate a word from English to korean. Word: 'Spanish'. Translated: '"
+  },
+  {
+    "known_id": 8,
+    "subject": "Spanish",
+    "attribute": "스페인어",
+    "prompt": "Translate a word from English to korean. Word: 'Spanish'. Translated: '"
+  },
+  {
+    "known_id": 9,
+    "subject": "Spanish",
+    "attribute": "스페인어",
+    "prompt": "Translate a word from English to korean. Word: 'Spanish'. Translated: '"
+  },
+  {
+    "known_id": 10,
+    "subject": "French",
+    "attribute": "프랑스어",
+    "prompt": "Translate a word from English to korean. Word: 'French'. Translated: '"
+  },
+  {
+    "known_id": 11,
+    "subject": "German",
+    "attribute": "독일어",
+    "prompt": "Translate a word from English to korean. Word: 'German'. Translated: '"
+  },
+  {
+    "known_id": 12,
+    "subject": "Italian",
+    "attribute": "이탈리아어",
+    "prompt": "Translate a word from English to korean. Word: 'Italian'. Translated: '"
+  },
+  {
+    "known_id": 13,
+    "subject": "Russian",
+    "attribute": "러시아어",
+    "prompt": "Translate a word from English to korean. Word: 'Russian'. Translated: '"
+  },
+  {
+    "known_id": 14,
+    "subject": "Mandarin Chinese",
+    "attribute": "표준 중국어",
+    "prompt": "Translate a word from English to korean. Word: 'Mandarin Chinese'. Translated: '"
+  },
+  {
+    "known_id": 15,
+    "subject": "Japanese",
+    "attribute": "일본어",
+    "prompt": "Translate a word from English to korean. Word: 'Japanese'. Translated: '"
+  },
+  {
+    "known_id": 16,
+    "subject": "Korean",
+    "attribute": "한국어",
+    "prompt": "Translate a word from English to korean. Word: 'Korean'. Translated: '"
+  },
+  {
+    "known_id": 17,
+    "subject": "Hindi",
+    "attribute": "힌디어",
+    "prompt": "Translate a word from English to korean. Word: 'Hindi'. Translated: '"
+  },
+  {
+    "known_id": 18,
+    "subject": "Urdu",
+    "attribute": "우르두어",
+    "prompt": "Translate a word from English to korean. Word: 'Urdu'. Translated: '"
+  },
+  {
+    "known_id": 19,
+    "subject": "English",
+    "attribute": "영어",
+    "prompt": "Translate a word from English to korean. Word: 'English'. Translated: '"
+  },
+  {
+    "known_id": 20,
+    "subject": "Arabic",
+    "attribute": "아랍어",
+    "prompt": "Translate a word from English to korean. Word: 'Arabic'. Translated: '"
+  },
+  {
+    "known_id": 21,
+    "subject": "Arabic",
+    "attribute": "아랍어",
+    "prompt": "Translate a word from English to korean. Word: 'Arabic'. Translated: '"
+  },
+  {
+    "known_id": 22,
+    "subject": "Turkish",
+    "attribute": "터키어",
+    "prompt": "Translate a word from English to korean. Word: 'Turkish'. Translated: '"
+  },
+  {
+    "known_id": 23,
+    "subject": "English",
+    "attribute": "영어",
+    "prompt": "Translate a word from English to korean. Word: 'English'. Translated: '"
+  },
+  {
+    "known_id": 24,
+    "subject": "English",
+    "attribute": "영어",
+    "prompt": "Translate a word from English to korean. Word: 'English'. Translated: '"
+  },
+  {
+    "known_id": 25,
+    "subject": "Swedish",
+    "attribute": "스웨덴어",
+    "prompt": "Translate a word from English to korean. Word: 'Swedish'. Translated: '"
+  },
+  {
+    "known_id": 26,
+    "subject": "Norwegian",
+    "attribute": "노르웨이어",
+    "prompt": "Translate a word from English to korean. Word: 'Norwegian'. Translated: '"
+  },
+  {
+    "known_id": 27,
+    "subject": "Danish",
+    "attribute": "덴마크어",
+    "prompt": "Translate a word from English to korean. Word: 'Danish'. Translated: '"
+  },
+  {
+    "known_id": 28,
+    "subject": "Finnish",
+    "attribute": "핀란드어",
+    "prompt": "Translate a word from English to korean. Word: 'Finnish'. Translated: '"
+  },
+  {
+    "known_id": 29,
+    "subject": "Icelandic",
+    "attribute": "아이슬란드어",
+    "prompt": "Translate a word from English to korean. Word: 'Icelandic'. Translated: '"
+  },
+  {
+    "known_id": 32,
+    "subject": "Amharic",
+    "attribute": "암하라어",
+    "prompt": "Translate a word from English to korean. Word: 'Amharic'. Translated: '"
+  },
+  {
+    "known_id": 33,
+    "subject": "Greek",
+    "attribute": "그리스어",
+    "prompt": "Translate a word from English to korean. Word: 'Greek'. Translated: '"
+  },
+  {
+    "known_id": 34,
+    "subject": "Dutch",
+    "attribute": "네덜란드어",
+    "prompt": "Translate a word from English to korean. Word: 'Dutch'. Translated: '"
+  },
+  {
+    "known_id": 36,
+    "subject": "German",
+    "attribute": "독일어",
+    "prompt": "Translate a word from English to korean. Word: 'German'. Translated: '"
+  },
+  {
+    "known_id": 37,
+    "subject": "German",
+    "attribute": "독일어",
+    "prompt": "Translate a word from English to korean. Word: 'German'. Translated: '"
+  },
+  {
+    "known_id": 38,
+    "subject": "Portuguese",
+    "attribute": "포르투갈어",
+    "prompt": "Translate a word from English to korean. Word: 'Portuguese'. Translated: '"
+  },
+  {
+    "known_id": 39,
+    "subject": "Czech",
+    "attribute": "체코어",
+    "prompt": "Translate a word from English to korean. Word: 'Czech'. Translated: '"
+  },
+  {
+    "known_id": 40,
+    "subject": "Polish",
+    "attribute": "폴란드어",
+    "prompt": "Translate a word from English to korean. Word: 'Polish'. Translated: '"
+  },
+  {
+    "known_id": 41,
+    "subject": "Hungarian",
+    "attribute": "헝가리어",
+    "prompt": "Translate a word from English to korean. Word: 'Hungarian'. Translated: '"
+  },
+  {
+    "known_id": 42,
+    "subject": "Thai",
+    "attribute": "태국어",
+    "prompt": "Translate a word from English to korean. Word: 'Thai'. Translated: '"
+  },
+  {
+    "known_id": 43,
+    "subject": "Vietnamese",
+    "attribute": "베트남어",
+    "prompt": "Translate a word from English to korean. Word: 'Vietnamese'. Translated: '"
+  },
+  {
+    "known_id": 44,
+    "subject": "Malay",
+    "attribute": "말레이어",
+    "prompt": "Translate a word from English to korean. Word: 'Malay'. Translated: '"
+  },
+  {
+    "known_id": 46,
+    "subject": "Filipino",
+    "attribute": "필리핀어",
+    "prompt": "Translate a word from English to korean. Word: 'Filipino'. Translated: '"
+  },
+  {
+    "known_id": 47,
+    "subject": "Bengali",
+    "attribute": "벵골어",
+    "prompt": "Translate a word from English to korean. Word: 'Bengali'. Translated: '"
+  },
+  {
+    "known_id": 48,
+    "subject": "Sinhala",
+    "attribute": "싱할라어",
+    "prompt": "Translate a word from English to korean. Word: 'Sinhala'. Translated: '"
+  }
+]

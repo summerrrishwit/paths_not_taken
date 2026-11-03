@@ -1,0 +1,308 @@
+[
+  {
+    "subject": "États-Unis",
+    "known_id": 0,
+    "attribute": "Dollar",
+    "prompt": "La moneda oficial de États-Unis se llama"
+  },
+  {
+    "subject": "Royaume-Uni",
+    "known_id": 1,
+    "attribute": "Livre",
+    "prompt": "La moneda oficial de Royaume-Uni se llama"
+  },
+  {
+    "subject": "Japon",
+    "known_id": 2,
+    "attribute": "Yen",
+    "prompt": "La moneda oficial de Japon se llama"
+  },
+  {
+    "subject": "Canada",
+    "known_id": 3,
+    "attribute": "Dollar",
+    "prompt": "La moneda oficial de Canada se llama"
+  },
+  {
+    "subject": "Australie",
+    "known_id": 4,
+    "attribute": "Dollar",
+    "prompt": "La moneda oficial de Australie se llama"
+  },
+  {
+    "subject": "Brésil",
+    "known_id": 5,
+    "attribute": "Réal",
+    "prompt": "La moneda oficial de Brésil se llama"
+  },
+  {
+    "subject": "Chine",
+    "known_id": 6,
+    "attribute": "Yuan",
+    "prompt": "La moneda oficial de Chine se llama"
+  },
+  {
+    "subject": "Inde",
+    "known_id": 7,
+    "attribute": "Roupie",
+    "prompt": "La moneda oficial de Inde se llama"
+  },
+  {
+    "subject": "Russie",
+    "known_id": 8,
+    "attribute": "Rouble",
+    "prompt": "La moneda oficial de Russie se llama"
+  },
+  {
+    "subject": "Afrique du Sud",
+    "known_id": 9,
+    "attribute": "Rand",
+    "prompt": "La moneda oficial de Afrique du Sud se llama"
+  },
+  {
+    "subject": "Mexique",
+    "known_id": 10,
+    "attribute": "Peso",
+    "prompt": "La moneda oficial de Mexique se llama"
+  },
+  {
+    "subject": "Nouvelle-Zélande",
+    "known_id": 11,
+    "attribute": "Dollar",
+    "prompt": "La moneda oficial de Nouvelle-Zélande se llama"
+  },
+  {
+    "subject": "Corée du Sud",
+    "known_id": 12,
+    "attribute": "Won",
+    "prompt": "La moneda oficial de Corée du Sud se llama"
+  },
+  {
+    "subject": "Suisse",
+    "known_id": 13,
+    "attribute": "Franc",
+    "prompt": "La moneda oficial de Suisse se llama"
+  },
+  {
+    "subject": "Turquie",
+    "known_id": 14,
+    "attribute": "Lire",
+    "prompt": "La moneda oficial de Turquie se llama"
+  },
+  {
+    "subject": "Argentine",
+    "known_id": 15,
+    "attribute": "Peso",
+    "prompt": "La moneda oficial de Argentine se llama"
+  },
+  {
+    "subject": "Norvège",
+    "known_id": 16,
+    "attribute": "Couronne",
+    "prompt": "La moneda oficial de Norvège se llama"
+  },
+  {
+    "subject": "Suède",
+    "known_id": 17,
+    "attribute": "Couronne",
+    "prompt": "La moneda oficial de Suède se llama"
+  },
+  {
+    "subject": "Danemark",
+    "known_id": 18,
+    "attribute": "Couronne",
+    "prompt": "La moneda oficial de Danemark se llama"
+  },
+  {
+    "subject": "Pologne",
+    "known_id": 19,
+    "attribute": "Zloty",
+    "prompt": "La moneda oficial de Pologne se llama"
+  },
+  {
+    "subject": "Hongrie",
+    "known_id": 20,
+    "attribute": "Forint",
+    "prompt": "La moneda oficial de Hongrie se llama"
+  },
+  {
+    "subject": "République tchèque",
+    "known_id": 21,
+    "attribute": "Couronne tchèque",
+    "prompt": "La moneda oficial de République tchèque se llama"
+  },
+  {
+    "subject": "Israël",
+    "known_id": 22,
+    "attribute": "Shekel",
+    "prompt": "La moneda oficial de Israël se llama"
+  },
+  {
+    "subject": "Arabie saoudite",
+    "known_id": 23,
+    "attribute": "Riyal",
+    "prompt": "La moneda oficial de Arabie saoudite se llama"
+  },
+  {
+    "subject": "Émirats arabes unis",
+    "known_id": 24,
+    "attribute": "Dirham",
+    "prompt": "La moneda oficial de Émirats arabes unis se llama"
+  },
+  {
+    "subject": "Singapour",
+    "known_id": 25,
+    "attribute": "Dollar",
+    "prompt": "La moneda oficial de Singapour se llama"
+  },
+  {
+    "subject": "Malaisie",
+    "known_id": 26,
+    "attribute": "Ringgit",
+    "prompt": "La moneda oficial de Malaisie se llama"
+  },
+  {
+    "subject": "Indonésie",
+    "known_id": 27,
+    "attribute": "Roupie",
+    "prompt": "La moneda oficial de Indonésie se llama"
+  },
+  {
+    "subject": "Thaïlande",
+    "known_id": 28,
+    "attribute": "Baht",
+    "prompt": "La moneda oficial de Thaïlande se llama"
+  },
+  {
+    "subject": "Philippines",
+    "known_id": 29,
+    "attribute": "Peso",
+    "prompt": "La moneda oficial de Philippines se llama"
+  },
+  {
+    "subject": "Vietnam",
+    "known_id": 30,
+    "attribute": "Dong",
+    "prompt": "La moneda oficial de Vietnam se llama"
+  },
+  {
+    "subject": "Égypte",
+    "known_id": 31,
+    "attribute": "Livre",
+    "prompt": "La moneda oficial de Égypte se llama"
+  },
+  {
+    "subject": "Ukraine",
+    "known_id": 32,
+    "attribute": "Hryvnia",
+    "prompt": "La moneda oficial de Ukraine se llama"
+  },
+  {
+    "subject": "Roumanie",
+    "known_id": 33,
+    "attribute": "Leu",
+    "prompt": "La moneda oficial de Roumanie se llama"
+  },
+  {
+    "subject": "Bulgarie",
+    "known_id": 34,
+    "attribute": "Lev",
+    "prompt": "La moneda oficial de Bulgarie se llama"
+  },
+  {
+    "subject": "Serbie",
+    "known_id": 35,
+    "attribute": "Dinar",
+    "prompt": "La moneda oficial de Serbie se llama"
+  },
+  {
+    "subject": "Irak",
+    "known_id": 36,
+    "attribute": "Dinar",
+    "prompt": "La moneda oficial de Irak se llama"
+  },
+  {
+    "subject": "Koweït",
+    "known_id": 37,
+    "attribute": "Dinar",
+    "prompt": "La moneda oficial de Koweït se llama"
+  },
+  {
+    "subject": "Maroc",
+    "known_id": 38,
+    "attribute": "Dirham",
+    "prompt": "La moneda oficial de Maroc se llama"
+  },
+  {
+    "subject": "Tunisie",
+    "known_id": 39,
+    "attribute": "Dinar",
+    "prompt": "La moneda oficial de Tunisie se llama"
+  },
+  {
+    "subject": "Chili",
+    "known_id": 40,
+    "attribute": "Peso",
+    "prompt": "La moneda oficial de Chili se llama"
+  },
+  {
+    "subject": "Colombie",
+    "known_id": 41,
+    "attribute": "Peso",
+    "prompt": "La moneda oficial de Colombie se llama"
+  },
+  {
+    "subject": "Uruguay",
+    "known_id": 42,
+    "attribute": "Peso",
+    "prompt": "La moneda oficial de Uruguay se llama"
+  },
+  {
+    "subject": "Islande",
+    "known_id": 43,
+    "attribute": "Couronne",
+    "prompt": "La moneda oficial de Islande se llama"
+  },
+  {
+    "subject": "Géorgie",
+    "known_id": 44,
+    "attribute": "Lari",
+    "prompt": "La moneda oficial de Géorgie se llama"
+  },
+  {
+    "subject": "Azerbaïdjan",
+    "known_id": 45,
+    "attribute": "Manat",
+    "prompt": "La moneda oficial de Azerbaïdjan se llama"
+  },
+  {
+    "subject": "Kazakhstan",
+    "known_id": 46,
+    "attribute": "Tenge",
+    "prompt": "La moneda oficial de Kazakhstan se llama"
+  },
+  {
+    "subject": "Sri Lanka",
+    "known_id": 47,
+    "attribute": "Roupie",
+    "prompt": "La moneda oficial de Sri Lanka se llama"
+  },
+  {
+    "subject": "Népal",
+    "known_id": 48,
+    "attribute": "Roupie",
+    "prompt": "La moneda oficial de Népal se llama"
+  },
+  {
+    "subject": "Bangladesh",
+    "known_id": 49,
+    "attribute": "Taka",
+    "prompt": "La moneda oficial de Bangladesh se llama"
+  },
+  {
+    "subject": "Pakistan",
+    "known_id": 50,
+    "attribute": "Roupie",
+    "prompt": "La moneda oficial de Pakistan se llama"
+  }
+]

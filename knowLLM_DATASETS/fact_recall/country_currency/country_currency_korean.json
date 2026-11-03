@@ -1,0 +1,308 @@
+[
+  {
+    "subject": "미국",
+    "known_id": 0,
+    "attribute": "달러",
+    "prompt": "미국의 공식 화폐는"
+  },
+  {
+    "subject": "영국",
+    "known_id": 1,
+    "attribute": "파운드",
+    "prompt": "영국의 공식 화폐는"
+  },
+  {
+    "subject": "일본",
+    "known_id": 2,
+    "attribute": "엔",
+    "prompt": "일본의 공식 화폐는"
+  },
+  {
+    "subject": "캐나다",
+    "known_id": 3,
+    "attribute": "달러",
+    "prompt": "캐나다의 공식 화폐는"
+  },
+  {
+    "subject": "호주",
+    "known_id": 4,
+    "attribute": "달러",
+    "prompt": "호주의 공식 화폐는"
+  },
+  {
+    "subject": "브라질",
+    "known_id": 5,
+    "attribute": "레알",
+    "prompt": "브라질의 공식 화폐는"
+  },
+  {
+    "subject": "중국",
+    "known_id": 6,
+    "attribute": "위안",
+    "prompt": "중국의 공식 화폐는"
+  },
+  {
+    "subject": "인도",
+    "known_id": 7,
+    "attribute": "루피",
+    "prompt": "인도의 공식 화폐는"
+  },
+  {
+    "subject": "러시아",
+    "known_id": 8,
+    "attribute": "루블",
+    "prompt": "러시아의 공식 화폐는"
+  },
+  {
+    "subject": "남아프리카 공화국",
+    "known_id": 9,
+    "attribute": "랜드",
+    "prompt": "남아프리카 공화국의 공식 화폐는"
+  },
+  {
+    "subject": "멕시코",
+    "known_id": 10,
+    "attribute": "페소",
+    "prompt": "멕시코의 공식 화폐는"
+  },
+  {
+    "subject": "뉴질랜드",
+    "known_id": 11,
+    "attribute": "달러",
+    "prompt": "뉴질랜드의 공식 화폐는"
+  },
+  {
+    "subject": "한국",
+    "known_id": 12,
+    "attribute": "원",
+    "prompt": "한국의 공식 화폐는"
+  },
+  {
+    "subject": "스위스",
+    "known_id": 13,
+    "attribute": "프랑",
+    "prompt": "스위스의 공식 화폐는"
+  },
+  {
+    "subject": "튀르키예",
+    "known_id": 14,
+    "attribute": "리라",
+    "prompt": "튀르키예의 공식 화폐는"
+  },
+  {
+    "subject": "아르헨티나",
+    "known_id": 15,
+    "attribute": "페소",
+    "prompt": "아르헨티나의 공식 화폐는"
+  },
+  {
+    "subject": "노르웨이",
+    "known_id": 16,
+    "attribute": "크로네",
+    "prompt": "노르웨이의 공식 화폐는"
+  },
+  {
+    "subject": "스웨덴",
+    "known_id": 17,
+    "attribute": "크로나",
+    "prompt": "스웨덴의 공식 화폐는"
+  },
+  {
+    "subject": "덴마크",
+    "known_id": 18,
+    "attribute": "크로네",
+    "prompt": "덴마크의 공식 화폐는"
+  },
+  {
+    "subject": "폴란드",
+    "known_id": 19,
+    "attribute": "즈워티",
+    "prompt": "폴란드의 공식 화폐는"
+  },
+  {
+    "subject": "헝가리",
+    "known_id": 20,
+    "attribute": "포린트",
+    "prompt": "헝가리의 공식 화폐는"
+  },
+  {
+    "subject": "체코 공화국",
+    "known_id": 21,
+    "attribute": "코루나",
+    "prompt": "체코 공화국의 공식 화폐는"
+  },
+  {
+    "subject": "이스라엘",
+    "known_id": 22,
+    "attribute": "셰켈",
+    "prompt": "이스라엘의 공식 화폐는"
+  },
+  {
+    "subject": "사우디아라비아",
+    "known_id": 23,
+    "attribute": "리얄",
+    "prompt": "사우디아라비아의 공식 화폐는"
+  },
+  {
+    "subject": "아랍에미리트",
+    "known_id": 24,
+    "attribute": "디르함",
+    "prompt": "아랍에미리트의 공식 화폐는"
+  },
+  {
+    "subject": "싱가포르",
+    "known_id": 25,
+    "attribute": "달러",
+    "prompt": "싱가포르의 공식 화폐는"
+  },
+  {
+    "subject": "말레이시아",
+    "known_id": 26,
+    "attribute": "링깃",
+    "prompt": "말레이시아의 공식 화폐는"
+  },
+  {
+    "subject": "인도네시아",
+    "known_id": 27,
+    "attribute": "루피아",
+    "prompt": "인도네시아의 공식 화폐는"
+  },
+  {
+    "subject": "태국",
+    "known_id": 28,
+    "attribute": "바트",
+    "prompt": "태국의 공식 화폐는"
+  },
+  {
+    "subject": "필리핀",
+    "known_id": 29,
+    "attribute": "페소",
+    "prompt": "필리핀의 공식 화폐는"
+  },
+  {
+    "subject": "베트남",
+    "known_id": 30,
+    "attribute": "동",
+    "prompt": "베트남의 공식 화폐는"
+  },
+  {
+    "subject": "이집트",
+    "known_id": 31,
+    "attribute": "파운드",
+    "prompt": "이집트의 공식 화폐는"
+  },
+  {
+    "subject": "우크라이나",
+    "known_id": 32,
+    "attribute": "흐리우냐",
+    "prompt": "우크라이나의 공식 화폐는"
+  },
+  {
+    "subject": "루마니아",
+    "known_id": 33,
+    "attribute": "레우",
+    "prompt": "루마니아의 공식 화폐는"
+  },
+  {
+    "subject": "불가리아",
+    "known_id": 34,
+    "attribute": "레프",
+    "prompt": "불가리아의 공식 화폐는"
+  },
+  {
+    "subject": "세르비아",
+    "known_id": 35,
+    "attribute": "디나르",
+    "prompt": "세르비아의 공식 화폐는"
+  },
+  {
+    "subject": "이라크",
+    "known_id": 36,
+    "attribute": "디나르",
+    "prompt": "이라크의 공식 화폐는"
+  },
+  {
+    "subject": "쿠웨이트",
+    "known_id": 37,
+    "attribute": "디나르",
+    "prompt": "쿠웨이트의 공식 화폐는"
+  },
+  {
+    "subject": "모로코",
+    "known_id": 38,
+    "attribute": "디르함",
+    "prompt": "모로코의 공식 화폐는"
+  },
+  {
+    "subject": "튀니지",
+    "known_id": 39,
+    "attribute": "디나르",
+    "prompt": "튀니지의 공식 화폐는"
+  },
+  {
+    "subject": "칠레",
+    "known_id": 40,
+    "attribute": "페소",
+    "prompt": "칠레의 공식 화폐는"
+  },
+  {
+    "subject": "콜롬비아",
+    "known_id": 41,
+    "attribute": "페소",
+    "prompt": "콜롬비아의 공식 화폐는"
+  },
+  {
+    "subject": "우루과이",
+    "known_id": 42,
+    "attribute": "페소",
+    "prompt": "우루과이의 공식 화폐는"
+  },
+  {
+    "subject": "아이슬란드",
+    "known_id": 43,
+    "attribute": "크로나",
+    "prompt": "아이슬란드의 공식 화폐는"
+  },
+  {
+    "subject": "조지아",
+    "known_id": 44,
+    "attribute": "라리",
+    "prompt": "조지아의 공식 화폐는"
+  },
+  {
+    "subject": "아제르바이잔",
+    "known_id": 45,
+    "attribute": "마나트",
+    "prompt": "아제르바이잔의 공식 화폐는"
+  },
+  {
+    "subject": "카자흐스탄",
+    "known_id": 46,
+    "attribute": "텡게",
+    "prompt": "카자흐스탄의 공식 화폐는"
+  },
+  {
+    "subject": "스리랑카",
+    "known_id": 47,
+    "attribute": "루피",
+    "prompt": "스리랑카의 공식 화폐는"
+  },
+  {
+    "subject": "네팔",
+    "known_id": 48,
+    "attribute": "루피",
+    "prompt": "네팔의 공식 화폐는"
+  },
+  {
+    "subject": "방글라데시",
+    "known_id": 49,
+    "attribute": "타카",
+    "prompt": "방글라데시의 공식 화폐는"
+  },
+  {
+    "subject": "파키스탄",
+    "known_id": 50,
+    "attribute": "루피",
+    "prompt": "파키스탄의 공식 화폐는"
+  }
+]

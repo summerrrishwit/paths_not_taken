@@ -1,0 +1,25 @@
+# Local indexes and agent state
+.codegraph/
+.codex/
+.agents/
+
+# Credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Caches, downloaded models, and generated tensors
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.cache/
+models/
+checkpoints/
+*.pt
+*.pth
+*.safetensors
+*.log
+.DS_Store

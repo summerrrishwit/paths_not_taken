@@ -1,0 +1,272 @@
+[
+  {
+    "known_id": 0,
+    "subject": "English",
+    "attribute": "Anglais",
+    "prompt": "Translate a word from English to french. Word: 'English'. Translated: '"
+  },
+  {
+    "known_id": 1,
+    "subject": "English",
+    "attribute": "Anglais",
+    "prompt": "Translate a word from English to french. Word: 'English'. Translated: '"
+  },
+  {
+    "known_id": 2,
+    "subject": "Spanish",
+    "attribute": "Espagnol",
+    "prompt": "Translate a word from English to french. Word: 'Spanish'. Translated: '"
+  },
+  {
+    "known_id": 3,
+    "subject": "Portuguese",
+    "attribute": "Portugais",
+    "prompt": "Translate a word from English to french. Word: 'Portuguese'. Translated: '"
+  },
+  {
+    "known_id": 4,
+    "subject": "Spanish",
+    "attribute": "Espagnol",
+    "prompt": "Translate a word from English to french. Word: 'Spanish'. Translated: '"
+  },
+  {
+    "known_id": 5,
+    "subject": "Spanish",
+    "attribute": "Espagnol",
+    "prompt": "Translate a word from English to french. Word: 'Spanish'. Translated: '"
+  },
+  {
+    "known_id": 6,
+    "subject": "Spanish",
+    "attribute": "Espagnol",
+    "prompt": "Translate a word from English to french. Word: 'Spanish'. Translated: '"
+  },
+  {
+    "known_id": 7,
+    "subject": "Spanish",
+    "attribute": "Espagnol",
+    "prompt": "Translate a word from English to french. Word: 'Spanish'. Translated: '"
+  },
+  {
+    "known_id": 8,
+    "subject": "Spanish",
+    "attribute": "Espagnol",
+    "prompt": "Translate a word from English to french. Word: 'Spanish'. Translated: '"
+  },
+  {
+    "known_id": 9,
+    "subject": "Spanish",
+    "attribute": "Espagnol",
+    "prompt": "Translate a word from English to french. Word: 'Spanish'. Translated: '"
+  },
+  {
+    "known_id": 10,
+    "subject": "French",
+    "attribute": "Français",
+    "prompt": "Translate a word from English to french. Word: 'French'. Translated: '"
+  },
+  {
+    "known_id": 11,
+    "subject": "German",
+    "attribute": "Allemand",
+    "prompt": "Translate a word from English to french. Word: 'German'. Translated: '"
+  },
+  {
+    "known_id": 12,
+    "subject": "Italian",
+    "attribute": "Italien",
+    "prompt": "Translate a word from English to french. Word: 'Italian'. Translated: '"
+  },
+  {
+    "known_id": 13,
+    "subject": "Russian",
+    "attribute": "Russe",
+    "prompt": "Translate a word from English to french. Word: 'Russian'. Translated: '"
+  },
+  {
+    "known_id": 14,
+    "subject": "Mandarin Chinese",
+    "attribute": "Mandarin",
+    "prompt": "Translate a word from English to french. Word: 'Mandarin Chinese'. Translated: '"
+  },
+  {
+    "known_id": 15,
+    "subject": "Japanese",
+    "attribute": "Japonais",
+    "prompt": "Translate a word from English to french. Word: 'Japanese'. Translated: '"
+  },
+  {
+    "known_id": 16,
+    "subject": "Korean",
+    "attribute": "Coréen",
+    "prompt": "Translate a word from English to french. Word: 'Korean'. Translated: '"
+  },
+  {
+    "known_id": 17,
+    "subject": "Hindi",
+    "attribute": "Hindi",
+    "prompt": "Translate a word from English to french. Word: 'Hindi'. Translated: '"
+  },
+  {
+    "known_id": 18,
+    "subject": "Urdu",
+    "attribute": "Ourdou",
+    "prompt": "Translate a word from English to french. Word: 'Urdu'. Translated: '"
+  },
+  {
+    "known_id": 19,
+    "subject": "English",
+    "attribute": "Anglais",
+    "prompt": "Translate a word from English to french. Word: 'English'. Translated: '"
+  },
+  {
+    "known_id": 20,
+    "subject": "Arabic",
+    "attribute": "Arabe",
+    "prompt": "Translate a word from English to french. Word: 'Arabic'. Translated: '"
+  },
+  {
+    "known_id": 21,
+    "subject": "Arabic",
+    "attribute": "Arabe",
+    "prompt": "Translate a word from English to french. Word: 'Arabic'. Translated: '"
+  },
+  {
+    "known_id": 22,
+    "subject": "Turkish",
+    "attribute": "Turc",
+    "prompt": "Translate a word from English to french. Word: 'Turkish'. Translated: '"
+  },
+  {
+    "known_id": 23,
+    "subject": "English",
+    "attribute": "Anglais",
+    "prompt": "Translate a word from English to french. Word: 'English'. Translated: '"
+  },
+  {
+    "known_id": 24,
+    "subject": "English",
+    "attribute": "Anglais",
+    "prompt": "Translate a word from English to french. Word: 'English'. Translated: '"
+  },
+  {
+    "known_id": 25,
+    "subject": "Swedish",
+    "attribute": "Suédois",
+    "prompt": "Translate a word from English to french. Word: 'Swedish'. Translated: '"
+  },
+  {
+    "known_id": 26,
+    "subject": "Norwegian",
+    "attribute": "Norvégien",
+    "prompt": "Translate a word from English to french. Word: 'Norwegian'. Translated: '"
+  },
+  {
+    "known_id": 27,
+    "subject": "Danish",
+    "attribute": "Danois",
+    "prompt": "Translate a word from English to french. Word: 'Danish'. Translated: '"
+  },
+  {
+    "known_id": 28,
+    "subject": "Finnish",
+    "attribute": "Finnois",
+    "prompt": "Translate a word from English to french. Word: 'Finnish'. Translated: '"
+  },
+  {
+    "known_id": 29,
+    "subject": "Icelandic",
+    "attribute": "Islandais",
+    "prompt": "Translate a word from English to french. Word: 'Icelandic'. Translated: '"
+  },
+  {
+    "known_id": 32,
+    "subject": "Amharic",
+    "attribute": "Amharique",
+    "prompt": "Translate a word from English to french. Word: 'Amharic'. Translated: '"
+  },
+  {
+    "known_id": 33,
+    "subject": "Greek",
+    "attribute": "Grec",
+    "prompt": "Translate a word from English to french. Word: 'Greek'. Translated: '"
+  },
+  {
+    "known_id": 34,
+    "subject": "Dutch",
+    "attribute": "Néerlandais",
+    "prompt": "Translate a word from English to french. Word: 'Dutch'. Translated: '"
+  },
+  {
+    "known_id": 36,
+    "subject": "German",
+    "attribute": "Allemand",
+    "prompt": "Translate a word from English to french. Word: 'German'. Translated: '"
+  },
+  {
+    "known_id": 37,
+    "subject": "German",
+    "attribute": "Allemand",
+    "prompt": "Translate a word from English to french. Word: 'German'. Translated: '"
+  },
+  {
+    "known_id": 38,
+    "subject": "Portuguese",
+    "attribute": "Portugais",
+    "prompt": "Translate a word from English to french. Word: 'Portuguese'. Translated: '"
+  },
+  {
+    "known_id": 39,
+    "subject": "Czech",
+    "attribute": "Tchèque",
+    "prompt": "Translate a word from English to french. Word: 'Czech'. Translated: '"
+  },
+  {
+    "known_id": 40,
+    "subject": "Polish",
+    "attribute": "Polonais",
+    "prompt": "Translate a word from English to french. Word: 'Polish'. Translated: '"
+  },
+  {
+    "known_id": 41,
+    "subject": "Hungarian",
+    "attribute": "Hongrois",
+    "prompt": "Translate a word from English to french. Word: 'Hungarian'. Translated: '"
+  },
+  {
+    "known_id": 42,
+    "subject": "Thai",
+    "attribute": "Thaï",
+    "prompt": "Translate a word from English to french. Word: 'Thai'. Translated: '"
+  },
+  {
+    "known_id": 43,
+    "subject": "Vietnamese",
+    "attribute": "Vietnamien",
+    "prompt": "Translate a word from English to french. Word: 'Vietnamese'. Translated: '"
+  },
+  {
+    "known_id": 44,
+    "subject": "Malay",
+    "attribute": "Malais",
+    "prompt": "Translate a word from English to french. Word: 'Malay'. Translated: '"
+  },
+  {
+    "known_id": 46,
+    "subject": "Filipino",
+    "attribute": "Filipino",
+    "prompt": "Translate a word from English to french. Word: 'Filipino'. Translated: '"
+  },
+  {
+    "known_id": 47,
+    "subject": "Bengali",
+    "attribute": "Bengali",
+    "prompt": "Translate a word from English to french. Word: 'Bengali'. Translated: '"
+  },
+  {
+    "known_id": 48,
+    "subject": "Sinhala",
+    "attribute": "Singhalais",
+    "prompt": "Translate a word from English to french. Word: 'Sinhala'. Translated: '"
+  }
+]

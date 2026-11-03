@@ -1,0 +1,284 @@
+[
+  {
+    "known_id": 0,
+    "subject": "Mammal",
+    "attribute": "哺乳动物",
+    "prompt": "Translate a word from English to chinese. Word: 'Mammal'. Translated: '"
+  },
+  {
+    "known_id": 1,
+    "subject": "Mammal",
+    "attribute": "哺乳动物",
+    "prompt": "Translate a word from English to chinese. Word: 'Mammal'. Translated: '"
+  },
+  {
+    "known_id": 2,
+    "subject": "Mammal",
+    "attribute": "哺乳动物",
+    "prompt": "Translate a word from English to chinese. Word: 'Mammal'. Translated: '"
+  },
+  {
+    "known_id": 3,
+    "subject": "Mammal",
+    "attribute": "哺乳动物",
+    "prompt": "Translate a word from English to chinese. Word: 'Mammal'. Translated: '"
+  },
+  {
+    "known_id": 4,
+    "subject": "Mammal",
+    "attribute": "哺乳动物",
+    "prompt": "Translate a word from English to chinese. Word: 'Mammal'. Translated: '"
+  },
+  {
+    "known_id": 5,
+    "subject": "Mammal",
+    "attribute": "哺乳动物",
+    "prompt": "Translate a word from English to chinese. Word: 'Mammal'. Translated: '"
+  },
+  {
+    "known_id": 6,
+    "subject": "Mammal",
+    "attribute": "哺乳动物",
+    "prompt": "Translate a word from English to chinese. Word: 'Mammal'. Translated: '"
+  },
+  {
+    "known_id": 7,
+    "subject": "Mammal",
+    "attribute": "哺乳动物",
+    "prompt": "Translate a word from English to chinese. Word: 'Mammal'. Translated: '"
+  },
+  {
+    "known_id": 8,
+    "subject": "Mammal",
+    "attribute": "哺乳动物",
+    "prompt": "Translate a word from English to chinese. Word: 'Mammal'. Translated: '"
+  },
+  {
+    "known_id": 9,
+    "subject": "Mammal",
+    "attribute": "哺乳动物",
+    "prompt": "Translate a word from English to chinese. Word: 'Mammal'. Translated: '"
+  },
+  {
+    "known_id": 10,
+    "subject": "Mammal",
+    "attribute": "哺乳动物",
+    "prompt": "Translate a word from English to chinese. Word: 'Mammal'. Translated: '"
+  },
+  {
+    "known_id": 11,
+    "subject": "Mammal",
+    "attribute": "哺乳动物",
+    "prompt": "Translate a word from English to chinese. Word: 'Mammal'. Translated: '"
+  },
+  {
+    "known_id": 12,
+    "subject": "Reptile",
+    "attribute": "爬行动物",
+    "prompt": "Translate a word from English to chinese. Word: 'Reptile'. Translated: '"
+  },
+  {
+    "known_id": 13,
+    "subject": "Reptile",
+    "attribute": "爬行动物",
+    "prompt": "Translate a word from English to chinese. Word: 'Reptile'. Translated: '"
+  },
+  {
+    "known_id": 14,
+    "subject": "Reptile",
+    "attribute": "爬行动物",
+    "prompt": "Translate a word from English to chinese. Word: 'Reptile'. Translated: '"
+  },
+  {
+    "known_id": 15,
+    "subject": "Reptile",
+    "attribute": "爬行动物",
+    "prompt": "Translate a word from English to chinese. Word: 'Reptile'. Translated: '"
+  },
+  {
+    "known_id": 16,
+    "subject": "Reptile",
+    "attribute": "爬行动物",
+    "prompt": "Translate a word from English to chinese. Word: 'Reptile'. Translated: '"
+  },
+  {
+    "known_id": 17,
+    "subject": "Amphibian",
+    "attribute": "两栖动物",
+    "prompt": "Translate a word from English to chinese. Word: 'Amphibian'. Translated: '"
+  },
+  {
+    "known_id": 18,
+    "subject": "Amphibian",
+    "attribute": "两栖动物",
+    "prompt": "Translate a word from English to chinese. Word: 'Amphibian'. Translated: '"
+  },
+  {
+    "known_id": 19,
+    "subject": "Amphibian",
+    "attribute": "两栖动物",
+    "prompt": "Translate a word from English to chinese. Word: 'Amphibian'. Translated: '"
+  },
+  {
+    "known_id": 20,
+    "subject": "Amphibian",
+    "attribute": "两栖动物",
+    "prompt": "Translate a word from English to chinese. Word: 'Amphibian'. Translated: '"
+  },
+  {
+    "known_id": 21,
+    "subject": "Fish",
+    "attribute": "鱼类",
+    "prompt": "Translate a word from English to chinese. Word: 'Fish'. Translated: '"
+  },
+  {
+    "known_id": 22,
+    "subject": "Fish",
+    "attribute": "鱼类",
+    "prompt": "Translate a word from English to chinese. Word: 'Fish'. Translated: '"
+  },
+  {
+    "known_id": 23,
+    "subject": "Fish",
+    "attribute": "鱼类",
+    "prompt": "Translate a word from English to chinese. Word: 'Fish'. Translated: '"
+  },
+  {
+    "known_id": 24,
+    "subject": "Fish",
+    "attribute": "鱼类",
+    "prompt": "Translate a word from English to chinese. Word: 'Fish'. Translated: '"
+  },
+  {
+    "known_id": 25,
+    "subject": "Fish",
+    "attribute": "鱼类",
+    "prompt": "Translate a word from English to chinese. Word: 'Fish'. Translated: '"
+  },
+  {
+    "known_id": 26,
+    "subject": "Bird",
+    "attribute": "鸟类",
+    "prompt": "Translate a word from English to chinese. Word: 'Bird'. Translated: '"
+  },
+  {
+    "known_id": 27,
+    "subject": "Bird",
+    "attribute": "鸟类",
+    "prompt": "Translate a word from English to chinese. Word: 'Bird'. Translated: '"
+  },
+  {
+    "known_id": 28,
+    "subject": "Bird",
+    "attribute": "鸟类",
+    "prompt": "Translate a word from English to chinese. Word: 'Bird'. Translated: '"
+  },
+  {
+    "known_id": 29,
+    "subject": "Bird",
+    "attribute": "鸟类",
+    "prompt": "Translate a word from English to chinese. Word: 'Bird'. Translated: '"
+  },
+  {
+    "known_id": 30,
+    "subject": "Bird",
+    "attribute": "鸟类",
+    "prompt": "Translate a word from English to chinese. Word: 'Bird'. Translated: '"
+  },
+  {
+    "known_id": 31,
+    "subject": "Insect",
+    "attribute": "昆虫",
+    "prompt": "Translate a word from English to chinese. Word: 'Insect'. Translated: '"
+  },
+  {
+    "known_id": 32,
+    "subject": "Insect",
+    "attribute": "昆虫",
+    "prompt": "Translate a word from English to chinese. Word: 'Insect'. Translated: '"
+  },
+  {
+    "known_id": 33,
+    "subject": "Insect",
+    "attribute": "昆虫",
+    "prompt": "Translate a word from English to chinese. Word: 'Insect'. Translated: '"
+  },
+  {
+    "known_id": 34,
+    "subject": "Insect",
+    "attribute": "昆虫",
+    "prompt": "Translate a word from English to chinese. Word: 'Insect'. Translated: '"
+  },
+  {
+    "known_id": 35,
+    "subject": "Insect",
+    "attribute": "昆虫",
+    "prompt": "Translate a word from English to chinese. Word: 'Insect'. Translated: '"
+  },
+  {
+    "known_id": 36,
+    "subject": "Arachnid",
+    "attribute": "蛛形纲动物",
+    "prompt": "Translate a word from English to chinese. Word: 'Arachnid'. Translated: '"
+  },
+  {
+    "known_id": 37,
+    "subject": "Arachnid",
+    "attribute": "蛛形纲动物",
+    "prompt": "Translate a word from English to chinese. Word: 'Arachnid'. Translated: '"
+  },
+  {
+    "known_id": 38,
+    "subject": "Cephalopod",
+    "attribute": "头足类动物",
+    "prompt": "Translate a word from English to chinese. Word: 'Cephalopod'. Translated: '"
+  },
+  {
+    "known_id": 39,
+    "subject": "Cephalopod",
+    "attribute": "头足类动物",
+    "prompt": "Translate a word from English to chinese. Word: 'Cephalopod'. Translated: '"
+  },
+  {
+    "known_id": 40,
+    "subject": "Cnidarian",
+    "attribute": "腔肠动物",
+    "prompt": "Translate a word from English to chinese. Word: 'Cnidarian'. Translated: '"
+  },
+  {
+    "known_id": 41,
+    "subject": "Echinoderm",
+    "attribute": "棘皮动物",
+    "prompt": "Translate a word from English to chinese. Word: 'Echinoderm'. Translated: '"
+  },
+  {
+    "known_id": 42,
+    "subject": "Echinoderm",
+    "attribute": "棘皮动物",
+    "prompt": "Translate a word from English to chinese. Word: 'Echinoderm'. Translated: '"
+  },
+  {
+    "known_id": 43,
+    "subject": "Annelid",
+    "attribute": "环节动物",
+    "prompt": "Translate a word from English to chinese. Word: 'Annelid'. Translated: '"
+  },
+  {
+    "known_id": 44,
+    "subject": "Mollusk",
+    "attribute": "软体动物",
+    "prompt": "Translate a word from English to chinese. Word: 'Mollusk'. Translated: '"
+  },
+  {
+    "known_id": 45,
+    "subject": "Crustacean",
+    "attribute": "甲壳类动物",
+    "prompt": "Translate a word from English to chinese. Word: 'Crustacean'. Translated: '"
+  },
+  {
+    "known_id": 46,
+    "subject": "Crustacean",
+    "attribute": "甲壳类动物",
+    "prompt": "Translate a word from English to chinese. Word: 'Crustacean'. Translated: '"
+  }
+]

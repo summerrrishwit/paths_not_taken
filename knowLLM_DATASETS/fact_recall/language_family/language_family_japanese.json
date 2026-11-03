@@ -1,0 +1,302 @@
+[
+    {
+        "subject": "英語",
+        "known_id": 0,
+        "attribute": "インド・ヨーロッパ語族",
+        "prompt": "英語が属する語族は"
+    },
+    {
+        "subject": "スペイン語",
+        "known_id": 1,
+        "attribute": "インド・ヨーロッパ語族",
+        "prompt": "スペイン語が属する語族は"
+    },
+    {
+        "subject": "フランス語",
+        "known_id": 2,
+        "attribute": "インド・ヨーロッパ語族",
+        "prompt": "フランス語が属する語族は"
+    },
+    {
+        "subject": "ドイツ語",
+        "known_id": 3,
+        "attribute": "インド・ヨーロッパ語族",
+        "prompt": "ドイツ語が属する語族は"
+    },
+    {
+        "subject": "ロシア語",
+        "known_id": 4,
+        "attribute": "インド・ヨーロッパ語族",
+        "prompt": "ロシア語が属する語族は"
+    },
+    {
+        "subject": "ヒンディー語",
+        "known_id": 5,
+        "attribute": "インド・ヨーロッパ語族",
+        "prompt": "ヒンディー語が属する語族は"
+    },
+    {
+        "subject": "ベンガル語",
+        "known_id": 6,
+        "attribute": "インド・ヨーロッパ語族",
+        "prompt": "ベンガル語が属する語族は"
+    },
+    {
+        "subject": "ポルトガル語",
+        "known_id": 7,
+        "attribute": "インド・ヨーロッパ語族",
+        "prompt": "ポルトガル語が属する語族は"
+    },
+    {
+        "subject": "ペルシャ語",
+        "known_id": 8,
+        "attribute": "インド・ヨーロッパ語族",
+        "prompt": "ペルシャ語が属する語族は"
+    },
+    {
+        "subject": "ギリシャ語",
+        "known_id": 9,
+        "attribute": "インド・ヨーロッパ語族",
+        "prompt": "ギリシャ語が属する語族は"
+    },
+    {
+        "subject": "標準中国語",
+        "known_id": 10,
+        "attribute": "シナ・チベット語族",
+        "prompt": "標準中国語が属する語族は"
+    },
+    {
+        "subject": "広東語",
+        "known_id": 11,
+        "attribute": "シナ・チベット語族",
+        "prompt": "広東語が属する語族は"
+    },
+    {
+        "subject": "ビルマ語",
+        "known_id": 12,
+        "attribute": "シナ・チベット語族",
+        "prompt": "ビルマ語が属する語族は"
+    },
+    {
+        "subject": "チベット語",
+        "known_id": 13,
+        "attribute": "シナ・チベット語族",
+        "prompt": "チベット語が属する語族は"
+    },
+    {
+        "subject": "ハウサ語",
+        "known_id": 14,
+        "attribute": "アフロ・アジア語族",
+        "prompt": "ハウサ語が属する語族は"
+    },
+    {
+        "subject": "アラビア語",
+        "known_id": 15,
+        "attribute": "アフロ・アジア語族",
+        "prompt": "アラビア語が属する語族は"
+    },
+    {
+        "subject": "ヘブライ語",
+        "known_id": 16,
+        "attribute": "アフロ・アジア語族",
+        "prompt": "ヘブライ語が属する語族は"
+    },
+    {
+        "subject": "アムハラ語",
+        "known_id": 17,
+        "attribute": "アフロ・アジア語族",
+        "prompt": "アムハラ語が属する語族は"
+    },
+    {
+        "subject": "ベルベル語",
+        "known_id": 18,
+        "attribute": "アフロ・アジア語族",
+        "prompt": "ベルベル語が属する語族は"
+    },
+    {
+        "subject": "ベトナム語",
+        "known_id": 19,
+        "attribute": "オーストロアジア語族",
+        "prompt": "ベトナム語が属する語族は"
+    },
+    {
+        "subject": "クメール語",
+        "known_id": 20,
+        "attribute": "オーストロアジア語族",
+        "prompt": "クメール語が属する語族は"
+    },
+    {
+        "subject": "タイ語",
+        "known_id": 21,
+        "attribute": "タイ・カダイ語族",
+        "prompt": "タイ語が属する語族は"
+    },
+    {
+        "subject": "ラオ語",
+        "known_id": 22,
+        "attribute": "タイ・カダイ語族",
+        "prompt": "ラオ語が属する語族は"
+    },
+    {
+        "subject": "フィリピン語",
+        "known_id": 23,
+        "attribute": "オーストロネシア語族",
+        "prompt": "フィリピン語が属する語族は"
+    },
+    {
+        "subject": "マレー語",
+        "known_id": 24,
+        "attribute": "オーストロネシア語族",
+        "prompt": "マレー語が属する語族は"
+    },
+    {
+        "subject": "ジャワ語",
+        "known_id": 25,
+        "attribute": "オーストロネシア語族",
+        "prompt": "ジャワ語が属する語族は"
+    },
+    {
+        "subject": "タガログ語",
+        "known_id": 26,
+        "attribute": "オーストロネシア語族",
+        "prompt": "タガログ語が属する語族は"
+    },
+    {
+        "subject": "タミル語",
+        "known_id": 27,
+        "attribute": "ドラヴィダ語族",
+        "prompt": "タミル語が属する語族は"
+    },
+    {
+        "subject": "テルグ語",
+        "known_id": 28,
+        "attribute": "ドラヴィダ語族",
+        "prompt": "テルグ語が属する語族は"
+    },
+    {
+        "subject": "カンナダ語",
+        "known_id": 29,
+        "attribute": "ドラヴィダ語族",
+        "prompt": "カンナダ語が属する語族は"
+    },
+    {
+        "subject": "ハンガリー語",
+        "known_id": 30,
+        "attribute": "ウラル語族",
+        "prompt": "ハンガリー語が属する語族は"
+    },
+    {
+        "subject": "フィンランド語",
+        "known_id": 31,
+        "attribute": "ウラル語族",
+        "prompt": "フィンランド語が属する語族は"
+    },
+    {
+        "subject": "エストニア語",
+        "known_id": 32,
+        "attribute": "ウラル語族",
+        "prompt": "エストニア語が属する語族は"
+    },
+    {
+        "subject": "トルコ語",
+        "known_id": 33,
+        "attribute": "テュルク語族",
+        "prompt": "トルコ語が属する語族は"
+    },
+    {
+        "subject": "ウズベク語",
+        "known_id": 34,
+        "attribute": "テュルク語族",
+        "prompt": "ウズベク語が属する語族は"
+    },
+    {
+        "subject": "モンゴル語",
+        "known_id": 35,
+        "attribute": "モンゴル語族",
+        "prompt": "モンゴル語が属する語族は"
+    },
+    {
+        "subject": "韓国語",
+        "known_id": 36,
+        "attribute": "朝鮮語族",
+        "prompt": "韓国語が属する語族は"
+    },
+    {
+        "subject": "日本語",
+        "known_id": 37,
+        "attribute": "日本語族",
+        "prompt": "日本語が属する語族は"
+    },
+    {
+        "subject": "イヌイット語",
+        "known_id": 38,
+        "attribute": "エスキモー・アリューシャン語族",
+        "prompt": "イヌイット語が属する語族は"
+    },
+    {
+        "subject": "ケチュア語",
+        "known_id": 39,
+        "attribute": "ケチュア語族",
+        "prompt": "ケチュア語が属する語族は"
+    },
+    {
+        "subject": "ナワトル語",
+        "known_id": 40,
+        "attribute": "ユト・アステカ語族",
+        "prompt": "ナワトル語が属する語族は"
+    },
+    {
+        "subject": "チェロキー語",
+        "known_id": 41,
+        "attribute": "イロコイ語族",
+        "prompt": "チェロキー語が属する語族は"
+    },
+    {
+        "subject": "ズールー語",
+        "known_id": 42,
+        "attribute": "バントゥー語族",
+        "prompt": "ズールー語が属する語族は"
+    },
+    {
+        "subject": "スワヒリ語",
+        "known_id": 43,
+        "attribute": "バントゥー語族",
+        "prompt": "スワヒリ語が属する語族は"
+    },
+    {
+        "subject": "マオリ語",
+        "known_id": 44,
+        "attribute": "オーストロネシア語族",
+        "prompt": "マオリ語が属する語族は"
+    },
+    {
+        "subject": "ハイチ・クレオール語",
+        "known_id": 45,
+        "attribute": "クレオール語",
+        "prompt": "ハイチ・クレオール語が属する語族は"
+    },
+    {
+        "subject": "バスク語",
+        "known_id": 46,
+        "attribute": "孤立した言語",
+        "prompt": "バスク語が属する語族は"
+    },
+    {
+        "subject": "アイヌ語",
+        "known_id": 47,
+        "attribute": "孤立した言語",
+        "prompt": "アイヌ語が属する語族は"
+    },
+    {
+        "subject": "ミャオ語",
+        "known_id": 48,
+        "attribute": "ミャオ・ヤオ語族",
+        "prompt": "ミャオ語が属する語族は"
+    },
+    {
+        "subject": "ヨルバ語",
+        "known_id": 49,
+        "attribute": "ニジェール・コンゴ語族",
+        "prompt": "ヨルバ語が属する語族は"
+    }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "known_id": 0,
+    "subject": "Piano",
+    "attribute": "Piano",
+    "prompt": "Translate a word from English to spanish. Word: 'Piano'. Translated: '"
+  },
+  {
+    "known_id": 1,
+    "subject": "Piano",
+    "attribute": "Piano",
+    "prompt": "Translate a word from English to spanish. Word: 'Piano'. Translated: '"
+  },
+  {
+    "known_id": 2,
+    "subject": "Organ",
+    "attribute": "Órgano",
+    "prompt": "Translate a word from English to spanish. Word: 'Organ'. Translated: '"
+  },
+  {
+    "known_id": 3,
+    "subject": "Piano",
+    "attribute": "Piano",
+    "prompt": "Translate a word from English to spanish. Word: 'Piano'. Translated: '"
+  },
+  {
+    "known_id": 4,
+    "subject": "Piano",
+    "attribute": "Piano",
+    "prompt": "Translate a word from English to spanish. Word: 'Piano'. Translated: '"
+  },
+  {
+    "known_id": 5,
+    "subject": "Violin",
+    "attribute": "Violín",
+    "prompt": "Translate a word from English to spanish. Word: 'Violin'. Translated: '"
+  },
+  {
+    "known_id": 6,
+    "subject": "Violin",
+    "attribute": "Violín",
+    "prompt": "Translate a word from English to spanish. Word: 'Violin'. Translated: '"
+  },
+  {
+    "known_id": 7,
+    "subject": "Cello",
+    "attribute": "Violonchelo",
+    "prompt": "Translate a word from English to spanish. Word: 'Cello'. Translated: '"
+  },
+  {
+    "known_id": 8,
+    "subject": "Violin",
+    "attribute": "Violín",
+    "prompt": "Translate a word from English to spanish. Word: 'Violin'. Translated: '"
+  },
+  {
+    "known_id": 9,
+    "subject": "Trumpet",
+    "attribute": "Trompeta",
+    "prompt": "Translate a word from English to spanish. Word: 'Trumpet'. Translated: '"
+  },
+  {
+    "known_id": 10,
+    "subject": "Trumpet",
+    "attribute": "Trompeta",
+    "prompt": "Translate a word from English to spanish. Word: 'Trumpet'. Translated: '"
+  },
+  {
+    "known_id": 11,
+    "subject": "Saxophone",
+    "attribute": "Saxofón",
+    "prompt": "Translate a word from English to spanish. Word: 'Saxophone'. Translated: '"
+  },
+  {
+    "known_id": 12,
+    "subject": "Saxophone",
+    "attribute": "Saxofón",
+    "prompt": "Translate a word from English to spanish. Word: 'Saxophone'. Translated: '"
+  },
+  {
+    "known_id": 13,
+    "subject": "Piano",
+    "attribute": "Piano",
+    "prompt": "Translate a word from English to spanish. Word: 'Piano'. Translated: '"
+  },
+  {
+    "known_id": 14,
+    "subject": "Piano",
+    "attribute": "Piano",
+    "prompt": "Translate a word from English to spanish. Word: 'Piano'. Translated: '"
+  },
+  {
+    "known_id": 15,
+    "subject": "Guitar",
+    "attribute": "Guitarra",
+    "prompt": "Translate a word from English to spanish. Word: 'Guitar'. Translated: '"
+  },
+  {
+    "known_id": 16,
+    "subject": "Guitar",
+    "attribute": "Guitarra",
+    "prompt": "Translate a word from English to spanish. Word: 'Guitar'. Translated: '"
+  },
+  {
+    "known_id": 17,
+    "subject": "Guitar",
+    "attribute": "Guitarra",
+    "prompt": "Translate a word from English to spanish. Word: 'Guitar'. Translated: '"
+  },
+  {
+    "known_id": 18,
+    "subject": "Guitar",
+    "attribute": "Guitarra",
+    "prompt": "Translate a word from English to spanish. Word: 'Guitar'. Translated: '"
+  },
+  {
+    "known_id": 19,
+    "subject": "Guitar",
+    "attribute": "Guitarra",
+    "prompt": "Translate a word from English to spanish. Word: 'Guitar'. Translated: '"
+  },
+  {
+    "known_id": 20,
+    "subject": "Sitar",
+    "attribute": "Sitar",
+    "prompt": "Translate a word from English to spanish. Word: 'Sitar'. Translated: '"
+  },
+  {
+    "known_id": 21,
+    "subject": "Sitar",
+    "attribute": "Sitar",
+    "prompt": "Translate a word from English to spanish. Word: 'Sitar'. Translated: '"
+  },
+  {
+    "known_id": 22,
+    "subject": "Tabla",
+    "attribute": "Tabla",
+    "prompt": "Translate a word from English to spanish. Word: 'Tabla'. Translated: '"
+  },
+  {
+    "known_id": 23,
+    "subject": "Piano",
+    "attribute": "Piano",
+    "prompt": "Translate a word from English to spanish. Word: 'Piano'. Translated: '"
+  },
+  {
+    "known_id": 24,
+    "subject": "Pipa",
+    "attribute": "Pipa",
+    "prompt": "Translate a word from English to spanish. Word: 'Pipa'. Translated: '"
+  },
+  {
+    "known_id": 25,
+    "subject": "Erhu",
+    "attribute": "Erhu",
+    "prompt": "Translate a word from English to spanish. Word: 'Erhu'. Translated: '"
+  },
+  {
+    "known_id": 26,
+    "subject": "Guqin",
+    "attribute": "Guqin",
+    "prompt": "Translate a word from English to spanish. Word: 'Guqin'. Translated: '"
+  },
+  {
+    "known_id": 27,
+    "subject": "Guqin",
+    "attribute": "Guqin",
+    "prompt": "Translate a word from English to spanish. Word: 'Guqin'. Translated: '"
+  },
+  {
+    "known_id": 28,
+    "subject": "Violin",
+    "attribute": "Violín",
+    "prompt": "Translate a word from English to spanish. Word: 'Violin'. Translated: '"
+  },
+  {
+    "known_id": 29,
+    "subject": "Conductor",
+    "attribute": "Director de orquesta",
+    "prompt": "Translate a word from English to spanish. Word: 'Conductor'. Translated: '"
+  },
+  {
+    "known_id": 30,
+    "subject": "Piano",
+    "attribute": "Piano",
+    "prompt": "Translate a word from English to spanish. Word: 'Piano'. Translated: '"
+  },
+  {
+    "known_id": 31,
+    "subject": "Piano",
+    "attribute": "Piano",
+    "prompt": "Translate a word from English to spanish. Word: 'Piano'. Translated: '"
+  },
+  {
+    "known_id": 32,
+    "subject": "Synthesizer",
+    "attribute": "Sintetizador",
+    "prompt": "Translate a word from English to spanish. Word: 'Synthesizer'. Translated: '"
+  },
+  {
+    "known_id": 33,
+    "subject": "Piano",
+    "attribute": "Piano",
+    "prompt": "Translate a word from English to spanish. Word: 'Piano'. Translated: '"
+  },
+  {
+    "known_id": 34,
+    "subject": "Gayageum",
+    "attribute": "Gayageum",
+    "prompt": "Translate a word from English to spanish. Word: 'Gayageum'. Translated: '"
+  },
+  {
+    "known_id": 35,
+    "subject": "Janggu",
+    "attribute": "Janggu",
+    "prompt": "Translate a word from English to spanish. Word: 'Janggu'. Translated: '"
+  },
+  {
+    "known_id": 36,
+    "subject": "Piano",
+    "attribute": "Piano",
+    "prompt": "Translate a word from English to spanish. Word: 'Piano'. Translated: '"
+  },
+  {
+    "known_id": 37,
+    "subject": "Piano",
+    "attribute": "Piano",
+    "prompt": "Translate a word from English to spanish. Word: 'Piano'. Translated: '"
+  },
+  {
+    "known_id": 38,
+    "subject": "Bass Guitar",
+    "attribute": "Bajo",
+    "prompt": "Translate a word from English to spanish. Word: 'Bass Guitar'. Translated: '"
+  },
+  {
+    "known_id": 39,
+    "subject": "Bass Guitar",
+    "attribute": "Bajo",
+    "prompt": "Translate a word from English to spanish. Word: 'Bass Guitar'. Translated: '"
+  },
+  {
+    "known_id": 40,
+    "subject": "Bass Guitar",
+    "attribute": "Bajo",
+    "prompt": "Translate a word from English to spanish. Word: 'Bass Guitar'. Translated: '"
+  },
+  {
+    "known_id": 41,
+    "subject": "Guitar",
+    "attribute": "Guitarra",
+    "prompt": "Translate a word from English to spanish. Word: 'Guitar'. Translated: '"
+  },
+  {
+    "known_id": 42,
+    "subject": "Guitar",
+    "attribute": "Guitarra",
+    "prompt": "Translate a word from English to spanish. Word: 'Guitar'. Translated: '"
+  },
+  {
+    "known_id": 43,
+    "subject": "Guitar",
+    "attribute": "Guitarra",
+    "prompt": "Translate a word from English to spanish. Word: 'Guitar'. Translated: '"
+  },
+  {
+    "known_id": 44,
+    "subject": "Piano",
+    "attribute": "Piano",
+    "prompt": "Translate a word from English to spanish. Word: 'Piano'. Translated: '"
+  }
+]

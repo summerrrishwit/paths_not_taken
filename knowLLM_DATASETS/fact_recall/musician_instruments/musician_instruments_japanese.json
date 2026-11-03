@@ -1,0 +1,272 @@
+[
+    {
+        "subject": "ルートヴィヒ・ヴァン・ベートーヴェン",
+        "known_id": 0,
+        "attribute": "ピアノ",
+        "prompt": "ルートヴィヒ・ヴァン・ベートーヴェンが主に演奏する楽器は"
+    },
+    {
+        "subject": "ヴォルフガング・アマデウス・モーツァルト",
+        "known_id": 1,
+        "attribute": "ピアノ",
+        "prompt": "ヴォルフガング・アマデウス・モーツァルトが主に演奏する楽器は"
+    },
+    {
+        "subject": "ヨハン・セバスティアン・バッハ",
+        "known_id": 2,
+        "attribute": "オルガン",
+        "prompt": "ヨハン・セバスティアン・バッハが主に演奏する楽器は"
+    },
+    {
+        "subject": "フレデリック・ショパン",
+        "known_id": 3,
+        "attribute": "ピアノ",
+        "prompt": "フレデリック・ショパンが主に演奏する楽器は"
+    },
+    {
+        "subject": "クロード・ドビュッシー",
+        "known_id": 4,
+        "attribute": "ピアノ",
+        "prompt": "クロード・ドビュッシーが主に演奏する楽器は"
+    },
+    {
+        "subject": "アントニオ・ヴィヴァルディ",
+        "known_id": 5,
+        "attribute": "バイオリン",
+        "prompt": "アントニオ・ヴィヴァルディが主に演奏する楽器は"
+    },
+    {
+        "subject": "ニコロ・パガニーニ",
+        "known_id": 6,
+        "attribute": "バイオリン",
+        "prompt": "ニコロ・パガニーニが主に演奏する楽器は"
+    },
+    {
+        "subject": "ヨーヨー・マ",
+        "known_id": 7,
+        "attribute": "チェロ",
+        "prompt": "ヨーヨー・マが主に演奏する楽器は"
+    },
+    {
+        "subject": "イツァーク・パールマン",
+        "known_id": 8,
+        "attribute": "バイオリン",
+        "prompt": "イツァーク・パールマンが主に演奏する楽器は"
+    },
+    {
+        "subject": "マイルス・デイヴィス",
+        "known_id": 9,
+        "attribute": "トランペット",
+        "prompt": "マイルス・デイヴィスが主に演奏する楽器は"
+    },
+    {
+        "subject": "ルイ・アームストロング",
+        "known_id": 10,
+        "attribute": "トランペット",
+        "prompt": "ルイ・アームストロングが主に演奏する楽器は"
+    },
+    {
+        "subject": "ジョン・コルトレーン",
+        "known_id": 11,
+        "attribute": "サクソフォン",
+        "prompt": "ジョン・コルトレーンが主に演奏する楽器は"
+    },
+    {
+        "subject": "チャーリー・パーカー",
+        "known_id": 12,
+        "attribute": "サクソフォン",
+        "prompt": "チャーリー・パーカーが主に演奏する楽器は"
+    },
+    {
+        "subject": "デューク・エリントン",
+        "known_id": 13,
+        "attribute": "ピアノ",
+        "prompt": "デューク・エリントンが主に演奏する楽器は"
+    },
+    {
+        "subject": "セロニアス・モンク",
+        "known_id": 14,
+        "attribute": "ピアノ",
+        "prompt": "セロニアス・モンクが主に演奏する楽器は"
+    },
+    {
+        "subject": "ジミ・ヘンドリックス",
+        "known_id": 15,
+        "attribute": "ギター",
+        "prompt": "ジミ・ヘンドリックスが主に演奏する楽器は"
+    },
+    {
+        "subject": "エリック・クラプトン",
+        "known_id": 16,
+        "attribute": "ギター",
+        "prompt": "エリック・クラプトンが主に演奏する楽器は"
+    },
+    {
+        "subject": "B.B.キング",
+        "known_id": 17,
+        "attribute": "ギター",
+        "prompt": "B.B.キングが主に演奏する楽器は"
+    },
+    {
+        "subject": "カルロス・サンタナ",
+        "known_id": 18,
+        "attribute": "ギター",
+        "prompt": "カルロス・サンタナが主に演奏する楽器は"
+    },
+    {
+        "subject": "エディ・ヴァン・ヘイレン",
+        "known_id": 19,
+        "attribute": "ギター",
+        "prompt": "エディ・ヴァン・ヘイレンが主に演奏する楽器は"
+    },
+    {
+        "subject": "ラヴィ・シャンカル",
+        "known_id": 20,
+        "attribute": "シタール",
+        "prompt": "ラヴィ・シャンカルが主に演奏する楽器は"
+    },
+    {
+        "subject": "アヌーシュカ・シャンカル",
+        "known_id": 21,
+        "attribute": "シタール",
+        "prompt": "アヌーシュカ・シャンカルが主に演奏する楽器は"
+    },
+    {
+        "subject": "ザキール・フセイン",
+        "known_id": 22,
+        "attribute": "タブラ",
+        "prompt": "ザキール・フセインが主に演奏する楽器は"
+    },
+    {
+        "subject": "ラン・ラン",
+        "known_id": 23,
+        "attribute": "ピアノ",
+        "prompt": "ラン・ランが主に演奏する楽器は"
+    },
+    {
+        "subject": "ウー・マン",
+        "known_id": 24,
+        "attribute": "琵琶",
+        "prompt": "ウー・マンが主に演奏する楽器は"
+    },
+    {
+        "subject": "閔惠芬（ミン・フイフェン）",
+        "known_id": 25,
+        "attribute": "二胡",
+        "prompt": "閔惠芬（ミン・フイフェン）が主に演奏する楽器は"
+    },
+    {
+        "subject": "劉芳（リウ・ファン）",
+        "known_id": 26,
+        "attribute": "古琴",
+        "prompt": "劉芳（リウ・ファン）が主に演奏する楽器は"
+    },
+    {
+        "subject": "王玉珏（ワン・ユージュエ）",
+        "known_id": 27,
+        "attribute": "古琴",
+        "prompt": "王玉珏（ワン・ユージュエ）が主に演奏する楽器は"
+    },
+    {
+        "subject": "鈴木鎮一",
+        "known_id": 28,
+        "attribute": "バイオリン",
+        "prompt": "鈴木鎮一が主に演奏する楽器は"
+    },
+    {
+        "subject": "小澤征爾",
+        "known_id": 29,
+        "attribute": "指揮",
+        "prompt": "小澤征爾が主に演奏する楽器は"
+    },
+    {
+        "subject": "坂本龍一",
+        "known_id": 30,
+        "attribute": "ピアノ",
+        "prompt": "坂本龍一が主に演奏する楽器は"
+    },
+    {
+        "subject": "秋吉敏子",
+        "known_id": 31,
+        "attribute": "ピアノ",
+        "prompt": "秋吉敏子が主に演奏する楽器は"
+    },
+    {
+        "subject": "喜多郎",
+        "known_id": 32,
+        "attribute": "シンセサイザー",
+        "prompt": "喜多郎が主に演奏する楽器は"
+    },
+    {
+        "subject": "久石譲",
+        "known_id": 33,
+        "attribute": "ピアノ",
+        "prompt": "久石譲が主に演奏する楽器は"
+    },
+    {
+        "subject": "黄秉冀（ファン・ビョンギ）",
+        "known_id": 34,
+        "attribute": "伽倻琴",
+        "prompt": "黄秉冀（ファン・ビョンギ）が主に演奏する楽器は"
+    },
+    {
+        "subject": "金徳洙（キム・ドクス）",
+        "known_id": 35,
+        "attribute": "チャング",
+        "prompt": "金徳洙（キム・ドクス）が主に演奏する楽器は"
+    },
+    {
+        "subject": "梁邦彦（ヤン・バンオン）",
+        "known_id": 36,
+        "attribute": "ピアノ",
+        "prompt": "梁邦彦（ヤン・バンオン）が主に演奏する楽器は"
+    },
+    {
+        "subject": "イルマ",
+        "known_id": 37,
+        "attribute": "ピアノ",
+        "prompt": "イルマが主に演奏する楽器は"
+    },
+    {
+        "subject": "フリー",
+        "known_id": 38,
+        "attribute": "ベースギター",
+        "prompt": "フリーが主に演奏する楽器は"
+    },
+    {
+        "subject": "ゲディ・リー",
+        "known_id": 39,
+        "attribute": "ベースギター",
+        "prompt": "ゲディ・リーが主に演奏する楽器は"
+    },
+    {
+        "subject": "ヴィクター・ウッテン",
+        "known_id": 40,
+        "attribute": "ベースギター",
+        "prompt": "ヴィクター・ウッテンが主に演奏する楽器は"
+    },
+    {
+        "subject": "ブライアン・メイ",
+        "known_id": 41,
+        "attribute": "ギター",
+        "prompt": "ブライアン・メイが主に演奏する楽器は"
+    },
+    {
+        "subject": "スティーヴ・ヴァイ",
+        "known_id": 42,
+        "attribute": "ギター",
+        "prompt": "スティーヴ・ヴァイが主に演奏する楽器は"
+    },
+    {
+        "subject": "スティーヴィー・レイ・ヴォーン",
+        "known_id": 43,
+        "attribute": "ギター",
+        "prompt": "スティーヴィー・レイ・ヴォーンが主に演奏する楽器は"
+    },
+    {
+        "subject": "ハービー・ハンコック",
+        "known_id": 44,
+        "attribute": "ピアノ",
+        "prompt": "ハービー・ハンコックが主に演奏する楽器は"
+    }
+]

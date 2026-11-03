@@ -1,0 +1,308 @@
+[
+  {
+    "subject": "アメリカ合衆国",
+    "known_id": 0,
+    "attribute": "ドル",
+    "prompt": "アメリカ合衆国の公式通貨は"
+  },
+  {
+    "subject": "イギリス",
+    "known_id": 1,
+    "attribute": "ポンド",
+    "prompt": "イギリスの公式通貨は"
+  },
+  {
+    "subject": "日本",
+    "known_id": 2,
+    "attribute": "円",
+    "prompt": "日本の公式通貨は"
+  },
+  {
+    "subject": "カナダ",
+    "known_id": 3,
+    "attribute": "ドル",
+    "prompt": "カナダの公式通貨は"
+  },
+  {
+    "subject": "オーストラリア",
+    "known_id": 4,
+    "attribute": "ドル",
+    "prompt": "オーストラリアの公式通貨は"
+  },
+  {
+    "subject": "ブラジル",
+    "known_id": 5,
+    "attribute": "レアル",
+    "prompt": "ブラジルの公式通貨は"
+  },
+  {
+    "subject": "中国",
+    "known_id": 6,
+    "attribute": "人民元",
+    "prompt": "中国の公式通貨は"
+  },
+  {
+    "subject": "インド",
+    "known_id": 7,
+    "attribute": "ルピー",
+    "prompt": "インドの公式通貨は"
+  },
+  {
+    "subject": "ロシア",
+    "known_id": 8,
+    "attribute": "ルーブル",
+    "prompt": "ロシアの公式通貨は"
+  },
+  {
+    "subject": "南アフリカ",
+    "known_id": 9,
+    "attribute": "ランド",
+    "prompt": "南アフリカの公式通貨は"
+  },
+  {
+    "subject": "メキシコ",
+    "known_id": 10,
+    "attribute": "ペソ",
+    "prompt": "メキシコの公式通貨は"
+  },
+  {
+    "subject": "ニュージーランド",
+    "known_id": 11,
+    "attribute": "ドル",
+    "prompt": "ニュージーランドの公式通貨は"
+  },
+  {
+    "subject": "韓国",
+    "known_id": 12,
+    "attribute": "ウォン",
+    "prompt": "韓国の公式通貨は"
+  },
+  {
+    "subject": "スイス",
+    "known_id": 13,
+    "attribute": "フラン",
+    "prompt": "スイスの公式通貨は"
+  },
+  {
+    "subject": "トルコ",
+    "known_id": 14,
+    "attribute": "リラ",
+    "prompt": "トルコの公式通貨は"
+  },
+  {
+    "subject": "アルゼンチン",
+    "known_id": 15,
+    "attribute": "ペソ",
+    "prompt": "アルゼンチンの公式通貨は"
+  },
+  {
+    "subject": "ノルウェー",
+    "known_id": 16,
+    "attribute": "クローネ",
+    "prompt": "ノルウェーの公式通貨は"
+  },
+  {
+    "subject": "スウェーデン",
+    "known_id": 17,
+    "attribute": "クローナ",
+    "prompt": "スウェーデンの公式通貨は"
+  },
+  {
+    "subject": "デンマーク",
+    "known_id": 18,
+    "attribute": "クローネ",
+    "prompt": "デンマークの公式通貨は"
+  },
+  {
+    "subject": "ポーランド",
+    "known_id": 19,
+    "attribute": "ズウォティ",
+    "prompt": "ポーランドの公式通貨は"
+  },
+  {
+    "subject": "ハンガリー",
+    "known_id": 20,
+    "attribute": "フォリント",
+    "prompt": "ハンガリーの公式通貨は"
+  },
+  {
+    "subject": "チェコ共和国",
+    "known_id": 21,
+    "attribute": "コルナ",
+    "prompt": "チェコ共和国の公式通貨は"
+  },
+  {
+    "subject": "イスラエル",
+    "known_id": 22,
+    "attribute": "シェケル",
+    "prompt": "イスラエルの公式通貨は"
+  },
+  {
+    "subject": "サウジアラビア",
+    "known_id": 23,
+    "attribute": "リヤル",
+    "prompt": "サウジアラビアの公式通貨は"
+  },
+  {
+    "subject": "アラブ首長国連邦",
+    "known_id": 24,
+    "attribute": "ディルハム",
+    "prompt": "アラブ首長国連邦の公式通貨は"
+  },
+  {
+    "subject": "シンガポール",
+    "known_id": 25,
+    "attribute": "ドル",
+    "prompt": "シンガポールの公式通貨は"
+  },
+  {
+    "subject": "マレーシア",
+    "known_id": 26,
+    "attribute": "リンギット",
+    "prompt": "マレーシアの公式通貨は"
+  },
+  {
+    "subject": "インドネシア",
+    "known_id": 27,
+    "attribute": "ルピア",
+    "prompt": "インドネシアの公式通貨は"
+  },
+  {
+    "subject": "タイ",
+    "known_id": 28,
+    "attribute": "バーツ",
+    "prompt": "タイの公式通貨は"
+  },
+  {
+    "subject": "フィリピン",
+    "known_id": 29,
+    "attribute": "ペソ",
+    "prompt": "フィリピンの公式通貨は"
+  },
+  {
+    "subject": "ベトナム",
+    "known_id": 30,
+    "attribute": "ドン",
+    "prompt": "ベトナムの公式通貨は"
+  },
+  {
+    "subject": "エジプト",
+    "known_id": 31,
+    "attribute": "ポンド",
+    "prompt": "エジプトの公式通貨は"
+  },
+  {
+    "subject": "ウクライナ",
+    "known_id": 32,
+    "attribute": "フリブニャ",
+    "prompt": "ウクライナの公式通貨は"
+  },
+  {
+    "subject": "ルーマニア",
+    "known_id": 33,
+    "attribute": "レウ",
+    "prompt": "ルーマニアの公式通貨は"
+  },
+  {
+    "subject": "ブルガリア",
+    "known_id": 34,
+    "attribute": "レフ",
+    "prompt": "ブルガリアの公式通貨は"
+  },
+  {
+    "subject": "セルビア",
+    "known_id": 35,
+    "attribute": "ディナール",
+    "prompt": "セルビアの公式通貨は"
+  },
+  {
+    "subject": "イラク",
+    "known_id": 36,
+    "attribute": "ディナール",
+    "prompt": "イラクの公式通貨は"
+  },
+  {
+    "subject": "クウェート",
+    "known_id": 37,
+    "attribute": "ディナール",
+    "prompt": "クウェートの公式通貨は"
+  },
+  {
+    "subject": "モロッコ",
+    "known_id": 38,
+    "attribute": "ディルハム",
+    "prompt": "モロッコの公式通貨は"
+  },
+  {
+    "subject": "チュニジア",
+    "known_id": 39,
+    "attribute": "ディナール",
+    "prompt": "チュニジアの公式通貨は"
+  },
+  {
+    "subject": "チリ",
+    "known_id": 40,
+    "attribute": "ペソ",
+    "prompt": "チリの公式通貨は"
+  },
+  {
+    "subject": "コロンビア",
+    "known_id": 41,
+    "attribute": "ペソ",
+    "prompt": "コロンビアの公式通貨は"
+  },
+  {
+    "subject": "ウルグアイ",
+    "known_id": 42,
+    "attribute": "ペソ",
+    "prompt": "ウルグアイの公式通貨は"
+  },
+  {
+    "subject": "アイスランド",
+    "known_id": 43,
+    "attribute": "クローナ",
+    "prompt": "アイスランドの公式通貨は"
+  },
+  {
+    "subject": "ジョージア",
+    "known_id": 44,
+    "attribute": "ラリ",
+    "prompt": "ジョージアの公式通貨は"
+  },
+  {
+    "subject": "アゼルバイジャン",
+    "known_id": 45,
+    "attribute": "マナト",
+    "prompt": "アゼルバイジャンの公式通貨は"
+  },
+  {
+    "subject": "カザフスタン",
+    "known_id": 46,
+    "attribute": "テンゲ",
+    "prompt": "カザフスタンの公式通貨は"
+  },
+  {
+    "subject": "スリランカ",
+    "known_id": 47,
+    "attribute": "ルピー",
+    "prompt": "スリランカの公式通貨は"
+  },
+  {
+    "subject": "ネパール",
+    "known_id": 48,
+    "attribute": "ルピー",
+    "prompt": "ネパールの公式通貨は"
+  },
+  {
+    "subject": "バングラデシュ",
+    "known_id": 49,
+    "attribute": "タカ",
+    "prompt": "バングラデシュの公式通貨は"
+  },
+  {
+    "subject": "パキスタン",
+    "known_id": 50,
+    "attribute": "ルピー",
+    "prompt": "パキスタンの公式通貨は"
+  }
+]

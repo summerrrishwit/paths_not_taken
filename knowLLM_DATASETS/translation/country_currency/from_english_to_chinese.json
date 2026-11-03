@@ -1,0 +1,308 @@
+[
+  {
+    "known_id": 0,
+    "subject": "Dollar",
+    "attribute": "美元",
+    "prompt": "Translate a word from English to chinese. Word: 'Dollar'. Translated: '"
+  },
+  {
+    "known_id": 1,
+    "subject": "Pound",
+    "attribute": "英镑",
+    "prompt": "Translate a word from English to chinese. Word: 'Pound'. Translated: '"
+  },
+  {
+    "known_id": 2,
+    "subject": "Yen",
+    "attribute": "日元",
+    "prompt": "Translate a word from English to chinese. Word: 'Yen'. Translated: '"
+  },
+  {
+    "known_id": 3,
+    "subject": "Dollar",
+    "attribute": "美元",
+    "prompt": "Translate a word from English to chinese. Word: 'Dollar'. Translated: '"
+  },
+  {
+    "known_id": 4,
+    "subject": "Dollar",
+    "attribute": "美元",
+    "prompt": "Translate a word from English to chinese. Word: 'Dollar'. Translated: '"
+  },
+  {
+    "known_id": 5,
+    "subject": "Real",
+    "attribute": "雷亚尔",
+    "prompt": "Translate a word from English to chinese. Word: 'Real'. Translated: '"
+  },
+  {
+    "known_id": 6,
+    "subject": "Yuan",
+    "attribute": "人民币",
+    "prompt": "Translate a word from English to chinese. Word: 'Yuan'. Translated: '"
+  },
+  {
+    "known_id": 7,
+    "subject": "Rupee",
+    "attribute": "卢比",
+    "prompt": "Translate a word from English to chinese. Word: 'Rupee'. Translated: '"
+  },
+  {
+    "known_id": 8,
+    "subject": "Ruble",
+    "attribute": "卢布",
+    "prompt": "Translate a word from English to chinese. Word: 'Ruble'. Translated: '"
+  },
+  {
+    "known_id": 9,
+    "subject": "Rand",
+    "attribute": "兰特",
+    "prompt": "Translate a word from English to chinese. Word: 'Rand'. Translated: '"
+  },
+  {
+    "known_id": 10,
+    "subject": "Peso",
+    "attribute": "比索",
+    "prompt": "Translate a word from English to chinese. Word: 'Peso'. Translated: '"
+  },
+  {
+    "known_id": 11,
+    "subject": "Dollar",
+    "attribute": "美元",
+    "prompt": "Translate a word from English to chinese. Word: 'Dollar'. Translated: '"
+  },
+  {
+    "known_id": 12,
+    "subject": "Won",
+    "attribute": "韩元",
+    "prompt": "Translate a word from English to chinese. Word: 'Won'. Translated: '"
+  },
+  {
+    "known_id": 13,
+    "subject": "Franc",
+    "attribute": "法郎",
+    "prompt": "Translate a word from English to chinese. Word: 'Franc'. Translated: '"
+  },
+  {
+    "known_id": 14,
+    "subject": "Lira",
+    "attribute": "里拉",
+    "prompt": "Translate a word from English to chinese. Word: 'Lira'. Translated: '"
+  },
+  {
+    "known_id": 15,
+    "subject": "Peso",
+    "attribute": "比索",
+    "prompt": "Translate a word from English to chinese. Word: 'Peso'. Translated: '"
+  },
+  {
+    "known_id": 16,
+    "subject": "Krone",
+    "attribute": "克朗",
+    "prompt": "Translate a word from English to chinese. Word: 'Krone'. Translated: '"
+  },
+  {
+    "known_id": 17,
+    "subject": "Krona",
+    "attribute": "克朗",
+    "prompt": "Translate a word from English to chinese. Word: 'Krona'. Translated: '"
+  },
+  {
+    "known_id": 18,
+    "subject": "Krone",
+    "attribute": "克朗",
+    "prompt": "Translate a word from English to chinese. Word: 'Krone'. Translated: '"
+  },
+  {
+    "known_id": 19,
+    "subject": "Zloty",
+    "attribute": "兹罗提",
+    "prompt": "Translate a word from English to chinese. Word: 'Zloty'. Translated: '"
+  },
+  {
+    "known_id": 20,
+    "subject": "Forint",
+    "attribute": "福林",
+    "prompt": "Translate a word from English to chinese. Word: 'Forint'. Translated: '"
+  },
+  {
+    "known_id": 21,
+    "subject": "Koruna",
+    "attribute": "捷克克朗",
+    "prompt": "Translate a word from English to chinese. Word: 'Koruna'. Translated: '"
+  },
+  {
+    "known_id": 22,
+    "subject": "Shekel",
+    "attribute": "谢克尔",
+    "prompt": "Translate a word from English to chinese. Word: 'Shekel'. Translated: '"
+  },
+  {
+    "known_id": 23,
+    "subject": "Riyal",
+    "attribute": "里亚尔",
+    "prompt": "Translate a word from English to chinese. Word: 'Riyal'. Translated: '"
+  },
+  {
+    "known_id": 24,
+    "subject": "Dirham",
+    "attribute": "迪拉姆",
+    "prompt": "Translate a word from English to chinese. Word: 'Dirham'. Translated: '"
+  },
+  {
+    "known_id": 25,
+    "subject": "Dollar",
+    "attribute": "美元",
+    "prompt": "Translate a word from English to chinese. Word: 'Dollar'. Translated: '"
+  },
+  {
+    "known_id": 26,
+    "subject": "Ringgit",
+    "attribute": "林吉特",
+    "prompt": "Translate a word from English to chinese. Word: 'Ringgit'. Translated: '"
+  },
+  {
+    "known_id": 27,
+    "subject": "Rupiah",
+    "attribute": "印尼卢比",
+    "prompt": "Translate a word from English to chinese. Word: 'Rupiah'. Translated: '"
+  },
+  {
+    "known_id": 28,
+    "subject": "Baht",
+    "attribute": "泰铢",
+    "prompt": "Translate a word from English to chinese. Word: 'Baht'. Translated: '"
+  },
+  {
+    "known_id": 29,
+    "subject": "Peso",
+    "attribute": "比索",
+    "prompt": "Translate a word from English to chinese. Word: 'Peso'. Translated: '"
+  },
+  {
+    "known_id": 30,
+    "subject": "Dong",
+    "attribute": "越南盾",
+    "prompt": "Translate a word from English to chinese. Word: 'Dong'. Translated: '"
+  },
+  {
+    "known_id": 31,
+    "subject": "Pound",
+    "attribute": "英镑",
+    "prompt": "Translate a word from English to chinese. Word: 'Pound'. Translated: '"
+  },
+  {
+    "known_id": 32,
+    "subject": "Hryvnia",
+    "attribute": "格里夫纳",
+    "prompt": "Translate a word from English to chinese. Word: 'Hryvnia'. Translated: '"
+  },
+  {
+    "known_id": 33,
+    "subject": "Leu",
+    "attribute": "列伊",
+    "prompt": "Translate a word from English to chinese. Word: 'Leu'. Translated: '"
+  },
+  {
+    "known_id": 34,
+    "subject": "Lev",
+    "attribute": "列弗",
+    "prompt": "Translate a word from English to chinese. Word: 'Lev'. Translated: '"
+  },
+  {
+    "known_id": 35,
+    "subject": "Dinar",
+    "attribute": "第纳尔",
+    "prompt": "Translate a word from English to chinese. Word: 'Dinar'. Translated: '"
+  },
+  {
+    "known_id": 36,
+    "subject": "Dinar",
+    "attribute": "第纳尔",
+    "prompt": "Translate a word from English to chinese. Word: 'Dinar'. Translated: '"
+  },
+  {
+    "known_id": 37,
+    "subject": "Dinar",
+    "attribute": "第纳尔",
+    "prompt": "Translate a word from English to chinese. Word: 'Dinar'. Translated: '"
+  },
+  {
+    "known_id": 38,
+    "subject": "Dirham",
+    "attribute": "迪拉姆",
+    "prompt": "Translate a word from English to chinese. Word: 'Dirham'. Translated: '"
+  },
+  {
+    "known_id": 39,
+    "subject": "Dinar",
+    "attribute": "第纳尔",
+    "prompt": "Translate a word from English to chinese. Word: 'Dinar'. Translated: '"
+  },
+  {
+    "known_id": 40,
+    "subject": "Peso",
+    "attribute": "比索",
+    "prompt": "Translate a word from English to chinese. Word: 'Peso'. Translated: '"
+  },
+  {
+    "known_id": 41,
+    "subject": "Peso",
+    "attribute": "比索",
+    "prompt": "Translate a word from English to chinese. Word: 'Peso'. Translated: '"
+  },
+  {
+    "known_id": 42,
+    "subject": "Peso",
+    "attribute": "比索",
+    "prompt": "Translate a word from English to chinese. Word: 'Peso'. Translated: '"
+  },
+  {
+    "known_id": 43,
+    "subject": "Krona",
+    "attribute": "克朗",
+    "prompt": "Translate a word from English to chinese. Word: 'Krona'. Translated: '"
+  },
+  {
+    "known_id": 44,
+    "subject": "Lari",
+    "attribute": "拉里",
+    "prompt": "Translate a word from English to chinese. Word: 'Lari'. Translated: '"
+  },
+  {
+    "known_id": 45,
+    "subject": "Manat",
+    "attribute": "马纳特",
+    "prompt": "Translate a word from English to chinese. Word: 'Manat'. Translated: '"
+  },
+  {
+    "known_id": 46,
+    "subject": "Tenge",
+    "attribute": "坚戈",
+    "prompt": "Translate a word from English to chinese. Word: 'Tenge'. Translated: '"
+  },
+  {
+    "known_id": 47,
+    "subject": "Rupee",
+    "attribute": "卢比",
+    "prompt": "Translate a word from English to chinese. Word: 'Rupee'. Translated: '"
+  },
+  {
+    "known_id": 48,
+    "subject": "Rupee",
+    "attribute": "卢比",
+    "prompt": "Translate a word from English to chinese. Word: 'Rupee'. Translated: '"
+  },
+  {
+    "known_id": 49,
+    "subject": "Taka",
+    "attribute": "塔卡",
+    "prompt": "Translate a word from English to chinese. Word: 'Taka'. Translated: '"
+  },
+  {
+    "known_id": 50,
+    "subject": "Rupee",
+    "attribute": "卢比",
+    "prompt": "Translate a word from English to chinese. Word: 'Rupee'. Translated: '"
+  }
+]

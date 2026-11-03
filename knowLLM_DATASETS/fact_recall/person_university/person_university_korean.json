@@ -1,0 +1,296 @@
+[
+  {
+    "subject": "루스 베이더 긴즈버그",
+    "known_id": 0,
+    "attribute": "코넬 대학교",
+    "prompt": "루스 베이더 긴즈버그 이 다녔던 대학의 이름은"
+  },
+  {
+    "subject": "소니아 소토마요르",
+    "known_id": 1,
+    "attribute": "프린스턴 대학교",
+    "prompt": "소니아 소토마요르 이 다녔던 대학의 이름은"
+  },
+  {
+    "subject": "스티븐 브라이어",
+    "known_id": 2,
+    "attribute": "스탠퍼드 대학교",
+    "prompt": "스티븐 브라이어 이 다녔던 대학의 이름은"
+  },
+  {
+    "subject": "응고지 오콘조이웨알라",
+    "known_id": 3,
+    "attribute": "하버드 대학교",
+    "prompt": "응고지 오콘조이웨알라 이 다녔던 대학의 이름은"
+  },
+  {
+    "subject": "무라카미 하루키",
+    "known_id": 4,
+    "attribute": "와세다 대학교",
+    "prompt": "무라카미 하루키 이 다녔던 대학의 이름은"
+  },
+  {
+    "subject": "모하메드 6세 (모로코 국왕)",
+    "known_id": 5,
+    "attribute": "모하메드 5세 대학교",
+    "prompt": "모하메드 6세 (모로코 국왕) 이 다녔던 대학의 이름은"
+  },
+  {
+    "subject": "하이레마리암 데살렌",
+    "known_id": 6,
+    "attribute": "아디스아바바 대학교",
+    "prompt": "하이레마리암 데살렌 이 다녔던 대학의 이름은"
+  },
+  {
+    "subject": "아비 아머드",
+    "known_id": 7,
+    "attribute": "아디스아바바 대학교",
+    "prompt": "아비 아머드 이 다녔던 대학의 이름은"
+  },
+  {
+    "subject": "카말라 해리스",
+    "known_id": 8,
+    "attribute": "하워드 대학교",
+    "prompt": "카말라 해리스 이 다녔던 대학의 이름은"
+  },
+  {
+    "subject": "빅토르 오르반",
+    "known_id": 9,
+    "attribute": "외트뵈시 로란드 대학교",
+    "prompt": "빅토르 오르반 이 다녔던 대학의 이름은"
+  },
+  {
+    "subject": "메리 로빈슨",
+    "known_id": 10,
+    "attribute": "트리니티 칼리지 더블린",
+    "prompt": "메리 로빈슨 이 다녔던 대학의 이름은"
+  },
+  {
+    "subject": "마크 뤼터",
+    "known_id": 11,
+    "attribute": "라이덴 대학교",
+    "prompt": "마크 뤼터 이 다녔던 대학의 이름은"
+  },
+  {
+    "subject": "시진핑",
+    "known_id": 12,
+    "attribute": "칭화 대학교",
+    "prompt": "시진핑 이 다녔던 대학의 이름은"
+  },
+  {
+    "subject": "마거릿 대처",
+    "known_id": 13,
+    "attribute": "옥스퍼드 대학교 서머빌 칼리지",
+    "prompt": "마거릿 대처 이 다녔던 대학의 이름은"
+  },
+  {
+    "subject": "반기문",
+    "known_id": 14,
+    "attribute": "서울대학교",
+    "prompt": "반기문 이 다녔던 대학의 이름은"
+  },
+  {
+    "subject": "엘렌 존슨 서리프",
+    "known_id": 15,
+    "attribute": "하버드 케네디 스쿨",
+    "prompt": "엘렌 존슨 서리프 이 다녔던 대학의 이름은"
+  },
+  {
+    "subject": "마이크 펜스",
+    "known_id": 16,
+    "attribute": "하노버 칼리지",
+    "prompt": "마이크 펜스 이 다녔던 대학의 이름은"
+  },
+  {
+    "subject": "오프라 윈프리",
+    "known_id": 17,
+    "attribute": "테네시 주립 대학교",
+    "prompt": "오프라 윈프리 이 다녔던 대학의 이름은"
+  },
+  {
+    "subject": "제프 베이조스",
+    "known_id": 18,
+    "attribute": "프린스턴 대학교",
+    "prompt": "제프 베이조스 이 다녔던 대학의 이름은"
+  },
+  {
+    "subject": "스티브 잡스",
+    "known_id": 19,
+    "attribute": "리드 칼리지",
+    "prompt": "스티브 잡스 이 다녔던 대학의 이름은"
+  },
+  {
+    "subject": "팀 쿡",
+    "known_id": 20,
+    "attribute": "오번 대학교",
+    "prompt": "팀 쿡 이 다녔던 대학의 이름은"
+  },
+  {
+    "subject": "순다르 피차이",
+    "known_id": 21,
+    "attribute": "스탠퍼드 대학교",
+    "prompt": "순다르 피차이 이 다녔던 대학의 이름은"
+  },
+  {
+    "subject": "셰릴 샌드버그",
+    "known_id": 22,
+    "attribute": "하버드 대학교",
+    "prompt": "셰릴 샌드버그 이 다녔던 대학의 이름은"
+  },
+  {
+    "subject": "미셸 오바마",
+    "known_id": 23,
+    "attribute": "프린스턴 대학교",
+    "prompt": "미셸 오바마 이 다녔던 대학의 이름은"
+  },
+  {
+    "subject": "빌 게이츠",
+    "known_id": 24,
+    "attribute": "하버드 대학교",
+    "prompt": "빌 게이츠 이 다녔던 대학의 이름은"
+  },
+  {
+    "subject": "마크 저커버그",
+    "known_id": 25,
+    "attribute": "하버드 대학교",
+    "prompt": "마크 저커버그 이 다녔던 대학의 이름은"
+  },
+  {
+    "subject": "오프라 윈프리",
+    "known_id": 26,
+    "attribute": "테네시 주립 대학교",
+    "prompt": "오프라 윈프리 이 다녔던 대학의 이름은"
+  },
+  {
+    "subject": "엠마 왓슨",
+    "known_id": 27,
+    "attribute": "브라운 대학교",
+    "prompt": "엠마 왓슨 이 다녔던 대학의 이름은"
+  },
+  {
+    "subject": "내털리 포트만",
+    "known_id": 28,
+    "attribute": "하버드 대학교",
+    "prompt": "내털리 포트만 이 다녔던 대학의 이름은"
+  },
+  {
+    "subject": "조지 W. 부시",
+    "known_id": 29,
+    "attribute": "예일 대학교",
+    "prompt": "조지 W. 부시 이 다녔던 대학의 이름은"
+  },
+  {
+    "subject": "닐 암스트롱",
+    "known_id": 30,
+    "attribute": "퍼듀 대학교",
+    "prompt": "닐 암스트롱 이 다녔던 대학의 이름은"
+  },
+  {
+    "subject": "제임스 프랭코",
+    "known_id": 31,
+    "attribute": "캘리포니아 대학교 로스앤젤레스(UCLA)",
+    "prompt": "제임스 프랭코 이 다녔던 대학의 이름은"
+  },
+  {
+    "subject": "맷 데이먼",
+    "known_id": 32,
+    "attribute": "하버드 대학교",
+    "prompt": "맷 데이먼 이 다녔던 대학의 이름은"
+  },
+  {
+    "subject": "코난 오브라이언",
+    "known_id": 33,
+    "attribute": "하버드 대학교",
+    "prompt": "코난 오브라이언 이 다녔던 대학의 이름은"
+  },
+  {
+    "subject": "산드라 블록",
+    "known_id": 34,
+    "attribute": "이스트캐롤라이나 대학교",
+    "prompt": "산드라 블록 이 다녔던 대학의 이름은"
+  },
+  {
+    "subject": "레프 톨스토이",
+    "known_id": 35,
+    "attribute": "카잔 제국대학",
+    "prompt": "레프 톨스토이 이 다녔던 대학의 이름은"
+  },
+  {
+    "subject": "헨리 무어",
+    "known_id": 36,
+    "attribute": "리즈 예술 대학교",
+    "prompt": "헨리 무어 이 다녔던 대학의 이름은"
+  },
+  {
+    "subject": "앤디 워홀",
+    "known_id": 37,
+    "attribute": "카네기 멜런 대학교",
+    "prompt": "앤디 워홀 이 다녔던 대학의 이름은"
+  },
+  {
+    "subject": "블라디미르 레닌",
+    "known_id": 38,
+    "attribute": "카잔 제국대학",
+    "prompt": "블라디미르 레닌 이 다녔던 대학의 이름은"
+  },
+  {
+    "subject": "우디 앨런",
+    "known_id": 39,
+    "attribute": "뉴욕대학교 티시 예술학교",
+    "prompt": "우디 앨런 이 다녔던 대학의 이름은"
+  },
+  {
+    "subject": "아우구스트 스트린드베리",
+    "known_id": 40,
+    "attribute": "웁살라 대학교",
+    "prompt": "아우구스트 스트린드베리 이 다녔던 대학의 이름은"
+  },
+  {
+    "subject": "크리스틴 라가르드",
+    "known_id": 41,
+    "attribute": "파리 서부 낭테르 대학교",
+    "prompt": "크리스틴 라가르드 이 다녔던 대학의 이름은"
+  },
+  {
+    "subject": "커원저",
+    "known_id": 42,
+    "attribute": "국립 타이완 대학교",
+    "prompt": "커원저 이 다녔던 대학의 이름은"
+  },
+  {
+    "subject": "마틴 루서 킹 주니어",
+    "known_id": 43,
+    "attribute": "모어하우스 칼리지",
+    "prompt": "마틴 루서 킹 주니어 이 다녔던 대학의 이름은"
+  },
+  {
+    "subject": "에르네스토 세디요",
+    "known_id": 44,
+    "attribute": "예일 대학교",
+    "prompt": "에르네스토 세디요 이 다녔던 대학의 이름은"
+  },
+  {
+    "subject": "안젤라 배싯",
+    "known_id": 45,
+    "attribute": "예일 대학교",
+    "prompt": "안젤라 배싯 이 다녔던 대학의 이름은"
+  },
+  {
+    "subject": "레이철 매도우",
+    "known_id": 46,
+    "attribute": "스탠퍼드 대학교",
+    "prompt": "레이철 매도우 이 다녔던 대학의 이름은"
+  },
+  {
+    "subject": "코리 부커",
+    "known_id": 47,
+    "attribute": "스탠퍼드 대학교",
+    "prompt": "코리 부커 이 다녔던 대학의 이름은"
+  },
+  {
+    "subject": "마크 뤼터",
+    "known_id": 48,
+    "attribute": "라이덴 대학교",
+    "prompt": "마크 뤼터 이 다녔던 대학의 이름은"
+  }
+]

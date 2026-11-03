@@ -1,0 +1,278 @@
+[
+    {
+        "subject": "アメリカ合衆国",
+        "known_id": 0,
+        "attribute": "キリスト教",
+        "prompt": "アメリカ合衆国で主に信仰されている宗教は"
+    },
+    {
+        "subject": "カナダ",
+        "known_id": 1,
+        "attribute": "キリスト教",
+        "prompt": "カナダで主に信仰されている宗教は"
+    },
+    {
+        "subject": "メキシコ",
+        "known_id": 2,
+        "attribute": "ローマカトリック",
+        "prompt": "メキシコで主に信仰されている宗教は"
+    },
+    {
+        "subject": "ブラジル",
+        "known_id": 3,
+        "attribute": "ローマカトリック",
+        "prompt": "ブラジルで主に信仰されている宗教は"
+    },
+    {
+        "subject": "アルゼンチン",
+        "known_id": 4,
+        "attribute": "ローマカトリック",
+        "prompt": "アルゼンチンで主に信仰されている宗教は"
+    },
+    {
+        "subject": "イギリス",
+        "known_id": 5,
+        "attribute": "キリスト教",
+        "prompt": "イギリスで主に信仰されている宗教は"
+    },
+    {
+        "subject": "フランス",
+        "known_id": 6,
+        "attribute": "ローマカトリック",
+        "prompt": "フランスで主に信仰されている宗教は"
+    },
+    {
+        "subject": "ドイツ",
+        "known_id": 7,
+        "attribute": "キリスト教",
+        "prompt": "ドイツで主に信仰されている宗教は"
+    },
+    {
+        "subject": "イタリア",
+        "known_id": 8,
+        "attribute": "ローマカトリック",
+        "prompt": "イタリアで主に信仰されている宗教は"
+    },
+    {
+        "subject": "ロシア",
+        "known_id": 9,
+        "attribute": "キリスト教",
+        "prompt": "ロシアで主に信仰されている宗教は"
+    },
+    {
+        "subject": "サウジアラビア",
+        "known_id": 10,
+        "attribute": "イスラム教",
+        "prompt": "サウジアラビアで主に信仰されている宗教は"
+    },
+    {
+        "subject": "アラブ首長国連邦",
+        "known_id": 11,
+        "attribute": "イスラム教",
+        "prompt": "アラブ首長国連邦で主に信仰されている宗教は"
+    },
+    {
+        "subject": "イラン",
+        "known_id": 12,
+        "attribute": "イスラム教",
+        "prompt": "イランで主に信仰されている宗教は"
+    },
+    {
+        "subject": "トルコ",
+        "known_id": 13,
+        "attribute": "イスラム教",
+        "prompt": "トルコで主に信仰されている宗教は"
+    },
+    {
+        "subject": "パキスタン",
+        "known_id": 14,
+        "attribute": "イスラム教",
+        "prompt": "パキスタンで主に信仰されている宗教は"
+    },
+    {
+        "subject": "インドネシア",
+        "known_id": 15,
+        "attribute": "イスラム教",
+        "prompt": "インドネシアで主に信仰されている宗教は"
+    },
+    {
+        "subject": "エジプト",
+        "known_id": 16,
+        "attribute": "イスラム教",
+        "prompt": "エジプトで主に信仰されている宗教は"
+    },
+    {
+        "subject": "インド",
+        "known_id": 17,
+        "attribute": "ヒンドゥー教",
+        "prompt": "インドで主に信仰されている宗教は"
+    },
+    {
+        "subject": "ネパール",
+        "known_id": 18,
+        "attribute": "ヒンドゥー教",
+        "prompt": "ネパールで主に信仰されている宗教は"
+    },
+    {
+        "subject": "バングラデシュ",
+        "known_id": 19,
+        "attribute": "イスラム教",
+        "prompt": "バングラデシュで主に信仰されている宗教は"
+    },
+    {
+        "subject": "スリランカ",
+        "known_id": 20,
+        "attribute": "仏教",
+        "prompt": "スリランカで主に信仰されている宗教は"
+    },
+    {
+        "subject": "タイ",
+        "known_id": 21,
+        "attribute": "仏教",
+        "prompt": "タイで主に信仰されている宗教は"
+    },
+    {
+        "subject": "ベトナム",
+        "known_id": 22,
+        "attribute": "仏教",
+        "prompt": "ベトナムで主に信仰されている宗教は"
+    },
+    {
+        "subject": "ミャンマー",
+        "known_id": 23,
+        "attribute": "仏教",
+        "prompt": "ミャンマーで主に信仰されている宗教は"
+    },
+    {
+        "subject": "日本",
+        "known_id": 24,
+        "attribute": "神道",
+        "prompt": "日本で主に信仰されている宗教は"
+    },
+    {
+        "subject": "韓国",
+        "known_id": 25,
+        "attribute": "仏教",
+        "prompt": "韓国で主に信仰されている宗教は"
+    },
+    {
+        "subject": "イスラエル",
+        "known_id": 26,
+        "attribute": "ユダヤ教",
+        "prompt": "イスラエルで主に信仰されている宗教は"
+    },
+    {
+        "subject": "エチオピア",
+        "known_id": 27,
+        "attribute": "キリスト教",
+        "prompt": "エチオピアで主に信仰されている宗教は"
+    },
+    {
+        "subject": "南アフリカ",
+        "known_id": 28,
+        "attribute": "キリスト教",
+        "prompt": "南アフリカで主に信仰されている宗教は"
+    },
+    {
+        "subject": "ナイジェリア",
+        "known_id": 29,
+        "attribute": "イスラム教とキリスト教",
+        "prompt": "ナイジェリアで主に信仰されている宗教は"
+    },
+    {
+        "subject": "ケニア",
+        "known_id": 30,
+        "attribute": "キリスト教",
+        "prompt": "ケニアで主に信仰されている宗教は"
+    },
+    {
+        "subject": "ガーナ",
+        "known_id": 31,
+        "attribute": "キリスト教",
+        "prompt": "ガーナで主に信仰されている宗教は"
+    },
+    {
+        "subject": "フィリピン",
+        "known_id": 32,
+        "attribute": "ローマカトリック",
+        "prompt": "フィリピンで主に信仰されている宗教は"
+    },
+    {
+        "subject": "マレーシア",
+        "known_id": 33,
+        "attribute": "イスラム教",
+        "prompt": "マレーシアで主に信仰されている宗教は"
+    },
+    {
+        "subject": "カザフスタン",
+        "known_id": 34,
+        "attribute": "イスラム教",
+        "prompt": "カザフスタンで主に信仰されている宗教は"
+    },
+    {
+        "subject": "モンゴル",
+        "known_id": 35,
+        "attribute": "仏教",
+        "prompt": "モンゴルで主に信仰されている宗教は"
+    },
+    {
+        "subject": "チベット",
+        "known_id": 36,
+        "attribute": "仏教",
+        "prompt": "チベットで主に信仰されている宗教は"
+    },
+    {
+        "subject": "キューバ",
+        "known_id": 37,
+        "attribute": "ローマカトリック",
+        "prompt": "キューバで主に信仰されている宗教は"
+    },
+    {
+        "subject": "コロンビア",
+        "known_id": 38,
+        "attribute": "ローマカトリック",
+        "prompt": "コロンビアで主に信仰されている宗教は"
+    },
+    {
+        "subject": "チリ",
+        "known_id": 39,
+        "attribute": "ローマカトリック",
+        "prompt": "チリで主に信仰されている宗教は"
+    },
+    {
+        "subject": "ペルー",
+        "known_id": 40,
+        "attribute": "ローマカトリック",
+        "prompt": "ペルーで主に信仰されている宗教は"
+    },
+    {
+        "subject": "ベネズエラ",
+        "known_id": 41,
+        "attribute": "ローマカトリック",
+        "prompt": "ベネズエラで主に信仰されている宗教は"
+    },
+    {
+        "subject": "アフガニスタン",
+        "known_id": 42,
+        "attribute": "イスラム教",
+        "prompt": "アフガニスタンで主に信仰されている宗教は"
+    },
+    {
+        "subject": "スーダン",
+        "known_id": 43,
+        "attribute": "イスラム教",
+        "prompt": "スーダンで主に信仰されている宗教は"
+    },
+    {
+        "subject": "アルジェリア",
+        "known_id": 44,
+        "attribute": "イスラム教",
+        "prompt": "アルジェリアで主に信仰されている宗教は"
+    },
+    {
+        "subject": "モロッコ",
+        "known_id": 45,
+        "attribute": "イスラム教",
+        "prompt": "モロッコで主に信仰されている宗教は"
+    }
+]

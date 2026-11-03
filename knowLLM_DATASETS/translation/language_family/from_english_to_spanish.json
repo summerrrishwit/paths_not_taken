@@ -1,0 +1,302 @@
+[
+  {
+    "known_id": 0,
+    "subject": "Indo-European",
+    "attribute": "Indoeuropeas",
+    "prompt": "Translate a word from English to spanish. Word: 'Indo-European'. Translated: '"
+  },
+  {
+    "known_id": 1,
+    "subject": "Indo-European",
+    "attribute": "Indoeuropeas",
+    "prompt": "Translate a word from English to spanish. Word: 'Indo-European'. Translated: '"
+  },
+  {
+    "known_id": 2,
+    "subject": "Indo-European",
+    "attribute": "Indoeuropeas",
+    "prompt": "Translate a word from English to spanish. Word: 'Indo-European'. Translated: '"
+  },
+  {
+    "known_id": 3,
+    "subject": "Indo-European",
+    "attribute": "Indoeuropeas",
+    "prompt": "Translate a word from English to spanish. Word: 'Indo-European'. Translated: '"
+  },
+  {
+    "known_id": 4,
+    "subject": "Indo-European",
+    "attribute": "Indoeuropeas",
+    "prompt": "Translate a word from English to spanish. Word: 'Indo-European'. Translated: '"
+  },
+  {
+    "known_id": 5,
+    "subject": "Indo-European",
+    "attribute": "Indoeuropeas",
+    "prompt": "Translate a word from English to spanish. Word: 'Indo-European'. Translated: '"
+  },
+  {
+    "known_id": 6,
+    "subject": "Indo-European",
+    "attribute": "Indoeuropeas",
+    "prompt": "Translate a word from English to spanish. Word: 'Indo-European'. Translated: '"
+  },
+  {
+    "known_id": 7,
+    "subject": "Indo-European",
+    "attribute": "Indoeuropeas",
+    "prompt": "Translate a word from English to spanish. Word: 'Indo-European'. Translated: '"
+  },
+  {
+    "known_id": 8,
+    "subject": "Indo-European",
+    "attribute": "Indoeuropeas",
+    "prompt": "Translate a word from English to spanish. Word: 'Indo-European'. Translated: '"
+  },
+  {
+    "known_id": 9,
+    "subject": "Indo-European",
+    "attribute": "Indoeuropeas",
+    "prompt": "Translate a word from English to spanish. Word: 'Indo-European'. Translated: '"
+  },
+  {
+    "known_id": 10,
+    "subject": "Sino-Tibetan",
+    "attribute": "Sino-tibetanas",
+    "prompt": "Translate a word from English to spanish. Word: 'Sino-Tibetan'. Translated: '"
+  },
+  {
+    "known_id": 11,
+    "subject": "Sino-Tibetan",
+    "attribute": "Sino-tibetanas",
+    "prompt": "Translate a word from English to spanish. Word: 'Sino-Tibetan'. Translated: '"
+  },
+  {
+    "known_id": 12,
+    "subject": "Sino-Tibetan",
+    "attribute": "Sino-tibetanas",
+    "prompt": "Translate a word from English to spanish. Word: 'Sino-Tibetan'. Translated: '"
+  },
+  {
+    "known_id": 13,
+    "subject": "Sino-Tibetan",
+    "attribute": "Sino-tibetanas",
+    "prompt": "Translate a word from English to spanish. Word: 'Sino-Tibetan'. Translated: '"
+  },
+  {
+    "known_id": 14,
+    "subject": "Afro-Asiatic",
+    "attribute": "Afroasiáticas",
+    "prompt": "Translate a word from English to spanish. Word: 'Afro-Asiatic'. Translated: '"
+  },
+  {
+    "known_id": 15,
+    "subject": "Afro-Asiatic",
+    "attribute": "Afroasiáticas",
+    "prompt": "Translate a word from English to spanish. Word: 'Afro-Asiatic'. Translated: '"
+  },
+  {
+    "known_id": 16,
+    "subject": "Afro-Asiatic",
+    "attribute": "Afroasiáticas",
+    "prompt": "Translate a word from English to spanish. Word: 'Afro-Asiatic'. Translated: '"
+  },
+  {
+    "known_id": 17,
+    "subject": "Afro-Asiatic",
+    "attribute": "Afroasiáticas",
+    "prompt": "Translate a word from English to spanish. Word: 'Afro-Asiatic'. Translated: '"
+  },
+  {
+    "known_id": 18,
+    "subject": "Afro-Asiatic",
+    "attribute": "Afroasiáticas",
+    "prompt": "Translate a word from English to spanish. Word: 'Afro-Asiatic'. Translated: '"
+  },
+  {
+    "known_id": 19,
+    "subject": "Austroasiatic",
+    "attribute": "Austroasiáticas",
+    "prompt": "Translate a word from English to spanish. Word: 'Austroasiatic'. Translated: '"
+  },
+  {
+    "known_id": 20,
+    "subject": "Austroasiatic",
+    "attribute": "Austroasiáticas",
+    "prompt": "Translate a word from English to spanish. Word: 'Austroasiatic'. Translated: '"
+  },
+  {
+    "known_id": 21,
+    "subject": "Tai-Kadai",
+    "attribute": "Tai-kadai",
+    "prompt": "Translate a word from English to spanish. Word: 'Tai-Kadai'. Translated: '"
+  },
+  {
+    "known_id": 22,
+    "subject": "Tai-Kadai",
+    "attribute": "Tai-kadai",
+    "prompt": "Translate a word from English to spanish. Word: 'Tai-Kadai'. Translated: '"
+  },
+  {
+    "known_id": 23,
+    "subject": "Austronesian",
+    "attribute": "Austronesias",
+    "prompt": "Translate a word from English to spanish. Word: 'Austronesian'. Translated: '"
+  },
+  {
+    "known_id": 24,
+    "subject": "Austronesian",
+    "attribute": "Austronesias",
+    "prompt": "Translate a word from English to spanish. Word: 'Austronesian'. Translated: '"
+  },
+  {
+    "known_id": 25,
+    "subject": "Austronesian",
+    "attribute": "Austronesias",
+    "prompt": "Translate a word from English to spanish. Word: 'Austronesian'. Translated: '"
+  },
+  {
+    "known_id": 26,
+    "subject": "Austronesian",
+    "attribute": "Austronesias",
+    "prompt": "Translate a word from English to spanish. Word: 'Austronesian'. Translated: '"
+  },
+  {
+    "known_id": 27,
+    "subject": "Dravidian",
+    "attribute": "Dravídicas",
+    "prompt": "Translate a word from English to spanish. Word: 'Dravidian'. Translated: '"
+  },
+  {
+    "known_id": 28,
+    "subject": "Dravidian",
+    "attribute": "Dravídicas",
+    "prompt": "Translate a word from English to spanish. Word: 'Dravidian'. Translated: '"
+  },
+  {
+    "known_id": 29,
+    "subject": "Dravidian",
+    "attribute": "Dravídicas",
+    "prompt": "Translate a word from English to spanish. Word: 'Dravidian'. Translated: '"
+  },
+  {
+    "known_id": 30,
+    "subject": "Uralic",
+    "attribute": "Urálicas",
+    "prompt": "Translate a word from English to spanish. Word: 'Uralic'. Translated: '"
+  },
+  {
+    "known_id": 31,
+    "subject": "Uralic",
+    "attribute": "Urálicas",
+    "prompt": "Translate a word from English to spanish. Word: 'Uralic'. Translated: '"
+  },
+  {
+    "known_id": 32,
+    "subject": "Uralic",
+    "attribute": "Urálicas",
+    "prompt": "Translate a word from English to spanish. Word: 'Uralic'. Translated: '"
+  },
+  {
+    "known_id": 33,
+    "subject": "Turkic",
+    "attribute": "Turcas",
+    "prompt": "Translate a word from English to spanish. Word: 'Turkic'. Translated: '"
+  },
+  {
+    "known_id": 34,
+    "subject": "Turkic",
+    "attribute": "Turcas",
+    "prompt": "Translate a word from English to spanish. Word: 'Turkic'. Translated: '"
+  },
+  {
+    "known_id": 35,
+    "subject": "Mongolic",
+    "attribute": "Mongólicas",
+    "prompt": "Translate a word from English to spanish. Word: 'Mongolic'. Translated: '"
+  },
+  {
+    "known_id": 36,
+    "subject": "Koreanic",
+    "attribute": "Coreánicas",
+    "prompt": "Translate a word from English to spanish. Word: 'Koreanic'. Translated: '"
+  },
+  {
+    "known_id": 37,
+    "subject": "Japonic",
+    "attribute": "Japónicas",
+    "prompt": "Translate a word from English to spanish. Word: 'Japonic'. Translated: '"
+  },
+  {
+    "known_id": 38,
+    "subject": "Eskimo-Aleut",
+    "attribute": "Eskimo-aleutianas",
+    "prompt": "Translate a word from English to spanish. Word: 'Eskimo-Aleut'. Translated: '"
+  },
+  {
+    "known_id": 39,
+    "subject": "Quechuan",
+    "attribute": "Quechuas",
+    "prompt": "Translate a word from English to spanish. Word: 'Quechuan'. Translated: '"
+  },
+  {
+    "known_id": 40,
+    "subject": "Uto-Aztecan",
+    "attribute": "Uto-aztecas",
+    "prompt": "Translate a word from English to spanish. Word: 'Uto-Aztecan'. Translated: '"
+  },
+  {
+    "known_id": 41,
+    "subject": "Iroquoian",
+    "attribute": "Iroquesas",
+    "prompt": "Translate a word from English to spanish. Word: 'Iroquoian'. Translated: '"
+  },
+  {
+    "known_id": 42,
+    "subject": "Bantu",
+    "attribute": "Bantúes",
+    "prompt": "Translate a word from English to spanish. Word: 'Bantu'. Translated: '"
+  },
+  {
+    "known_id": 43,
+    "subject": "Bantu",
+    "attribute": "Bantúes",
+    "prompt": "Translate a word from English to spanish. Word: 'Bantu'. Translated: '"
+  },
+  {
+    "known_id": 44,
+    "subject": "Austronesian",
+    "attribute": "Austronesias",
+    "prompt": "Translate a word from English to spanish. Word: 'Austronesian'. Translated: '"
+  },
+  {
+    "known_id": 45,
+    "subject": "Creole",
+    "attribute": "Criollas",
+    "prompt": "Translate a word from English to spanish. Word: 'Creole'. Translated: '"
+  },
+  {
+    "known_id": 46,
+    "subject": "Language Isolate",
+    "attribute": "Aisladas",
+    "prompt": "Translate a word from English to spanish. Word: 'Language Isolate'. Translated: '"
+  },
+  {
+    "known_id": 47,
+    "subject": "Language Isolate",
+    "attribute": "Aisladas",
+    "prompt": "Translate a word from English to spanish. Word: 'Language Isolate'. Translated: '"
+  },
+  {
+    "known_id": 48,
+    "subject": "Hmong-Mien",
+    "attribute": "Hmong-mien",
+    "prompt": "Translate a word from English to spanish. Word: 'Hmong-Mien'. Translated: '"
+  },
+  {
+    "known_id": 49,
+    "subject": "Niger-Congo",
+    "attribute": "Níger-congo",
+    "prompt": "Translate a word from English to spanish. Word: 'Niger-Congo'. Translated: '"
+  }
+]

@@ -1,0 +1,265 @@
+[
+    {
+        "subject": "バナナ",
+        "known_id": 0,
+        "attribute": "黄色",
+        "prompt": "バナナ の色は "
+    },
+    {
+        "subject": "イチゴ",
+        "known_id": 1,
+        "attribute": "赤色",
+        "prompt": "イチゴ の色は "
+    },
+    {
+        "subject": "ニンジン",
+        "known_id": 2,
+        "attribute": "オレンジ色",
+        "prompt": "ニンジン の色は "
+    },
+    {
+        "subject": "レタス",
+        "known_id": 3,
+        "attribute": "緑色",
+        "prompt": "レタス の色は "
+    },
+    {
+        "subject": "ナス",
+        "known_id": 4,
+        "attribute": "紫色",
+        "prompt": "ナス の色は "
+    },
+    {
+        "subject": "雪",
+        "known_id": 5,
+        "attribute": "白色",
+        "prompt": "雪 の色は "
+    },
+    {
+        "subject": "石炭",
+        "known_id": 6,
+        "attribute": "黒色",
+        "prompt": "石炭 の色は "
+    },
+    {
+        "subject": "ブルーベリー",
+        "known_id": 7,
+        "attribute": "青色",
+        "prompt": "ブルーベリー の色は "
+    },
+
+    {
+        "subject": "カボチャ",
+        "known_id": 9,
+        "attribute": "オレンジ色",
+        "prompt": "カボチャ の色は "
+    },
+    {
+        "subject": "ブドウ",
+        "known_id": 10,
+        "attribute": "紫色",
+        "prompt": "ブドウ の色は "
+    },
+    {
+        "subject": "ライム",
+        "known_id": 11,
+        "attribute": "緑色",
+        "prompt": "ライム の色は "
+    },
+    {
+        "subject": "ココナッツ",
+        "known_id": 12,
+        "attribute": "茶色",
+        "prompt": "ココナッツ の色は "
+    },
+    {
+        "subject": "トマト",
+        "known_id": 13,
+        "attribute": "赤色",
+        "prompt": "トマト の色は "
+    },
+    {
+        "subject": "レモン",
+        "known_id": 14,
+        "attribute": "黄色",
+        "prompt": "レモン の色は "
+    },
+    {
+        "subject": "牛乳",
+        "known_id": 15,
+        "attribute": "白色",
+        "prompt": "牛乳 の色は "
+    },
+    {
+        "subject": "木炭",
+        "known_id": 16,
+        "attribute": "黒色",
+        "prompt": "木炭 の色は "
+    },
+    {
+        "subject": "空",
+        "known_id": 17,
+        "attribute": "青色",
+        "prompt": "空 の色は "
+    },
+    {
+        "subject": "ナシ",
+        "known_id": 18,
+        "attribute": "緑色",
+        "prompt": "ナシ の色は "
+    },
+    {
+        "subject": "金",
+        "known_id": 19,
+        "attribute": "金色",
+        "prompt": "金 の色は "
+    },
+    {
+        "subject": "銀",
+        "known_id": 20,
+        "attribute": "銀色",
+        "prompt": "銀 の色は "
+    },
+    {
+        "subject": "銅",
+        "known_id": 21,
+        "attribute": "銅色",
+        "prompt": "銅 の色は "
+    },
+    {
+        "subject": "消防車",
+        "known_id": 22,
+        "attribute": "赤色",
+        "prompt": "消防車 の色は "
+    },
+    {
+        "subject": "ミカン",
+        "known_id": 23,
+        "attribute": "オレンジ色",
+        "prompt": "ミカン の色は "
+    },
+    {
+        "subject": "アボカド",
+        "known_id": 24,
+        "attribute": "緑色",
+        "prompt": "アボカド の色は "
+    },
+    {
+        "subject": "プラム",
+        "known_id": 25,
+        "attribute": "紫色",
+        "prompt": "プラム の色は "
+    },
+    {
+        "subject": "オニキス",
+        "known_id": 26,
+        "attribute": "黒色",
+        "prompt": "オニキス の色は "
+    },
+    {
+        "subject": "綿",
+        "known_id": 27,
+        "attribute": "白色",
+        "prompt": "綿 の色は "
+    },
+    {
+        "subject": "ゴム製アヒル",
+        "known_id": 28,
+        "attribute": "黄色",
+        "prompt": "ゴム製アヒル の色は "
+    },
+
+    {
+        "subject": "モモ",
+        "known_id": 30,
+        "attribute": "オレンジ色",
+        "prompt": "モモ の色は "
+    },
+    {
+        "subject": "キュウリ",
+        "known_id": 31,
+        "attribute": "緑色",
+        "prompt": "キュウリ の色は "
+    },
+    {
+        "subject": "アメジスト",
+        "known_id": 32,
+        "attribute": "紫色",
+        "prompt": "アメジスト の色は "
+    },
+    {
+        "subject": "サファイア",
+        "known_id": 33,
+        "attribute": "青色",
+        "prompt": "サファイア の色は "
+    },
+    {
+        "subject": "エメラルド",
+        "known_id": 34,
+        "attribute": "緑色",
+        "prompt": "エメラルド の色は "
+    },
+    {
+        "subject": "ルビー",
+        "known_id": 35,
+        "attribute": "赤色",
+        "prompt": "ルビー の色は "
+    },
+
+    {
+        "subject": "ホッキョクグマ",
+        "known_id": 39,
+        "attribute": "白色",
+        "prompt": "ホッキョクグマ の色は "
+    },
+    {
+        "subject": "ひまわり",
+        "known_id": 40,
+        "attribute": "黄色",
+        "prompt": "ひまわり の色は "
+    },
+
+    {
+        "subject": "コーヒー",
+        "known_id": 42,
+        "attribute": "茶色",
+        "prompt": "コーヒー の色は "
+    },
+    {
+        "subject": "クリ",
+        "known_id": 43,
+        "attribute": "茶色",
+        "prompt": "クリ の色は "
+    },
+    {
+        "subject": "クランベリー",
+        "known_id": 44,
+        "attribute": "赤色",
+        "prompt": "クランベリー の色は "
+    },
+
+    {
+        "subject": "海藻",
+        "known_id": 46,
+        "attribute": "緑色",
+        "prompt": "海藻 の色は "
+    },
+    {
+        "subject": "カエル",
+        "known_id": 47,
+        "attribute": "緑色",
+        "prompt": "カエル の色は "
+    },
+    {
+        "subject": "イルカ",
+        "known_id": 48,
+        "attribute": "灰色",
+        "prompt": "イルカ の色は "
+    },
+    {
+        "subject": "サメ",
+        "known_id": 49,
+        "attribute": "灰色",
+        "prompt": "サメ の色は "
+    }
+]

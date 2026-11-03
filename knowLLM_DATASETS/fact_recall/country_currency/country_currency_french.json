@@ -1,0 +1,308 @@
+[
+  {
+    "subject": "Estados Unidos",
+    "known_id": 0,
+    "attribute": "Dólar",
+    "prompt": "La monnaie officielle de Estados Unidos s'appelle"
+  },
+  {
+    "subject": "Reino Unido",
+    "known_id": 1,
+    "attribute": "Libra",
+    "prompt": "La monnaie officielle de Reino Unido s'appelle"
+  },
+  {
+    "subject": "Japón",
+    "known_id": 2,
+    "attribute": "Yen",
+    "prompt": "La monnaie officielle de Japón s'appelle"
+  },
+  {
+    "subject": "Canadá",
+    "known_id": 3,
+    "attribute": "Dólar",
+    "prompt": "La monnaie officielle de Canadá s'appelle"
+  },
+  {
+    "subject": "Australia",
+    "known_id": 4,
+    "attribute": "Dólar",
+    "prompt": "La monnaie officielle de Australia s'appelle"
+  },
+  {
+    "subject": "Brasil",
+    "known_id": 5,
+    "attribute": "Real",
+    "prompt": "La monnaie officielle de Brasil s'appelle"
+  },
+  {
+    "subject": "China",
+    "known_id": 6,
+    "attribute": "Yuan",
+    "prompt": "La monnaie officielle de China s'appelle"
+  },
+  {
+    "subject": "India",
+    "known_id": 7,
+    "attribute": "Rupia",
+    "prompt": "La monnaie officielle de India s'appelle"
+  },
+  {
+    "subject": "Rusia",
+    "known_id": 8,
+    "attribute": "Rublo",
+    "prompt": "La monnaie officielle de Rusia s'appelle"
+  },
+  {
+    "subject": "Sudáfrica",
+    "known_id": 9,
+    "attribute": "Rand",
+    "prompt": "La monnaie officielle de Sudáfrica s'appelle"
+  },
+  {
+    "subject": "México",
+    "known_id": 10,
+    "attribute": "Peso",
+    "prompt": "La monnaie officielle de México s'appelle"
+  },
+  {
+    "subject": "Nueva Zelanda",
+    "known_id": 11,
+    "attribute": "Dólar",
+    "prompt": "La monnaie officielle de Nueva Zelanda s'appelle"
+  },
+  {
+    "subject": "Corea del Sur",
+    "known_id": 12,
+    "attribute": "Won",
+    "prompt": "La monnaie officielle de Corea del Sur s'appelle"
+  },
+  {
+    "subject": "Suiza",
+    "known_id": 13,
+    "attribute": "Franco",
+    "prompt": "La monnaie officielle de Suiza s'appelle"
+  },
+  {
+    "subject": "Turquía",
+    "known_id": 14,
+    "attribute": "Lira",
+    "prompt": "La monnaie officielle de Turquía s'appelle"
+  },
+  {
+    "subject": "Argentina",
+    "known_id": 15,
+    "attribute": "Peso",
+    "prompt": "La monnaie officielle de Argentina s'appelle"
+  },
+  {
+    "subject": "Noruega",
+    "known_id": 16,
+    "attribute": "Corona",
+    "prompt": "La monnaie officielle de Noruega s'appelle"
+  },
+  {
+    "subject": "Suecia",
+    "known_id": 17,
+    "attribute": "Corona",
+    "prompt": "La monnaie officielle de Suecia s'appelle"
+  },
+  {
+    "subject": "Dinamarca",
+    "known_id": 18,
+    "attribute": "Corona",
+    "prompt": "La monnaie officielle de Dinamarca s'appelle"
+  },
+  {
+    "subject": "Polonia",
+    "known_id": 19,
+    "attribute": "Zloty",
+    "prompt": "La monnaie officielle de Polonia s'appelle"
+  },
+  {
+    "subject": "Hungría",
+    "known_id": 20,
+    "attribute": "Forinto",
+    "prompt": "La monnaie officielle de Hungría s'appelle"
+  },
+  {
+    "subject": "República Checa",
+    "known_id": 21,
+    "attribute": "Corona checa",
+    "prompt": "La monnaie officielle de República Checa s'appelle"
+  },
+  {
+    "subject": "Israel",
+    "known_id": 22,
+    "attribute": "Shéquel",
+    "prompt": "La monnaie officielle de Israel s'appelle"
+  },
+  {
+    "subject": "Arabia Saudita",
+    "known_id": 23,
+    "attribute": "Riyal",
+    "prompt": "La monnaie officielle de Arabia Saudita s'appelle"
+  },
+  {
+    "subject": "Emiratos Árabes Unidos",
+    "known_id": 24,
+    "attribute": "Dírham",
+    "prompt": "La monnaie officielle de Emiratos Árabes Unidos s'appelle"
+  },
+  {
+    "subject": "Singapur",
+    "known_id": 25,
+    "attribute": "Dólar",
+    "prompt": "La monnaie officielle de Singapur s'appelle"
+  },
+  {
+    "subject": "Malasia",
+    "known_id": 26,
+    "attribute": "Ringgit",
+    "prompt": "La monnaie officielle de Malasia s'appelle"
+  },
+  {
+    "subject": "Indonesia",
+    "known_id": 27,
+    "attribute": "Rupia",
+    "prompt": "La monnaie officielle de Indonesia s'appelle"
+  },
+  {
+    "subject": "Tailandia",
+    "known_id": 28,
+    "attribute": "Baht",
+    "prompt": "La monnaie officielle de Tailandia s'appelle"
+  },
+  {
+    "subject": "Filipinas",
+    "known_id": 29,
+    "attribute": "Peso",
+    "prompt": "La monnaie officielle de Filipinas s'appelle"
+  },
+  {
+    "subject": "Vietnam",
+    "known_id": 30,
+    "attribute": "Dong",
+    "prompt": "La monnaie officielle de Vietnam s'appelle"
+  },
+  {
+    "subject": "Egipto",
+    "known_id": 31,
+    "attribute": "Libra",
+    "prompt": "La monnaie officielle de Egipto s'appelle"
+  },
+  {
+    "subject": "Ucrania",
+    "known_id": 32,
+    "attribute": "Grivna",
+    "prompt": "La monnaie officielle de Ucrania s'appelle"
+  },
+  {
+    "subject": "Rumanía",
+    "known_id": 33,
+    "attribute": "Leu",
+    "prompt": "La monnaie officielle de Rumanía s'appelle"
+  },
+  {
+    "subject": "Bulgaria",
+    "known_id": 34,
+    "attribute": "Lev",
+    "prompt": "La monnaie officielle de Bulgaria s'appelle"
+  },
+  {
+    "subject": "Serbia",
+    "known_id": 35,
+    "attribute": "Dinar",
+    "prompt": "La monnaie officielle de Serbia s'appelle"
+  },
+  {
+    "subject": "Irak",
+    "known_id": 36,
+    "attribute": "Dinar",
+    "prompt": "La monnaie officielle de Irak s'appelle"
+  },
+  {
+    "subject": "Kuwait",
+    "known_id": 37,
+    "attribute": "Dinar",
+    "prompt": "La monnaie officielle de Kuwait s'appelle"
+  },
+  {
+    "subject": "Marruecos",
+    "known_id": 38,
+    "attribute": "Dírham",
+    "prompt": "La monnaie officielle de Marruecos s'appelle"
+  },
+  {
+    "subject": "Túnez",
+    "known_id": 39,
+    "attribute": "Dinar",
+    "prompt": "La monnaie officielle de Túnez s'appelle"
+  },
+  {
+    "subject": "Chile",
+    "known_id": 40,
+    "attribute": "Peso",
+    "prompt": "La monnaie officielle de Chile s'appelle"
+  },
+  {
+    "subject": "Colombia",
+    "known_id": 41,
+    "attribute": "Peso",
+    "prompt": "La monnaie officielle de Colombia s'appelle"
+  },
+  {
+    "subject": "Uruguay",
+    "known_id": 42,
+    "attribute": "Peso",
+    "prompt": "La monnaie officielle de Uruguay s'appelle"
+  },
+  {
+    "subject": "Islandia",
+    "known_id": 43,
+    "attribute": "Corona",
+    "prompt": "La monnaie officielle de Islandia s'appelle"
+  },
+  {
+    "subject": "Georgia",
+    "known_id": 44,
+    "attribute": "Lari",
+    "prompt": "La monnaie officielle de Georgia s'appelle"
+  },
+  {
+    "subject": "Azerbaiyán",
+    "known_id": 45,
+    "attribute": "Manat",
+    "prompt": "La monnaie officielle de Azerbaiyán s'appelle"
+  },
+  {
+    "subject": "Kazajistán",
+    "known_id": 46,
+    "attribute": "Tengue",
+    "prompt": "La monnaie officielle de Kazajistán s'appelle"
+  },
+  {
+    "subject": "Sri Lanka",
+    "known_id": 47,
+    "attribute": "Rupia",
+    "prompt": "La monnaie officielle de Sri Lanka s'appelle"
+  },
+  {
+    "subject": "Nepal",
+    "known_id": 48,
+    "attribute": "Rupia",
+    "prompt": "La monnaie officielle de Nepal s'appelle"
+  },
+  {
+    "subject": "Bangladés",
+    "known_id": 49,
+    "attribute": "Taka",
+    "prompt": "La monnaie officielle de Bangladés s'appelle"
+  },
+  {
+    "subject": "Pakistán",
+    "known_id": 50,
+    "attribute": "Rupia",
+    "prompt": "La monnaie officielle de Pakistán s'appelle"
+  }
+]

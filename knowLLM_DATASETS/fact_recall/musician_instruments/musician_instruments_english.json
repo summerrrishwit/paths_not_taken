@@ -1,0 +1,272 @@
+[
+    {
+        "subject": "Ludwig van Beethoven",
+        "known_id": 0,
+        "attribute": "Piano",
+        "prompt": "The primary instrument played by Ludwig van Beethoven is the"
+    },
+    {
+        "subject": "Wolfgang Amadeus Mozart",
+        "known_id": 1,
+        "attribute": "Piano",
+        "prompt": "The primary instrument played by Wolfgang Amadeus Mozart is the"
+    },
+    {
+        "subject": "Johann Sebastian Bach",
+        "known_id": 2,
+        "attribute": "Organ",
+        "prompt": "The primary instrument played by Johann Sebastian Bach is the"
+    },
+    {
+        "subject": "Frédéric Chopin",
+        "known_id": 3,
+        "attribute": "Piano",
+        "prompt": "The primary instrument played by Frédéric Chopin is the"
+    },
+    {
+        "subject": "Claude Debussy",
+        "known_id": 4,
+        "attribute": "Piano",
+        "prompt": "The primary instrument played by Claude Debussy is the"
+    },
+    {
+        "subject": "Antonio Vivaldi",
+        "known_id": 5,
+        "attribute": "Violin",
+        "prompt": "The primary instrument played by Antonio Vivaldi is the"
+    },
+    {
+        "subject": "Niccolò Paganini",
+        "known_id": 6,
+        "attribute": "Violin",
+        "prompt": "The primary instrument played by Niccolò Paganini is the"
+    },
+    {
+        "subject": "Yo-Yo Ma",
+        "known_id": 7,
+        "attribute": "Cello",
+        "prompt": "The primary instrument played by Yo-Yo Ma is the"
+    },
+    {
+        "subject": "Itzhak Perlman",
+        "known_id": 8,
+        "attribute": "Violin",
+        "prompt": "The primary instrument played by Itzhak Perlman is the"
+    },
+    {
+        "subject": "Miles Davis",
+        "known_id": 9,
+        "attribute": "Trumpet",
+        "prompt": "The primary instrument played by Miles Davis is the"
+    },
+    {
+        "subject": "Louis Armstrong",
+        "known_id": 10,
+        "attribute": "Trumpet",
+        "prompt": "The primary instrument played by Louis Armstrong is the"
+    },
+    {
+        "subject": "John Coltrane",
+        "known_id": 11,
+        "attribute": "Saxophone",
+        "prompt": "The primary instrument played by John Coltrane is the"
+    },
+    {
+        "subject": "Charlie Parker",
+        "known_id": 12,
+        "attribute": "Saxophone",
+        "prompt": "The primary instrument played by Charlie Parker is the"
+    },
+    {
+        "subject": "Duke Ellington",
+        "known_id": 13,
+        "attribute": "Piano",
+        "prompt": "The primary instrument played by Duke Ellington is the"
+    },
+    {
+        "subject": "Thelonious Monk",
+        "known_id": 14,
+        "attribute": "Piano",
+        "prompt": "The primary instrument played by Thelonious Monk is the"
+    },
+    {
+        "subject": "Jimi Hendrix",
+        "known_id": 15,
+        "attribute": "Guitar",
+        "prompt": "The primary instrument played by Jimi Hendrix is the"
+    },
+    {
+        "subject": "Eric Clapton",
+        "known_id": 16,
+        "attribute": "Guitar",
+        "prompt": "The primary instrument played by Eric Clapton is the"
+    },
+    {
+        "subject": "B.B. King",
+        "known_id": 17,
+        "attribute": "Guitar",
+        "prompt": "The primary instrument played by B.B. King is the"
+    },
+    {
+        "subject": "Carlos Santana",
+        "known_id": 18,
+        "attribute": "Guitar",
+        "prompt": "The primary instrument played by Carlos Santana is the"
+    },
+    {
+        "subject": "Eddie Van Halen",
+        "known_id": 19,
+        "attribute": "Guitar",
+        "prompt": "The primary instrument played by Eddie Van Halen is the"
+    },
+    {
+        "subject": "Ravi Shankar",
+        "known_id": 20,
+        "attribute": "Sitar",
+        "prompt": "The primary instrument played by Ravi Shankar is the"
+    },
+    {
+        "subject": "Anoushka Shankar",
+        "known_id": 21,
+        "attribute": "Sitar",
+        "prompt": "The primary instrument played by Anoushka Shankar is the"
+    },
+    {
+        "subject": "Zakir Hussain",
+        "known_id": 22,
+        "attribute": "Tabla",
+        "prompt": "The primary instrument played by Zakir Hussain is the"
+    },
+    {
+        "subject": "Lang Lang",
+        "known_id": 23,
+        "attribute": "Piano",
+        "prompt": "The primary instrument played by Lang Lang is the"
+    },
+    {
+        "subject": "Wu Man",
+        "known_id": 24,
+        "attribute": "Pipa",
+        "prompt": "The primary instrument played by Wu Man is the"
+    },
+    {
+        "subject": "Min Huifen",
+        "known_id": 25,
+        "attribute": "Erhu",
+        "prompt": "The primary instrument played by Min Huifen is the"
+    },
+    {
+        "subject": "Liu Fang",
+        "known_id": 26,
+        "attribute": "Guqin",
+        "prompt": "The primary instrument played by Liu Fang is the"
+    },
+    {
+        "subject": "Wang Yujue",
+        "known_id": 27,
+        "attribute": "Guqin",
+        "prompt": "The primary instrument played by Wang Yujue is the"
+    },
+    {
+        "subject": "Shinichi Suzuki",
+        "known_id": 28,
+        "attribute": "Violin",
+        "prompt": "The primary instrument played by Shinichi Suzuki is the"
+    },
+    {
+        "subject": "Seiji Ozawa",
+        "known_id": 29,
+        "attribute": "Conductor",
+        "prompt": "The primary instrument played by Seiji Ozawa is the"
+    },
+    {
+        "subject": "Ryuichi Sakamoto",
+        "known_id": 30,
+        "attribute": "Piano",
+        "prompt": "The primary instrument played by Ryuichi Sakamoto is the"
+    },
+    {
+        "subject": "Toshiko Akiyoshi",
+        "known_id": 31,
+        "attribute": "Piano",
+        "prompt": "The primary instrument played by Toshiko Akiyoshi is the"
+    },
+    {
+        "subject": "Kitaro",
+        "known_id": 32,
+        "attribute": "Synthesizer",
+        "prompt": "The primary instrument played by Kitaro is the"
+    },
+    {
+        "subject": "Joe Hisaishi",
+        "known_id": 33,
+        "attribute": "Piano",
+        "prompt": "The primary instrument played by Joe Hisaishi is the"
+    },
+    {
+        "subject": "Hwang Byungki",
+        "known_id": 34,
+        "attribute": "Gayageum",
+        "prompt": "The primary instrument played by Hwang Byungki is the"
+    },
+    {
+        "subject": "Kim Duk Soo",
+        "known_id": 35,
+        "attribute": "Janggu",
+        "prompt": "The primary instrument played by Kim Duk Soo is the"
+    },
+    {
+        "subject": "Yang Bang-ean",
+        "known_id": 36,
+        "attribute": "Piano",
+        "prompt": "The primary instrument played by Yang Bang-ean is the"
+    },
+    {
+        "subject": "Yiruma",
+        "known_id": 37,
+        "attribute": "Piano",
+        "prompt": "The primary instrument played by Yiruma is the"
+    },
+    {
+        "subject": "Flea",
+        "known_id": 38,
+        "attribute": "Bass Guitar",
+        "prompt": "The primary instrument played by Flea is the"
+    },
+    {
+        "subject": "Geddy Lee",
+        "known_id": 39,
+        "attribute": "Bass Guitar",
+        "prompt": "The primary instrument played by Geddy Lee is the"
+    },
+    {
+        "subject": "Victor Wooten",
+        "known_id": 40,
+        "attribute": "Bass Guitar",
+        "prompt": "The primary instrument played by Victor Wooten is the"
+    },
+    {
+        "subject": "Brian May",
+        "known_id": 41,
+        "attribute": "Guitar",
+        "prompt": "The primary instrument played by Brian May is the"
+    },
+    {
+        "subject": "Steve Vai",
+        "known_id": 42,
+        "attribute": "Guitar",
+        "prompt": "The primary instrument played by Steve Vai is the"
+    },
+    {
+        "subject": "Stevie Ray Vaughan",
+        "known_id": 43,
+        "attribute": "Guitar",
+        "prompt": "The primary instrument played by Stevie Ray Vaughan is the"
+    },
+    {
+        "subject": "Herbie Hancock",
+        "known_id": 44,
+        "attribute": "Piano",
+        "prompt": "The primary instrument played by Herbie Hancock is the"
+    }
+]

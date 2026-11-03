@@ -1,0 +1,296 @@
+[
+  {
+    "known_id": 0,
+    "subject": "Cornell University",
+    "attribute": "康奈尔大学",
+    "prompt": "Translate a word from English to chinese. Word: 'Cornell University'. Translated: '"
+  },
+  {
+    "known_id": 1,
+    "subject": "Princeton University",
+    "attribute": "普林斯顿大学",
+    "prompt": "Translate a word from English to chinese. Word: 'Princeton University'. Translated: '"
+  },
+  {
+    "known_id": 2,
+    "subject": "Stanford University",
+    "attribute": "斯坦福大学",
+    "prompt": "Translate a word from English to chinese. Word: 'Stanford University'. Translated: '"
+  },
+  {
+    "known_id": 3,
+    "subject": "Harvard University",
+    "attribute": "哈佛大学",
+    "prompt": "Translate a word from English to chinese. Word: 'Harvard University'. Translated: '"
+  },
+  {
+    "known_id": 4,
+    "subject": "Waseda University",
+    "attribute": "早稻田大学",
+    "prompt": "Translate a word from English to chinese. Word: 'Waseda University'. Translated: '"
+  },
+  {
+    "known_id": 5,
+    "subject": "Mohammed V University",
+    "attribute": "穆罕默德五世大学",
+    "prompt": "Translate a word from English to chinese. Word: 'Mohammed V University'. Translated: '"
+  },
+  {
+    "known_id": 6,
+    "subject": "Addis Ababa University",
+    "attribute": "亚的斯亚贝巴大学",
+    "prompt": "Translate a word from English to chinese. Word: 'Addis Ababa University'. Translated: '"
+  },
+  {
+    "known_id": 7,
+    "subject": "Addis Ababa University",
+    "attribute": "亚的斯亚贝巴大学",
+    "prompt": "Translate a word from English to chinese. Word: 'Addis Ababa University'. Translated: '"
+  },
+  {
+    "known_id": 8,
+    "subject": "Howard University",
+    "attribute": "霍华德大学",
+    "prompt": "Translate a word from English to chinese. Word: 'Howard University'. Translated: '"
+  },
+  {
+    "known_id": 9,
+    "subject": "Eötvös Loránd University",
+    "attribute": "厄特沃什·罗兰大学",
+    "prompt": "Translate a word from English to chinese. Word: 'Eötvös Loránd University'. Translated: '"
+  },
+  {
+    "known_id": 10,
+    "subject": "Trinity College Dublin",
+    "attribute": "都柏林圣三一学院",
+    "prompt": "Translate a word from English to chinese. Word: 'Trinity College Dublin'. Translated: '"
+  },
+  {
+    "known_id": 11,
+    "subject": "Leiden University",
+    "attribute": "莱顿大学",
+    "prompt": "Translate a word from English to chinese. Word: 'Leiden University'. Translated: '"
+  },
+  {
+    "known_id": 12,
+    "subject": "Tsinghua University",
+    "attribute": "清华大学",
+    "prompt": "Translate a word from English to chinese. Word: 'Tsinghua University'. Translated: '"
+  },
+  {
+    "known_id": 13,
+    "subject": "Somerville College, Oxford",
+    "attribute": "牛津大学萨默维尔学院",
+    "prompt": "Translate a word from English to chinese. Word: 'Somerville College, Oxford'. Translated: '"
+  },
+  {
+    "known_id": 14,
+    "subject": "Seoul National University",
+    "attribute": "首尔大学",
+    "prompt": "Translate a word from English to chinese. Word: 'Seoul National University'. Translated: '"
+  },
+  {
+    "known_id": 15,
+    "subject": "Harvard Kennedy School",
+    "attribute": "哈佛肯尼迪学院",
+    "prompt": "Translate a word from English to chinese. Word: 'Harvard Kennedy School'. Translated: '"
+  },
+  {
+    "known_id": 16,
+    "subject": "Hanover College",
+    "attribute": "汉诺威学院",
+    "prompt": "Translate a word from English to chinese. Word: 'Hanover College'. Translated: '"
+  },
+  {
+    "known_id": 17,
+    "subject": "Tennessee State University",
+    "attribute": "田纳西州立大学",
+    "prompt": "Translate a word from English to chinese. Word: 'Tennessee State University'. Translated: '"
+  },
+  {
+    "known_id": 18,
+    "subject": "Princeton University",
+    "attribute": "普林斯顿大学",
+    "prompt": "Translate a word from English to chinese. Word: 'Princeton University'. Translated: '"
+  },
+  {
+    "known_id": 19,
+    "subject": "Reed College",
+    "attribute": "里德学院",
+    "prompt": "Translate a word from English to chinese. Word: 'Reed College'. Translated: '"
+  },
+  {
+    "known_id": 20,
+    "subject": "Auburn University",
+    "attribute": "奥本大学",
+    "prompt": "Translate a word from English to chinese. Word: 'Auburn University'. Translated: '"
+  },
+  {
+    "known_id": 21,
+    "subject": "Stanford University",
+    "attribute": "斯坦福大学",
+    "prompt": "Translate a word from English to chinese. Word: 'Stanford University'. Translated: '"
+  },
+  {
+    "known_id": 22,
+    "subject": "Harvard University",
+    "attribute": "哈佛大学",
+    "prompt": "Translate a word from English to chinese. Word: 'Harvard University'. Translated: '"
+  },
+  {
+    "known_id": 23,
+    "subject": "Princeton University",
+    "attribute": "普林斯顿大学",
+    "prompt": "Translate a word from English to chinese. Word: 'Princeton University'. Translated: '"
+  },
+  {
+    "known_id": 24,
+    "subject": "Harvard University",
+    "attribute": "哈佛大学",
+    "prompt": "Translate a word from English to chinese. Word: 'Harvard University'. Translated: '"
+  },
+  {
+    "known_id": 25,
+    "subject": "Harvard University",
+    "attribute": "哈佛大学",
+    "prompt": "Translate a word from English to chinese. Word: 'Harvard University'. Translated: '"
+  },
+  {
+    "known_id": 26,
+    "subject": "Tennessee State University",
+    "attribute": "田纳西州立大学",
+    "prompt": "Translate a word from English to chinese. Word: 'Tennessee State University'. Translated: '"
+  },
+  {
+    "known_id": 27,
+    "subject": "Brown University",
+    "attribute": "布朗大学",
+    "prompt": "Translate a word from English to chinese. Word: 'Brown University'. Translated: '"
+  },
+  {
+    "known_id": 28,
+    "subject": "Harvard University",
+    "attribute": "哈佛大学",
+    "prompt": "Translate a word from English to chinese. Word: 'Harvard University'. Translated: '"
+  },
+  {
+    "known_id": 29,
+    "subject": "Yale University",
+    "attribute": "耶鲁大学",
+    "prompt": "Translate a word from English to chinese. Word: 'Yale University'. Translated: '"
+  },
+  {
+    "known_id": 30,
+    "subject": "Purdue University",
+    "attribute": "普渡大学",
+    "prompt": "Translate a word from English to chinese. Word: 'Purdue University'. Translated: '"
+  },
+  {
+    "known_id": 31,
+    "subject": "UCLA",
+    "attribute": "加利福尼亚大学洛杉矶分校（UCLA）",
+    "prompt": "Translate a word from English to chinese. Word: 'UCLA'. Translated: '"
+  },
+  {
+    "known_id": 32,
+    "subject": "Harvard University",
+    "attribute": "哈佛大学",
+    "prompt": "Translate a word from English to chinese. Word: 'Harvard University'. Translated: '"
+  },
+  {
+    "known_id": 33,
+    "subject": "Harvard University",
+    "attribute": "哈佛大学",
+    "prompt": "Translate a word from English to chinese. Word: 'Harvard University'. Translated: '"
+  },
+  {
+    "known_id": 34,
+    "subject": "East Carolina University",
+    "attribute": "东卡罗来纳大学",
+    "prompt": "Translate a word from English to chinese. Word: 'East Carolina University'. Translated: '"
+  },
+  {
+    "known_id": 35,
+    "subject": "Kazan Imperial University",
+    "attribute": "喀山帝国大学",
+    "prompt": "Translate a word from English to chinese. Word: 'Kazan Imperial University'. Translated: '"
+  },
+  {
+    "known_id": 36,
+    "subject": "Leeds Arts University",
+    "attribute": "利兹艺术大学",
+    "prompt": "Translate a word from English to chinese. Word: 'Leeds Arts University'. Translated: '"
+  },
+  {
+    "known_id": 37,
+    "subject": "Carnegie Mellon University",
+    "attribute": "卡耐基梅隆大学",
+    "prompt": "Translate a word from English to chinese. Word: 'Carnegie Mellon University'. Translated: '"
+  },
+  {
+    "known_id": 38,
+    "subject": "Kazan Imperial University",
+    "attribute": "喀山帝国大学",
+    "prompt": "Translate a word from English to chinese. Word: 'Kazan Imperial University'. Translated: '"
+  },
+  {
+    "known_id": 39,
+    "subject": "New York University Tisch School of the Arts",
+    "attribute": "纽约大学帝势艺术学院",
+    "prompt": "Translate a word from English to chinese. Word: 'New York University Tisch School of the Arts'. Translated: '"
+  },
+  {
+    "known_id": 40,
+    "subject": "Uppsala University",
+    "attribute": "乌普萨拉大学",
+    "prompt": "Translate a word from English to chinese. Word: 'Uppsala University'. Translated: '"
+  },
+  {
+    "known_id": 41,
+    "subject": "Paris West University Nanterre La Défense",
+    "attribute": "巴黎西岱昂纳大学",
+    "prompt": "Translate a word from English to chinese. Word: 'Paris West University Nanterre La Défense'. Translated: '"
+  },
+  {
+    "known_id": 42,
+    "subject": "National Taiwan University",
+    "attribute": "国立台湾大学",
+    "prompt": "Translate a word from English to chinese. Word: 'National Taiwan University'. Translated: '"
+  },
+  {
+    "known_id": 43,
+    "subject": "Morehouse College",
+    "attribute": "莫尔豪斯学院",
+    "prompt": "Translate a word from English to chinese. Word: 'Morehouse College'. Translated: '"
+  },
+  {
+    "known_id": 44,
+    "subject": "Yale University",
+    "attribute": "耶鲁大学",
+    "prompt": "Translate a word from English to chinese. Word: 'Yale University'. Translated: '"
+  },
+  {
+    "known_id": 45,
+    "subject": "Yale University",
+    "attribute": "耶鲁大学",
+    "prompt": "Translate a word from English to chinese. Word: 'Yale University'. Translated: '"
+  },
+  {
+    "known_id": 46,
+    "subject": "Stanford University",
+    "attribute": "斯坦福大学",
+    "prompt": "Translate a word from English to chinese. Word: 'Stanford University'. Translated: '"
+  },
+  {
+    "known_id": 47,
+    "subject": "Stanford University",
+    "attribute": "斯坦福大学",
+    "prompt": "Translate a word from English to chinese. Word: 'Stanford University'. Translated: '"
+  },
+  {
+    "known_id": 48,
+    "subject": "Leiden University",
+    "attribute": "莱顿大学",
+    "prompt": "Translate a word from English to chinese. Word: 'Leiden University'. Translated: '"
+  }
+]

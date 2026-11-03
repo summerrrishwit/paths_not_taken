@@ -1,0 +1,278 @@
+[
+    {
+        "subject": "Estados Unidos",
+        "known_id": 0,
+        "attribute": "Cristianismo",
+        "prompt": "La religión principal practicada en Estados Unidos es el"
+    },
+    {
+        "subject": "Canadá",
+        "known_id": 1,
+        "attribute": "Cristianismo",
+        "prompt": "La religión principal practicada en Canadá es el"
+    },
+    {
+        "subject": "México",
+        "known_id": 2,
+        "attribute": "Catolicismo romano",
+        "prompt": "La religión principal practicada en México es el"
+    },
+    {
+        "subject": "Brasil",
+        "known_id": 3,
+        "attribute": "Catolicismo romano",
+        "prompt": "La religión principal practicada en Brasil es el"
+    },
+    {
+        "subject": "Argentina",
+        "known_id": 4,
+        "attribute": "Catolicismo romano",
+        "prompt": "La religión principal practicada en Argentina es el"
+    },
+    {
+        "subject": "Reino Unido",
+        "known_id": 5,
+        "attribute": "Cristianismo",
+        "prompt": "La religión principal practicada en Reino Unido es el"
+    },
+    {
+        "subject": "Francia",
+        "known_id": 6,
+        "attribute": "Catolicismo romano",
+        "prompt": "La religión principal practicada en Francia es el"
+    },
+    {
+        "subject": "Alemania",
+        "known_id": 7,
+        "attribute": "Cristianismo",
+        "prompt": "La religión principal practicada en Alemania es el"
+    },
+    {
+        "subject": "Italia",
+        "known_id": 8,
+        "attribute": "Catolicismo romano",
+        "prompt": "La religión principal practicada en Italia es el"
+    },
+    {
+        "subject": "Rusia",
+        "known_id": 9,
+        "attribute": "Cristianismo",
+        "prompt": "La religión principal practicada en Rusia es el"
+    },
+    {
+        "subject": "Arabia Saudita",
+        "known_id": 10,
+        "attribute": "Islam",
+        "prompt": "La religión principal practicada en Arabia Saudita es el"
+    },
+    {
+        "subject": "Emiratos Árabes Unidos",
+        "known_id": 11,
+        "attribute": "Islam",
+        "prompt": "La religión principal practicada en Emiratos Árabes Unidos es el"
+    },
+    {
+        "subject": "Irán",
+        "known_id": 12,
+        "attribute": "Islam",
+        "prompt": "La religión principal practicada en Irán es el"
+    },
+    {
+        "subject": "Turquía",
+        "known_id": 13,
+        "attribute": "Islam",
+        "prompt": "La religión principal practicada en Turquía es el"
+    },
+    {
+        "subject": "Pakistán",
+        "known_id": 14,
+        "attribute": "Islam",
+        "prompt": "La religión principal practicada en Pakistán es el"
+    },
+    {
+        "subject": "Indonesia",
+        "known_id": 15,
+        "attribute": "Islam",
+        "prompt": "La religión principal practicada en Indonesia es el"
+    },
+    {
+        "subject": "Egipto",
+        "known_id": 16,
+        "attribute": "Islam",
+        "prompt": "La religión principal practicada en Egipto es el"
+    },
+    {
+        "subject": "India",
+        "known_id": 17,
+        "attribute": "Hinduismo",
+        "prompt": "La religión principal practicada en India es el"
+    },
+    {
+        "subject": "Nepal",
+        "known_id": 18,
+        "attribute": "Hinduismo",
+        "prompt": "La religión principal practicada en Nepal es el"
+    },
+    {
+        "subject": "Bangladés",
+        "known_id": 19,
+        "attribute": "Islam",
+        "prompt": "La religión principal practicada en Bangladés es el"
+    },
+    {
+        "subject": "Sri Lanka",
+        "known_id": 20,
+        "attribute": "Budismo",
+        "prompt": "La religión principal practicada en Sri Lanka es el"
+    },
+    {
+        "subject": "Tailandia",
+        "known_id": 21,
+        "attribute": "Budismo",
+        "prompt": "La religión principal practicada en Tailandia es el"
+    },
+    {
+        "subject": "Vietnam",
+        "known_id": 22,
+        "attribute": "Budismo",
+        "prompt": "La religión principal practicada en Vietnam es el"
+    },
+    {
+        "subject": "Birmania",
+        "known_id": 23,
+        "attribute": "Budismo",
+        "prompt": "La religión principal practicada en Birmania es el"
+    },
+    {
+        "subject": "Japón",
+        "known_id": 24,
+        "attribute": "Sintoísmo",
+        "prompt": "La religión principal practicada en Japón es el"
+    },
+    {
+        "subject": "Corea del Sur",
+        "known_id": 25,
+        "attribute": "Budismo",
+        "prompt": "La religión principal practicada en Corea del Sur es el"
+    },
+    {
+        "subject": "Israel",
+        "known_id": 26,
+        "attribute": "Judaísmo",
+        "prompt": "La religión principal practicada en Israel es el"
+    },
+    {
+        "subject": "Etiopía",
+        "known_id": 27,
+        "attribute": "Cristianismo",
+        "prompt": "La religión principal practicada en Etiopía es el"
+    },
+    {
+        "subject": "Sudáfrica",
+        "known_id": 28,
+        "attribute": "Cristianismo",
+        "prompt": "La religión principal practicada en Sudáfrica es el"
+    },
+    {
+        "subject": "Nigeria",
+        "known_id": 29,
+        "attribute": "Islam y Cristianismo",
+        "prompt": "La religión principal practicada en Nigeria es el"
+    },
+    {
+        "subject": "Kenia",
+        "known_id": 30,
+        "attribute": "Cristianismo",
+        "prompt": "La religión principal practicada en Kenia es el"
+    },
+    {
+        "subject": "Ghana",
+        "known_id": 31,
+        "attribute": "Cristianismo",
+        "prompt": "La religión principal practicada en Ghana es el"
+    },
+    {
+        "subject": "Filipinas",
+        "known_id": 32,
+        "attribute": "Catolicismo romano",
+        "prompt": "La religión principal practicada en Filipinas es el"
+    },
+    {
+        "subject": "Malasia",
+        "known_id": 33,
+        "attribute": "Islam",
+        "prompt": "La religión principal practicada en Malasia es el"
+    },
+    {
+        "subject": "Kazajistán",
+        "known_id": 34,
+        "attribute": "Islam",
+        "prompt": "La religión principal practicada en Kazajistán es el"
+    },
+    {
+        "subject": "Mongolia",
+        "known_id": 35,
+        "attribute": "Budismo",
+        "prompt": "La religión principal practicada en Mongolia es el"
+    },
+    {
+        "subject": "Tíbet",
+        "known_id": 36,
+        "attribute": "Budismo",
+        "prompt": "La religión principal practicada en Tíbet es el"
+    },
+    {
+        "subject": "Cuba",
+        "known_id": 37,
+        "attribute": "Catolicismo romano",
+        "prompt": "La religión principal practicada en Cuba es el"
+    },
+    {
+        "subject": "Colombia",
+        "known_id": 38,
+        "attribute": "Catolicismo romano",
+        "prompt": "La religión principal practicada en Colombia es el"
+    },
+    {
+        "subject": "Chile",
+        "known_id": 39,
+        "attribute": "Catolicismo romano",
+        "prompt": "La religión principal practicada en Chile es el"
+    },
+    {
+        "subject": "Perú",
+        "known_id": 40,
+        "attribute": "Catolicismo romano",
+        "prompt": "La religión principal practicada en Perú es el"
+    },
+    {
+        "subject": "Venezuela",
+        "known_id": 41,
+        "attribute": "Catolicismo romano",
+        "prompt": "La religión principal practicada en Venezuela es el"
+    },
+    {
+        "subject": "Afganistán",
+        "known_id": 42,
+        "attribute": "Islam",
+        "prompt": "La religión principal practicada en Afganistán es el"
+    },
+    {
+        "subject": "Sudán",
+        "known_id": 43,
+        "attribute": "Islam",
+        "prompt": "La religión principal practicada en Sudán es el"
+    },
+    {
+        "subject": "Argelia",
+        "known_id": 44,
+        "attribute": "Islam",
+        "prompt": "La religión principal practicada en Argelia es el"
+    },
+    {
+        "subject": "Marruecos",
+        "known_id": 45,
+        "attribute": "Islam",
+        "prompt": "La religión principal practicada en Marruecos es el"
+    }
+]

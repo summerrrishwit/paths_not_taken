@@ -1,0 +1,272 @@
+[
+  {
+    "known_id": 0,
+    "subject": "Piano",
+    "attribute": "피아노",
+    "prompt": "Translate a word from English to korean. Word: 'Piano'. Translated: '"
+  },
+  {
+    "known_id": 1,
+    "subject": "Piano",
+    "attribute": "피아노",
+    "prompt": "Translate a word from English to korean. Word: 'Piano'. Translated: '"
+  },
+  {
+    "known_id": 2,
+    "subject": "Organ",
+    "attribute": "오르간",
+    "prompt": "Translate a word from English to korean. Word: 'Organ'. Translated: '"
+  },
+  {
+    "known_id": 3,
+    "subject": "Piano",
+    "attribute": "피아노",
+    "prompt": "Translate a word from English to korean. Word: 'Piano'. Translated: '"
+  },
+  {
+    "known_id": 4,
+    "subject": "Piano",
+    "attribute": "피아노",
+    "prompt": "Translate a word from English to korean. Word: 'Piano'. Translated: '"
+  },
+  {
+    "known_id": 5,
+    "subject": "Violin",
+    "attribute": "바이올린",
+    "prompt": "Translate a word from English to korean. Word: 'Violin'. Translated: '"
+  },
+  {
+    "known_id": 6,
+    "subject": "Violin",
+    "attribute": "바이올린",
+    "prompt": "Translate a word from English to korean. Word: 'Violin'. Translated: '"
+  },
+  {
+    "known_id": 7,
+    "subject": "Cello",
+    "attribute": "첼로",
+    "prompt": "Translate a word from English to korean. Word: 'Cello'. Translated: '"
+  },
+  {
+    "known_id": 8,
+    "subject": "Violin",
+    "attribute": "바이올린",
+    "prompt": "Translate a word from English to korean. Word: 'Violin'. Translated: '"
+  },
+  {
+    "known_id": 9,
+    "subject": "Trumpet",
+    "attribute": "트럼펫",
+    "prompt": "Translate a word from English to korean. Word: 'Trumpet'. Translated: '"
+  },
+  {
+    "known_id": 10,
+    "subject": "Trumpet",
+    "attribute": "트럼펫",
+    "prompt": "Translate a word from English to korean. Word: 'Trumpet'. Translated: '"
+  },
+  {
+    "known_id": 11,
+    "subject": "Saxophone",
+    "attribute": "색소폰",
+    "prompt": "Translate a word from English to korean. Word: 'Saxophone'. Translated: '"
+  },
+  {
+    "known_id": 12,
+    "subject": "Saxophone",
+    "attribute": "색소폰",
+    "prompt": "Translate a word from English to korean. Word: 'Saxophone'. Translated: '"
+  },
+  {
+    "known_id": 13,
+    "subject": "Piano",
+    "attribute": "피아노",
+    "prompt": "Translate a word from English to korean. Word: 'Piano'. Translated: '"
+  },
+  {
+    "known_id": 14,
+    "subject": "Piano",
+    "attribute": "피아노",
+    "prompt": "Translate a word from English to korean. Word: 'Piano'. Translated: '"
+  },
+  {
+    "known_id": 15,
+    "subject": "Guitar",
+    "attribute": "기타",
+    "prompt": "Translate a word from English to korean. Word: 'Guitar'. Translated: '"
+  },
+  {
+    "known_id": 16,
+    "subject": "Guitar",
+    "attribute": "기타",
+    "prompt": "Translate a word from English to korean. Word: 'Guitar'. Translated: '"
+  },
+  {
+    "known_id": 17,
+    "subject": "Guitar",
+    "attribute": "기타",
+    "prompt": "Translate a word from English to korean. Word: 'Guitar'. Translated: '"
+  },
+  {
+    "known_id": 18,
+    "subject": "Guitar",
+    "attribute": "기타",
+    "prompt": "Translate a word from English to korean. Word: 'Guitar'. Translated: '"
+  },
+  {
+    "known_id": 19,
+    "subject": "Guitar",
+    "attribute": "기타",
+    "prompt": "Translate a word from English to korean. Word: 'Guitar'. Translated: '"
+  },
+  {
+    "known_id": 20,
+    "subject": "Sitar",
+    "attribute": "시타르",
+    "prompt": "Translate a word from English to korean. Word: 'Sitar'. Translated: '"
+  },
+  {
+    "known_id": 21,
+    "subject": "Sitar",
+    "attribute": "시타르",
+    "prompt": "Translate a word from English to korean. Word: 'Sitar'. Translated: '"
+  },
+  {
+    "known_id": 22,
+    "subject": "Tabla",
+    "attribute": "타블라",
+    "prompt": "Translate a word from English to korean. Word: 'Tabla'. Translated: '"
+  },
+  {
+    "known_id": 23,
+    "subject": "Piano",
+    "attribute": "피아노",
+    "prompt": "Translate a word from English to korean. Word: 'Piano'. Translated: '"
+  },
+  {
+    "known_id": 24,
+    "subject": "Pipa",
+    "attribute": "피파",
+    "prompt": "Translate a word from English to korean. Word: 'Pipa'. Translated: '"
+  },
+  {
+    "known_id": 25,
+    "subject": "Erhu",
+    "attribute": "얼후",
+    "prompt": "Translate a word from English to korean. Word: 'Erhu'. Translated: '"
+  },
+  {
+    "known_id": 26,
+    "subject": "Guqin",
+    "attribute": "고금",
+    "prompt": "Translate a word from English to korean. Word: 'Guqin'. Translated: '"
+  },
+  {
+    "known_id": 27,
+    "subject": "Guqin",
+    "attribute": "고금",
+    "prompt": "Translate a word from English to korean. Word: 'Guqin'. Translated: '"
+  },
+  {
+    "known_id": 28,
+    "subject": "Violin",
+    "attribute": "바이올린",
+    "prompt": "Translate a word from English to korean. Word: 'Violin'. Translated: '"
+  },
+  {
+    "known_id": 29,
+    "subject": "Conductor",
+    "attribute": "지휘자",
+    "prompt": "Translate a word from English to korean. Word: 'Conductor'. Translated: '"
+  },
+  {
+    "known_id": 30,
+    "subject": "Piano",
+    "attribute": "피아노",
+    "prompt": "Translate a word from English to korean. Word: 'Piano'. Translated: '"
+  },
+  {
+    "known_id": 31,
+    "subject": "Piano",
+    "attribute": "피아노",
+    "prompt": "Translate a word from English to korean. Word: 'Piano'. Translated: '"
+  },
+  {
+    "known_id": 32,
+    "subject": "Synthesizer",
+    "attribute": "신시사이저",
+    "prompt": "Translate a word from English to korean. Word: 'Synthesizer'. Translated: '"
+  },
+  {
+    "known_id": 33,
+    "subject": "Piano",
+    "attribute": "피아노",
+    "prompt": "Translate a word from English to korean. Word: 'Piano'. Translated: '"
+  },
+  {
+    "known_id": 34,
+    "subject": "Gayageum",
+    "attribute": "가야금",
+    "prompt": "Translate a word from English to korean. Word: 'Gayageum'. Translated: '"
+  },
+  {
+    "known_id": 35,
+    "subject": "Janggu",
+    "attribute": "장구",
+    "prompt": "Translate a word from English to korean. Word: 'Janggu'. Translated: '"
+  },
+  {
+    "known_id": 36,
+    "subject": "Piano",
+    "attribute": "피아노",
+    "prompt": "Translate a word from English to korean. Word: 'Piano'. Translated: '"
+  },
+  {
+    "known_id": 37,
+    "subject": "Piano",
+    "attribute": "피아노",
+    "prompt": "Translate a word from English to korean. Word: 'Piano'. Translated: '"
+  },
+  {
+    "known_id": 38,
+    "subject": "Bass Guitar",
+    "attribute": "베이스 기타",
+    "prompt": "Translate a word from English to korean. Word: 'Bass Guitar'. Translated: '"
+  },
+  {
+    "known_id": 39,
+    "subject": "Bass Guitar",
+    "attribute": "베이스 기타",
+    "prompt": "Translate a word from English to korean. Word: 'Bass Guitar'. Translated: '"
+  },
+  {
+    "known_id": 40,
+    "subject": "Bass Guitar",
+    "attribute": "베이스 기타",
+    "prompt": "Translate a word from English to korean. Word: 'Bass Guitar'. Translated: '"
+  },
+  {
+    "known_id": 41,
+    "subject": "Guitar",
+    "attribute": "기타",
+    "prompt": "Translate a word from English to korean. Word: 'Guitar'. Translated: '"
+  },
+  {
+    "known_id": 42,
+    "subject": "Guitar",
+    "attribute": "기타",
+    "prompt": "Translate a word from English to korean. Word: 'Guitar'. Translated: '"
+  },
+  {
+    "known_id": 43,
+    "subject": "Guitar",
+    "attribute": "기타",
+    "prompt": "Translate a word from English to korean. Word: 'Guitar'. Translated: '"
+  },
+  {
+    "known_id": 44,
+    "subject": "Piano",
+    "attribute": "피아노",
+    "prompt": "Translate a word from English to korean. Word: 'Piano'. Translated: '"
+  }
+]

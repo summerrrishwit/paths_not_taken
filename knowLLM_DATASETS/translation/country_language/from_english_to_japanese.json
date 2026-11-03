@@ -1,0 +1,272 @@
+[
+  {
+    "known_id": 0,
+    "subject": "English",
+    "attribute": "英語",
+    "prompt": "Translate a word from English to japanese. Word: 'English'. Translated: '"
+  },
+  {
+    "known_id": 1,
+    "subject": "English",
+    "attribute": "英語",
+    "prompt": "Translate a word from English to japanese. Word: 'English'. Translated: '"
+  },
+  {
+    "known_id": 2,
+    "subject": "Spanish",
+    "attribute": "スペイン語",
+    "prompt": "Translate a word from English to japanese. Word: 'Spanish'. Translated: '"
+  },
+  {
+    "known_id": 3,
+    "subject": "Portuguese",
+    "attribute": "ポルトガル語",
+    "prompt": "Translate a word from English to japanese. Word: 'Portuguese'. Translated: '"
+  },
+  {
+    "known_id": 4,
+    "subject": "Spanish",
+    "attribute": "スペイン語",
+    "prompt": "Translate a word from English to japanese. Word: 'Spanish'. Translated: '"
+  },
+  {
+    "known_id": 5,
+    "subject": "Spanish",
+    "attribute": "スペイン語",
+    "prompt": "Translate a word from English to japanese. Word: 'Spanish'. Translated: '"
+  },
+  {
+    "known_id": 6,
+    "subject": "Spanish",
+    "attribute": "スペイン語",
+    "prompt": "Translate a word from English to japanese. Word: 'Spanish'. Translated: '"
+  },
+  {
+    "known_id": 7,
+    "subject": "Spanish",
+    "attribute": "スペイン語",
+    "prompt": "Translate a word from English to japanese. Word: 'Spanish'. Translated: '"
+  },
+  {
+    "known_id": 8,
+    "subject": "Spanish",
+    "attribute": "スペイン語",
+    "prompt": "Translate a word from English to japanese. Word: 'Spanish'. Translated: '"
+  },
+  {
+    "known_id": 9,
+    "subject": "Spanish",
+    "attribute": "スペイン語",
+    "prompt": "Translate a word from English to japanese. Word: 'Spanish'. Translated: '"
+  },
+  {
+    "known_id": 10,
+    "subject": "French",
+    "attribute": "フランス語",
+    "prompt": "Translate a word from English to japanese. Word: 'French'. Translated: '"
+  },
+  {
+    "known_id": 11,
+    "subject": "German",
+    "attribute": "ドイツ語",
+    "prompt": "Translate a word from English to japanese. Word: 'German'. Translated: '"
+  },
+  {
+    "known_id": 12,
+    "subject": "Italian",
+    "attribute": "イタリア語",
+    "prompt": "Translate a word from English to japanese. Word: 'Italian'. Translated: '"
+  },
+  {
+    "known_id": 13,
+    "subject": "Russian",
+    "attribute": "ロシア語",
+    "prompt": "Translate a word from English to japanese. Word: 'Russian'. Translated: '"
+  },
+  {
+    "known_id": 14,
+    "subject": "Mandarin Chinese",
+    "attribute": "標準中国語",
+    "prompt": "Translate a word from English to japanese. Word: 'Mandarin Chinese'. Translated: '"
+  },
+  {
+    "known_id": 15,
+    "subject": "Japanese",
+    "attribute": "日本語",
+    "prompt": "Translate a word from English to japanese. Word: 'Japanese'. Translated: '"
+  },
+  {
+    "known_id": 16,
+    "subject": "Korean",
+    "attribute": "韓国語",
+    "prompt": "Translate a word from English to japanese. Word: 'Korean'. Translated: '"
+  },
+  {
+    "known_id": 17,
+    "subject": "Hindi",
+    "attribute": "ヒンディー語",
+    "prompt": "Translate a word from English to japanese. Word: 'Hindi'. Translated: '"
+  },
+  {
+    "known_id": 18,
+    "subject": "Urdu",
+    "attribute": "ウルドゥー語",
+    "prompt": "Translate a word from English to japanese. Word: 'Urdu'. Translated: '"
+  },
+  {
+    "known_id": 19,
+    "subject": "English",
+    "attribute": "英語",
+    "prompt": "Translate a word from English to japanese. Word: 'English'. Translated: '"
+  },
+  {
+    "known_id": 20,
+    "subject": "Arabic",
+    "attribute": "アラビア語",
+    "prompt": "Translate a word from English to japanese. Word: 'Arabic'. Translated: '"
+  },
+  {
+    "known_id": 21,
+    "subject": "Arabic",
+    "attribute": "アラビア語",
+    "prompt": "Translate a word from English to japanese. Word: 'Arabic'. Translated: '"
+  },
+  {
+    "known_id": 22,
+    "subject": "Turkish",
+    "attribute": "トルコ語",
+    "prompt": "Translate a word from English to japanese. Word: 'Turkish'. Translated: '"
+  },
+  {
+    "known_id": 23,
+    "subject": "English",
+    "attribute": "英語",
+    "prompt": "Translate a word from English to japanese. Word: 'English'. Translated: '"
+  },
+  {
+    "known_id": 24,
+    "subject": "English",
+    "attribute": "英語",
+    "prompt": "Translate a word from English to japanese. Word: 'English'. Translated: '"
+  },
+  {
+    "known_id": 25,
+    "subject": "Swedish",
+    "attribute": "スウェーデン語",
+    "prompt": "Translate a word from English to japanese. Word: 'Swedish'. Translated: '"
+  },
+  {
+    "known_id": 26,
+    "subject": "Norwegian",
+    "attribute": "ノルウェー語",
+    "prompt": "Translate a word from English to japanese. Word: 'Norwegian'. Translated: '"
+  },
+  {
+    "known_id": 27,
+    "subject": "Danish",
+    "attribute": "デンマーク語",
+    "prompt": "Translate a word from English to japanese. Word: 'Danish'. Translated: '"
+  },
+  {
+    "known_id": 28,
+    "subject": "Finnish",
+    "attribute": "フィンランド語",
+    "prompt": "Translate a word from English to japanese. Word: 'Finnish'. Translated: '"
+  },
+  {
+    "known_id": 29,
+    "subject": "Icelandic",
+    "attribute": "アイスランド語",
+    "prompt": "Translate a word from English to japanese. Word: 'Icelandic'. Translated: '"
+  },
+  {
+    "known_id": 32,
+    "subject": "Amharic",
+    "attribute": "アムハラ語",
+    "prompt": "Translate a word from English to japanese. Word: 'Amharic'. Translated: '"
+  },
+  {
+    "known_id": 33,
+    "subject": "Greek",
+    "attribute": "ギリシャ語",
+    "prompt": "Translate a word from English to japanese. Word: 'Greek'. Translated: '"
+  },
+  {
+    "known_id": 34,
+    "subject": "Dutch",
+    "attribute": "オランダ語",
+    "prompt": "Translate a word from English to japanese. Word: 'Dutch'. Translated: '"
+  },
+  {
+    "known_id": 36,
+    "subject": "German",
+    "attribute": "ドイツ語",
+    "prompt": "Translate a word from English to japanese. Word: 'German'. Translated: '"
+  },
+  {
+    "known_id": 37,
+    "subject": "German",
+    "attribute": "ドイツ語",
+    "prompt": "Translate a word from English to japanese. Word: 'German'. Translated: '"
+  },
+  {
+    "known_id": 38,
+    "subject": "Portuguese",
+    "attribute": "ポルトガル語",
+    "prompt": "Translate a word from English to japanese. Word: 'Portuguese'. Translated: '"
+  },
+  {
+    "known_id": 39,
+    "subject": "Czech",
+    "attribute": "チェコ語",
+    "prompt": "Translate a word from English to japanese. Word: 'Czech'. Translated: '"
+  },
+  {
+    "known_id": 40,
+    "subject": "Polish",
+    "attribute": "ポーランド語",
+    "prompt": "Translate a word from English to japanese. Word: 'Polish'. Translated: '"
+  },
+  {
+    "known_id": 41,
+    "subject": "Hungarian",
+    "attribute": "ハンガリー語",
+    "prompt": "Translate a word from English to japanese. Word: 'Hungarian'. Translated: '"
+  },
+  {
+    "known_id": 42,
+    "subject": "Thai",
+    "attribute": "タイ語",
+    "prompt": "Translate a word from English to japanese. Word: 'Thai'. Translated: '"
+  },
+  {
+    "known_id": 43,
+    "subject": "Vietnamese",
+    "attribute": "ベトナム語",
+    "prompt": "Translate a word from English to japanese. Word: 'Vietnamese'. Translated: '"
+  },
+  {
+    "known_id": 44,
+    "subject": "Malay",
+    "attribute": "マレー語",
+    "prompt": "Translate a word from English to japanese. Word: 'Malay'. Translated: '"
+  },
+  {
+    "known_id": 46,
+    "subject": "Filipino",
+    "attribute": "フィリピノ語",
+    "prompt": "Translate a word from English to japanese. Word: 'Filipino'. Translated: '"
+  },
+  {
+    "known_id": 47,
+    "subject": "Bengali",
+    "attribute": "ベンガル語",
+    "prompt": "Translate a word from English to japanese. Word: 'Bengali'. Translated: '"
+  },
+  {
+    "known_id": 48,
+    "subject": "Sinhala",
+    "attribute": "シンハラ語",
+    "prompt": "Translate a word from English to japanese. Word: 'Sinhala'. Translated: '"
+  }
+]

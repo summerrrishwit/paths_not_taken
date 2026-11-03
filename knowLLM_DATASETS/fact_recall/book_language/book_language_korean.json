@@ -1,0 +1,326 @@
+[
+  {
+    "subject": "돈키호테",
+    "known_id": 0,
+    "attribute": "스페인어",
+    "prompt": "돈키호테가 원래 작성된 언어는"
+  },
+  {
+    "subject": "신곡",
+    "known_id": 1,
+    "attribute": "이탈리아어",
+    "prompt": "신곡가 원래 작성된 언어는"
+  },
+  {
+    "subject": "전쟁과 평화",
+    "known_id": 2,
+    "attribute": "러시아어",
+    "prompt": "전쟁과 평화가 원래 작성된 언어는"
+  },
+  {
+    "subject": "레 미제라블",
+    "known_id": 3,
+    "attribute": "프랑스어",
+    "prompt": "레 미제라블가 원래 작성된 언어는"
+  },
+  {
+    "subject": "일리아스",
+    "known_id": 4,
+    "attribute": "그리스어",
+    "prompt": "일리아스가 원래 작성된 언어는"
+  },
+  {
+    "subject": "오디세이아",
+    "known_id": 5,
+    "attribute": "그리스어",
+    "prompt": "오디세이아가 원래 작성된 언어는"
+  },
+  {
+    "subject": "파우스트",
+    "known_id": 6,
+    "attribute": "독일어",
+    "prompt": "파우스트가 원래 작성된 언어는"
+  },
+  {
+    "subject": "아이네이스",
+    "known_id": 7,
+    "attribute": "라틴어",
+    "prompt": "아이네이스가 원래 작성된 언어는"
+  },
+  {
+    "subject": "율리시스",
+    "known_id": 8,
+    "attribute": "영어",
+    "prompt": "율리시스가 원래 작성된 언어는"
+  },
+  {
+    "subject": "모비 딕",
+    "known_id": 9,
+    "attribute": "영어",
+    "prompt": "모비 딕가 원래 작성된 언어는"
+  },
+  {
+    "subject": "도리언 그레이의 초상",
+    "known_id": 10,
+    "attribute": "영어",
+    "prompt": "도리언 그레이의 초상가 원래 작성된 언어는"
+  },
+  {
+    "subject": "죄와 벌",
+    "known_id": 11,
+    "attribute": "러시아어",
+    "prompt": "죄와 벌가 원래 작성된 언어는"
+  },
+  {
+    "subject": "안나 카레니나",
+    "known_id": 12,
+    "attribute": "러시아어",
+    "prompt": "안나 카레니나가 원래 작성된 언어는"
+  },
+  {
+    "subject": "보바리 부인",
+    "known_id": 13,
+    "attribute": "프랑스어",
+    "prompt": "보바리 부인가 원래 작성된 언어는"
+  },
+  {
+    "subject": "몬테크리스토 백작",
+    "known_id": 14,
+    "attribute": "프랑스어",
+    "prompt": "몬테크리스토 백작가 원래 작성된 언어는"
+  },
+  {
+    "subject": "이방인",
+    "known_id": 15,
+    "attribute": "프랑스어",
+    "prompt": "이방인가 원래 작성된 언어는"
+  },
+  {
+    "subject": "변신",
+    "known_id": 16,
+    "attribute": "독일어",
+    "prompt": "변신가 원래 작성된 언어는"
+  },
+  {
+    "subject": "차라투스트라는 이렇게 말했다",
+    "known_id": 17,
+    "attribute": "독일어",
+    "prompt": "차라투스트라는 이렇게 말했다가 원래 작성된 언어는"
+  },
+  {
+    "subject": "카라마조프의 형제들",
+    "known_id": 18,
+    "attribute": "러시아어",
+    "prompt": "카라마조프의 형제들가 원래 작성된 언어는"
+  },
+  {
+    "subject": "거장과 마르가리타",
+    "known_id": 19,
+    "attribute": "러시아어",
+    "prompt": "거장과 마르가리타가 원래 작성된 언어는"
+  },
+  {
+    "subject": "장미의 이름",
+    "known_id": 20,
+    "attribute": "이탈리아어",
+    "prompt": "장미의 이름가 원래 작성된 언어는"
+  },
+  {
+    "subject": "백 년 동안의 고독",
+    "known_id": 21,
+    "attribute": "스페인어",
+    "prompt": "백 년 동안의 고독가 원래 작성된 언어는"
+  },
+  {
+    "subject": "루지타니아인의 노래",
+    "known_id": 22,
+    "attribute": "포르투갈어",
+    "prompt": "루지타니아인의 노래가 원래 작성된 언어는"
+  },
+  {
+    "subject": "데카메론",
+    "known_id": 23,
+    "attribute": "이탈리아어",
+    "prompt": "데카메론가 원래 작성된 언어는"
+  },
+  {
+    "subject": "젊은 베르테르의 고뇌",
+    "known_id": 24,
+    "attribute": "독일어",
+    "prompt": "젊은 베르테르의 고뇌가 원래 작성된 언어는"
+  },
+  {
+    "subject": "심판",
+    "known_id": 25,
+    "attribute": "독일어",
+    "prompt": "심판가 원래 작성된 언어는"
+  },
+  {
+    "subject": "걸리버 여행기",
+    "known_id": 26,
+    "attribute": "영어",
+    "prompt": "걸리버 여행기가 원래 작성된 언어는"
+  },
+  {
+    "subject": "프랑켄슈타인",
+    "known_id": 27,
+    "attribute": "영어",
+    "prompt": "프랑켄슈타인가 원래 작성된 언어는"
+  },
+  {
+    "subject": "군주론",
+    "known_id": 28,
+    "attribute": "이탈리아어",
+    "prompt": "군주론가 원래 작성된 언어는"
+  },
+  {
+    "subject": "노트르담의 곱추",
+    "known_id": 29,
+    "attribute": "프랑스어",
+    "prompt": "노트르담의 곱추가 원래 작성된 언어는"
+  },
+  {
+    "subject": "삼총사",
+    "known_id": 30,
+    "attribute": "프랑스어",
+    "prompt": "삼총사가 원래 작성된 언어는"
+  },
+  {
+    "subject": "롤랑의 노래",
+    "known_id": 31,
+    "attribute": "프랑스어",
+    "prompt": "롤랑의 노래가 원래 작성된 언어는"
+  },
+  {
+    "subject": "니벨룽겐의 노래",
+    "known_id": 32,
+    "attribute": "독일어",
+    "prompt": "니벨룽겐의 노래가 원래 작성된 언어는"
+  },
+  {
+    "subject": "광란의 오를란도",
+    "known_id": 33,
+    "attribute": "이탈리아어",
+    "prompt": "광란의 오를란도가 원래 작성된 언어는"
+  },
+  {
+    "subject": "캉디드",
+    "known_id": 34,
+    "attribute": "프랑스어",
+    "prompt": "캉디드가 원래 작성된 언어는"
+  },
+  {
+    "subject": "적과 흑",
+    "known_id": 35,
+    "attribute": "프랑스어",
+    "prompt": "적과 흑가 원래 작성된 언어는"
+  },
+  {
+    "subject": "제르미날",
+    "known_id": 36,
+    "attribute": "프랑스어",
+    "prompt": "제르미날가 원래 작성된 언어는"
+  },
+  {
+    "subject": "바스커빌 가의 사냥개",
+    "known_id": 37,
+    "attribute": "영어",
+    "prompt": "바스커빌 가의 사냥개가 원래 작성된 언어는"
+  },
+  {
+    "subject": "셜록 홈즈의 모험",
+    "known_id": 38,
+    "attribute": "영어",
+    "prompt": "셜록 홈즈의 모험가 원래 작성된 언어는"
+  },
+  {
+    "subject": "성",
+    "known_id": 39,
+    "attribute": "독일어",
+    "prompt": "성가 원래 작성된 언어는"
+  },
+  {
+    "subject": "부덴브로크 가(家)",
+    "known_id": 40,
+    "attribute": "독일어",
+    "prompt": "부덴브로크 가(家)가 원래 작성된 언어는"
+  },
+  {
+    "subject": "베네치아에서의 죽음",
+    "known_id": 41,
+    "attribute": "독일어",
+    "prompt": "베네치아에서의 죽음가 원래 작성된 언어는"
+  },
+  {
+    "subject": "파우스트 박사",
+    "known_id": 42,
+    "attribute": "독일어",
+    "prompt": "파우스트 박사가 원래 작성된 언어는"
+  },
+  {
+    "subject": "약혼자들",
+    "known_id": 43,
+    "attribute": "이탈리아어",
+    "prompt": "약혼자들가 원래 작성된 언어는"
+  },
+  {
+    "subject": "만약 어느 겨울밤 한 여행자가",
+    "known_id": 44,
+    "attribute": "이탈리아어",
+    "prompt": "만약 어느 겨울밤 한 여행자가가 원래 작성된 언어는"
+  },
+  {
+    "subject": "표범",
+    "known_id": 45,
+    "attribute": "이탈리아어",
+    "prompt": "표범가 원래 작성된 언어는"
+  },
+  {
+    "subject": "신사 트리스트럼 섄디의 생애와 의견",
+    "known_id": 46,
+    "attribute": "영어",
+    "prompt": "신사 트리스트럼 섄디의 생애와 의견가 원래 작성된 언어는"
+  },
+  {
+    "subject": "오만과 편견",
+    "known_id": 47,
+    "attribute": "영어",
+    "prompt": "오만과 편견가 원래 작성된 언어는"
+  },
+  {
+    "subject": "폭풍의 언덕",
+    "known_id": 48,
+    "attribute": "영어",
+    "prompt": "폭풍의 언덕가 원래 작성된 언어는"
+  },
+  {
+    "subject": "올리버 트위스트",
+    "known_id": 49,
+    "attribute": "영어",
+    "prompt": "올리버 트위스트가 원래 작성된 언어는"
+  },
+  {
+    "subject": "데이비드 코퍼필드",
+    "known_id": 50,
+    "attribute": "영어",
+    "prompt": "데이비드 코퍼필드가 원래 작성된 언어는"
+  },
+  {
+    "subject": "백치",
+    "known_id": 51,
+    "attribute": "러시아어",
+    "prompt": "백치가 원래 작성된 언어는"
+  },
+  {
+    "subject": "아버지와 아들",
+    "known_id": 52,
+    "attribute": "러시아어",
+    "prompt": "아버지와 아들가 원래 작성된 언어는"
+  },
+  {
+    "subject": "죽은 영혼",
+    "known_id": 53,
+    "attribute": "러시아어",
+    "prompt": "죽은 영혼가 원래 작성된 언어는"
+  }
+]

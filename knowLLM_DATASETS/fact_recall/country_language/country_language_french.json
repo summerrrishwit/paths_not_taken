@@ -1,0 +1,407 @@
+[
+    {
+        "known_id": 0,
+        "subject": "États-Unis",
+        "attribute": "Anglais",
+        "template": "{} parlent",
+        "prediction": " Anglais.",
+        "prompt": "La langue officielle aux États-Unis est l'",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 1,
+        "subject": "Canada",
+        "attribute": "Anglais",
+        "template": "{} parlent",
+        "prediction": " Anglais.",
+        "prompt": "La langue officielle au Canada est l'",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 2,
+        "subject": "Mexique",
+        "attribute": "Espagnol",
+        "template": "{} parlent",
+        "prediction": " Espagnol.",
+        "prompt": "La langue officielle au Mexique est l'",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 3,
+        "subject": "Brésil",
+        "attribute": "Portugais",
+        "template": "{} parlent",
+        "prediction": " Portugais.",
+        "prompt": "La langue officielle au Brésil est le",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 4,
+        "subject": "Argentine",
+        "attribute": "Espagnol",
+        "template": "{} parlent",
+        "prediction": " Espagnol.",
+        "prompt": "La langue officielle en Argentine est l'",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 5,
+        "subject": "Chili",
+        "attribute": "Espagnol",
+        "template": "{} parlent",
+        "prediction": " Espagnol.",
+        "prompt": "La langue officielle au Chili est l'",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 6,
+        "subject": "Pérou",
+        "attribute": "Espagnol",
+        "template": "{} parlent",
+        "prediction": " Espagnol.",
+        "prompt": "La langue officielle au Pérou est l'",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 7,
+        "subject": "Colombie",
+        "attribute": "Espagnol",
+        "template": "{} parlent",
+        "prediction": " Espagnol.",
+        "prompt": "La langue officielle en Colombie est l'",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 8,
+        "subject": "Venezuela",
+        "attribute": "Espagnol",
+        "template": "{} parlent",
+        "prediction": " Espagnol.",
+        "prompt": "La langue officielle au Venezuela est l'",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 9,
+        "subject": "Espagne",
+        "attribute": "Espagnol",
+        "template": "{} parlent",
+        "prediction": " Espagnol.",
+        "prompt": "La langue officielle en Espagne est l'",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 10,
+        "subject": "France",
+        "attribute": "Français",
+        "template": "{} parlent",
+        "prediction": " Français.",
+        "prompt": "La langue officielle en France est le",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 11,
+        "subject": "Allemagne",
+        "attribute": "Allemand",
+        "template": "{} parlent",
+        "prediction": " Allemand.",
+        "prompt": "La langue officielle en Allemagne est l'",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 12,
+        "subject": "Italie",
+        "attribute": "Italien",
+        "template": "{} parlent",
+        "prediction": " Italien.",
+        "prompt": "La langue officielle en Italie est l'",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 13,
+        "subject": "Russie",
+        "attribute": "Russe",
+        "template": "{} parlent",
+        "prediction": " Russe.",
+        "prompt": "La langue officielle en Russie est le",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 14,
+        "subject": "Chine",
+        "attribute": "Mandarin",
+        "template": "{} parlent",
+        "prediction": " Mandarin.",
+        "prompt": "La langue officielle en Chine est le",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 15,
+        "subject": "Japon",
+        "attribute": "Japonais",
+        "template": "{} parlent",
+        "prediction": " Japonais.",
+        "prompt": "La langue officielle au Japon est le",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 16,
+        "subject": "Corée du Sud",
+        "attribute": "Coréen",
+        "template": "{} parlent",
+        "prediction": " Coréen.",
+        "prompt": "La langue officielle en Corée du Sud est le",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 17,
+        "subject": "Inde",
+        "attribute": "Hindi",
+        "template": "{} parlent",
+        "prediction": " Hindi.",
+        "prompt": "La langue officielle en Inde est l'",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 18,
+        "subject": "Pakistan",
+        "attribute": "Ourdou",
+        "template": "{} parlent",
+        "prediction": " Ourdou.",
+        "prompt": "La langue officielle au Pakistan est l'",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 19,
+        "subject": "Nigéria",
+        "attribute": "Anglais",
+        "template": "{} parlent",
+        "prediction": " Anglais.",
+        "prompt": "La langue officielle au Nigéria est l'",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 20,
+        "subject": "Égypte",
+        "attribute": "Arabe",
+        "template": "{} parlent",
+        "prediction": " Arabe.",
+        "prompt": "La langue officielle en Égypte est l'",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 21,
+        "subject": "Arabie Saoudite",
+        "attribute": "Arabe",
+        "template": "{} parlent",
+        "prediction": " Arabe.",
+        "prompt": "La langue officielle en Arabie Saoudite est l'",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 22,
+        "subject": "Turquie",
+        "attribute": "Turc",
+        "template": "{} parlent",
+        "prediction": " Turc.",
+        "prompt": "La langue officielle en Turquie est le",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 23,
+        "subject": "Australie",
+        "attribute": "Anglais",
+        "template": "{} parlent",
+        "prediction": " Anglais.",
+        "prompt": "La langue officielle en Australie est l'",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 24,
+        "subject": "Nouvelle-Zélande",
+        "attribute": "Anglais",
+        "template": "{} parlent",
+        "prediction": " Anglais.",
+        "prompt": "La langue officielle en Nouvelle-Zélande est l'",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 25,
+        "subject": "Suède",
+        "attribute": "Suédois",
+        "template": "{} parlent",
+        "prediction": " Suédois.",
+        "prompt": "La langue officielle en Suède est le",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 26,
+        "subject": "Norvège",
+        "attribute": "Norvégien",
+        "template": "{} parlent",
+        "prediction": " Norvégien.",
+        "prompt": "La langue officielle en Norvège est le",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 27,
+        "subject": "Danemark",
+        "attribute": "Danois",
+        "template": "{} parlent",
+        "prediction": " Danois.",
+        "prompt": "La langue officielle au Danemark est le",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 28,
+        "subject": "Finlande",
+        "attribute": "Finnois",
+        "template": "{} parlent",
+        "prediction": " Finnois.",
+        "prompt": "La langue officielle en Finlande est le",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 29,
+        "subject": "Islande",
+        "attribute": "Islandais",
+        "template": "{} parlent",
+        "prediction": " Islandais.",
+        "prompt": "La langue officielle en Islande est l'",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 32,
+        "subject": "Éthiopie",
+        "attribute": "Amharique",
+        "template": "{} parlent",
+        "prediction": " Amharique.",
+        "prompt": "La langue officielle en Éthiopie est l'",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 33,
+        "subject": "Grèce",
+        "attribute": "Grec",
+        "template": "{} parlent",
+        "prediction": " Grec.",
+        "prompt": "La langue officielle en Grèce est le",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 34,
+        "subject": "Pays-Bas",
+        "attribute": "Néerlandais",
+        "template": "{} parlent",
+        "prediction": " Néerlandais.",
+        "prompt": "La langue officielle aux Pays-Bas est le",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 36,
+        "subject": "Autriche",
+        "attribute": "Allemand",
+        "template": "{} parlent",
+        "prediction": " Allemand.",
+        "prompt": "La langue officielle en Autriche est l'",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 37,
+        "subject": "Suisse",
+        "attribute": "Allemand",
+        "template": "{} parlent",
+        "prediction": " Allemand.",
+        "prompt": "La langue officielle en Suisse est l'",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 38,
+        "subject": "Portugal",
+        "attribute": "Portugais",
+        "template": "{} parlent",
+        "prediction": " Portugais.",
+        "prompt": "La langue officielle au Portugal est le",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 39,
+        "subject": "République tchèque",
+        "attribute": "Tchèque",
+        "template": "{} parlent",
+        "prediction": " Tchèque.",
+        "prompt": "La langue officielle en République tchèque est le",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 40,
+        "subject": "Pologne",
+        "attribute": "Polonais",
+        "template": "{} parlent",
+        "prediction": " Polonais.",
+        "prompt": "La langue officielle en Pologne est le",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 41,
+        "subject": "Hongrie",
+        "attribute": "Hongrois",
+        "template": "{} parlent",
+        "prediction": " Hongrois.",
+        "prompt": "La langue officielle en Hongrie est le",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 42,
+        "subject": "Thaïlande",
+        "attribute": "Thaï",
+        "template": "{} parlent",
+        "prediction": " Thaï.",
+        "prompt": "La langue officielle en Thaïlande est le",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 43,
+        "subject": "Vietnam",
+        "attribute": "Vietnamien",
+        "template": "{} parlent",
+        "prediction": " Vietnamien.",
+        "prompt": "La langue officielle au Vietnam est le",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 44,
+        "subject": "Malaisie",
+        "attribute": "Malais",
+        "template": "{} parlent",
+        "prediction": " Malais.",
+        "prompt": "La langue officielle en Malaisie est le",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 46,
+        "subject": "Philippines",
+        "attribute": "Filipino",
+        "template": "{} parlent",
+        "prediction": " Filipino.",
+        "prompt": "La langue officielle aux Philippines est le",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 47,
+        "subject": "Bangladesh",
+        "attribute": "Bengali",
+        "template": "{} parlent",
+        "prediction": " Bengali.",
+        "prompt": "La langue officielle au Bangladesh est le",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 48,
+        "subject": "Sri Lanka",
+        "attribute": "Singhalais",
+        "template": "{} parlent",
+        "prediction": " Singhalais.",
+        "prompt": "La langue officielle au Sri Lanka est le",
+        "relation_id": "P37"
+    }
+]

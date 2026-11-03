@@ -1,0 +1,284 @@
+[
+  {
+    "subject": "Perro",
+    "known_id": 0,
+    "attribute": "Mamífero",
+    "prompt": "Perro está clasificado biológicamente como un"
+  },
+  {
+    "subject": "Gato",
+    "known_id": 1,
+    "attribute": "Mamífero",
+    "prompt": "Gato está clasificado biológicamente como un"
+  },
+  {
+    "subject": "Humano",
+    "known_id": 2,
+    "attribute": "Mamífero",
+    "prompt": "Humano está clasificado biológicamente como un"
+  },
+  {
+    "subject": "Elefante",
+    "known_id": 3,
+    "attribute": "Mamífero",
+    "prompt": "Elefante está clasificado biológicamente como un"
+  },
+  {
+    "subject": "León",
+    "known_id": 4,
+    "attribute": "Mamífero",
+    "prompt": "León está clasificado biológicamente como un"
+  },
+  {
+    "subject": "Tigre",
+    "known_id": 5,
+    "attribute": "Mamífero",
+    "prompt": "Tigre está clasificado biológicamente como un"
+  },
+  {
+    "subject": "Gorila",
+    "known_id": 6,
+    "attribute": "Mamífero",
+    "prompt": "Gorila está clasificado biológicamente como un"
+  },
+  {
+    "subject": "Delfín",
+    "known_id": 7,
+    "attribute": "Mamífero",
+    "prompt": "Delfín está clasificado biológicamente como un"
+  },
+  {
+    "subject": "Ballena",
+    "known_id": 8,
+    "attribute": "Mamífero",
+    "prompt": "Ballena está clasificado biológicamente como un"
+  },
+  {
+    "subject": "Murciélago",
+    "known_id": 9,
+    "attribute": "Mamífero",
+    "prompt": "Murciélago está clasificado biológicamente como un"
+  },
+  {
+    "subject": "Caballo",
+    "known_id": 10,
+    "attribute": "Mamífero",
+    "prompt": "Caballo está clasificado biológicamente como un"
+  },
+  {
+    "subject": "Canguro",
+    "known_id": 11,
+    "attribute": "Mamífero",
+    "prompt": "Canguro está clasificado biológicamente como un"
+  },
+  {
+    "subject": "Cocodrilo",
+    "known_id": 12,
+    "attribute": "Reptil",
+    "prompt": "Cocodrilo está clasificado biológicamente como un"
+  },
+  {
+    "subject": "Serpiente",
+    "known_id": 13,
+    "attribute": "Reptil",
+    "prompt": "Serpiente está clasificado biológicamente como un"
+  },
+  {
+    "subject": "Tortuga",
+    "known_id": 14,
+    "attribute": "Reptil",
+    "prompt": "Tortuga está clasificado biológicamente como un"
+  },
+  {
+    "subject": "Camaleón",
+    "known_id": 15,
+    "attribute": "Reptil",
+    "prompt": "Camaleón está clasificado biológicamente como un"
+  },
+  {
+    "subject": "Dragón de Komodo",
+    "known_id": 16,
+    "attribute": "Reptil",
+    "prompt": "Dragón de Komodo está clasificado biológicamente como un"
+  },
+  {
+    "subject": "Rana",
+    "known_id": 17,
+    "attribute": "Anfibio",
+    "prompt": "Rana está clasificado biológicamente como un"
+  },
+  {
+    "subject": "Sapo",
+    "known_id": 18,
+    "attribute": "Anfibio",
+    "prompt": "Sapo está clasificado biológicamente como un"
+  },
+  {
+    "subject": "Salamandra",
+    "known_id": 19,
+    "attribute": "Anfibio",
+    "prompt": "Salamandra está clasificado biológicamente como un"
+  },
+  {
+    "subject": "Tritón",
+    "known_id": 20,
+    "attribute": "Anfibio",
+    "prompt": "Tritón está clasificado biológicamente como un"
+  },
+  {
+    "subject": "Pez dorado",
+    "known_id": 21,
+    "attribute": "Pez",
+    "prompt": "Pez dorado está clasificado biológicamente como un"
+  },
+  {
+    "subject": "Tiburón",
+    "known_id": 22,
+    "attribute": "Pez",
+    "prompt": "Tiburón está clasificado biológicamente como un"
+  },
+  {
+    "subject": "Atún",
+    "known_id": 23,
+    "attribute": "Pez",
+    "prompt": "Atún está clasificado biológicamente como un"
+  },
+  {
+    "subject": "Salmón",
+    "known_id": 24,
+    "attribute": "Pez",
+    "prompt": "Salmón está clasificado biológicamente como un"
+  },
+  {
+    "subject": "Anguila",
+    "known_id": 25,
+    "attribute": "Pez",
+    "prompt": "Anguila está clasificado biológicamente como un"
+  },
+  {
+    "subject": "Loro",
+    "known_id": 26,
+    "attribute": "Ave",
+    "prompt": "Loro está clasificado biológicamente como un"
+  },
+  {
+    "subject": "Águila",
+    "known_id": 27,
+    "attribute": "Ave",
+    "prompt": "Águila está clasificado biológicamente como un"
+  },
+  {
+    "subject": "Pingüino",
+    "known_id": 28,
+    "attribute": "Ave",
+    "prompt": "Pingüino está clasificado biológicamente como un"
+  },
+  {
+    "subject": "Avestruz",
+    "known_id": 29,
+    "attribute": "Ave",
+    "prompt": "Avestruz está clasificado biológicamente como un"
+  },
+  {
+    "subject": "Pavo real",
+    "known_id": 30,
+    "attribute": "Ave",
+    "prompt": "Pavo real está clasificado biológicamente como un"
+  },
+  {
+    "subject": "Mariposa",
+    "known_id": 31,
+    "attribute": "Insecto",
+    "prompt": "Mariposa está clasificado biológicamente como un"
+  },
+  {
+    "subject": "Abeja",
+    "known_id": 32,
+    "attribute": "Insecto",
+    "prompt": "Abeja está clasificado biológicamente como un"
+  },
+  {
+    "subject": "Hormiga",
+    "known_id": 33,
+    "attribute": "Insecto",
+    "prompt": "Hormiga está clasificado biológicamente como un"
+  },
+  {
+    "subject": "Saltamontes",
+    "known_id": 34,
+    "attribute": "Insecto",
+    "prompt": "Saltamontes está clasificado biológicamente como un"
+  },
+  {
+    "subject": "Libélula",
+    "known_id": 35,
+    "attribute": "Insecto",
+    "prompt": "Libélula está clasificado biológicamente como un"
+  },
+  {
+    "subject": "Araña",
+    "known_id": 36,
+    "attribute": "Arácnido",
+    "prompt": "Araña está clasificado biológicamente como un"
+  },
+  {
+    "subject": "Escorpión",
+    "known_id": 37,
+    "attribute": "Arácnido",
+    "prompt": "Escorpión está clasificado biológicamente como un"
+  },
+  {
+    "subject": "Pulpo",
+    "known_id": 38,
+    "attribute": "Cefalópodo",
+    "prompt": "Pulpo está clasificado biológicamente como un"
+  },
+  {
+    "subject": "Calamar",
+    "known_id": 39,
+    "attribute": "Cefalópodo",
+    "prompt": "Calamar está clasificado biológicamente como un"
+  },
+  {
+    "subject": "Medusa",
+    "known_id": 40,
+    "attribute": "Cnidario",
+    "prompt": "Medusa está clasificado biológicamente como un"
+  },
+  {
+    "subject": "Estrella de mar",
+    "known_id": 41,
+    "attribute": "Equinodermo",
+    "prompt": "Estrella de mar está clasificado biológicamente como un"
+  },
+  {
+    "subject": "Erizo de mar",
+    "known_id": 42,
+    "attribute": "Equinodermo",
+    "prompt": "Erizo de mar está clasificado biológicamente como un"
+  },
+  {
+    "subject": "Lombriz de tierra",
+    "known_id": 43,
+    "attribute": "Anélido",
+    "prompt": "Lombriz de tierra está clasificado biológicamente como un"
+  },
+  {
+    "subject": "Caracol",
+    "known_id": 44,
+    "attribute": "Molusco",
+    "prompt": "Caracol está clasificado biológicamente como un"
+  },
+  {
+    "subject": "Cangrejo",
+    "known_id": 45,
+    "attribute": "Crustáceo",
+    "prompt": "Cangrejo está clasificado biológicamente como un"
+  },
+  {
+    "subject": "Langosta",
+    "known_id": 46,
+    "attribute": "Crustáceo",
+    "prompt": "Langosta está clasificado biológicamente como un"
+  }
+]

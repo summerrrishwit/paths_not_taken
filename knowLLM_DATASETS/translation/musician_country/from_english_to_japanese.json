@@ -1,0 +1,284 @@
+[
+  {
+    "known_id": 0,
+    "subject": "Germany",
+    "attribute": "ドイツ",
+    "prompt": "Translate a word from English to japanese. Word: 'Germany'. Translated: '"
+  },
+  {
+    "known_id": 1,
+    "subject": "Austria",
+    "attribute": "オーストリア",
+    "prompt": "Translate a word from English to japanese. Word: 'Austria'. Translated: '"
+  },
+  {
+    "known_id": 2,
+    "subject": "Germany",
+    "attribute": "ドイツ",
+    "prompt": "Translate a word from English to japanese. Word: 'Germany'. Translated: '"
+  },
+  {
+    "known_id": 3,
+    "subject": "Poland",
+    "attribute": "ポーランド",
+    "prompt": "Translate a word from English to japanese. Word: 'Poland'. Translated: '"
+  },
+  {
+    "known_id": 4,
+    "subject": "Russia",
+    "attribute": "ロシア",
+    "prompt": "Translate a word from English to japanese. Word: 'Russia'. Translated: '"
+  },
+  {
+    "known_id": 5,
+    "subject": "France",
+    "attribute": "フランス",
+    "prompt": "Translate a word from English to japanese. Word: 'France'. Translated: '"
+  },
+  {
+    "known_id": 6,
+    "subject": "Russia",
+    "attribute": "ロシア",
+    "prompt": "Translate a word from English to japanese. Word: 'Russia'. Translated: '"
+  },
+  {
+    "known_id": 7,
+    "subject": "Italy",
+    "attribute": "イタリア",
+    "prompt": "Translate a word from English to japanese. Word: 'Italy'. Translated: '"
+  },
+  {
+    "known_id": 8,
+    "subject": "Austria",
+    "attribute": "オーストリア",
+    "prompt": "Translate a word from English to japanese. Word: 'Austria'. Translated: '"
+  },
+  {
+    "known_id": 9,
+    "subject": "Russia",
+    "attribute": "ロシア",
+    "prompt": "Translate a word from English to japanese. Word: 'Russia'. Translated: '"
+  },
+  {
+    "known_id": 10,
+    "subject": "Russia",
+    "attribute": "ロシア",
+    "prompt": "Translate a word from English to japanese. Word: 'Russia'. Translated: '"
+  },
+  {
+    "known_id": 11,
+    "subject": "United States",
+    "attribute": "アメリカ合衆国",
+    "prompt": "Translate a word from English to japanese. Word: 'United States'. Translated: '"
+  },
+  {
+    "known_id": 12,
+    "subject": "United States",
+    "attribute": "アメリカ合衆国",
+    "prompt": "Translate a word from English to japanese. Word: 'United States'. Translated: '"
+  },
+  {
+    "known_id": 13,
+    "subject": "Germany",
+    "attribute": "ドイツ",
+    "prompt": "Translate a word from English to japanese. Word: 'Germany'. Translated: '"
+  },
+  {
+    "known_id": 14,
+    "subject": "Germany",
+    "attribute": "ドイツ",
+    "prompt": "Translate a word from English to japanese. Word: 'Germany'. Translated: '"
+  },
+  {
+    "known_id": 15,
+    "subject": "Austria",
+    "attribute": "オーストリア",
+    "prompt": "Translate a word from English to japanese. Word: 'Austria'. Translated: '"
+  },
+  {
+    "known_id": 16,
+    "subject": "Italy",
+    "attribute": "イタリア",
+    "prompt": "Translate a word from English to japanese. Word: 'Italy'. Translated: '"
+  },
+  {
+    "known_id": 17,
+    "subject": "Finland",
+    "attribute": "フィンランド",
+    "prompt": "Translate a word from English to japanese. Word: 'Finland'. Translated: '"
+  },
+  {
+    "known_id": 18,
+    "subject": "Norway",
+    "attribute": "ノルウェー",
+    "prompt": "Translate a word from English to japanese. Word: 'Norway'. Translated: '"
+  },
+  {
+    "known_id": 19,
+    "subject": "United States",
+    "attribute": "アメリカ合衆国",
+    "prompt": "Translate a word from English to japanese. Word: 'United States'. Translated: '"
+  },
+  {
+    "known_id": 20,
+    "subject": "United States",
+    "attribute": "アメリカ合衆国",
+    "prompt": "Translate a word from English to japanese. Word: 'United States'. Translated: '"
+  },
+  {
+    "known_id": 21,
+    "subject": "Italy",
+    "attribute": "イタリア",
+    "prompt": "Translate a word from English to japanese. Word: 'Italy'. Translated: '"
+  },
+  {
+    "known_id": 22,
+    "subject": "Estonia",
+    "attribute": "エストニア",
+    "prompt": "Translate a word from English to japanese. Word: 'Estonia'. Translated: '"
+  },
+  {
+    "known_id": 23,
+    "subject": "Hungary",
+    "attribute": "ハンガリー",
+    "prompt": "Translate a word from English to japanese. Word: 'Hungary'. Translated: '"
+  },
+  {
+    "known_id": 24,
+    "subject": "Spain",
+    "attribute": "スペイン",
+    "prompt": "Translate a word from English to japanese. Word: 'Spain'. Translated: '"
+  },
+  {
+    "known_id": 25,
+    "subject": "France",
+    "attribute": "フランス",
+    "prompt": "Translate a word from English to japanese. Word: 'France'. Translated: '"
+  },
+  {
+    "known_id": 26,
+    "subject": "Russia",
+    "attribute": "ロシア",
+    "prompt": "Translate a word from English to japanese. Word: 'Russia'. Translated: '"
+  },
+  {
+    "known_id": 27,
+    "subject": "France",
+    "attribute": "フランス",
+    "prompt": "Translate a word from English to japanese. Word: 'France'. Translated: '"
+  },
+  {
+    "known_id": 28,
+    "subject": "France",
+    "attribute": "フランス",
+    "prompt": "Translate a word from English to japanese. Word: 'France'. Translated: '"
+  },
+  {
+    "known_id": 29,
+    "subject": "Russia",
+    "attribute": "ロシア",
+    "prompt": "Translate a word from English to japanese. Word: 'Russia'. Translated: '"
+  },
+  {
+    "known_id": 30,
+    "subject": "United Kingdom",
+    "attribute": "イギリス",
+    "prompt": "Translate a word from English to japanese. Word: 'United Kingdom'. Translated: '"
+  },
+  {
+    "known_id": 31,
+    "subject": "United Kingdom",
+    "attribute": "イギリス",
+    "prompt": "Translate a word from English to japanese. Word: 'United Kingdom'. Translated: '"
+  },
+  {
+    "known_id": 32,
+    "subject": "France",
+    "attribute": "フランス",
+    "prompt": "Translate a word from English to japanese. Word: 'France'. Translated: '"
+  },
+  {
+    "known_id": 33,
+    "subject": "Austria",
+    "attribute": "オーストリア",
+    "prompt": "Translate a word from English to japanese. Word: 'Austria'. Translated: '"
+  },
+  {
+    "known_id": 34,
+    "subject": "Germany",
+    "attribute": "ドイツ",
+    "prompt": "Translate a word from English to japanese. Word: 'Germany'. Translated: '"
+  },
+  {
+    "known_id": 35,
+    "subject": "Italy",
+    "attribute": "イタリア",
+    "prompt": "Translate a word from English to japanese. Word: 'Italy'. Translated: '"
+  },
+  {
+    "known_id": 36,
+    "subject": "Denmark",
+    "attribute": "デンマーク",
+    "prompt": "Translate a word from English to japanese. Word: 'Denmark'. Translated: '"
+  },
+  {
+    "known_id": 37,
+    "subject": "Hungary",
+    "attribute": "ハンガリー",
+    "prompt": "Translate a word from English to japanese. Word: 'Hungary'. Translated: '"
+  },
+  {
+    "known_id": 38,
+    "subject": "Argentina",
+    "attribute": "アルゼンチン",
+    "prompt": "Translate a word from English to japanese. Word: 'Argentina'. Translated: '"
+  },
+  {
+    "known_id": 39,
+    "subject": "Argentina",
+    "attribute": "アルゼンチン",
+    "prompt": "Translate a word from English to japanese. Word: 'Argentina'. Translated: '"
+  },
+  {
+    "known_id": 40,
+    "subject": "Russia",
+    "attribute": "ロシア",
+    "prompt": "Translate a word from English to japanese. Word: 'Russia'. Translated: '"
+  },
+  {
+    "known_id": 41,
+    "subject": "Russia",
+    "attribute": "ロシア",
+    "prompt": "Translate a word from English to japanese. Word: 'Russia'. Translated: '"
+  },
+  {
+    "known_id": 42,
+    "subject": "Poland",
+    "attribute": "ポーランド",
+    "prompt": "Translate a word from English to japanese. Word: 'Poland'. Translated: '"
+  },
+  {
+    "known_id": 43,
+    "subject": "United States",
+    "attribute": "アメリカ合衆国",
+    "prompt": "Translate a word from English to japanese. Word: 'United States'. Translated: '"
+  },
+  {
+    "known_id": 44,
+    "subject": "United States",
+    "attribute": "アメリカ合衆国",
+    "prompt": "Translate a word from English to japanese. Word: 'United States'. Translated: '"
+  },
+  {
+    "known_id": 45,
+    "subject": "Poland",
+    "attribute": "ポーランド",
+    "prompt": "Translate a word from English to japanese. Word: 'Poland'. Translated: '"
+  },
+  {
+    "known_id": 46,
+    "subject": "United States",
+    "attribute": "アメリカ合衆国",
+    "prompt": "Translate a word from English to japanese. Word: 'United States'. Translated: '"
+  }
+]

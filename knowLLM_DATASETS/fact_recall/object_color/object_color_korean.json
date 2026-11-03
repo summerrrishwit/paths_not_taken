@@ -1,0 +1,264 @@
+[
+    {
+        "subject": "바나나",
+        "known_id": 0,
+        "attribute": "노랑",
+        "prompt": "바나나의 색깔은"
+    },
+    {
+        "subject": "딸기",
+        "known_id": 1,
+        "attribute": "빨강",
+        "prompt": "딸기의 색깔은"
+    },
+    {
+        "subject": "당근",
+        "known_id": 2,
+        "attribute": "주황",
+        "prompt": "당근의 색깔은"
+    },
+    {
+        "subject": "양상추",
+        "known_id": 3,
+        "attribute": "초록",
+        "prompt": "양상추의 색깔은"
+    },
+    {
+        "subject": "가지",
+        "known_id": 4,
+        "attribute": "보라",
+        "prompt": "가지의 색깔은"
+    },
+    {
+        "subject": "눈",
+        "known_id": 5,
+        "attribute": "하양",
+        "prompt": "눈의 색깔은"
+    },
+    {
+        "subject": "석탄",
+        "known_id": 6,
+        "attribute": "검정",
+        "prompt": "석탄의 색깔은"
+    },
+    {
+        "subject": "블루베리",
+        "known_id": 7,
+        "attribute": "파랑",
+        "prompt": "블루베리의 색깔은"
+    },
+
+    {
+        "subject": "호박",
+        "known_id": 9,
+        "attribute": "주황",
+        "prompt": "호박의 색깔은"
+    },
+    {
+        "subject": "포도",
+        "known_id": 10,
+        "attribute": "보라",
+        "prompt": "포도의 색깔은"
+    },
+    {
+        "subject": "라임",
+        "known_id": 11,
+        "attribute": "초록",
+        "prompt": "라임의 색깔은"
+    },
+    {
+        "subject": "코코넛",
+        "known_id": 12,
+        "attribute": "갈색",
+        "prompt": "코코넛의 색깔은"
+    },
+    {
+        "subject": "토마토",
+        "known_id": 13,
+        "attribute": "빨강",
+        "prompt": "토마토의 색깔은"
+    },
+    {
+        "subject": "레몬",
+        "known_id": 14,
+        "attribute": "노랑",
+        "prompt": "레몬의 색깔은"
+    },
+    {
+        "subject": "우유",
+        "known_id": 15,
+        "attribute": "하양",
+        "prompt": "우유의 색깔은"
+    },
+    {
+        "subject": "숯",
+        "known_id": 16,
+        "attribute": "검정",
+        "prompt": "숯의 색깔은"
+    },
+    {
+        "subject": "하늘",
+        "known_id": 17,
+        "attribute": "파랑",
+        "prompt": "하늘의 색깔은"
+    },
+    {
+        "subject": "배",
+        "known_id": 18,
+        "attribute": "초록",
+        "prompt": "배의 색깔은"
+    },
+    {
+        "subject": "금",
+        "known_id": 19,
+        "attribute": "금색",
+        "prompt": "금의 색깔은"
+    },
+    {
+        "subject": "은",
+        "known_id": 20,
+        "attribute": "은색",
+        "prompt": "은의 색깔은"
+    },
+    {
+        "subject": "구리",
+        "known_id": 21,
+        "attribute": "구리색",
+        "prompt": "구리의 색깔은"
+    },
+    {
+        "subject": "소방차",
+        "known_id": 22,
+        "attribute": "빨강",
+        "prompt": "소방차의 색깔은"
+    },
+    {
+        "subject": "귤",
+        "known_id": 23,
+        "attribute": "주황",
+        "prompt": "귤의 색깔은"
+    },
+    {
+        "subject": "아보카도",
+        "known_id": 24,
+        "attribute": "초록",
+        "prompt": "아보카도의 색깔은"
+    },
+    {
+        "subject": "자두",
+        "known_id": 25,
+        "attribute": "보라",
+        "prompt": "자두의 색깔은"
+    },
+    {
+        "subject": "마노",
+        "known_id": 26,
+        "attribute": "검정",
+        "prompt": "마노의 색깔은"
+    },
+    {
+        "subject": "목화",
+        "known_id": 27,
+        "attribute": "하양",
+        "prompt": "목화의 색깔은"
+    },
+    {
+        "subject": "고무 오리",
+        "known_id": 28,
+        "attribute": "노랑",
+        "prompt": "고무 오리의 색깔은"
+    },
+
+    {
+        "subject": "복숭아",
+        "known_id": 30,
+        "attribute": "주황",
+        "prompt": "복숭아의 색깔은"
+    },
+    {
+        "subject": "오이",
+        "known_id": 31,
+        "attribute": "초록",
+        "prompt": "오이의 색깔은"
+    },
+    {
+        "subject": "자수정",
+        "known_id": 32,
+        "attribute": "보라",
+        "prompt": "자수정의 색깔은"
+    },
+    {
+        "subject": "사파이어",
+        "known_id": 33,
+        "attribute": "파랑",
+        "prompt": "사파이어의 색깔은"
+    },
+    {
+        "subject": "에메랄드",
+        "known_id": 34,
+        "attribute": "초록",
+        "prompt": "에메랄드의 색깔은"
+    },
+    {
+        "subject": "루비",
+        "known_id": 35,
+        "attribute": "빨강",
+        "prompt": "루비의 색깔은"
+    },
+
+    {
+        "subject": "북극곰",
+        "known_id": 39,
+        "attribute": "하양",
+        "prompt": "북극곰의 색깔은"
+    },
+    {
+        "subject": "해바라기",
+        "known_id": 40,
+        "attribute": "노랑",
+        "prompt": "해바라기의 색깔은"
+    },
+
+    {
+        "subject": "커피",
+        "known_id": 42,
+        "attribute": "갈색",
+        "prompt": "커피의 색깔은"
+    },
+    {
+        "subject": "밤",
+        "known_id": 43,
+        "attribute": "갈색",
+        "prompt": "밤의 색깔은"
+    },
+    {
+        "subject": "크랜베리",
+        "known_id": 44,
+        "attribute": "빨강",
+        "prompt": "크랜베리의 색깔은"
+    },
+    {
+        "subject": "해조류",
+        "known_id": 46,
+        "attribute": "초록",
+        "prompt": "해조류의 색깔은"
+    },
+    {
+        "subject": "개구리",
+        "known_id": 47,
+        "attribute": "초록",
+        "prompt": "개구리의 색깔은"
+    },
+    {
+        "subject": "돌고래",
+        "known_id": 48,
+        "attribute": "회색",
+        "prompt": "돌고래의 색깔은"
+    },
+    {
+        "subject": "상어",
+        "known_id": 49,
+        "attribute": "회색",
+        "prompt": "상어의 색깔은"
+    }
+]

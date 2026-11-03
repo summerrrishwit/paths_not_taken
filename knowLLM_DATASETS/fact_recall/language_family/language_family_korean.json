@@ -1,0 +1,302 @@
+[
+    {
+        "subject": "영어",
+        "known_id": 0,
+        "attribute": "인도유럽어족",
+        "prompt": "영어가 속하는 어족은 "
+    },
+    {
+        "subject": "스페인어",
+        "known_id": 1,
+        "attribute": "인도유럽어족",
+        "prompt": "스페인어가 속하는 어족은 "
+    },
+    {
+        "subject": "프랑스어",
+        "known_id": 2,
+        "attribute": "인도유럽어족",
+        "prompt": "프랑스어가 속하는 어족은 "
+    },
+    {
+        "subject": "독일어",
+        "known_id": 3,
+        "attribute": "인도유럽어족",
+        "prompt": "독일어가 속하는 어족은 "
+    },
+    {
+        "subject": "러시아어",
+        "known_id": 4,
+        "attribute": "인도유럽어족",
+        "prompt": "러시아어가 속하는 어족은 "
+    },
+    {
+        "subject": "힌디어",
+        "known_id": 5,
+        "attribute": "인도유럽어족",
+        "prompt": "힌디어가 속하는 어족은 "
+    },
+    {
+        "subject": "벵골어",
+        "known_id": 6,
+        "attribute": "인도유럽어족",
+        "prompt": "벵골어가 속하는 어족은 "
+    },
+    {
+        "subject": "포르투갈어",
+        "known_id": 7,
+        "attribute": "인도유럽어족",
+        "prompt": "포르투갈어가 속하는 어족은 "
+    },
+    {
+        "subject": "페르시아어",
+        "known_id": 8,
+        "attribute": "인도유럽어족",
+        "prompt": "페르시아어가 속하는 어족은 "
+    },
+    {
+        "subject": "그리스어",
+        "known_id": 9,
+        "attribute": "인도유럽어족",
+        "prompt": "그리스어가 속하는 어족은 "
+    },
+    {
+        "subject": "표준 중국어",
+        "known_id": 10,
+        "attribute": "중국티베트어족",
+        "prompt": "표준 중국어가 속하는 어족은 "
+    },
+    {
+        "subject": "광둥어",
+        "known_id": 11,
+        "attribute": "중국티베트어족",
+        "prompt": "광둥어가 속하는 어족은 "
+    },
+    {
+        "subject": "버마어",
+        "known_id": 12,
+        "attribute": "중국티베트어족",
+        "prompt": "버마어가 속하는 어족은 "
+    },
+    {
+        "subject": "티베트어",
+        "known_id": 13,
+        "attribute": "중국티베트어족",
+        "prompt": "티베트어가 속하는 어족은 "
+    },
+    {
+        "subject": "하우사어",
+        "known_id": 14,
+        "attribute": "아프리카아시아어족",
+        "prompt": "하우사어가 속하는 어족은 "
+    },
+    {
+        "subject": "아랍어",
+        "known_id": 15,
+        "attribute": "아프리카아시아어족",
+        "prompt": "아랍어가 속하는 어족은 "
+    },
+    {
+        "subject": "히브리어",
+        "known_id": 16,
+        "attribute": "아프리카아시아어족",
+        "prompt": "히브리어가 속하는 어족은 "
+    },
+    {
+        "subject": "암하라어",
+        "known_id": 17,
+        "attribute": "아프리카아시아어족",
+        "prompt": "암하라어가 속하는 어족은 "
+    },
+    {
+        "subject": "베르베르어",
+        "known_id": 18,
+        "attribute": "아프리카아시아어족",
+        "prompt": "베르베르어가 속하는 어족은 "
+    },
+    {
+        "subject": "베트남어",
+        "known_id": 19,
+        "attribute": "오스트로아시아어족",
+        "prompt": "베트남어가 속하는 어족은 "
+    },
+    {
+        "subject": "크메르어",
+        "known_id": 20,
+        "attribute": "오스트로아시아어족",
+        "prompt": "크메르어가 속하는 어족은 "
+    },
+    {
+        "subject": "태국어",
+        "known_id": 21,
+        "attribute": "타이카다이어족",
+        "prompt": "태국어가 속하는 어족은 "
+    },
+    {
+        "subject": "라오어",
+        "known_id": 22,
+        "attribute": "타이카다이어족",
+        "prompt": "라오어가 속하는 어족은 "
+    },
+    {
+        "subject": "필리핀어",
+        "known_id": 23,
+        "attribute": "오스트로네시아어족",
+        "prompt": "필리핀어가 속하는 어족은 "
+    },
+    {
+        "subject": "말레이어",
+        "known_id": 24,
+        "attribute": "오스트로네시아어족",
+        "prompt": "말레이어가 속하는 어족은 "
+    },
+    {
+        "subject": "자와어",
+        "known_id": 25,
+        "attribute": "오스트로네시아어족",
+        "prompt": "자와어가 속하는 어족은 "
+    },
+    {
+        "subject": "타갈로그어",
+        "known_id": 26,
+        "attribute": "오스트로네시아어족",
+        "prompt": "타갈로그어가 속하는 어족은 "
+    },
+    {
+        "subject": "타밀어",
+        "known_id": 27,
+        "attribute": "드라비다어족",
+        "prompt": "타밀어가 속하는 어족은 "
+    },
+    {
+        "subject": "텔루구어",
+        "known_id": 28,
+        "attribute": "드라비다어족",
+        "prompt": "텔루구어가 속하는 어족은 "
+    },
+    {
+        "subject": "칸나다어",
+        "known_id": 29,
+        "attribute": "드라비다어족",
+        "prompt": "칸나다어가 속하는 어족은 "
+    },
+    {
+        "subject": "헝가리어",
+        "known_id": 30,
+        "attribute": "우랄어족",
+        "prompt": "헝가리어가 속하는 어족은 "
+    },
+    {
+        "subject": "핀란드어",
+        "known_id": 31,
+        "attribute": "우랄어족",
+        "prompt": "핀란드어가 속하는 어족은 "
+    },
+    {
+        "subject": "에스토니아어",
+        "known_id": 32,
+        "attribute": "우랄어족",
+        "prompt": "에스토니아어가 속하는 어족은 "
+    },
+    {
+        "subject": "터키어",
+        "known_id": 33,
+        "attribute": "튀르크어족",
+        "prompt": "터키어가 속하는 어족은 "
+    },
+    {
+        "subject": "우즈베크어",
+        "known_id": 34,
+        "attribute": "튀르크어족",
+        "prompt": "우즈베크어가 속하는 어족은 "
+    },
+    {
+        "subject": "몽골어",
+        "known_id": 35,
+        "attribute": "몽골어족",
+        "prompt": "몽골어가 속하는 어족은 "
+    },
+    {
+        "subject": "한국어",
+        "known_id": 36,
+        "attribute": "한국어족",
+        "prompt": "한국어가 속하는 어족은 "
+    },
+    {
+        "subject": "일본어",
+        "known_id": 37,
+        "attribute": "일본어족",
+        "prompt": "일본어가 속하는 어족은 "
+    },
+    {
+        "subject": "이누이트어",
+        "known_id": 38,
+        "attribute": "에스키모알류트어족",
+        "prompt": "이누이트어가 속하는 어족은 "
+    },
+    {
+        "subject": "케추아어",
+        "known_id": 39,
+        "attribute": "케추아어족",
+        "prompt": "케추아어가 속하는 어족은 "
+    },
+    {
+        "subject": "나우아틀어",
+        "known_id": 40,
+        "attribute": "유토아즈텍어족",
+        "prompt": "나우아틀어가 속하는 어족은 "
+    },
+    {
+        "subject": "체로키어",
+        "known_id": 41,
+        "attribute": "이로쿼이어족",
+        "prompt": "체로키어가 속하는 어족은 "
+    },
+    {
+        "subject": "줄루어",
+        "known_id": 42,
+        "attribute": "반투어족",
+        "prompt": "줄루어가 속하는 어족은 "
+    },
+    {
+        "subject": "스와힐리어",
+        "known_id": 43,
+        "attribute": "반투어족",
+        "prompt": "스와힐리어가 속하는 어족은 "
+    },
+    {
+        "subject": "마오리어",
+        "known_id": 44,
+        "attribute": "오스트로네시아어족",
+        "prompt": "마오리어가 속하는 어족은 "
+    },
+    {
+        "subject": "아이티 크리올어",
+        "known_id": 45,
+        "attribute": "크리올어",
+        "prompt": "아이티 크리올어가 속하는 어족은 "
+    },
+    {
+        "subject": "바스크어",
+        "known_id": 46,
+        "attribute": "고립어",
+        "prompt": "바스크어가 속하는 어족은 "
+    },
+    {
+        "subject": "아이누어",
+        "known_id": 47,
+        "attribute": "고립어",
+        "prompt": "아이누어가 속하는 어족은 "
+    },
+    {
+        "subject": "몽어",
+        "known_id": 48,
+        "attribute": "몽미엔어족",
+        "prompt": "몽어가 속하는 어족은 "
+    },
+    {
+        "subject": "요루바어",
+        "known_id": 49,
+        "attribute": "니제르콩고어족",
+        "prompt": "요루바어가 속하는 어족은 "
+    }
+]

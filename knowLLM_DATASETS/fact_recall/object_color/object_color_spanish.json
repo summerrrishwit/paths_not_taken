@@ -1,0 +1,265 @@
+[
+    {
+        "subject": "Banana",
+        "known_id": 0,
+        "attribute": "amarillo",
+        "prompt": "El color de Banana es "
+    },
+    {
+        "subject": "Fresa",
+        "known_id": 1,
+        "attribute": "rojo",
+        "prompt": "El color de Fresa es "
+    },
+    {
+        "subject": "Zanahoria",
+        "known_id": 2,
+        "attribute": "naranja",
+        "prompt": "El color de Zanahoria es "
+    },
+    {
+        "subject": "Lechuga",
+        "known_id": 3,
+        "attribute": "verde",
+        "prompt": "El color de Lechuga es "
+    },
+    {
+        "subject": "Berenjena",
+        "known_id": 4,
+        "attribute": "morado",
+        "prompt": "El color de Berenjena es "
+    },
+    {
+        "subject": "Nieve",
+        "known_id": 5,
+        "attribute": "blanco",
+        "prompt": "El color de Nieve es "
+    },
+    {
+        "subject": "Carbón",
+        "known_id": 6,
+        "attribute": "negro",
+        "prompt": "El color de Carbón es "
+    },
+    {
+        "subject": "Arándano",
+        "known_id": 7,
+        "attribute": "azul",
+        "prompt": "El color de Arándano es "
+    },
+
+    {
+        "subject": "Calabaza",
+        "known_id": 9,
+        "attribute": "naranja",
+        "prompt": "El color de Calabaza es "
+    },
+    {
+        "subject": "Uvas",
+        "known_id": 10,
+        "attribute": "morado",
+        "prompt": "El color de Uvas es "
+    },
+    {
+        "subject": "Lima",
+        "known_id": 11,
+        "attribute": "verde",
+        "prompt": "El color de Lima es "
+    },
+    {
+        "subject": "Coco",
+        "known_id": 12,
+        "attribute": "marrón",
+        "prompt": "El color de Coco es "
+    },
+    {
+        "subject": "Tomate",
+        "known_id": 13,
+        "attribute": "rojo",
+        "prompt": "El color de Tomate es "
+    },
+    {
+        "subject": "Limón",
+        "known_id": 14,
+        "attribute": "amarillo",
+        "prompt": "El color de Limón es "
+    },
+    {
+        "subject": "Leche",
+        "known_id": 15,
+        "attribute": "blanco",
+        "prompt": "El color de Leche es "
+    },
+    {
+        "subject": "Carbón vegetal",
+        "known_id": 16,
+        "attribute": "negro",
+        "prompt": "El color de Carbón vegetal es "
+    },
+    {
+        "subject": "Cielo",
+        "known_id": 17,
+        "attribute": "azul",
+        "prompt": "El color de Cielo es "
+    },
+    {
+        "subject": "Pera",
+        "known_id": 18,
+        "attribute": "verde",
+        "prompt": "El color de Pera es "
+    },
+    {
+        "subject": "Oro",
+        "known_id": 19,
+        "attribute": "dorado",
+        "prompt": "El color de Oro es "
+    },
+    {
+        "subject": "Plata",
+        "known_id": 20,
+        "attribute": "plateado",
+        "prompt": "El color de Plata es "
+    },
+    {
+        "subject": "Cobre",
+        "known_id": 21,
+        "attribute": "cobrizo",
+        "prompt": "El color de Cobre es "
+    },
+    {
+        "subject": "Camión de bomberos",
+        "known_id": 22,
+        "attribute": "rojo",
+        "prompt": "El color de Camión de bomberos es "
+    },
+    {
+        "subject": "Mandarina",
+        "known_id": 23,
+        "attribute": "naranja",
+        "prompt": "El color de Mandarina es "
+    },
+    {
+        "subject": "Aguacate",
+        "known_id": 24,
+        "attribute": "verde",
+        "prompt": "El color de Aguacate es "
+    },
+    {
+        "subject": "Ciruela",
+        "known_id": 25,
+        "attribute": "morado",
+        "prompt": "El color de Ciruela es "
+    },
+    {
+        "subject": "Ónix",
+        "known_id": 26,
+        "attribute": "negro",
+        "prompt": "El color de Ónix es "
+    },
+    {
+        "subject": "Algodón",
+        "known_id": 27,
+        "attribute": "blanco",
+        "prompt": "El color de Algodón es "
+    },
+    {
+        "subject": "Pato de goma",
+        "known_id": 28,
+        "attribute": "amarillo",
+        "prompt": "El color de Pato de goma es "
+    },
+
+    {
+        "subject": "Durazno",
+        "known_id": 30,
+        "attribute": "naranja",
+        "prompt": "El color de Durazno es "
+    },
+    {
+        "subject": "Pepino",
+        "known_id": 31,
+        "attribute": "verde",
+        "prompt": "El color de Pepino es "
+    },
+    {
+        "subject": "Amatista",
+        "known_id": 32,
+        "attribute": "morado",
+        "prompt": "El color de Amatista es "
+    },
+    {
+        "subject": "Zafiro",
+        "known_id": 33,
+        "attribute": "azul",
+        "prompt": "El color de Zafiro es "
+    },
+    {
+        "subject": "Esmeralda",
+        "known_id": 34,
+        "attribute": "verde",
+        "prompt": "El color de Esmeralda es "
+    },
+    {
+        "subject": "Rubí",
+        "known_id": 35,
+        "attribute": "rojo",
+        "prompt": "El color de Rubí es "
+    },
+
+    {
+        "subject": "Oso polar",
+        "known_id": 39,
+        "attribute": "blanco",
+        "prompt": "El color de Oso polar es "
+    },
+    {
+        "subject": "Girasol",
+        "known_id": 40,
+        "attribute": "amarillo",
+        "prompt": "El color de Girasol es "
+    },
+
+    {
+        "subject": "Café",
+        "known_id": 42,
+        "attribute": "marrón",
+        "prompt": "El color de Café es "
+    },
+    {
+        "subject": "Castaña",
+        "known_id": 43,
+        "attribute": "marrón",
+        "prompt": "El color de Castaña es "
+    },
+    {
+        "subject": "Arándano rojo",
+        "known_id": 44,
+        "attribute": "rojo",
+        "prompt": "El color de Arándano rojo es "
+    },
+
+    {
+        "subject": "Alga marina",
+        "known_id": 46,
+        "attribute": "verde",
+        "prompt": "El color de Alga marina es "
+    },
+    {
+        "subject": "Rana",
+        "known_id": 47,
+        "attribute": "verde",
+        "prompt": "El color de Rana es "
+    },
+    {
+        "subject": "Delfín",
+        "known_id": 48,
+        "attribute": "gris",
+        "prompt": "El color de Delfín es "
+    },
+    {
+        "subject": "Tiburón",
+        "known_id": 49,
+        "attribute": "gris",
+        "prompt": "El color de Tiburón es "
+    }
+]

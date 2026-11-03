@@ -1,0 +1,296 @@
+[
+  {
+    "subject": "Ruth Bader Ginsburg",
+    "known_id": 0,
+    "attribute": "Cornell University",
+    "prompt": "The college that Ruth Bader Ginsburg attended was called"
+  },
+  {
+    "subject": "Sonia Sotomayor",
+    "known_id": 1,
+    "attribute": "Princeton University",
+    "prompt": "The college that Sonia Sotomayor attended was called"
+  },
+  {
+    "subject": "Stephen Breyer",
+    "known_id": 2,
+    "attribute": "Stanford University",
+    "prompt": "The college that Stephen Breyer attended was called"
+  },
+  {
+    "subject": "Ngozi Okonjo-Iweala",
+    "known_id": 3,
+    "attribute": "Harvard University",
+    "prompt": "The college that Ngozi Okonjo-Iweala attended was called"
+  },
+  {
+    "subject": "Haruki Murakami",
+    "known_id": 4,
+    "attribute": "Waseda University",
+    "prompt": "The college that Haruki Murakami attended was called"
+  },
+  {
+    "subject": "King Mohammed VI of Morocco",
+    "known_id": 5,
+    "attribute": "Mohammed V University",
+    "prompt": "The college that King Mohammed VI of Morocco attended was called"
+  },
+  {
+    "subject": "Hailemariam Desalegn",
+    "known_id": 6,
+    "attribute": "Addis Ababa University",
+    "prompt": "The college that Hailemariam Desalegn attended was called"
+  },
+  {
+    "subject": "Abiy Ahmed",
+    "known_id": 7,
+    "attribute": "Addis Ababa University",
+    "prompt": "The college that Abiy Ahmed attended was called"
+  },
+  {
+    "subject": "Kamala Harris",
+    "known_id": 8,
+    "attribute": "Howard University",
+    "prompt": "The college that Kamala Harris attended was called"
+  },
+  {
+    "subject": "Viktor Orbán",
+    "known_id": 9,
+    "attribute": "Eötvös Loránd University",
+    "prompt": "The college that Viktor Orbán attended was called"
+  },
+  {
+    "subject": "Mary Robinson",
+    "known_id": 10,
+    "attribute": "Trinity College Dublin",
+    "prompt": "The college that Mary Robinson attended was called"
+  },
+  {
+    "subject": "Mark Rutte",
+    "known_id": 11,
+    "attribute": "Leiden University",
+    "prompt": "The college that Mark Rutte attended was called"
+  },
+  {
+    "subject": "Xi Jinping",
+    "known_id": 12,
+    "attribute": "Tsinghua University",
+    "prompt": "The college that Xi Jinping attended was called"
+  },
+  {
+    "subject": "Margaret Thatcher",
+    "known_id": 13,
+    "attribute": "Somerville College, Oxford",
+    "prompt": "The college that Margaret Thatcher attended was called"
+  },
+  {
+    "subject": "Ban Ki-moon",
+    "known_id": 14,
+    "attribute": "Seoul National University",
+    "prompt": "The college that Ban Ki-moon attended was called"
+  },
+  {
+    "subject": "Ellen Johnson Sirleaf",
+    "known_id": 15,
+    "attribute": "Harvard Kennedy School",
+    "prompt": "The college that Ellen Johnson Sirleaf attended was called"
+  },
+  {
+    "subject": "Mike Pence",
+    "known_id": 16,
+    "attribute": "Hanover College",
+    "prompt": "The college that Mike Pence attended was called"
+  },
+  {
+    "subject": "Oprah Winfrey",
+    "known_id": 17,
+    "attribute": "Tennessee State University",
+    "prompt": "The college that Oprah Winfrey attended was called"
+  },
+  {
+    "subject": "Jeff Bezos",
+    "known_id": 18,
+    "attribute": "Princeton University",
+    "prompt": "The college that Jeff Bezos attended was called"
+  },
+  {
+    "subject": "Steve Jobs",
+    "known_id": 19,
+    "attribute": "Reed College",
+    "prompt": "The college that Steve Jobs attended was called"
+  },
+  {
+    "subject": "Tim Cook",
+    "known_id": 20,
+    "attribute": "Auburn University",
+    "prompt": "The college that Tim Cook attended was called"
+  },
+  {
+    "subject": "Sundar Pichai",
+    "known_id": 21,
+    "attribute": "Stanford University",
+    "prompt": "The college that Sundar Pichai attended was called"
+  },
+  {
+    "subject": "Sheryl Sandberg",
+    "known_id": 22,
+    "attribute": "Harvard University",
+    "prompt": "The college that Sheryl Sandberg attended was called"
+  },
+  {
+    "subject": "Michelle Obama",
+    "known_id": 23,
+    "attribute": "Princeton University",
+    "prompt": "The college that Michelle Obama attended was called"
+  },
+  {
+    "subject": "Bill Gates",
+    "known_id": 24,
+    "attribute": "Harvard University",
+    "prompt": "The college that Bill Gates attended was called"
+  },
+  {
+    "subject": "Mark Zuckerberg",
+    "known_id": 25,
+    "attribute": "Harvard University",
+    "prompt": "The college that Mark Zuckerberg attended was called"
+  },
+  {
+    "subject": "Oprah Winfrey",
+    "known_id": 26,
+    "attribute": "Tennessee State University",
+    "prompt": "The college that Oprah Winfrey attended was called"
+  },
+  {
+    "subject": "Emma Watson",
+    "known_id": 27,
+    "attribute": "Brown University",
+    "prompt": "The college that Emma Watson attended was called"
+  },
+  {
+    "subject": "Natalie Portman",
+    "known_id": 28,
+    "attribute": "Harvard University",
+    "prompt": "The college that Natalie Portman attended was called"
+  },
+  {
+    "subject": "George W. Bush",
+    "known_id": 29,
+    "attribute": "Yale University",
+    "prompt": "The college that George W. Bush attended was called"
+  },
+  {
+    "subject": "Neil Armstrong",
+    "known_id": 30,
+    "attribute": "Purdue University",
+    "prompt": "The college that Neil Armstrong attended was called"
+  },
+  {
+    "subject": "James Franco",
+    "known_id": 31,
+    "attribute": "UCLA",
+    "prompt": "The college that James Franco attended was called"
+  },
+  {
+    "subject": "Matt Damon",
+    "known_id": 32,
+    "attribute": "Harvard University",
+    "prompt": "The college that Matt Damon attended was called"
+  },
+  {
+    "subject": "Conan O'Brien",
+    "known_id": 33,
+    "attribute": "Harvard University",
+    "prompt": "The college that Conan O'Brien attended was called"
+  },
+  {
+    "subject": "Sandra Bullock",
+    "known_id": 34,
+    "attribute": "East Carolina University",
+    "prompt": "The college that Sandra Bullock attended was called"
+  },
+  {
+    "subject": "Leo Tolstoy",
+    "known_id": 35,
+    "attribute": "Kazan Imperial University",
+    "prompt": "The college that Leo Tolstoy attended was called"
+  },
+  {
+    "subject": "Henry Moore",
+    "known_id": 36,
+    "attribute": "Leeds Arts University",
+    "prompt": "The college that Henry Moore attended was called"
+  },
+  {
+    "subject": "Andy Warhol",
+    "known_id": 37,
+    "attribute": "Carnegie Mellon University",
+    "prompt": "The college that Andy Warhol attended was called"
+  },
+  {
+    "subject": "Vladimir Lenin",
+    "known_id": 38,
+    "attribute": "Kazan Imperial University",
+    "prompt": "The college that Vladimir Lenin attended was called"
+  },
+  {
+    "subject": "Woody Allen",
+    "known_id": 39,
+    "attribute": "New York University Tisch School of the Arts",
+    "prompt": "The college that Woody Allen attended was called"
+  },
+  {
+    "subject": "August Strindberg",
+    "known_id": 40,
+    "attribute": "Uppsala University",
+    "prompt": "The college that August Strindberg attended was called"
+  },
+  {
+    "subject": "Christine Lagarde",
+    "known_id": 41,
+    "attribute": "Paris West University Nanterre La Défense",
+    "prompt": "The college that Christine Lagarde attended was called"
+  },
+  {
+    "subject": "Ko Wen-je",
+    "known_id": 42,
+    "attribute": "National Taiwan University",
+    "prompt": "The college that Ko Wen-je attended was called"
+  },
+  {
+    "subject": "Martin Luther King Jr.",
+    "known_id": 43,
+    "attribute": "Morehouse College",
+    "prompt": "The college that Martin Luther King Jr. attended was called"
+  },
+  {
+    "subject": "Ernesto Zedillo",
+    "known_id": 44,
+    "attribute": "Yale University",
+    "prompt": "The college that Ernesto Zedillo attended was called"
+  },
+  {
+    "subject": "Angela Bassett",
+    "known_id": 45,
+    "attribute": "Yale University",
+    "prompt": "The college that Angela Bassett attended was called"
+  },
+  {
+    "subject": "Rachel Maddow",
+    "known_id": 46,
+    "attribute": "Stanford University",
+    "prompt": "The college that Rachel Maddow attended was called"
+  },
+  {
+    "subject": "Cory Booker",
+    "known_id": 47,
+    "attribute": "Stanford University",
+    "prompt": "The college that Cory Booker attended was called"
+  },
+  {
+    "subject": "Mark Rutte",
+    "known_id": 48,
+    "attribute": "Leiden University",
+    "prompt": "The college that Mark Rutte attended was called"
+  }
+]

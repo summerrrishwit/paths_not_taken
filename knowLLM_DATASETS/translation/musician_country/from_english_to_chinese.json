@@ -1,0 +1,284 @@
+[
+  {
+    "known_id": 0,
+    "subject": "Germany",
+    "attribute": "德国",
+    "prompt": "Translate a word from English to chinese. Word: 'Germany'. Translated: '"
+  },
+  {
+    "known_id": 1,
+    "subject": "Austria",
+    "attribute": "奥地利",
+    "prompt": "Translate a word from English to chinese. Word: 'Austria'. Translated: '"
+  },
+  {
+    "known_id": 2,
+    "subject": "Germany",
+    "attribute": "德国",
+    "prompt": "Translate a word from English to chinese. Word: 'Germany'. Translated: '"
+  },
+  {
+    "known_id": 3,
+    "subject": "Poland",
+    "attribute": "波兰",
+    "prompt": "Translate a word from English to chinese. Word: 'Poland'. Translated: '"
+  },
+  {
+    "known_id": 4,
+    "subject": "Russia",
+    "attribute": "俄罗斯",
+    "prompt": "Translate a word from English to chinese. Word: 'Russia'. Translated: '"
+  },
+  {
+    "known_id": 5,
+    "subject": "France",
+    "attribute": "法国",
+    "prompt": "Translate a word from English to chinese. Word: 'France'. Translated: '"
+  },
+  {
+    "known_id": 6,
+    "subject": "Russia",
+    "attribute": "俄罗斯",
+    "prompt": "Translate a word from English to chinese. Word: 'Russia'. Translated: '"
+  },
+  {
+    "known_id": 7,
+    "subject": "Italy",
+    "attribute": "意大利",
+    "prompt": "Translate a word from English to chinese. Word: 'Italy'. Translated: '"
+  },
+  {
+    "known_id": 8,
+    "subject": "Austria",
+    "attribute": "奥地利",
+    "prompt": "Translate a word from English to chinese. Word: 'Austria'. Translated: '"
+  },
+  {
+    "known_id": 9,
+    "subject": "Russia",
+    "attribute": "俄罗斯",
+    "prompt": "Translate a word from English to chinese. Word: 'Russia'. Translated: '"
+  },
+  {
+    "known_id": 10,
+    "subject": "Russia",
+    "attribute": "俄罗斯",
+    "prompt": "Translate a word from English to chinese. Word: 'Russia'. Translated: '"
+  },
+  {
+    "known_id": 11,
+    "subject": "United States",
+    "attribute": "美国",
+    "prompt": "Translate a word from English to chinese. Word: 'United States'. Translated: '"
+  },
+  {
+    "known_id": 12,
+    "subject": "United States",
+    "attribute": "美国",
+    "prompt": "Translate a word from English to chinese. Word: 'United States'. Translated: '"
+  },
+  {
+    "known_id": 13,
+    "subject": "Germany",
+    "attribute": "德国",
+    "prompt": "Translate a word from English to chinese. Word: 'Germany'. Translated: '"
+  },
+  {
+    "known_id": 14,
+    "subject": "Germany",
+    "attribute": "德国",
+    "prompt": "Translate a word from English to chinese. Word: 'Germany'. Translated: '"
+  },
+  {
+    "known_id": 15,
+    "subject": "Austria",
+    "attribute": "奥地利",
+    "prompt": "Translate a word from English to chinese. Word: 'Austria'. Translated: '"
+  },
+  {
+    "known_id": 16,
+    "subject": "Italy",
+    "attribute": "意大利",
+    "prompt": "Translate a word from English to chinese. Word: 'Italy'. Translated: '"
+  },
+  {
+    "known_id": 17,
+    "subject": "Finland",
+    "attribute": "芬兰",
+    "prompt": "Translate a word from English to chinese. Word: 'Finland'. Translated: '"
+  },
+  {
+    "known_id": 18,
+    "subject": "Norway",
+    "attribute": "挪威",
+    "prompt": "Translate a word from English to chinese. Word: 'Norway'. Translated: '"
+  },
+  {
+    "known_id": 19,
+    "subject": "United States",
+    "attribute": "美国",
+    "prompt": "Translate a word from English to chinese. Word: 'United States'. Translated: '"
+  },
+  {
+    "known_id": 20,
+    "subject": "United States",
+    "attribute": "美国",
+    "prompt": "Translate a word from English to chinese. Word: 'United States'. Translated: '"
+  },
+  {
+    "known_id": 21,
+    "subject": "Italy",
+    "attribute": "意大利",
+    "prompt": "Translate a word from English to chinese. Word: 'Italy'. Translated: '"
+  },
+  {
+    "known_id": 22,
+    "subject": "Estonia",
+    "attribute": "爱沙尼亚",
+    "prompt": "Translate a word from English to chinese. Word: 'Estonia'. Translated: '"
+  },
+  {
+    "known_id": 23,
+    "subject": "Hungary",
+    "attribute": "匈牙利",
+    "prompt": "Translate a word from English to chinese. Word: 'Hungary'. Translated: '"
+  },
+  {
+    "known_id": 24,
+    "subject": "Spain",
+    "attribute": "西班牙",
+    "prompt": "Translate a word from English to chinese. Word: 'Spain'. Translated: '"
+  },
+  {
+    "known_id": 25,
+    "subject": "France",
+    "attribute": "法国",
+    "prompt": "Translate a word from English to chinese. Word: 'France'. Translated: '"
+  },
+  {
+    "known_id": 26,
+    "subject": "Russia",
+    "attribute": "俄罗斯",
+    "prompt": "Translate a word from English to chinese. Word: 'Russia'. Translated: '"
+  },
+  {
+    "known_id": 27,
+    "subject": "France",
+    "attribute": "法国",
+    "prompt": "Translate a word from English to chinese. Word: 'France'. Translated: '"
+  },
+  {
+    "known_id": 28,
+    "subject": "France",
+    "attribute": "法国",
+    "prompt": "Translate a word from English to chinese. Word: 'France'. Translated: '"
+  },
+  {
+    "known_id": 29,
+    "subject": "Russia",
+    "attribute": "俄罗斯",
+    "prompt": "Translate a word from English to chinese. Word: 'Russia'. Translated: '"
+  },
+  {
+    "known_id": 30,
+    "subject": "United Kingdom",
+    "attribute": "英国",
+    "prompt": "Translate a word from English to chinese. Word: 'United Kingdom'. Translated: '"
+  },
+  {
+    "known_id": 31,
+    "subject": "United Kingdom",
+    "attribute": "英国",
+    "prompt": "Translate a word from English to chinese. Word: 'United Kingdom'. Translated: '"
+  },
+  {
+    "known_id": 32,
+    "subject": "France",
+    "attribute": "法国",
+    "prompt": "Translate a word from English to chinese. Word: 'France'. Translated: '"
+  },
+  {
+    "known_id": 33,
+    "subject": "Austria",
+    "attribute": "奥地利",
+    "prompt": "Translate a word from English to chinese. Word: 'Austria'. Translated: '"
+  },
+  {
+    "known_id": 34,
+    "subject": "Germany",
+    "attribute": "德国",
+    "prompt": "Translate a word from English to chinese. Word: 'Germany'. Translated: '"
+  },
+  {
+    "known_id": 35,
+    "subject": "Italy",
+    "attribute": "意大利",
+    "prompt": "Translate a word from English to chinese. Word: 'Italy'. Translated: '"
+  },
+  {
+    "known_id": 36,
+    "subject": "Denmark",
+    "attribute": "丹麦",
+    "prompt": "Translate a word from English to chinese. Word: 'Denmark'. Translated: '"
+  },
+  {
+    "known_id": 37,
+    "subject": "Hungary",
+    "attribute": "匈牙利",
+    "prompt": "Translate a word from English to chinese. Word: 'Hungary'. Translated: '"
+  },
+  {
+    "known_id": 38,
+    "subject": "Argentina",
+    "attribute": "阿根廷",
+    "prompt": "Translate a word from English to chinese. Word: 'Argentina'. Translated: '"
+  },
+  {
+    "known_id": 39,
+    "subject": "Argentina",
+    "attribute": "阿根廷",
+    "prompt": "Translate a word from English to chinese. Word: 'Argentina'. Translated: '"
+  },
+  {
+    "known_id": 40,
+    "subject": "Russia",
+    "attribute": "俄罗斯",
+    "prompt": "Translate a word from English to chinese. Word: 'Russia'. Translated: '"
+  },
+  {
+    "known_id": 41,
+    "subject": "Russia",
+    "attribute": "俄罗斯",
+    "prompt": "Translate a word from English to chinese. Word: 'Russia'. Translated: '"
+  },
+  {
+    "known_id": 42,
+    "subject": "Poland",
+    "attribute": "波兰",
+    "prompt": "Translate a word from English to chinese. Word: 'Poland'. Translated: '"
+  },
+  {
+    "known_id": 43,
+    "subject": "United States",
+    "attribute": "美国",
+    "prompt": "Translate a word from English to chinese. Word: 'United States'. Translated: '"
+  },
+  {
+    "known_id": 44,
+    "subject": "United States",
+    "attribute": "美国",
+    "prompt": "Translate a word from English to chinese. Word: 'United States'. Translated: '"
+  },
+  {
+    "known_id": 45,
+    "subject": "Poland",
+    "attribute": "波兰",
+    "prompt": "Translate a word from English to chinese. Word: 'Poland'. Translated: '"
+  },
+  {
+    "known_id": 46,
+    "subject": "United States",
+    "attribute": "美国",
+    "prompt": "Translate a word from English to chinese. Word: 'United States'. Translated: '"
+  }
+]

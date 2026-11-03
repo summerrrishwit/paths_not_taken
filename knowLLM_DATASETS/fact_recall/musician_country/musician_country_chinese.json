@@ -1,0 +1,284 @@
+[
+    {
+        "subject": "路德维希·范·贝多芬",
+        "known_id": 0,
+        "attribute": "德国",
+        "prompt": "路德维希·范·贝多芬出生的国家名为"
+    },
+    {
+        "subject": "沃尔夫冈·阿玛多伊斯·莫扎特",
+        "known_id": 1,
+        "attribute": "奥地利",
+        "prompt": "沃尔夫冈·阿玛多伊斯·莫扎特出生的国家名为"
+    },
+    {
+        "subject": "约翰·塞巴斯蒂安·巴赫",
+        "known_id": 2,
+        "attribute": "德国",
+        "prompt": "约翰·塞巴斯蒂安·巴赫出生的国家名为"
+    },
+    {
+        "subject": "弗里德里克·肖邦",
+        "known_id": 3,
+        "attribute": "波兰",
+        "prompt": "弗里德里克·肖邦出生的国家名为"
+    },
+    {
+        "subject": "彼得·伊里奇·柴可夫斯基",
+        "known_id": 4,
+        "attribute": "俄罗斯",
+        "prompt": "彼得·伊里奇·柴可夫斯基出生的国家名为"
+    },
+    {
+        "subject": "克劳德·德彪西",
+        "known_id": 5,
+        "attribute": "法国",
+        "prompt": "克劳德·德彪西出生的国家名为"
+    },
+    {
+        "subject": "伊戈尔·斯特拉文斯基",
+        "known_id": 6,
+        "attribute": "俄罗斯",
+        "prompt": "伊戈尔·斯特拉文斯基出生的国家名为"
+    },
+    {
+        "subject": "安东尼奥·维瓦尔第",
+        "known_id": 7,
+        "attribute": "意大利",
+        "prompt": "安东尼奥·维瓦尔第出生的国家名为"
+    },
+    {
+        "subject": "古斯塔夫·马勒",
+        "known_id": 8,
+        "attribute": "奥地利",
+        "prompt": "古斯塔夫·马勒出生的国家名为"
+    },
+    {
+        "subject": "谢尔盖·拉赫玛尼诺夫",
+        "known_id": 9,
+        "attribute": "俄罗斯",
+        "prompt": "谢尔盖·拉赫玛尼诺夫出生的国家名为"
+    },
+    {
+        "subject": "德米特里·肖斯塔科维奇",
+        "known_id": 10,
+        "attribute": "俄罗斯",
+        "prompt": "德米特里·肖斯塔科维奇出生的国家名为"
+    },
+    {
+        "subject": "乔治·格什温",
+        "known_id": 11,
+        "attribute": "美国",
+        "prompt": "乔治·格什温出生的国家名为"
+    },
+    {
+        "subject": "伦纳德·伯恩斯坦",
+        "known_id": 12,
+        "attribute": "美国",
+        "prompt": "伦纳德·伯恩斯坦出生的国家名为"
+    },
+    {
+        "subject": "约翰内斯·勃拉姆斯",
+        "known_id": 13,
+        "attribute": "德国",
+        "prompt": "约翰内斯·勃拉姆斯出生的国家名为"
+    },
+    {
+        "subject": "理查德·瓦格纳",
+        "known_id": 14,
+        "attribute": "德国",
+        "prompt": "理查德·瓦格纳出生的国家名为"
+    },
+    {
+        "subject": "弗朗茨·舒伯特",
+        "known_id": 15,
+        "attribute": "奥地利",
+        "prompt": "弗朗茨·舒伯特出生的国家名为"
+    },
+    {
+        "subject": "焦阿基诺·罗西尼",
+        "known_id": 16,
+        "attribute": "意大利",
+        "prompt": "焦阿基诺·罗西尼出生的国家名为"
+    },
+    {
+        "subject": "让·西贝柳斯",
+        "known_id": 17,
+        "attribute": "芬兰",
+        "prompt": "让·西贝柳斯出生的国家名为"
+    },
+    {
+        "subject": "爱德华·格里格",
+        "known_id": 18,
+        "attribute": "挪威",
+        "prompt": "爱德华·格里格出生的国家名为"
+    },
+    {
+        "subject": "菲利普·格拉斯",
+        "known_id": 19,
+        "attribute": "美国",
+        "prompt": "菲利普·格拉斯出生的国家名为"
+    },
+    {
+        "subject": "约翰·威廉姆斯",
+        "known_id": 20,
+        "attribute": "美国",
+        "prompt": "约翰·威廉姆斯出生的国家名为"
+    },
+    {
+        "subject": "埃尼奥·莫里康内",
+        "known_id": 21,
+        "attribute": "意大利",
+        "prompt": "埃尼奥·莫里康内出生的国家名为"
+    },
+    {
+        "subject": "阿尔沃·帕特",
+        "known_id": 22,
+        "attribute": "爱沙尼亚",
+        "prompt": "阿尔沃·帕特出生的国家名为"
+    },
+    {
+        "subject": "贝拉·巴托克",
+        "known_id": 23,
+        "attribute": "匈牙利",
+        "prompt": "贝拉·巴托克出生的国家名为"
+    },
+    {
+        "subject": "曼努埃尔·德·法雅",
+        "known_id": 24,
+        "attribute": "西班牙",
+        "prompt": "曼努埃尔·德·法雅出生的国家名为"
+    },
+    {
+        "subject": "埃里克·萨蒂",
+        "known_id": 25,
+        "attribute": "法国",
+        "prompt": "埃里克·萨蒂出生的国家名为"
+    },
+    {
+        "subject": "亚历山大·斯克里亚宾",
+        "known_id": 26,
+        "attribute": "俄罗斯",
+        "prompt": "亚历山大·斯克里亚宾出生的国家名为"
+    },
+    {
+        "subject": "莫里斯·拉威尔",
+        "known_id": 27,
+        "attribute": "法国",
+        "prompt": "莫里斯·拉威尔出生的国家名为"
+    },
+    {
+        "subject": "卡米尔·圣桑",
+        "known_id": 28,
+        "attribute": "法国",
+        "prompt": "卡米尔·圣桑出生的国家名为"
+    },
+    {
+        "subject": "尼古拉·里姆斯基-科萨科夫",
+        "known_id": 29,
+        "attribute": "俄罗斯",
+        "prompt": "尼古拉·里姆斯基-科萨科夫出生的国家名为"
+    },
+    {
+        "subject": "拉尔夫·沃恩·威廉斯",
+        "known_id": 30,
+        "attribute": "英国",
+        "prompt": "拉尔夫·沃恩·威廉斯出生的国家名为"
+    },
+    {
+        "subject": "本杰明·布里顿",
+        "known_id": 31,
+        "attribute": "英国",
+        "prompt": "本杰明·布里顿出生的国家名为"
+    },
+    {
+        "subject": "埃克托·柏辽兹",
+        "known_id": 32,
+        "attribute": "法国",
+        "prompt": "埃克托·柏辽兹出生的国家名为"
+    },
+    {
+        "subject": "安东·布鲁克纳",
+        "known_id": 33,
+        "attribute": "奥地利",
+        "prompt": "安东·布鲁克纳出生的国家名为"
+    },
+    {
+        "subject": "卡尔·奥尔夫",
+        "known_id": 34,
+        "attribute": "德国",
+        "prompt": "卡尔·奥尔夫出生的国家名为"
+    },
+    {
+        "subject": "奥托里诺·雷斯庇基",
+        "known_id": 35,
+        "attribute": "意大利",
+        "prompt": "奥托里诺·雷斯庇基出生的国家名为"
+    },
+    {
+        "subject": "卡尔·尼尔森",
+        "known_id": 36,
+        "attribute": "丹麦",
+        "prompt": "卡尔·尼尔森出生的国家名为"
+    },
+    {
+        "subject": "佐尔坦·科达伊",
+        "known_id": 37,
+        "attribute": "匈牙利",
+        "prompt": "佐尔坦·科达伊出生的国家名为"
+    },
+    {
+        "subject": "阿斯特·皮亚佐拉",
+        "known_id": 38,
+        "attribute": "阿根廷",
+        "prompt": "阿斯特·皮亚佐拉出生的国家名为"
+    },
+    {
+        "subject": "阿尔贝托·希纳斯特拉",
+        "known_id": 39,
+        "attribute": "阿根廷",
+        "prompt": "阿尔贝托·希纳斯特拉出生的国家名为"
+    },
+    {
+        "subject": "莫杰斯特·穆索尔斯基",
+        "known_id": 40,
+        "attribute": "俄罗斯",
+        "prompt": "莫杰斯特·穆索尔斯基出生的国家名为"
+    },
+    {
+        "subject": "米哈伊尔·格林卡",
+        "known_id": 41,
+        "attribute": "俄罗斯",
+        "prompt": "米哈伊尔·格林卡出生的国家名为"
+    },
+    {
+        "subject": "克日什托夫·潘德列茨基",
+        "known_id": 42,
+        "attribute": "波兰",
+        "prompt": "克日什托夫·潘德列茨基出生的国家名为"
+    },
+    {
+        "subject": "查尔斯·艾夫斯",
+        "known_id": 43,
+        "attribute": "美国",
+        "prompt": "查尔斯·艾夫斯出生的国家名为"
+    },
+    {
+        "subject": "塞缪尔·巴伯",
+        "known_id": 44,
+        "attribute": "美国",
+        "prompt": "塞缪尔·巴伯出生的国家名为"
+    },
+    {
+        "subject": "亨里克·戈雷茨基",
+        "known_id": 45,
+        "attribute": "波兰",
+        "prompt": "亨里克·戈雷茨基出生的国家名为"
+    },
+    {
+        "subject": "约翰·凯奇",
+        "known_id": 46,
+        "attribute": "美国",
+        "prompt": "约翰·凯奇出生的国家名为"
+    }
+]

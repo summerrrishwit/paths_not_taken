@@ -1,0 +1,284 @@
+[
+  {
+    "known_id": 0,
+    "subject": "Germany",
+    "attribute": "독일",
+    "prompt": "Translate a word from English to korean. Word: 'Germany'. Translated: '"
+  },
+  {
+    "known_id": 1,
+    "subject": "Austria",
+    "attribute": "오스트리아",
+    "prompt": "Translate a word from English to korean. Word: 'Austria'. Translated: '"
+  },
+  {
+    "known_id": 2,
+    "subject": "Germany",
+    "attribute": "독일",
+    "prompt": "Translate a word from English to korean. Word: 'Germany'. Translated: '"
+  },
+  {
+    "known_id": 3,
+    "subject": "Poland",
+    "attribute": "폴란드",
+    "prompt": "Translate a word from English to korean. Word: 'Poland'. Translated: '"
+  },
+  {
+    "known_id": 4,
+    "subject": "Russia",
+    "attribute": "러시아",
+    "prompt": "Translate a word from English to korean. Word: 'Russia'. Translated: '"
+  },
+  {
+    "known_id": 5,
+    "subject": "France",
+    "attribute": "프랑스",
+    "prompt": "Translate a word from English to korean. Word: 'France'. Translated: '"
+  },
+  {
+    "known_id": 6,
+    "subject": "Russia",
+    "attribute": "러시아",
+    "prompt": "Translate a word from English to korean. Word: 'Russia'. Translated: '"
+  },
+  {
+    "known_id": 7,
+    "subject": "Italy",
+    "attribute": "이탈리아",
+    "prompt": "Translate a word from English to korean. Word: 'Italy'. Translated: '"
+  },
+  {
+    "known_id": 8,
+    "subject": "Austria",
+    "attribute": "오스트리아",
+    "prompt": "Translate a word from English to korean. Word: 'Austria'. Translated: '"
+  },
+  {
+    "known_id": 9,
+    "subject": "Russia",
+    "attribute": "러시아",
+    "prompt": "Translate a word from English to korean. Word: 'Russia'. Translated: '"
+  },
+  {
+    "known_id": 10,
+    "subject": "Russia",
+    "attribute": "러시아",
+    "prompt": "Translate a word from English to korean. Word: 'Russia'. Translated: '"
+  },
+  {
+    "known_id": 11,
+    "subject": "United States",
+    "attribute": "미국",
+    "prompt": "Translate a word from English to korean. Word: 'United States'. Translated: '"
+  },
+  {
+    "known_id": 12,
+    "subject": "United States",
+    "attribute": "미국",
+    "prompt": "Translate a word from English to korean. Word: 'United States'. Translated: '"
+  },
+  {
+    "known_id": 13,
+    "subject": "Germany",
+    "attribute": "독일",
+    "prompt": "Translate a word from English to korean. Word: 'Germany'. Translated: '"
+  },
+  {
+    "known_id": 14,
+    "subject": "Germany",
+    "attribute": "독일",
+    "prompt": "Translate a word from English to korean. Word: 'Germany'. Translated: '"
+  },
+  {
+    "known_id": 15,
+    "subject": "Austria",
+    "attribute": "오스트리아",
+    "prompt": "Translate a word from English to korean. Word: 'Austria'. Translated: '"
+  },
+  {
+    "known_id": 16,
+    "subject": "Italy",
+    "attribute": "이탈리아",
+    "prompt": "Translate a word from English to korean. Word: 'Italy'. Translated: '"
+  },
+  {
+    "known_id": 17,
+    "subject": "Finland",
+    "attribute": "핀란드",
+    "prompt": "Translate a word from English to korean. Word: 'Finland'. Translated: '"
+  },
+  {
+    "known_id": 18,
+    "subject": "Norway",
+    "attribute": "노르웨이",
+    "prompt": "Translate a word from English to korean. Word: 'Norway'. Translated: '"
+  },
+  {
+    "known_id": 19,
+    "subject": "United States",
+    "attribute": "미국",
+    "prompt": "Translate a word from English to korean. Word: 'United States'. Translated: '"
+  },
+  {
+    "known_id": 20,
+    "subject": "United States",
+    "attribute": "미국",
+    "prompt": "Translate a word from English to korean. Word: 'United States'. Translated: '"
+  },
+  {
+    "known_id": 21,
+    "subject": "Italy",
+    "attribute": "이탈리아",
+    "prompt": "Translate a word from English to korean. Word: 'Italy'. Translated: '"
+  },
+  {
+    "known_id": 22,
+    "subject": "Estonia",
+    "attribute": "에스토니아",
+    "prompt": "Translate a word from English to korean. Word: 'Estonia'. Translated: '"
+  },
+  {
+    "known_id": 23,
+    "subject": "Hungary",
+    "attribute": "헝가리",
+    "prompt": "Translate a word from English to korean. Word: 'Hungary'. Translated: '"
+  },
+  {
+    "known_id": 24,
+    "subject": "Spain",
+    "attribute": "스페인",
+    "prompt": "Translate a word from English to korean. Word: 'Spain'. Translated: '"
+  },
+  {
+    "known_id": 25,
+    "subject": "France",
+    "attribute": "프랑스",
+    "prompt": "Translate a word from English to korean. Word: 'France'. Translated: '"
+  },
+  {
+    "known_id": 26,
+    "subject": "Russia",
+    "attribute": "러시아",
+    "prompt": "Translate a word from English to korean. Word: 'Russia'. Translated: '"
+  },
+  {
+    "known_id": 27,
+    "subject": "France",
+    "attribute": "프랑스",
+    "prompt": "Translate a word from English to korean. Word: 'France'. Translated: '"
+  },
+  {
+    "known_id": 28,
+    "subject": "France",
+    "attribute": "프랑스",
+    "prompt": "Translate a word from English to korean. Word: 'France'. Translated: '"
+  },
+  {
+    "known_id": 29,
+    "subject": "Russia",
+    "attribute": "러시아",
+    "prompt": "Translate a word from English to korean. Word: 'Russia'. Translated: '"
+  },
+  {
+    "known_id": 30,
+    "subject": "United Kingdom",
+    "attribute": "영국",
+    "prompt": "Translate a word from English to korean. Word: 'United Kingdom'. Translated: '"
+  },
+  {
+    "known_id": 31,
+    "subject": "United Kingdom",
+    "attribute": "영국",
+    "prompt": "Translate a word from English to korean. Word: 'United Kingdom'. Translated: '"
+  },
+  {
+    "known_id": 32,
+    "subject": "France",
+    "attribute": "프랑스",
+    "prompt": "Translate a word from English to korean. Word: 'France'. Translated: '"
+  },
+  {
+    "known_id": 33,
+    "subject": "Austria",
+    "attribute": "오스트리아",
+    "prompt": "Translate a word from English to korean. Word: 'Austria'. Translated: '"
+  },
+  {
+    "known_id": 34,
+    "subject": "Germany",
+    "attribute": "독일",
+    "prompt": "Translate a word from English to korean. Word: 'Germany'. Translated: '"
+  },
+  {
+    "known_id": 35,
+    "subject": "Italy",
+    "attribute": "이탈리아",
+    "prompt": "Translate a word from English to korean. Word: 'Italy'. Translated: '"
+  },
+  {
+    "known_id": 36,
+    "subject": "Denmark",
+    "attribute": "덴마크",
+    "prompt": "Translate a word from English to korean. Word: 'Denmark'. Translated: '"
+  },
+  {
+    "known_id": 37,
+    "subject": "Hungary",
+    "attribute": "헝가리",
+    "prompt": "Translate a word from English to korean. Word: 'Hungary'. Translated: '"
+  },
+  {
+    "known_id": 38,
+    "subject": "Argentina",
+    "attribute": "아르헨티나",
+    "prompt": "Translate a word from English to korean. Word: 'Argentina'. Translated: '"
+  },
+  {
+    "known_id": 39,
+    "subject": "Argentina",
+    "attribute": "아르헨티나",
+    "prompt": "Translate a word from English to korean. Word: 'Argentina'. Translated: '"
+  },
+  {
+    "known_id": 40,
+    "subject": "Russia",
+    "attribute": "러시아",
+    "prompt": "Translate a word from English to korean. Word: 'Russia'. Translated: '"
+  },
+  {
+    "known_id": 41,
+    "subject": "Russia",
+    "attribute": "러시아",
+    "prompt": "Translate a word from English to korean. Word: 'Russia'. Translated: '"
+  },
+  {
+    "known_id": 42,
+    "subject": "Poland",
+    "attribute": "폴란드",
+    "prompt": "Translate a word from English to korean. Word: 'Poland'. Translated: '"
+  },
+  {
+    "known_id": 43,
+    "subject": "United States",
+    "attribute": "미국",
+    "prompt": "Translate a word from English to korean. Word: 'United States'. Translated: '"
+  },
+  {
+    "known_id": 44,
+    "subject": "United States",
+    "attribute": "미국",
+    "prompt": "Translate a word from English to korean. Word: 'United States'. Translated: '"
+  },
+  {
+    "known_id": 45,
+    "subject": "Poland",
+    "attribute": "폴란드",
+    "prompt": "Translate a word from English to korean. Word: 'Poland'. Translated: '"
+  },
+  {
+    "known_id": 46,
+    "subject": "United States",
+    "attribute": "미국",
+    "prompt": "Translate a word from English to korean. Word: 'United States'. Translated: '"
+  }
+]

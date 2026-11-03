@@ -1,0 +1,326 @@
+[
+  {
+    "subject": "堂吉诃德",
+    "known_id": 0,
+    "attribute": "西班牙语",
+    "prompt": "堂吉诃德最初编写时使用的语言为"
+  },
+  {
+    "subject": "神曲",
+    "known_id": 1,
+    "attribute": "意大利语",
+    "prompt": "神曲最初编写时使用的语言为"
+  },
+  {
+    "subject": "战争与和平",
+    "known_id": 2,
+    "attribute": "俄语",
+    "prompt": "战争与和平最初编写时使用的语言为"
+  },
+  {
+    "subject": "悲惨世界",
+    "known_id": 3,
+    "attribute": "法语",
+    "prompt": "悲惨世界最初编写时使用的语言为"
+  },
+  {
+    "subject": "伊利亚特",
+    "known_id": 4,
+    "attribute": "希腊语",
+    "prompt": "伊利亚特最初编写时使用的语言为"
+  },
+  {
+    "subject": "奥德赛",
+    "known_id": 5,
+    "attribute": "希腊语",
+    "prompt": "奥德赛最初编写时使用的语言为"
+  },
+  {
+    "subject": "浮士德",
+    "known_id": 6,
+    "attribute": "德语",
+    "prompt": "浮士德最初编写时使用的语言为"
+  },
+  {
+    "subject": "埃涅阿斯记",
+    "known_id": 7,
+    "attribute": "拉丁语",
+    "prompt": "埃涅阿斯记最初编写时使用的语言为"
+  },
+  {
+    "subject": "尤利西斯",
+    "known_id": 8,
+    "attribute": "英语",
+    "prompt": "尤利西斯最初编写时使用的语言为"
+  },
+  {
+    "subject": "白鲸记",
+    "known_id": 9,
+    "attribute": "英语",
+    "prompt": "白鲸记最初编写时使用的语言为"
+  },
+  {
+    "subject": "道林·格雷的画像",
+    "known_id": 10,
+    "attribute": "英语",
+    "prompt": "道林·格雷的画像最初编写时使用的语言为"
+  },
+  {
+    "subject": "罪与罚",
+    "known_id": 11,
+    "attribute": "俄语",
+    "prompt": "罪与罚最初编写时使用的语言为"
+  },
+  {
+    "subject": "安娜·卡列尼娜",
+    "known_id": 12,
+    "attribute": "俄语",
+    "prompt": "安娜·卡列尼娜最初编写时使用的语言为"
+  },
+  {
+    "subject": "包法利夫人",
+    "known_id": 13,
+    "attribute": "法语",
+    "prompt": "包法利夫人最初编写时使用的语言为"
+  },
+  {
+    "subject": "基督山伯爵",
+    "known_id": 14,
+    "attribute": "法语",
+    "prompt": "基督山伯爵最初编写时使用的语言为"
+  },
+  {
+    "subject": "局外人",
+    "known_id": 15,
+    "attribute": "法语",
+    "prompt": "局外人最初编写时使用的语言为"
+  },
+  {
+    "subject": "变形记",
+    "known_id": 16,
+    "attribute": "德语",
+    "prompt": "变形记最初编写时使用的语言为"
+  },
+  {
+    "subject": "查拉图斯特拉如是说",
+    "known_id": 17,
+    "attribute": "德语",
+    "prompt": "查拉图斯特拉如是说最初编写时使用的语言为"
+  },
+  {
+    "subject": "卡拉马佐夫兄弟",
+    "known_id": 18,
+    "attribute": "俄语",
+    "prompt": "卡拉马佐夫兄弟最初编写时使用的语言为"
+  },
+  {
+    "subject": "大师与玛格丽塔",
+    "known_id": 19,
+    "attribute": "俄语",
+    "prompt": "大师与玛格丽塔最初编写时使用的语言为"
+  },
+  {
+    "subject": "玫瑰的名字",
+    "known_id": 20,
+    "attribute": "意大利语",
+    "prompt": "玫瑰的名字最初编写时使用的语言为"
+  },
+  {
+    "subject": "百年孤独",
+    "known_id": 21,
+    "attribute": "西班牙语",
+    "prompt": "百年孤独最初编写时使用的语言为"
+  },
+  {
+    "subject": "卢济塔尼亚人之歌",
+    "known_id": 22,
+    "attribute": "葡萄牙语",
+    "prompt": "卢济塔尼亚人之歌最初编写时使用的语言为"
+  },
+  {
+    "subject": "十日谈",
+    "known_id": 23,
+    "attribute": "意大利语",
+    "prompt": "十日谈最初编写时使用的语言为"
+  },
+  {
+    "subject": "少年维特的烦恼",
+    "known_id": 24,
+    "attribute": "德语",
+    "prompt": "少年维特的烦恼最初编写时使用的语言为"
+  },
+  {
+    "subject": "审判",
+    "known_id": 25,
+    "attribute": "德语",
+    "prompt": "审判最初编写时使用的语言为"
+  },
+  {
+    "subject": "格列佛游记",
+    "known_id": 26,
+    "attribute": "英语",
+    "prompt": "格列佛游记最初编写时使用的语言为"
+  },
+  {
+    "subject": "弗兰肯斯坦",
+    "known_id": 27,
+    "attribute": "英语",
+    "prompt": "弗兰肯斯坦最初编写时使用的语言为"
+  },
+  {
+    "subject": "君主论",
+    "known_id": 28,
+    "attribute": "意大利语",
+    "prompt": "君主论最初编写时使用的语言为"
+  },
+  {
+    "subject": "巴黎圣母院",
+    "known_id": 29,
+    "attribute": "法语",
+    "prompt": "巴黎圣母院最初编写时使用的语言为"
+  },
+  {
+    "subject": "三剑客",
+    "known_id": 30,
+    "attribute": "法语",
+    "prompt": "三剑客最初编写时使用的语言为"
+  },
+  {
+    "subject": "罗兰之歌",
+    "known_id": 31,
+    "attribute": "法语",
+    "prompt": "罗兰之歌最初编写时使用的语言为"
+  },
+  {
+    "subject": "尼伯龙根之歌",
+    "known_id": 32,
+    "attribute": "德语",
+    "prompt": "尼伯龙根之歌最初编写时使用的语言为"
+  },
+  {
+    "subject": "疯狂的奥兰多",
+    "known_id": 33,
+    "attribute": "意大利语",
+    "prompt": "疯狂的奥兰多最初编写时使用的语言为"
+  },
+  {
+    "subject": "老实人",
+    "known_id": 34,
+    "attribute": "法语",
+    "prompt": "老实人最初编写时使用的语言为"
+  },
+  {
+    "subject": "红与黑",
+    "known_id": 35,
+    "attribute": "法语",
+    "prompt": "红与黑最初编写时使用的语言为"
+  },
+  {
+    "subject": "萌芽",
+    "known_id": 36,
+    "attribute": "法语",
+    "prompt": "萌芽最初编写时使用的语言为"
+  },
+  {
+    "subject": "巴斯克维尔的猎犬",
+    "known_id": 37,
+    "attribute": "英语",
+    "prompt": "巴斯克维尔的猎犬最初编写时使用的语言为"
+  },
+  {
+    "subject": "歇洛克·福尔摩斯历险记",
+    "known_id": 38,
+    "attribute": "英语",
+    "prompt": "歇洛克·福尔摩斯历险记最初编写时使用的语言为"
+  },
+  {
+    "subject": "城堡",
+    "known_id": 39,
+    "attribute": "德语",
+    "prompt": "城堡最初编写时使用的语言为"
+  },
+  {
+    "subject": "布登勃洛克一家",
+    "known_id": 40,
+    "attribute": "德语",
+    "prompt": "布登勃洛克一家最初编写时使用的语言为"
+  },
+  {
+    "subject": "威尼斯之死",
+    "known_id": 41,
+    "attribute": "德语",
+    "prompt": "威尼斯之死最初编写时使用的语言为"
+  },
+  {
+    "subject": "浮士德博士",
+    "known_id": 42,
+    "attribute": "德语",
+    "prompt": "浮士德博士最初编写时使用的语言为"
+  },
+  {
+    "subject": "约婚夫妇",
+    "known_id": 43,
+    "attribute": "意大利语",
+    "prompt": "约婚夫妇最初编写时使用的语言为"
+  },
+  {
+    "subject": "如果在冬夜，一个旅人",
+    "known_id": 44,
+    "attribute": "意大利语",
+    "prompt": "如果在冬夜，一个旅人最初编写时使用的语言为"
+  },
+  {
+    "subject": "豹",
+    "known_id": 45,
+    "attribute": "意大利语",
+    "prompt": "豹最初编写时使用的语言为"
+  },
+  {
+    "subject": "项狄传",
+    "known_id": 46,
+    "attribute": "英语",
+    "prompt": "项狄传最初编写时使用的语言为"
+  },
+  {
+    "subject": "傲慢与偏见",
+    "known_id": 47,
+    "attribute": "英语",
+    "prompt": "傲慢与偏见最初编写时使用的语言为"
+  },
+  {
+    "subject": "呼啸山庄",
+    "known_id": 48,
+    "attribute": "英语",
+    "prompt": "呼啸山庄最初编写时使用的语言为"
+  },
+  {
+    "subject": "雾都孤儿",
+    "known_id": 49,
+    "attribute": "英语",
+    "prompt": "雾都孤儿最初编写时使用的语言为"
+  },
+  {
+    "subject": "大卫·科波菲尔",
+    "known_id": 50,
+    "attribute": "英语",
+    "prompt": "大卫·科波菲尔最初编写时使用的语言为"
+  },
+  {
+    "subject": "白痴",
+    "known_id": 51,
+    "attribute": "俄语",
+    "prompt": "白痴最初编写时使用的语言为"
+  },
+  {
+    "subject": "父与子",
+    "known_id": 52,
+    "attribute": "俄语",
+    "prompt": "父与子最初编写时使用的语言为"
+  },
+  {
+    "subject": "死魂灵",
+    "known_id": 53,
+    "attribute": "俄语",
+    "prompt": "死魂灵最初编写时使用的语言为"
+  }
+]

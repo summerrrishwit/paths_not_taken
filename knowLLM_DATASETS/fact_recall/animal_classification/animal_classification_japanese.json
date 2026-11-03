@@ -1,0 +1,284 @@
+[
+  {
+    "subject": "犬",
+    "known_id": 0,
+    "attribute": "哺乳類",
+    "prompt": "犬 は生物学的に分類される"
+  },
+  {
+    "subject": "猫",
+    "known_id": 1,
+    "attribute": "哺乳類",
+    "prompt": "猫 は生物学的に分類される"
+  },
+  {
+    "subject": "人間",
+    "known_id": 2,
+    "attribute": "哺乳類",
+    "prompt": "人間 は生物学的に分類される"
+  },
+  {
+    "subject": "象",
+    "known_id": 3,
+    "attribute": "哺乳類",
+    "prompt": "象 は生物学的に分類される"
+  },
+  {
+    "subject": "ライオン",
+    "known_id": 4,
+    "attribute": "哺乳類",
+    "prompt": "ライオン は生物学的に分類される"
+  },
+  {
+    "subject": "虎",
+    "known_id": 5,
+    "attribute": "哺乳類",
+    "prompt": "虎 は生物学的に分類される"
+  },
+  {
+    "subject": "ゴリラ",
+    "known_id": 6,
+    "attribute": "哺乳類",
+    "prompt": "ゴリラ は生物学的に分類される"
+  },
+  {
+    "subject": "イルカ",
+    "known_id": 7,
+    "attribute": "哺乳類",
+    "prompt": "イルカ は生物学的に分類される"
+  },
+  {
+    "subject": "クジラ",
+    "known_id": 8,
+    "attribute": "哺乳類",
+    "prompt": "クジラ は生物学的に分類される"
+  },
+  {
+    "subject": "コウモリ",
+    "known_id": 9,
+    "attribute": "哺乳類",
+    "prompt": "コウモリ は生物学的に分類される"
+  },
+  {
+    "subject": "馬",
+    "known_id": 10,
+    "attribute": "哺乳類",
+    "prompt": "馬 は生物学的に分類される"
+  },
+  {
+    "subject": "カンガルー",
+    "known_id": 11,
+    "attribute": "哺乳類",
+    "prompt": "カンガルー は生物学的に分類される"
+  },
+  {
+    "subject": "ワニ",
+    "known_id": 12,
+    "attribute": "爬虫類",
+    "prompt": "ワニ は生物学的に分類される"
+  },
+  {
+    "subject": "蛇",
+    "known_id": 13,
+    "attribute": "爬虫類",
+    "prompt": "蛇 は生物学的に分類される"
+  },
+  {
+    "subject": "カメ",
+    "known_id": 14,
+    "attribute": "爬虫類",
+    "prompt": "カメ は生物学的に分類される"
+  },
+  {
+    "subject": "カメレオン",
+    "known_id": 15,
+    "attribute": "爬虫類",
+    "prompt": "カメレオン は生物学的に分類される"
+  },
+  {
+    "subject": "コモドオオトカゲ",
+    "known_id": 16,
+    "attribute": "爬虫類",
+    "prompt": "コモドオオトカゲ は生物学的に分類される"
+  },
+  {
+    "subject": "カエル",
+    "known_id": 17,
+    "attribute": "両生類",
+    "prompt": "カエル は生物学的に分類される"
+  },
+  {
+    "subject": "ヒキガエル",
+    "known_id": 18,
+    "attribute": "両生類",
+    "prompt": "ヒキガエル は生物学的に分類される"
+  },
+  {
+    "subject": "サンショウウオ",
+    "known_id": 19,
+    "attribute": "両生類",
+    "prompt": "サンショウウオ は生物学的に分類される"
+  },
+  {
+    "subject": "イモリ",
+    "known_id": 20,
+    "attribute": "両生類",
+    "prompt": "イモリ は生物学的に分類される"
+  },
+  {
+    "subject": "金魚",
+    "known_id": 21,
+    "attribute": "魚類",
+    "prompt": "金魚 は生物学的に分類される"
+  },
+  {
+    "subject": "サメ",
+    "known_id": 22,
+    "attribute": "魚類",
+    "prompt": "サメ は生物学的に分類される"
+  },
+  {
+    "subject": "マグロ",
+    "known_id": 23,
+    "attribute": "魚類",
+    "prompt": "マグロ は生物学的に分類される"
+  },
+  {
+    "subject": "サケ",
+    "known_id": 24,
+    "attribute": "魚類",
+    "prompt": "サケ は生物学的に分類される"
+  },
+  {
+    "subject": "ウナギ",
+    "known_id": 25,
+    "attribute": "魚類",
+    "prompt": "ウナギ は生物学的に分類される"
+  },
+  {
+    "subject": "オウム",
+    "known_id": 26,
+    "attribute": "鳥類",
+    "prompt": "オウム は生物学的に分類される"
+  },
+  {
+    "subject": "ワシ",
+    "known_id": 27,
+    "attribute": "鳥類",
+    "prompt": "ワシ は生物学的に分類される"
+  },
+  {
+    "subject": "ペンギン",
+    "known_id": 28,
+    "attribute": "鳥類",
+    "prompt": "ペンギン は生物学的に分類される"
+  },
+  {
+    "subject": "ダチョウ",
+    "known_id": 29,
+    "attribute": "鳥類",
+    "prompt": "ダチョウ は生物学的に分類される"
+  },
+  {
+    "subject": "クジャク",
+    "known_id": 30,
+    "attribute": "鳥類",
+    "prompt": "クジャク は生物学的に分類される"
+  },
+  {
+    "subject": "チョウ",
+    "known_id": 31,
+    "attribute": "昆虫",
+    "prompt": "チョウ は生物学的に分類される"
+  },
+  {
+    "subject": "ハチ",
+    "known_id": 32,
+    "attribute": "昆虫",
+    "prompt": "ハチ は生物学的に分類される"
+  },
+  {
+    "subject": "アリ",
+    "known_id": 33,
+    "attribute": "昆虫",
+    "prompt": "アリ は生物学的に分類される"
+  },
+  {
+    "subject": "バッタ",
+    "known_id": 34,
+    "attribute": "昆虫",
+    "prompt": "バッタ は生物学的に分類される"
+  },
+  {
+    "subject": "トンボ",
+    "known_id": 35,
+    "attribute": "昆虫",
+    "prompt": "トンボ は生物学的に分類される"
+  },
+  {
+    "subject": "クモ",
+    "known_id": 36,
+    "attribute": "クモ形類",
+    "prompt": "クモ は生物学的に分類される"
+  },
+  {
+    "subject": "サソリ",
+    "known_id": 37,
+    "attribute": "クモ形類",
+    "prompt": "サソリ は生物学的に分類される"
+  },
+  {
+    "subject": "タコ",
+    "known_id": 38,
+    "attribute": "頭足類",
+    "prompt": "タコ は生物学的に分類される"
+  },
+  {
+    "subject": "イカ",
+    "known_id": 39,
+    "attribute": "頭足類",
+    "prompt": "イカ は生物学的に分類される"
+  },
+  {
+    "subject": "クラゲ",
+    "known_id": 40,
+    "attribute": "刺胞動物",
+    "prompt": "クラゲ は生物学的に分類される"
+  },
+  {
+    "subject": "ヒトデ",
+    "known_id": 41,
+    "attribute": "棘皮動物",
+    "prompt": "ヒトデ は生物学的に分類される"
+  },
+  {
+    "subject": "ウニ",
+    "known_id": 42,
+    "attribute": "棘皮動物",
+    "prompt": "ウニ は生物学的に分類される"
+  },
+  {
+    "subject": "ミミズ",
+    "known_id": 43,
+    "attribute": "環形動物",
+    "prompt": "ミミズ は生物学的に分類される"
+  },
+  {
+    "subject": "カタツムリ",
+    "known_id": 44,
+    "attribute": "軟体動物",
+    "prompt": "カタツムリ は生物学的に分類される"
+  },
+  {
+    "subject": "カニ",
+    "known_id": 45,
+    "attribute": "甲殻類",
+    "prompt": "カニ は生物学的に分類される"
+  },
+  {
+    "subject": "ロブスター",
+    "known_id": 46,
+    "attribute": "甲殻類",
+    "prompt": "ロブスター は生物学的に分類される"
+  }
+]

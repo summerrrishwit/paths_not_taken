@@ -1,0 +1,296 @@
+[
+  {
+    "subject": "鲁斯·贝德·金斯堡",
+    "known_id": 0,
+    "attribute": "康奈尔大学",
+    "prompt": "鲁斯·贝德·金斯堡 就读的大学名叫"
+  },
+  {
+    "subject": "索尼娅·索托马约尔",
+    "known_id": 1,
+    "attribute": "普林斯顿大学",
+    "prompt": "索尼娅·索托马约尔 就读的大学名叫"
+  },
+  {
+    "subject": "斯蒂芬·布雷耶",
+    "known_id": 2,
+    "attribute": "斯坦福大学",
+    "prompt": "斯蒂芬·布雷耶 就读的大学名叫"
+  },
+  {
+    "subject": "恩戈齐·奥孔乔-伊韦阿拉",
+    "known_id": 3,
+    "attribute": "哈佛大学",
+    "prompt": "恩戈齐·奥孔乔-伊韦阿拉 就读的大学名叫"
+  },
+  {
+    "subject": "村上春树",
+    "known_id": 4,
+    "attribute": "早稻田大学",
+    "prompt": "村上春树 就读的大学名叫"
+  },
+  {
+    "subject": "摩洛哥国王穆罕默德六世",
+    "known_id": 5,
+    "attribute": "穆罕默德五世大学",
+    "prompt": "摩洛哥国王穆罕默德六世 就读的大学名叫"
+  },
+  {
+    "subject": "海尔马里亚姆·德萨莱尼",
+    "known_id": 6,
+    "attribute": "亚的斯亚贝巴大学",
+    "prompt": "海尔马里亚姆·德萨莱尼 就读的大学名叫"
+  },
+  {
+    "subject": "阿比·艾哈迈德",
+    "known_id": 7,
+    "attribute": "亚的斯亚贝巴大学",
+    "prompt": "阿比·艾哈迈德 就读的大学名叫"
+  },
+  {
+    "subject": "卡玛拉·哈里斯",
+    "known_id": 8,
+    "attribute": "霍华德大学",
+    "prompt": "卡玛拉·哈里斯 就读的大学名叫"
+  },
+  {
+    "subject": "维克托·欧尔班",
+    "known_id": 9,
+    "attribute": "厄特沃什·罗兰大学",
+    "prompt": "维克托·欧尔班 就读的大学名叫"
+  },
+  {
+    "subject": "玛丽·罗宾逊",
+    "known_id": 10,
+    "attribute": "都柏林圣三一学院",
+    "prompt": "玛丽·罗宾逊 就读的大学名叫"
+  },
+  {
+    "subject": "马克·吕特",
+    "known_id": 11,
+    "attribute": "莱顿大学",
+    "prompt": "马克·吕特 就读的大学名叫"
+  },
+  {
+    "subject": "习近平",
+    "known_id": 12,
+    "attribute": "清华大学",
+    "prompt": "习近平 就读的大学名叫"
+  },
+  {
+    "subject": "玛格丽特·撒切尔",
+    "known_id": 13,
+    "attribute": "牛津大学萨默维尔学院",
+    "prompt": "玛格丽特·撒切尔 就读的大学名叫"
+  },
+  {
+    "subject": "潘基文",
+    "known_id": 14,
+    "attribute": "首尔大学",
+    "prompt": "潘基文 就读的大学名叫"
+  },
+  {
+    "subject": "埃伦·约翰森·瑟利夫",
+    "known_id": 15,
+    "attribute": "哈佛肯尼迪学院",
+    "prompt": "埃伦·约翰森·瑟利夫 就读的大学名叫"
+  },
+  {
+    "subject": "迈克·彭斯",
+    "known_id": 16,
+    "attribute": "汉诺威学院",
+    "prompt": "迈克·彭斯 就读的大学名叫"
+  },
+  {
+    "subject": "奥普拉·温弗瑞",
+    "known_id": 17,
+    "attribute": "田纳西州立大学",
+    "prompt": "奥普拉·温弗瑞 就读的大学名叫"
+  },
+  {
+    "subject": "杰夫·贝索斯",
+    "known_id": 18,
+    "attribute": "普林斯顿大学",
+    "prompt": "杰夫·贝索斯 就读的大学名叫"
+  },
+  {
+    "subject": "史蒂夫·乔布斯",
+    "known_id": 19,
+    "attribute": "里德学院",
+    "prompt": "史蒂夫·乔布斯 就读的大学名叫"
+  },
+  {
+    "subject": "蒂姆·库克",
+    "known_id": 20,
+    "attribute": "奥本大学",
+    "prompt": "蒂姆·库克 就读的大学名叫"
+  },
+  {
+    "subject": "桑达尔·皮查伊",
+    "known_id": 21,
+    "attribute": "斯坦福大学",
+    "prompt": "桑达尔·皮查伊 就读的大学名叫"
+  },
+  {
+    "subject": "雪莉·桑德伯格",
+    "known_id": 22,
+    "attribute": "哈佛大学",
+    "prompt": "雪莉·桑德伯格 就读的大学名叫"
+  },
+  {
+    "subject": "米歇尔·奥巴马",
+    "known_id": 23,
+    "attribute": "普林斯顿大学",
+    "prompt": "米歇尔·奥巴马 就读的大学名叫"
+  },
+  {
+    "subject": "比尔·盖茨",
+    "known_id": 24,
+    "attribute": "哈佛大学",
+    "prompt": "比尔·盖茨 就读的大学名叫"
+  },
+  {
+    "subject": "马克·扎克伯格",
+    "known_id": 25,
+    "attribute": "哈佛大学",
+    "prompt": "马克·扎克伯格 就读的大学名叫"
+  },
+  {
+    "subject": "奥普拉·温弗瑞",
+    "known_id": 26,
+    "attribute": "田纳西州立大学",
+    "prompt": "奥普拉·温弗瑞 就读的大学名叫"
+  },
+  {
+    "subject": "艾玛·沃森",
+    "known_id": 27,
+    "attribute": "布朗大学",
+    "prompt": "艾玛·沃森 就读的大学名叫"
+  },
+  {
+    "subject": "娜塔莉·波特曼",
+    "known_id": 28,
+    "attribute": "哈佛大学",
+    "prompt": "娜塔莉·波特曼 就读的大学名叫"
+  },
+  {
+    "subject": "乔治·W·布什",
+    "known_id": 29,
+    "attribute": "耶鲁大学",
+    "prompt": "乔治·W·布什 就读的大学名叫"
+  },
+  {
+    "subject": "尼尔·阿姆斯特朗",
+    "known_id": 30,
+    "attribute": "普渡大学",
+    "prompt": "尼尔·阿姆斯特朗 就读的大学名叫"
+  },
+  {
+    "subject": "詹姆斯·弗兰科",
+    "known_id": 31,
+    "attribute": "加利福尼亚大学洛杉矶分校（UCLA）",
+    "prompt": "詹姆斯·弗兰科 就读的大学名叫"
+  },
+  {
+    "subject": "马特·达蒙",
+    "known_id": 32,
+    "attribute": "哈佛大学",
+    "prompt": "马特·达蒙 就读的大学名叫"
+  },
+  {
+    "subject": "柯南·奥布莱恩",
+    "known_id": 33,
+    "attribute": "哈佛大学",
+    "prompt": "柯南·奥布莱恩 就读的大学名叫"
+  },
+  {
+    "subject": "桑德拉·布洛克",
+    "known_id": 34,
+    "attribute": "东卡罗来纳大学",
+    "prompt": "桑德拉·布洛克 就读的大学名叫"
+  },
+  {
+    "subject": "列夫·托尔斯泰",
+    "known_id": 35,
+    "attribute": "喀山帝国大学",
+    "prompt": "列夫·托尔斯泰 就读的大学名叫"
+  },
+  {
+    "subject": "亨利·摩尔",
+    "known_id": 36,
+    "attribute": "利兹艺术大学",
+    "prompt": "亨利·摩尔 就读的大学名叫"
+  },
+  {
+    "subject": "安迪·沃霍尔",
+    "known_id": 37,
+    "attribute": "卡耐基梅隆大学",
+    "prompt": "安迪·沃霍尔 就读的大学名叫"
+  },
+  {
+    "subject": "弗拉基米尔·列宁",
+    "known_id": 38,
+    "attribute": "喀山帝国大学",
+    "prompt": "弗拉基米尔·列宁 就读的大学名叫"
+  },
+  {
+    "subject": "伍迪·艾伦",
+    "known_id": 39,
+    "attribute": "纽约大学帝势艺术学院",
+    "prompt": "伍迪·艾伦 就读的大学名叫"
+  },
+  {
+    "subject": "奥古斯特·斯特林德贝里",
+    "known_id": 40,
+    "attribute": "乌普萨拉大学",
+    "prompt": "奥古斯特·斯特林德贝里 就读的大学名叫"
+  },
+  {
+    "subject": "克里斯蒂娜·拉加德",
+    "known_id": 41,
+    "attribute": "巴黎西岱昂纳大学",
+    "prompt": "克里斯蒂娜·拉加德 就读的大学名叫"
+  },
+  {
+    "subject": "柯文哲",
+    "known_id": 42,
+    "attribute": "国立台湾大学",
+    "prompt": "柯文哲 就读的大学名叫"
+  },
+  {
+    "subject": "马丁·路德·金",
+    "known_id": 43,
+    "attribute": "莫尔豪斯学院",
+    "prompt": "马丁·路德·金 就读的大学名叫"
+  },
+  {
+    "subject": "埃内斯托·塞迪略",
+    "known_id": 44,
+    "attribute": "耶鲁大学",
+    "prompt": "埃内斯托·塞迪略 就读的大学名叫"
+  },
+  {
+    "subject": "安吉拉·贝塞特",
+    "known_id": 45,
+    "attribute": "耶鲁大学",
+    "prompt": "安吉拉·贝塞特 就读的大学名叫"
+  },
+  {
+    "subject": "雷切尔·马多",
+    "known_id": 46,
+    "attribute": "斯坦福大学",
+    "prompt": "雷切尔·马多 就读的大学名叫"
+  },
+  {
+    "subject": "科里·布克",
+    "known_id": 47,
+    "attribute": "斯坦福大学",
+    "prompt": "科里·布克 就读的大学名叫"
+  },
+  {
+    "subject": "马克·吕特",
+    "known_id": 48,
+    "attribute": "莱顿大学",
+    "prompt": "马克·吕特 就读的大学名叫"
+  }
+]

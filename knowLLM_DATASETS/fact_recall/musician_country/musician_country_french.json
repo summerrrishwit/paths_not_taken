@@ -1,0 +1,285 @@
+[
+    {
+      "subject": "Ludwig van Beethoven",
+      "known_id": 0,
+      "attribute": "Allemagne",
+      "prompt": "Le pays de naissance de Ludwig van Beethoven est l'"
+    },
+    {
+      "subject": "Wolfgang Amadeus Mozart",
+      "known_id": 1,
+      "attribute": "Autriche",
+      "prompt": "Le pays de naissance de Wolfgang Amadeus Mozart est l'"
+    },
+    {
+      "subject": "Johann Sebastian Bach",
+      "known_id": 2,
+      "attribute": "Allemagne",
+      "prompt": "Le pays de naissance de Johann Sebastian Bach est l'"
+    },
+    {
+      "subject": "Frédéric Chopin",
+      "known_id": 3,
+      "attribute": "Pologne",
+      "prompt": "Le pays de naissance de Frédéric Chopin est la"
+    },
+    {
+      "subject": "Piotr Ilitch Tchaïkovski",
+      "known_id": 4,
+      "attribute": "Russie",
+      "prompt": "Le pays de naissance de Piotr Ilitch Tchaïkovski est la"
+    },
+    {
+      "subject": "Claude Debussy",
+      "known_id": 5,
+      "attribute": "France",
+      "prompt": "Le pays de naissance de Claude Debussy est la"
+    },
+    {
+      "subject": "Igor Stravinsky",
+      "known_id": 6,
+      "attribute": "Russie",
+      "prompt": "Le pays de naissance de Igor Stravinsky est la"
+    },
+    {
+      "subject": "Antonio Vivaldi",
+      "known_id": 7,
+      "attribute": "Italie",
+      "prompt": "Le pays de naissance de Antonio Vivaldi est l'"
+    },
+    {
+      "subject": "Gustav Mahler",
+      "known_id": 8,
+      "attribute": "Autriche",
+      "prompt": "Le pays de naissance de Gustav Mahler est l'"
+    },
+    {
+      "subject": "Sergueï Rachmaninov",
+      "known_id": 9,
+      "attribute": "Russie",
+      "prompt": "Le pays de naissance de Sergueï Rachmaninov est la"
+    },
+    {
+      "subject": "Dmitri Chostakovitch",
+      "known_id": 10,
+      "attribute": "Russie",
+      "prompt": "Le pays de naissance de Dmitri Chostakovitch est la"
+    },
+    {
+      "subject": "George Gershwin",
+      "known_id": 11,
+      "attribute": "États-Unis",
+      "prompt": "Le pays de naissance de George Gershwin est les"
+    },
+    {
+      "subject": "Leonard Bernstein",
+      "known_id": 12,
+      "attribute": "États-Unis",
+      "prompt": "Le pays de naissance de Leonard Bernstein est les"
+    },
+    {
+      "subject": "Johannes Brahms",
+      "known_id": 13,
+      "attribute": "Allemagne",
+      "prompt": "Le pays de naissance de Johannes Brahms est l'"
+    },
+    {
+      "subject": "Richard Wagner",
+      "known_id": 14,
+      "attribute": "Allemagne",
+      "prompt": "Le pays de naissance de Richard Wagner est l'"
+    },
+    {
+      "subject": "Franz Schubert",
+      "known_id": 15,
+      "attribute": "Autriche",
+      "prompt": "Le pays de naissance de Franz Schubert est l'"
+    },
+    {
+      "subject": "Gioachino Rossini",
+      "known_id": 16,
+      "attribute": "Italie",
+      "prompt": "Le pays de naissance de Gioachino Rossini est l'"
+    },
+    {
+      "subject": "Jean Sibelius",
+      "known_id": 17,
+      "attribute": "Finlande",
+      "prompt": "Le pays de naissance de Jean Sibelius est la"
+    },
+    {
+      "subject": "Edvard Grieg",
+      "known_id": 18,
+      "attribute": "Norvège",
+      "prompt": "Le pays de naissance de Edvard Grieg est la"
+    },
+    {
+      "subject": "Philip Glass",
+      "known_id": 19,
+      "attribute": "États-Unis",
+      "prompt": "Le pays de naissance de Philip Glass est les"
+    },
+    {
+      "subject": "John Williams",
+      "known_id": 20,
+      "attribute": "États-Unis",
+      "prompt": "Le pays de naissance de John Williams est les"
+    },
+    {
+      "subject": "Ennio Morricone",
+      "known_id": 21,
+      "attribute": "Italie",
+      "prompt": "Le pays de naissance de Ennio Morricone est l'"
+    },
+    {
+      "subject": "Arvo Pärt",
+      "known_id": 22,
+      "attribute": "Estonie",
+      "prompt": "Le pays de naissance de Arvo Pärt est l'"
+    },
+    {
+      "subject": "Béla Bartók",
+      "known_id": 23,
+      "attribute": "Hongrie",
+      "prompt": "Le pays de naissance de Béla Bartók est la"
+    },
+    {
+      "subject": "Manuel de Falla",
+      "known_id": 24,
+      "attribute": "Espagne",
+      "prompt": "Le pays de naissance de Manuel de Falla est l'"
+    },
+    {
+      "subject": "Erik Satie",
+      "known_id": 25,
+      "attribute": "France",
+      "prompt": "Le pays de naissance de Erik Satie est la"
+    },
+    {
+      "subject": "Alexandre Scriabine",
+      "known_id": 26,
+      "attribute": "Russie",
+      "prompt": "Le pays de naissance de Alexandre Scriabine est la"
+    },
+    {
+      "subject": "Maurice Ravel",
+      "known_id": 27,
+      "attribute": "France",
+      "prompt": "Le pays de naissance de Maurice Ravel est la"
+    },
+    {
+      "subject": "Camille Saint-Saëns",
+      "known_id": 28,
+      "attribute": "France",
+      "prompt": "Le pays de naissance de Camille Saint-Saëns est la"
+    },
+    {
+      "subject": "Nikolai Rimski-Korsakov",
+      "known_id": 29,
+      "attribute": "Russie",
+      "prompt": "Le pays de naissance de Nikolai Rimski-Korsakov est la"
+    },
+    {
+      "subject": "Ralph Vaughan Williams",
+      "known_id": 30,
+      "attribute": "Royaume-Uni",
+      "prompt": "Le pays de naissance de Ralph Vaughan Williams est le"
+    },
+    {
+      "subject": "Benjamin Britten",
+      "known_id": 31,
+      "attribute": "Royaume-Uni",
+      "prompt": "Le pays de naissance de Benjamin Britten est le"
+    },
+    {
+      "subject": "Hector Berlioz",
+      "known_id": 32,
+      "attribute": "France",
+      "prompt": "Le pays de naissance de Hector Berlioz est la"
+    },
+    {
+      "subject": "Anton Bruckner",
+      "known_id": 33,
+      "attribute": "Autriche",
+      "prompt": "Le pays de naissance de Anton Bruckner est l'"
+    },
+    {
+      "subject": "Carl Orff",
+      "known_id": 34,
+      "attribute": "Allemagne",
+      "prompt": "Le pays de naissance de Carl Orff est l'"
+    },
+    {
+      "subject": "Ottorino Respighi",
+      "known_id": 35,
+      "attribute": "Italie",
+      "prompt": "Le pays de naissance de Ottorino Respighi est l'"
+    },
+    {
+      "subject": "Carl Nielsen",
+      "known_id": 36,
+      "attribute": "Danemark",
+      "prompt": "Le pays de naissance de Carl Nielsen est le"
+    },
+    {
+      "subject": "Zoltán Kodály",
+      "known_id": 37,
+      "attribute": "Hongrie",
+      "prompt": "Le pays de naissance de Zoltán Kodály est la"
+    },
+    {
+      "subject": "Astor Piazzolla",
+      "known_id": 38,
+      "attribute": "Argentine",
+      "prompt": "Le pays de naissance de Astor Piazzolla est l'"
+    },
+    {
+      "subject": "Alberto Ginastera",
+      "known_id": 39,
+      "attribute": "Argentine",
+      "prompt": "Le pays de naissance de Alberto Ginastera est l'"
+    },
+    {
+      "subject": "Modeste Moussorgski",
+      "known_id": 40,
+      "attribute": "Russie",
+      "prompt": "Le pays de naissance de Modeste Moussorgski est la"
+    },
+    {
+      "subject": "Mikhaïl Glinka",
+      "known_id": 41,
+      "attribute": "Russie",
+      "prompt": "Le pays de naissance de Mikhaïl Glinka est la"
+    },
+    {
+      "subject": "Krzysztof Penderecki",
+      "known_id": 42,
+      "attribute": "Pologne",
+      "prompt": "Le pays de naissance de Krzysztof Penderecki est la"
+    },
+    {
+      "subject": "Charles Ives",
+      "known_id": 43,
+      "attribute": "États-Unis",
+      "prompt": "Le pays de naissance de Charles Ives est les"
+    },
+    {
+      "subject": "Samuel Barber",
+      "known_id": 44,
+      "attribute": "États-Unis",
+      "prompt": "Le pays de naissance de Samuel Barber est les"
+    },
+    {
+      "subject": "Henryk Górecki",
+      "known_id": 45,
+      "attribute": "Pologne",
+      "prompt": "Le pays de naissance de Henryk Górecki est la"
+    },
+    {
+      "subject": "John Cage",
+      "known_id": 46,
+      "attribute": "États-Unis",
+      "prompt": "Le pays de naissance de John Cage est les"
+    }
+  ]
+  

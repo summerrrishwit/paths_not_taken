@@ -1,0 +1,308 @@
+[
+  {
+    "subject": "United States",
+    "known_id": 0,
+    "attribute": "Dollar",
+    "prompt": "The official currency of United States is called the"
+  },
+  {
+    "subject": "United Kingdom",
+    "known_id": 1,
+    "attribute": "Pound",
+    "prompt": "The official currency of United Kingdom is called the"
+  },
+  {
+    "subject": "Japan",
+    "known_id": 2,
+    "attribute": "Yen",
+    "prompt": "The official currency of Japan is called the"
+  },
+  {
+    "subject": "Canada",
+    "known_id": 3,
+    "attribute": "Dollar",
+    "prompt": "The official currency of Canada is called the"
+  },
+  {
+    "subject": "Australia",
+    "known_id": 4,
+    "attribute": "Dollar",
+    "prompt": "The official currency of Australia is called the"
+  },
+  {
+    "subject": "Brazil",
+    "known_id": 5,
+    "attribute": "Real",
+    "prompt": "The official currency of Brazil is called the"
+  },
+  {
+    "subject": "China",
+    "known_id": 6,
+    "attribute": "Yuan",
+    "prompt": "The official currency of China is called the"
+  },
+  {
+    "subject": "India",
+    "known_id": 7,
+    "attribute": "Rupee",
+    "prompt": "The official currency of India is called the"
+  },
+  {
+    "subject": "Russia",
+    "known_id": 8,
+    "attribute": "Ruble",
+    "prompt": "The official currency of Russia is called the"
+  },
+  {
+    "subject": "South Africa",
+    "known_id": 9,
+    "attribute": "Rand",
+    "prompt": "The official currency of South Africa is called the"
+  },
+  {
+    "subject": "Mexico",
+    "known_id": 10,
+    "attribute": "Peso",
+    "prompt": "The official currency of Mexico is called the"
+  },
+  {
+    "subject": "New Zealand",
+    "known_id": 11,
+    "attribute": "Dollar",
+    "prompt": "The official currency of New Zealand is called the"
+  },
+  {
+    "subject": "South Korea",
+    "known_id": 12,
+    "attribute": "Won",
+    "prompt": "The official currency of South Korea is called the"
+  },
+  {
+    "subject": "Switzerland",
+    "known_id": 13,
+    "attribute": "Franc",
+    "prompt": "The official currency of Switzerland is called the"
+  },
+  {
+    "subject": "Turkey",
+    "known_id": 14,
+    "attribute": "Lira",
+    "prompt": "The official currency of Turkey is called the"
+  },
+  {
+    "subject": "Argentina",
+    "known_id": 15,
+    "attribute": "Peso",
+    "prompt": "The official currency of Argentina is called the"
+  },
+  {
+    "subject": "Norway",
+    "known_id": 16,
+    "attribute": "Krone",
+    "prompt": "The official currency of Norway is called the"
+  },
+  {
+    "subject": "Sweden",
+    "known_id": 17,
+    "attribute": "Krona",
+    "prompt": "The official currency of Sweden is called the"
+  },
+  {
+    "subject": "Denmark",
+    "known_id": 18,
+    "attribute": "Krone",
+    "prompt": "The official currency of Denmark is called the"
+  },
+  {
+    "subject": "Poland",
+    "known_id": 19,
+    "attribute": "Zloty",
+    "prompt": "The official currency of Poland is called the"
+  },
+  {
+    "subject": "Hungary",
+    "known_id": 20,
+    "attribute": "Forint",
+    "prompt": "The official currency of Hungary is called the"
+  },
+  {
+    "subject": "Czech Republic",
+    "known_id": 21,
+    "attribute": "Koruna",
+    "prompt": "The official currency of Czech Republic is called the"
+  },
+  {
+    "subject": "Israel",
+    "known_id": 22,
+    "attribute": "Shekel",
+    "prompt": "The official currency of Israel is called the"
+  },
+  {
+    "subject": "Saudi Arabia",
+    "known_id": 23,
+    "attribute": "Riyal",
+    "prompt": "The official currency of Saudi Arabia is called the"
+  },
+  {
+    "subject": "United Arab Emirates",
+    "known_id": 24,
+    "attribute": "Dirham",
+    "prompt": "The official currency of United Arab Emirates is called the"
+  },
+  {
+    "subject": "Singapore",
+    "known_id": 25,
+    "attribute": "Dollar",
+    "prompt": "The official currency of Singapore is called the"
+  },
+  {
+    "subject": "Malaysia",
+    "known_id": 26,
+    "attribute": "Ringgit",
+    "prompt": "The official currency of Malaysia is called the"
+  },
+  {
+    "subject": "Indonesia",
+    "known_id": 27,
+    "attribute": "Rupiah",
+    "prompt": "The official currency of Indonesia is called the"
+  },
+  {
+    "subject": "Thailand",
+    "known_id": 28,
+    "attribute": "Baht",
+    "prompt": "The official currency of Thailand is called the"
+  },
+  {
+    "subject": "Philippines",
+    "known_id": 29,
+    "attribute": "Peso",
+    "prompt": "The official currency of Philippines is called the"
+  },
+  {
+    "subject": "Vietnam",
+    "known_id": 30,
+    "attribute": "Dong",
+    "prompt": "The official currency of Vietnam is called the"
+  },
+  {
+    "subject": "Egypt",
+    "known_id": 31,
+    "attribute": "Pound",
+    "prompt": "The official currency of Egypt is called the"
+  },
+  {
+    "subject": "Ukraine",
+    "known_id": 32,
+    "attribute": "Hryvnia",
+    "prompt": "The official currency of Ukraine is called the"
+  },
+  {
+    "subject": "Romania",
+    "known_id": 33,
+    "attribute": "Leu",
+    "prompt": "The official currency of Romania is called the"
+  },
+  {
+    "subject": "Bulgaria",
+    "known_id": 34,
+    "attribute": "Lev",
+    "prompt": "The official currency of Bulgaria is called the"
+  },
+  {
+    "subject": "Serbia",
+    "known_id": 35,
+    "attribute": "Dinar",
+    "prompt": "The official currency of Serbia is called the"
+  },
+  {
+    "subject": "Iraq",
+    "known_id": 36,
+    "attribute": "Dinar",
+    "prompt": "The official currency of Iraq is called the"
+  },
+  {
+    "subject": "Kuwait",
+    "known_id": 37,
+    "attribute": "Dinar",
+    "prompt": "The official currency of Kuwait is called the"
+  },
+  {
+    "subject": "Morocco",
+    "known_id": 38,
+    "attribute": "Dirham",
+    "prompt": "The official currency of Morocco is called the"
+  },
+  {
+    "subject": "Tunisia",
+    "known_id": 39,
+    "attribute": "Dinar",
+    "prompt": "The official currency of Tunisia is called the"
+  },
+  {
+    "subject": "Chile",
+    "known_id": 40,
+    "attribute": "Peso",
+    "prompt": "The official currency of Chile is called the"
+  },
+  {
+    "subject": "Colombia",
+    "known_id": 41,
+    "attribute": "Peso",
+    "prompt": "The official currency of Colombia is called the"
+  },
+  {
+    "subject": "Uruguay",
+    "known_id": 42,
+    "attribute": "Peso",
+    "prompt": "The official currency of Uruguay is called the"
+  },
+  {
+    "subject": "Iceland",
+    "known_id": 43,
+    "attribute": "Krona",
+    "prompt": "The official currency of Iceland is called the"
+  },
+  {
+    "subject": "Georgia",
+    "known_id": 44,
+    "attribute": "Lari",
+    "prompt": "The official currency of Georgia is called the"
+  },
+  {
+    "subject": "Azerbaijan",
+    "known_id": 45,
+    "attribute": "Manat",
+    "prompt": "The official currency of Azerbaijan is called the"
+  },
+  {
+    "subject": "Kazakhstan",
+    "known_id": 46,
+    "attribute": "Tenge",
+    "prompt": "The official currency of Kazakhstan is called the"
+  },
+  {
+    "subject": "Sri Lanka",
+    "known_id": 47,
+    "attribute": "Rupee",
+    "prompt": "The official currency of Sri Lanka is called the"
+  },
+  {
+    "subject": "Nepal",
+    "known_id": 48,
+    "attribute": "Rupee",
+    "prompt": "The official currency of Nepal is called the"
+  },
+  {
+    "subject": "Bangladesh",
+    "known_id": 49,
+    "attribute": "Taka",
+    "prompt": "The official currency of Bangladesh is called the"
+  },
+  {
+    "subject": "Pakistan",
+    "known_id": 50,
+    "attribute": "Rupee",
+    "prompt": "The official currency of Pakistan is called the"
+  }
+]

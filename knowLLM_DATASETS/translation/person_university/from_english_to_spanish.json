@@ -1,0 +1,296 @@
+[
+  {
+    "known_id": 0,
+    "subject": "Cornell University",
+    "attribute": "Universidad Cornell",
+    "prompt": "Translate a word from English to spanish. Word: 'Cornell University'. Translated: '"
+  },
+  {
+    "known_id": 1,
+    "subject": "Princeton University",
+    "attribute": "Universidad de Princeton",
+    "prompt": "Translate a word from English to spanish. Word: 'Princeton University'. Translated: '"
+  },
+  {
+    "known_id": 2,
+    "subject": "Stanford University",
+    "attribute": "Universidad Stanford",
+    "prompt": "Translate a word from English to spanish. Word: 'Stanford University'. Translated: '"
+  },
+  {
+    "known_id": 3,
+    "subject": "Harvard University",
+    "attribute": "Universidad de Harvard",
+    "prompt": "Translate a word from English to spanish. Word: 'Harvard University'. Translated: '"
+  },
+  {
+    "known_id": 4,
+    "subject": "Waseda University",
+    "attribute": "Universidad Waseda",
+    "prompt": "Translate a word from English to spanish. Word: 'Waseda University'. Translated: '"
+  },
+  {
+    "known_id": 5,
+    "subject": "Mohammed V University",
+    "attribute": "Universidad Mohammed V",
+    "prompt": "Translate a word from English to spanish. Word: 'Mohammed V University'. Translated: '"
+  },
+  {
+    "known_id": 6,
+    "subject": "Addis Ababa University",
+    "attribute": "Universidad de Adís Abeba",
+    "prompt": "Translate a word from English to spanish. Word: 'Addis Ababa University'. Translated: '"
+  },
+  {
+    "known_id": 7,
+    "subject": "Addis Ababa University",
+    "attribute": "Universidad de Adís Abeba",
+    "prompt": "Translate a word from English to spanish. Word: 'Addis Ababa University'. Translated: '"
+  },
+  {
+    "known_id": 8,
+    "subject": "Howard University",
+    "attribute": "Universidad Howard",
+    "prompt": "Translate a word from English to spanish. Word: 'Howard University'. Translated: '"
+  },
+  {
+    "known_id": 9,
+    "subject": "Eötvös Loránd University",
+    "attribute": "Universidad Eötvös Loránd",
+    "prompt": "Translate a word from English to spanish. Word: 'Eötvös Loránd University'. Translated: '"
+  },
+  {
+    "known_id": 10,
+    "subject": "Trinity College Dublin",
+    "attribute": "Trinity College Dublin",
+    "prompt": "Translate a word from English to spanish. Word: 'Trinity College Dublin'. Translated: '"
+  },
+  {
+    "known_id": 11,
+    "subject": "Leiden University",
+    "attribute": "Universidad de Leiden",
+    "prompt": "Translate a word from English to spanish. Word: 'Leiden University'. Translated: '"
+  },
+  {
+    "known_id": 12,
+    "subject": "Tsinghua University",
+    "attribute": "Universidad Tsinghua",
+    "prompt": "Translate a word from English to spanish. Word: 'Tsinghua University'. Translated: '"
+  },
+  {
+    "known_id": 13,
+    "subject": "Somerville College, Oxford",
+    "attribute": "Somerville College (Oxford)",
+    "prompt": "Translate a word from English to spanish. Word: 'Somerville College, Oxford'. Translated: '"
+  },
+  {
+    "known_id": 14,
+    "subject": "Seoul National University",
+    "attribute": "Universidad Nacional de Seúl",
+    "prompt": "Translate a word from English to spanish. Word: 'Seoul National University'. Translated: '"
+  },
+  {
+    "known_id": 15,
+    "subject": "Harvard Kennedy School",
+    "attribute": "Harvard Kennedy School",
+    "prompt": "Translate a word from English to spanish. Word: 'Harvard Kennedy School'. Translated: '"
+  },
+  {
+    "known_id": 16,
+    "subject": "Hanover College",
+    "attribute": "Hanover College",
+    "prompt": "Translate a word from English to spanish. Word: 'Hanover College'. Translated: '"
+  },
+  {
+    "known_id": 17,
+    "subject": "Tennessee State University",
+    "attribute": "Universidad Estatal de Tennessee",
+    "prompt": "Translate a word from English to spanish. Word: 'Tennessee State University'. Translated: '"
+  },
+  {
+    "known_id": 18,
+    "subject": "Princeton University",
+    "attribute": "Universidad de Princeton",
+    "prompt": "Translate a word from English to spanish. Word: 'Princeton University'. Translated: '"
+  },
+  {
+    "known_id": 19,
+    "subject": "Reed College",
+    "attribute": "Reed College",
+    "prompt": "Translate a word from English to spanish. Word: 'Reed College'. Translated: '"
+  },
+  {
+    "known_id": 20,
+    "subject": "Auburn University",
+    "attribute": "Universidad de Auburn",
+    "prompt": "Translate a word from English to spanish. Word: 'Auburn University'. Translated: '"
+  },
+  {
+    "known_id": 21,
+    "subject": "Stanford University",
+    "attribute": "Universidad Stanford",
+    "prompt": "Translate a word from English to spanish. Word: 'Stanford University'. Translated: '"
+  },
+  {
+    "known_id": 22,
+    "subject": "Harvard University",
+    "attribute": "Universidad de Harvard",
+    "prompt": "Translate a word from English to spanish. Word: 'Harvard University'. Translated: '"
+  },
+  {
+    "known_id": 23,
+    "subject": "Princeton University",
+    "attribute": "Universidad de Princeton",
+    "prompt": "Translate a word from English to spanish. Word: 'Princeton University'. Translated: '"
+  },
+  {
+    "known_id": 24,
+    "subject": "Harvard University",
+    "attribute": "Universidad de Harvard",
+    "prompt": "Translate a word from English to spanish. Word: 'Harvard University'. Translated: '"
+  },
+  {
+    "known_id": 25,
+    "subject": "Harvard University",
+    "attribute": "Universidad de Harvard",
+    "prompt": "Translate a word from English to spanish. Word: 'Harvard University'. Translated: '"
+  },
+  {
+    "known_id": 26,
+    "subject": "Tennessee State University",
+    "attribute": "Universidad Estatal de Tennessee",
+    "prompt": "Translate a word from English to spanish. Word: 'Tennessee State University'. Translated: '"
+  },
+  {
+    "known_id": 27,
+    "subject": "Brown University",
+    "attribute": "Universidad Brown",
+    "prompt": "Translate a word from English to spanish. Word: 'Brown University'. Translated: '"
+  },
+  {
+    "known_id": 28,
+    "subject": "Harvard University",
+    "attribute": "Universidad de Harvard",
+    "prompt": "Translate a word from English to spanish. Word: 'Harvard University'. Translated: '"
+  },
+  {
+    "known_id": 29,
+    "subject": "Yale University",
+    "attribute": "Universidad Yale",
+    "prompt": "Translate a word from English to spanish. Word: 'Yale University'. Translated: '"
+  },
+  {
+    "known_id": 30,
+    "subject": "Purdue University",
+    "attribute": "Universidad Purdue",
+    "prompt": "Translate a word from English to spanish. Word: 'Purdue University'. Translated: '"
+  },
+  {
+    "known_id": 31,
+    "subject": "UCLA",
+    "attribute": "UCLA (Universidad de California en Los Ángeles)",
+    "prompt": "Translate a word from English to spanish. Word: 'UCLA'. Translated: '"
+  },
+  {
+    "known_id": 32,
+    "subject": "Harvard University",
+    "attribute": "Universidad de Harvard",
+    "prompt": "Translate a word from English to spanish. Word: 'Harvard University'. Translated: '"
+  },
+  {
+    "known_id": 33,
+    "subject": "Harvard University",
+    "attribute": "Universidad de Harvard",
+    "prompt": "Translate a word from English to spanish. Word: 'Harvard University'. Translated: '"
+  },
+  {
+    "known_id": 34,
+    "subject": "East Carolina University",
+    "attribute": "Universidad de East Carolina",
+    "prompt": "Translate a word from English to spanish. Word: 'East Carolina University'. Translated: '"
+  },
+  {
+    "known_id": 35,
+    "subject": "Kazan Imperial University",
+    "attribute": "Universidad Imperial de Kazán",
+    "prompt": "Translate a word from English to spanish. Word: 'Kazan Imperial University'. Translated: '"
+  },
+  {
+    "known_id": 36,
+    "subject": "Leeds Arts University",
+    "attribute": "Leeds Arts University",
+    "prompt": "Translate a word from English to spanish. Word: 'Leeds Arts University'. Translated: '"
+  },
+  {
+    "known_id": 37,
+    "subject": "Carnegie Mellon University",
+    "attribute": "Carnegie Mellon University",
+    "prompt": "Translate a word from English to spanish. Word: 'Carnegie Mellon University'. Translated: '"
+  },
+  {
+    "known_id": 38,
+    "subject": "Kazan Imperial University",
+    "attribute": "Universidad Imperial de Kazán",
+    "prompt": "Translate a word from English to spanish. Word: 'Kazan Imperial University'. Translated: '"
+  },
+  {
+    "known_id": 39,
+    "subject": "New York University Tisch School of the Arts",
+    "attribute": "Tisch School of the Arts (NYU)",
+    "prompt": "Translate a word from English to spanish. Word: 'New York University Tisch School of the Arts'. Translated: '"
+  },
+  {
+    "known_id": 40,
+    "subject": "Uppsala University",
+    "attribute": "Universidad de Uppsala",
+    "prompt": "Translate a word from English to spanish. Word: 'Uppsala University'. Translated: '"
+  },
+  {
+    "known_id": 41,
+    "subject": "Paris West University Nanterre La Défense",
+    "attribute": "Universidad París-Nanterre (París Oeste)",
+    "prompt": "Translate a word from English to spanish. Word: 'Paris West University Nanterre La Défense'. Translated: '"
+  },
+  {
+    "known_id": 42,
+    "subject": "National Taiwan University",
+    "attribute": "Universidad Nacional de Taiwán",
+    "prompt": "Translate a word from English to spanish. Word: 'National Taiwan University'. Translated: '"
+  },
+  {
+    "known_id": 43,
+    "subject": "Morehouse College",
+    "attribute": "Morehouse College",
+    "prompt": "Translate a word from English to spanish. Word: 'Morehouse College'. Translated: '"
+  },
+  {
+    "known_id": 44,
+    "subject": "Yale University",
+    "attribute": "Universidad Yale",
+    "prompt": "Translate a word from English to spanish. Word: 'Yale University'. Translated: '"
+  },
+  {
+    "known_id": 45,
+    "subject": "Yale University",
+    "attribute": "Universidad Yale",
+    "prompt": "Translate a word from English to spanish. Word: 'Yale University'. Translated: '"
+  },
+  {
+    "known_id": 46,
+    "subject": "Stanford University",
+    "attribute": "Universidad Stanford",
+    "prompt": "Translate a word from English to spanish. Word: 'Stanford University'. Translated: '"
+  },
+  {
+    "known_id": 47,
+    "subject": "Stanford University",
+    "attribute": "Universidad Stanford",
+    "prompt": "Translate a word from English to spanish. Word: 'Stanford University'. Translated: '"
+  },
+  {
+    "known_id": 48,
+    "subject": "Leiden University",
+    "attribute": "Universidad de Leiden",
+    "prompt": "Translate a word from English to spanish. Word: 'Leiden University'. Translated: '"
+  }
+]

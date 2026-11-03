@@ -1,0 +1,284 @@
+[
+    {
+        "subject": "루트비히 반 베토벤",
+        "known_id": 0,
+        "attribute": "독일",
+        "prompt": "루트비히 반 베토벤의 출생 국가는"
+    },
+    {
+        "subject": "볼프강 아마데우스 모차르트",
+        "known_id": 1,
+        "attribute": "오스트리아",
+        "prompt": "볼프강 아마데우스 모차르트의 출생 국가는"
+    },
+    {
+        "subject": "요한 세바스찬 바흐",
+        "known_id": 2,
+        "attribute": "독일",
+        "prompt": "요한 세바스찬 바흐의 출생 국가는"
+    },
+    {
+        "subject": "프레데리크 쇼팽",
+        "known_id": 3,
+        "attribute": "폴란드",
+        "prompt": "프레데리크 쇼팽의 출생 국가는"
+    },
+    {
+        "subject": "표트르 일리치 차이콥스키",
+        "known_id": 4,
+        "attribute": "러시아",
+        "prompt": "표트르 일리치 차이콥스키의 출생 국가는"
+    },
+    {
+        "subject": "클로드 드뷔시",
+        "known_id": 5,
+        "attribute": "프랑스",
+        "prompt": "클로드 드뷔시의 출생 국가는"
+    },
+    {
+        "subject": "이고르 스트라빈스키",
+        "known_id": 6,
+        "attribute": "러시아",
+        "prompt": "이고르 스트라빈스키의 출생 국가는"
+    },
+    {
+        "subject": "안토니오 비발디",
+        "known_id": 7,
+        "attribute": "이탈리아",
+        "prompt": "안토니오 비발디의 출생 국가는"
+    },
+    {
+        "subject": "구스타프 말러",
+        "known_id": 8,
+        "attribute": "오스트리아",
+        "prompt": "구스타프 말러의 출생 국가는"
+    },
+    {
+        "subject": "세르게이 라흐마니노프",
+        "known_id": 9,
+        "attribute": "러시아",
+        "prompt": "세르게이 라흐마니노프의 출생 국가는"
+    },
+    {
+        "subject": "드미트리 쇼스타코비치",
+        "known_id": 10,
+        "attribute": "러시아",
+        "prompt": "드미트리 쇼스타코비치의 출생 국가는"
+    },
+    {
+        "subject": "조지 거슈윈",
+        "known_id": 11,
+        "attribute": "미국",
+        "prompt": "조지 거슈윈의 출생 국가는"
+    },
+    {
+        "subject": "레너드 번스타인",
+        "known_id": 12,
+        "attribute": "미국",
+        "prompt": "레너드 번스타인의 출생 국가는"
+    },
+    {
+        "subject": "요하네스 브람스",
+        "known_id": 13,
+        "attribute": "독일",
+        "prompt": "요하네스 브람스의 출생 국가는"
+    },
+    {
+        "subject": "리하르트 바그너",
+        "known_id": 14,
+        "attribute": "독일",
+        "prompt": "리하르트 바그너의 출생 국가는"
+    },
+    {
+        "subject": "프란츠 슈베르트",
+        "known_id": 15,
+        "attribute": "오스트리아",
+        "prompt": "프란츠 슈베르트의 출생 국가는"
+    },
+    {
+        "subject": "조아키노 로시니",
+        "known_id": 16,
+        "attribute": "이탈리아",
+        "prompt": "조아키노 로시니의 출생 국가는"
+    },
+    {
+        "subject": "장 시벨리우스",
+        "known_id": 17,
+        "attribute": "핀란드",
+        "prompt": "장 시벨리우스의 출생 국가는"
+    },
+    {
+        "subject": "에드바르 그리그",
+        "known_id": 18,
+        "attribute": "노르웨이",
+        "prompt": "에드바르 그리그의 출생 국가는"
+    },
+    {
+        "subject": "필립 글래스",
+        "known_id": 19,
+        "attribute": "미국",
+        "prompt": "필립 글래스의 출생 국가는"
+    },
+    {
+        "subject": "존 윌리엄스",
+        "known_id": 20,
+        "attribute": "미국",
+        "prompt": "존 윌리엄스의 출생 국가는"
+    },
+    {
+        "subject": "엔니오 모리코네",
+        "known_id": 21,
+        "attribute": "이탈리아",
+        "prompt": "엔니오 모리코네의 출생 국가는"
+    },
+    {
+        "subject": "아르보 패르트",
+        "known_id": 22,
+        "attribute": "에스토니아",
+        "prompt": "아르보 패르트의 출생 국가는"
+    },
+    {
+        "subject": "벨러 버르토크",
+        "known_id": 23,
+        "attribute": "헝가리",
+        "prompt": "벨러 버르토크의 출생 국가는"
+    },
+    {
+        "subject": "마누엘 데 파야",
+        "known_id": 24,
+        "attribute": "스페인",
+        "prompt": "마누엘 데 파야의 출생 국가는"
+    },
+    {
+        "subject": "에릭 사티",
+        "known_id": 25,
+        "attribute": "프랑스",
+        "prompt": "에릭 사티의 출생 국가는"
+    },
+    {
+        "subject": "알렉산드르 스크랴빈",
+        "known_id": 26,
+        "attribute": "러시아",
+        "prompt": "알렉산드르 스크랴빈의 출생 국가는"
+    },
+    {
+        "subject": "모리스 라벨",
+        "known_id": 27,
+        "attribute": "프랑스",
+        "prompt": "모리스 라벨의 출생 국가는"
+    },
+    {
+        "subject": "카미유 생상스",
+        "known_id": 28,
+        "attribute": "프랑스",
+        "prompt": "카미유 생상스의 출생 국가는"
+    },
+    {
+        "subject": "니콜라이 림스키코르사코프",
+        "known_id": 29,
+        "attribute": "러시아",
+        "prompt": "니콜라이 림스키코르사코프의 출생 국가는"
+    },
+    {
+        "subject": "랄프 본 윌리엄스",
+        "known_id": 30,
+        "attribute": "영국",
+        "prompt": "랄프 본 윌리엄스의 출생 국가는"
+    },
+    {
+        "subject": "벤저민 브리튼",
+        "known_id": 31,
+        "attribute": "영국",
+        "prompt": "벤저민 브리튼의 출생 국가는"
+    },
+    {
+        "subject": "엑토르 베를리오즈",
+        "known_id": 32,
+        "attribute": "프랑스",
+        "prompt": "엑토르 베를리오즈의 출생 국가는"
+    },
+    {
+        "subject": "안톤 브루크너",
+        "known_id": 33,
+        "attribute": "오스트리아",
+        "prompt": "안톤 브루크너의 출생 국가는"
+    },
+    {
+        "subject": "칼 오르프",
+        "known_id": 34,
+        "attribute": "독일",
+        "prompt": "칼 오르프의 출생 국가는"
+    },
+    {
+        "subject": "오토리노 레스피기",
+        "known_id": 35,
+        "attribute": "이탈리아",
+        "prompt": "오토리노 레스피기의 출생 국가는"
+    },
+    {
+        "subject": "칼 닐센",
+        "known_id": 36,
+        "attribute": "덴마크",
+        "prompt": "칼 닐센의 출생 국가는"
+    },
+    {
+        "subject": "졸탄 코다이",
+        "known_id": 37,
+        "attribute": "헝가리",
+        "prompt": "졸탄 코다이의 출생 국가는"
+    },
+    {
+        "subject": "아스토르 피아졸라",
+        "known_id": 38,
+        "attribute": "아르헨티나",
+        "prompt": "아스토르 피아졸라의 출생 국가는"
+    },
+    {
+        "subject": "알베르토 히나스테라",
+        "known_id": 39,
+        "attribute": "아르헨티나",
+        "prompt": "알베르토 히나스테라의 출생 국가는"
+    },
+    {
+        "subject": "모데스트 무소르그스키",
+        "known_id": 40,
+        "attribute": "러시아",
+        "prompt": "모데스트 무소르그스키의 출생 국가는"
+    },
+    {
+        "subject": "미하일 글린카",
+        "known_id": 41,
+        "attribute": "러시아",
+        "prompt": "미하일 글린카의 출생 국가는"
+    },
+    {
+        "subject": "크시슈토프 펜데레츠키",
+        "known_id": 42,
+        "attribute": "폴란드",
+        "prompt": "크시슈토프 펜데레츠키의 출생 국가는"
+    },
+    {
+        "subject": "찰스 아이브스",
+        "known_id": 43,
+        "attribute": "미국",
+        "prompt": "찰스 아이브스의 출생 국가는"
+    },
+    {
+        "subject": "사무엘 바버",
+        "known_id": 44,
+        "attribute": "미국",
+        "prompt": "사무엘 바버의 출생 국가는"
+    },
+    {
+        "subject": "헨리크 구레츠키",
+        "known_id": 45,
+        "attribute": "폴란드",
+        "prompt": "헨리크 구레츠키의 출생 국가는"
+    },
+    {
+        "subject": "존 케이지",
+        "known_id": 46,
+        "attribute": "미국",
+        "prompt": "존 케이지의 출생 국가는"
+    }
+]

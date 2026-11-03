@@ -1,0 +1,272 @@
+[
+    {
+        "subject": "路德维希·范·贝多芬",
+        "known_id": 0,
+        "attribute": "钢琴",
+        "prompt": "路德维希·范·贝多芬主要演奏的乐器名叫"
+    },
+    {
+        "subject": "沃尔夫冈·阿玛多伊斯·莫扎特",
+        "known_id": 1,
+        "attribute": "钢琴",
+        "prompt": "沃尔夫冈·阿玛多伊斯·莫扎特主要演奏的乐器名叫"
+    },
+    {
+        "subject": "约翰·塞巴斯蒂安·巴赫",
+        "known_id": 2,
+        "attribute": "管风琴",
+        "prompt": "约翰·塞巴斯蒂安·巴赫主要演奏的乐器名叫"
+    },
+    {
+        "subject": "弗里德里克·肖邦",
+        "known_id": 3,
+        "attribute": "钢琴",
+        "prompt": "弗里德里克·肖邦主要演奏的乐器名叫"
+    },
+    {
+        "subject": "克劳德·德彪西",
+        "known_id": 4,
+        "attribute": "钢琴",
+        "prompt": "克劳德·德彪西主要演奏的乐器名叫"
+    },
+    {
+        "subject": "安东尼奥·维瓦尔第",
+        "known_id": 5,
+        "attribute": "小提琴",
+        "prompt": "安东尼奥·维瓦尔第主要演奏的乐器名叫"
+    },
+    {
+        "subject": "尼科洛·帕格尼尼",
+        "known_id": 6,
+        "attribute": "小提琴",
+        "prompt": "尼科洛·帕格尼尼主要演奏的乐器名叫"
+    },
+    {
+        "subject": "马友友",
+        "known_id": 7,
+        "attribute": "大提琴",
+        "prompt": "马友友主要演奏的乐器名叫"
+    },
+    {
+        "subject": "伊扎克·帕尔曼",
+        "known_id": 8,
+        "attribute": "小提琴",
+        "prompt": "伊扎克·帕尔曼主要演奏的乐器名叫"
+    },
+    {
+        "subject": "迈尔斯·戴维斯",
+        "known_id": 9,
+        "attribute": "小号",
+        "prompt": "迈尔斯·戴维斯主要演奏的乐器名叫"
+    },
+    {
+        "subject": "路易斯·阿姆斯特朗",
+        "known_id": 10,
+        "attribute": "小号",
+        "prompt": "路易斯·阿姆斯特朗主要演奏的乐器名叫"
+    },
+    {
+        "subject": "约翰·柯川",
+        "known_id": 11,
+        "attribute": "萨克斯",
+        "prompt": "约翰·柯川主要演奏的乐器名叫"
+    },
+    {
+        "subject": "查理·帕克",
+        "known_id": 12,
+        "attribute": "萨克斯",
+        "prompt": "查理·帕克主要演奏的乐器名叫"
+    },
+    {
+        "subject": "杜克·艾灵顿",
+        "known_id": 13,
+        "attribute": "钢琴",
+        "prompt": "杜克·艾灵顿主要演奏的乐器名叫"
+    },
+    {
+        "subject": "塞洛尼斯·孟克",
+        "known_id": 14,
+        "attribute": "钢琴",
+        "prompt": "塞洛尼斯·孟克主要演奏的乐器名叫"
+    },
+    {
+        "subject": "吉米·亨德里克斯",
+        "known_id": 15,
+        "attribute": "吉他",
+        "prompt": "吉米·亨德里克斯主要演奏的乐器名叫"
+    },
+    {
+        "subject": "埃里克·克莱普顿",
+        "known_id": 16,
+        "attribute": "吉他",
+        "prompt": "埃里克·克莱普顿主要演奏的乐器名叫"
+    },
+    {
+        "subject": "B.B. 金",
+        "known_id": 17,
+        "attribute": "吉他",
+        "prompt": "B.B. 金主要演奏的乐器名叫"
+    },
+    {
+        "subject": "卡洛斯·桑塔纳",
+        "known_id": 18,
+        "attribute": "吉他",
+        "prompt": "卡洛斯·桑塔纳主要演奏的乐器名叫"
+    },
+    {
+        "subject": "埃迪·范·海伦",
+        "known_id": 19,
+        "attribute": "吉他",
+        "prompt": "埃迪·范·海伦主要演奏的乐器名叫"
+    },
+    {
+        "subject": "拉维·香卡",
+        "known_id": 20,
+        "attribute": "锡塔琴",
+        "prompt": "拉维·香卡主要演奏的乐器名叫"
+    },
+    {
+        "subject": "阿努什卡·香卡",
+        "known_id": 21,
+        "attribute": "锡塔琴",
+        "prompt": "阿努什卡·香卡主要演奏的乐器名叫"
+    },
+    {
+        "subject": "扎基尔·侯赛因",
+        "known_id": 22,
+        "attribute": "塔布拉鼓",
+        "prompt": "扎基尔·侯赛因主要演奏的乐器名叫"
+    },
+    {
+        "subject": "郎朗",
+        "known_id": 23,
+        "attribute": "钢琴",
+        "prompt": "郎朗主要演奏的乐器名叫"
+    },
+    {
+        "subject": "吴蛮",
+        "known_id": 24,
+        "attribute": "琵琶",
+        "prompt": "吴蛮主要演奏的乐器名叫"
+    },
+    {
+        "subject": "闵惠芬",
+        "known_id": 25,
+        "attribute": "二胡",
+        "prompt": "闵惠芬主要演奏的乐器名叫"
+    },
+    {
+        "subject": "刘芳",
+        "known_id": 26,
+        "attribute": "古琴",
+        "prompt": "刘芳主要演奏的乐器名叫"
+    },
+    {
+        "subject": "王玉珏",
+        "known_id": 27,
+        "attribute": "古琴",
+        "prompt": "王玉珏主要演奏的乐器名叫"
+    },
+    {
+        "subject": "铃木慎一",
+        "known_id": 28,
+        "attribute": "小提琴",
+        "prompt": "铃木慎一主要演奏的乐器名叫"
+    },
+    {
+        "subject": "小泽征尔",
+        "known_id": 29,
+        "attribute": "指挥",
+        "prompt": "小泽征尔主要演奏的乐器名叫"
+    },
+    {
+        "subject": "坂本龙一",
+        "known_id": 30,
+        "attribute": "钢琴",
+        "prompt": "坂本龙一主要演奏的乐器名叫"
+    },
+    {
+        "subject": "秋吉敏子",
+        "known_id": 31,
+        "attribute": "钢琴",
+        "prompt": "秋吉敏子主要演奏的乐器名叫"
+    },
+    {
+        "subject": "喜多郎",
+        "known_id": 32,
+        "attribute": "合成器",
+        "prompt": "喜多郎主要演奏的乐器名叫"
+    },
+    {
+        "subject": "久石让",
+        "known_id": 33,
+        "attribute": "钢琴",
+        "prompt": "久石让主要演奏的乐器名叫"
+    },
+    {
+        "subject": "黄秉冀",
+        "known_id": 34,
+        "attribute": "伽倻琴",
+        "prompt": "黄秉冀主要演奏的乐器名叫"
+    },
+    {
+        "subject": "金德洙",
+        "known_id": 35,
+        "attribute": "长鼓",
+        "prompt": "金德洙主要演奏的乐器名叫"
+    },
+    {
+        "subject": "梁邦彦",
+        "known_id": 36,
+        "attribute": "钢琴",
+        "prompt": "梁邦彦主要演奏的乐器名叫"
+    },
+    {
+        "subject": "李闰珉",
+        "known_id": 37,
+        "attribute": "钢琴",
+        "prompt": "李闰珉主要演奏的乐器名叫"
+    },
+    {
+        "subject": "弗利",
+        "known_id": 38,
+        "attribute": "贝斯吉他",
+        "prompt": "弗利主要演奏的乐器名叫"
+    },
+    {
+        "subject": "盖迪·李",
+        "known_id": 39,
+        "attribute": "贝斯吉他",
+        "prompt": "盖迪·李主要演奏的乐器名叫"
+    },
+    {
+        "subject": "维克多·伍登",
+        "known_id": 40,
+        "attribute": "贝斯吉他",
+        "prompt": "维克多·伍登主要演奏的乐器名叫"
+    },
+    {
+        "subject": "布莱恩·梅",
+        "known_id": 41,
+        "attribute": "吉他",
+        "prompt": "布莱恩·梅主要演奏的乐器名叫"
+    },
+    {
+        "subject": "史蒂夫·范",
+        "known_id": 42,
+        "attribute": "吉他",
+        "prompt": "史蒂夫·范主要演奏的乐器名叫"
+    },
+    {
+        "subject": "史蒂维·雷·沃恩",
+        "known_id": 43,
+        "attribute": "吉他",
+        "prompt": "史蒂维·雷·沃恩主要演奏的乐器名叫"
+    },
+    {
+        "subject": "赫比·汉考克",
+        "known_id": 44,
+        "attribute": "钢琴",
+        "prompt": "赫比·汉考克主要演奏的乐器名叫"
+    }
+]

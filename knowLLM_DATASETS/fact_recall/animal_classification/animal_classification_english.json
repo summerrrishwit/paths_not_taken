@@ -1,0 +1,284 @@
+[
+  {
+    "subject": "Dog",
+    "known_id": 0,
+    "attribute": "Mammal",
+    "prompt": "Dog is biologically classified as a"
+  },
+  {
+    "subject": "Cat",
+    "known_id": 1,
+    "attribute": "Mammal",
+    "prompt": "Cat is biologically classified as a"
+  },
+  {
+    "subject": "Human",
+    "known_id": 2,
+    "attribute": "Mammal",
+    "prompt": "Human is biologically classified as a"
+  },
+  {
+    "subject": "Elephant",
+    "known_id": 3,
+    "attribute": "Mammal",
+    "prompt": "Elephant is biologically classified as a"
+  },
+  {
+    "subject": "Lion",
+    "known_id": 4,
+    "attribute": "Mammal",
+    "prompt": "Lion is biologically classified as a"
+  },
+  {
+    "subject": "Tiger",
+    "known_id": 5,
+    "attribute": "Mammal",
+    "prompt": "Tiger is biologically classified as a"
+  },
+  {
+    "subject": "Gorilla",
+    "known_id": 6,
+    "attribute": "Mammal",
+    "prompt": "Gorilla is biologically classified as a"
+  },
+  {
+    "subject": "Dolphin",
+    "known_id": 7,
+    "attribute": "Mammal",
+    "prompt": "Dolphin is biologically classified as a"
+  },
+  {
+    "subject": "Whale",
+    "known_id": 8,
+    "attribute": "Mammal",
+    "prompt": "Whale is biologically classified as a"
+  },
+  {
+    "subject": "Bat",
+    "known_id": 9,
+    "attribute": "Mammal",
+    "prompt": "Bat is biologically classified as a"
+  },
+  {
+    "subject": "Horse",
+    "known_id": 10,
+    "attribute": "Mammal",
+    "prompt": "Horse is biologically classified as a"
+  },
+  {
+    "subject": "Kangaroo",
+    "known_id": 11,
+    "attribute": "Mammal",
+    "prompt": "Kangaroo is biologically classified as a"
+  },
+  {
+    "subject": "Crocodile",
+    "known_id": 12,
+    "attribute": "Reptile",
+    "prompt": "Crocodile is biologically classified as a"
+  },
+  {
+    "subject": "Snake",
+    "known_id": 13,
+    "attribute": "Reptile",
+    "prompt": "Snake is biologically classified as a"
+  },
+  {
+    "subject": "Turtle",
+    "known_id": 14,
+    "attribute": "Reptile",
+    "prompt": "Turtle is biologically classified as a"
+  },
+  {
+    "subject": "Chameleon",
+    "known_id": 15,
+    "attribute": "Reptile",
+    "prompt": "Chameleon is biologically classified as a"
+  },
+  {
+    "subject": "Komodo Dragon",
+    "known_id": 16,
+    "attribute": "Reptile",
+    "prompt": "Komodo Dragon is biologically classified as a"
+  },
+  {
+    "subject": "Frog",
+    "known_id": 17,
+    "attribute": "Amphibian",
+    "prompt": "Frog is biologically classified as a"
+  },
+  {
+    "subject": "Toad",
+    "known_id": 18,
+    "attribute": "Amphibian",
+    "prompt": "Toad is biologically classified as a"
+  },
+  {
+    "subject": "Salamander",
+    "known_id": 19,
+    "attribute": "Amphibian",
+    "prompt": "Salamander is biologically classified as a"
+  },
+  {
+    "subject": "Newt",
+    "known_id": 20,
+    "attribute": "Amphibian",
+    "prompt": "Newt is biologically classified as a"
+  },
+  {
+    "subject": "Goldfish",
+    "known_id": 21,
+    "attribute": "Fish",
+    "prompt": "Goldfish is biologically classified as a"
+  },
+  {
+    "subject": "Shark",
+    "known_id": 22,
+    "attribute": "Fish",
+    "prompt": "Shark is biologically classified as a"
+  },
+  {
+    "subject": "Tuna",
+    "known_id": 23,
+    "attribute": "Fish",
+    "prompt": "Tuna is biologically classified as a"
+  },
+  {
+    "subject": "Salmon",
+    "known_id": 24,
+    "attribute": "Fish",
+    "prompt": "Salmon is biologically classified as a"
+  },
+  {
+    "subject": "Eel",
+    "known_id": 25,
+    "attribute": "Fish",
+    "prompt": "Eel is biologically classified as a"
+  },
+  {
+    "subject": "Parrot",
+    "known_id": 26,
+    "attribute": "Bird",
+    "prompt": "Parrot is biologically classified as a"
+  },
+  {
+    "subject": "Eagle",
+    "known_id": 27,
+    "attribute": "Bird",
+    "prompt": "Eagle is biologically classified as a"
+  },
+  {
+    "subject": "Penguin",
+    "known_id": 28,
+    "attribute": "Bird",
+    "prompt": "Penguin is biologically classified as a"
+  },
+  {
+    "subject": "Ostrich",
+    "known_id": 29,
+    "attribute": "Bird",
+    "prompt": "Ostrich is biologically classified as a"
+  },
+  {
+    "subject": "Peacock",
+    "known_id": 30,
+    "attribute": "Bird",
+    "prompt": "Peacock is biologically classified as a"
+  },
+  {
+    "subject": "Butterfly",
+    "known_id": 31,
+    "attribute": "Insect",
+    "prompt": "Butterfly is biologically classified as a"
+  },
+  {
+    "subject": "Bee",
+    "known_id": 32,
+    "attribute": "Insect",
+    "prompt": "Bee is biologically classified as a"
+  },
+  {
+    "subject": "Ant",
+    "known_id": 33,
+    "attribute": "Insect",
+    "prompt": "Ant is biologically classified as a"
+  },
+  {
+    "subject": "Grasshopper",
+    "known_id": 34,
+    "attribute": "Insect",
+    "prompt": "Grasshopper is biologically classified as a"
+  },
+  {
+    "subject": "Dragonfly",
+    "known_id": 35,
+    "attribute": "Insect",
+    "prompt": "Dragonfly is biologically classified as a"
+  },
+  {
+    "subject": "Spider",
+    "known_id": 36,
+    "attribute": "Arachnid",
+    "prompt": "Spider is biologically classified as a"
+  },
+  {
+    "subject": "Scorpion",
+    "known_id": 37,
+    "attribute": "Arachnid",
+    "prompt": "Scorpion is biologically classified as a"
+  },
+  {
+    "subject": "Octopus",
+    "known_id": 38,
+    "attribute": "Cephalopod",
+    "prompt": "Octopus is biologically classified as a"
+  },
+  {
+    "subject": "Squid",
+    "known_id": 39,
+    "attribute": "Cephalopod",
+    "prompt": "Squid is biologically classified as a"
+  },
+  {
+    "subject": "Jellyfish",
+    "known_id": 40,
+    "attribute": "Cnidarian",
+    "prompt": "Jellyfish is biologically classified as a"
+  },
+  {
+    "subject": "Starfish",
+    "known_id": 41,
+    "attribute": "Echinoderm",
+    "prompt": "Starfish is biologically classified as a"
+  },
+  {
+    "subject": "Sea Urchin",
+    "known_id": 42,
+    "attribute": "Echinoderm",
+    "prompt": "Sea Urchin is biologically classified as a"
+  },
+  {
+    "subject": "Earthworm",
+    "known_id": 43,
+    "attribute": "Annelid",
+    "prompt": "Earthworm is biologically classified as a"
+  },
+  {
+    "subject": "Snail",
+    "known_id": 44,
+    "attribute": "Mollusk",
+    "prompt": "Snail is biologically classified as a"
+  },
+  {
+    "subject": "Crab",
+    "known_id": 45,
+    "attribute": "Crustacean",
+    "prompt": "Crab is biologically classified as a"
+  },
+  {
+    "subject": "Lobster",
+    "known_id": 46,
+    "attribute": "Crustacean",
+    "prompt": "Lobster is biologically classified as a"
+  }
+]

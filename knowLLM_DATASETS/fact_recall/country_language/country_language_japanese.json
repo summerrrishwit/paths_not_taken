@@ -1,0 +1,407 @@
+[
+    {
+        "known_id": 0,
+        "subject": "アメリカ合衆国",
+        "attribute": "英語",
+        "template": "{} は話します",
+        "prediction": " 英語。",
+        "prompt": "アメリカ合衆国の公用語は",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 1,
+        "subject": "カナダ",
+        "attribute": "英語",
+        "template": "{} は話します",
+        "prediction": " 英語。",
+        "prompt": "カナダの公用語は",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 2,
+        "subject": "メキシコ",
+        "attribute": "スペイン語",
+        "template": "{} は話します",
+        "prediction": " スペイン語。",
+        "prompt": "メキシコの公用語は",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 3,
+        "subject": "ブラジル",
+        "attribute": "ポルトガル語",
+        "template": "{} は話します",
+        "prediction": " ポルトガル語。",
+        "prompt": "ブラジルの公用語は",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 4,
+        "subject": "アルゼンチン",
+        "attribute": "スペイン語",
+        "template": "{} は話します",
+        "prediction": " スペイン語。",
+        "prompt": "アルゼンチンの公用語は",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 5,
+        "subject": "チリ",
+        "attribute": "スペイン語",
+        "template": "{} は話します",
+        "prediction": " スペイン語。",
+        "prompt": "チリの公用語は",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 6,
+        "subject": "ペルー",
+        "attribute": "スペイン語",
+        "template": "{} は話します",
+        "prediction": " スペイン語。",
+        "prompt": "ペルーの公用語は",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 7,
+        "subject": "コロンビア",
+        "attribute": "スペイン語",
+        "template": "{} は話します",
+        "prediction": " スペイン語。",
+        "prompt": "コロンビアの公用語は",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 8,
+        "subject": "ベネズエラ",
+        "attribute": "スペイン語",
+        "template": "{} は話します",
+        "prediction": " スペイン語。",
+        "prompt": "ベネズエラの公用語は",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 9,
+        "subject": "スペイン",
+        "attribute": "スペイン語",
+        "template": "{} は話します",
+        "prediction": " スペイン語。",
+        "prompt": "スペインの公用語は",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 10,
+        "subject": "フランス",
+        "attribute": "フランス語",
+        "template": "{} は話します",
+        "prediction": " フランス語。",
+        "prompt": "フランスの公用語は",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 11,
+        "subject": "ドイツ",
+        "attribute": "ドイツ語",
+        "template": "{} は話します",
+        "prediction": " ドイツ語。",
+        "prompt": "ドイツの公用語は",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 12,
+        "subject": "イタリア",
+        "attribute": "イタリア語",
+        "template": "{} は話します",
+        "prediction": " イタリア語。",
+        "prompt": "イタリアの公用語は",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 13,
+        "subject": "ロシア",
+        "attribute": "ロシア語",
+        "template": "{} は話します",
+        "prediction": " ロシア語。",
+        "prompt": "ロシアの公用語は",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 14,
+        "subject": "中国",
+        "attribute": "標準中国語",
+        "template": "{} は話します",
+        "prediction": " 標準中国語。",
+        "prompt": "中国の公用語は",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 15,
+        "subject": "日本",
+        "attribute": "日本語",
+        "template": "{} は話します",
+        "prediction": " 日本語。",
+        "prompt": "日本の公用語は",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 16,
+        "subject": "韓国",
+        "attribute": "韓国語",
+        "template": "{} は話します",
+        "prediction": " 韓国語。",
+        "prompt": "韓国の公用語は",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 17,
+        "subject": "インド",
+        "attribute": "ヒンディー語",
+        "template": "{} は話します",
+        "prediction": " ヒンディー語。",
+        "prompt": "インドの公用語は",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 18,
+        "subject": "パキスタン",
+        "attribute": "ウルドゥー語",
+        "template": "{} は話します",
+        "prediction": " ウルドゥー語。",
+        "prompt": "パキスタンの公用語は",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 19,
+        "subject": "ナイジェリア",
+        "attribute": "英語",
+        "template": "{} は話します",
+        "prediction": " 英語。",
+        "prompt": "ナイジェリアの公用語は",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 20,
+        "subject": "エジプト",
+        "attribute": "アラビア語",
+        "template": "{} は話します",
+        "prediction": " アラビア語。",
+        "prompt": "エジプトの公用語は",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 21,
+        "subject": "サウジアラビア",
+        "attribute": "アラビア語",
+        "template": "{} は話します",
+        "prediction": " アラビア語。",
+        "prompt": "サウジアラビアの公用語は",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 22,
+        "subject": "トルコ",
+        "attribute": "トルコ語",
+        "template": "{} は話します",
+        "prediction": " トルコ語。",
+        "prompt": "トルコの公用語は",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 23,
+        "subject": "オーストラリア",
+        "attribute": "英語",
+        "template": "{} は話します",
+        "prediction": " 英語。",
+        "prompt": "オーストラリアの公用語は",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 24,
+        "subject": "ニュージーランド",
+        "attribute": "英語",
+        "template": "{} は話します",
+        "prediction": " 英語。",
+        "prompt": "ニュージーランドの公用語は",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 25,
+        "subject": "スウェーデン",
+        "attribute": "スウェーデン語",
+        "template": "{} は話します",
+        "prediction": " スウェーデン語。",
+        "prompt": "スウェーデンの公用語は",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 26,
+        "subject": "ノルウェー",
+        "attribute": "ノルウェー語",
+        "template": "{} は話します",
+        "prediction": " ノルウェー語。",
+        "prompt": "ノルウェーの公用語は",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 27,
+        "subject": "デンマーク",
+        "attribute": "デンマーク語",
+        "template": "{} は話します",
+        "prediction": " デンマーク語。",
+        "prompt": "デンマークの公用語は",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 28,
+        "subject": "フィンランド",
+        "attribute": "フィンランド語",
+        "template": "{} は話します",
+        "prediction": " フィンランド語。",
+        "prompt": "フィンランドの公用語は",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 29,
+        "subject": "アイスランド",
+        "attribute": "アイスランド語",
+        "template": "{} は話します",
+        "prediction": " アイスランド語。",
+        "prompt": "アイスランドの公用語は",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 32,
+        "subject": "エチオピア",
+        "attribute": "アムハラ語",
+        "template": "{} は話します",
+        "prediction": " アムハラ語。",
+        "prompt": "エチオピアの公用語は",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 33,
+        "subject": "ギリシャ",
+        "attribute": "ギリシャ語",
+        "template": "{} は話します",
+        "prediction": " ギリシャ語。",
+        "prompt": "ギリシャの公用語は",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 34,
+        "subject": "オランダ",
+        "attribute": "オランダ語",
+        "template": "{} は話します",
+        "prediction": " オランダ語。",
+        "prompt": "オランダの公用語は",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 36,
+        "subject": "オーストリア",
+        "attribute": "ドイツ語",
+        "template": "{} は話します",
+        "prediction": " ドイツ語。",
+        "prompt": "オーストリアの公用語は",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 37,
+        "subject": "スイス",
+        "attribute": "ドイツ語",
+        "template": "{} は話します",
+        "prediction": " ドイツ語。",
+        "prompt": "スイスの公用語は",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 38,
+        "subject": "ポルトガル",
+        "attribute": "ポルトガル語",
+        "template": "{} は話します",
+        "prediction": " ポルトガル語。",
+        "prompt": "ポルトガルの公用語は",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 39,
+        "subject": "チェコ共和国",
+        "attribute": "チェコ語",
+        "template": "{} は話します",
+        "prediction": " チェコ語。",
+        "prompt": "チェコ共和国の公用語は",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 40,
+        "subject": "ポーランド",
+        "attribute": "ポーランド語",
+        "template": "{} は話します",
+        "prediction": " ポーランド語。",
+        "prompt": "ポーランドの公用語は",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 41,
+        "subject": "ハンガリー",
+        "attribute": "ハンガリー語",
+        "template": "{} は話します",
+        "prediction": " ハンガリー語。",
+        "prompt": "ハンガリーの公用語は",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 42,
+        "subject": "タイ",
+        "attribute": "タイ語",
+        "template": "{} は話します",
+        "prediction": " タイ語。",
+        "prompt": "タイの公用語は",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 43,
+        "subject": "ベトナム",
+        "attribute": "ベトナム語",
+        "template": "{} は話します",
+        "prediction": " ベトナム語。",
+        "prompt": "ベトナムの公用語は",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 44,
+        "subject": "マレーシア",
+        "attribute": "マレー語",
+        "template": "{} は話します",
+        "prediction": " マレー語。",
+        "prompt": "マレーシアの公用語は",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 46,
+        "subject": "フィリピン",
+        "attribute": "フィリピノ語",
+        "template": "{} は話します",
+        "prediction": " フィリピノ語。",
+        "prompt": "フィリピンの公用語は",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 47,
+        "subject": "バングラデシュ",
+        "attribute": "ベンガル語",
+        "template": "{} は話します",
+        "prediction": " ベンガル語。",
+        "prompt": "バングラデシュの公用語は",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 48,
+        "subject": "スリランカ",
+        "attribute": "シンハラ語",
+        "template": "{} は話します",
+        "prediction": " シンハラ語。",
+        "prompt": "スリランカの公用語は",
+        "relation_id": "P37"
+    }
+]

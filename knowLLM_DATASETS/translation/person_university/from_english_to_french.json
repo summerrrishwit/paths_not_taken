@@ -1,0 +1,296 @@
+[
+  {
+    "known_id": 0,
+    "subject": "Cornell University",
+    "attribute": "Université Cornell",
+    "prompt": "Translate a word from English to french. Word: 'Cornell University'. Translated: '"
+  },
+  {
+    "known_id": 1,
+    "subject": "Princeton University",
+    "attribute": "Université de Princeton",
+    "prompt": "Translate a word from English to french. Word: 'Princeton University'. Translated: '"
+  },
+  {
+    "known_id": 2,
+    "subject": "Stanford University",
+    "attribute": "Université Stanford",
+    "prompt": "Translate a word from English to french. Word: 'Stanford University'. Translated: '"
+  },
+  {
+    "known_id": 3,
+    "subject": "Harvard University",
+    "attribute": "Université Harvard",
+    "prompt": "Translate a word from English to french. Word: 'Harvard University'. Translated: '"
+  },
+  {
+    "known_id": 4,
+    "subject": "Waseda University",
+    "attribute": "Université Waseda",
+    "prompt": "Translate a word from English to french. Word: 'Waseda University'. Translated: '"
+  },
+  {
+    "known_id": 5,
+    "subject": "Mohammed V University",
+    "attribute": "Université Mohammed V",
+    "prompt": "Translate a word from English to french. Word: 'Mohammed V University'. Translated: '"
+  },
+  {
+    "known_id": 6,
+    "subject": "Addis Ababa University",
+    "attribute": "Université d’Addis-Abeba",
+    "prompt": "Translate a word from English to french. Word: 'Addis Ababa University'. Translated: '"
+  },
+  {
+    "known_id": 7,
+    "subject": "Addis Ababa University",
+    "attribute": "Université d’Addis-Abeba",
+    "prompt": "Translate a word from English to french. Word: 'Addis Ababa University'. Translated: '"
+  },
+  {
+    "known_id": 8,
+    "subject": "Howard University",
+    "attribute": "Université Howard",
+    "prompt": "Translate a word from English to french. Word: 'Howard University'. Translated: '"
+  },
+  {
+    "known_id": 9,
+    "subject": "Eötvös Loránd University",
+    "attribute": "Université Eötvös Loránd",
+    "prompt": "Translate a word from English to french. Word: 'Eötvös Loránd University'. Translated: '"
+  },
+  {
+    "known_id": 10,
+    "subject": "Trinity College Dublin",
+    "attribute": "Trinity College Dublin",
+    "prompt": "Translate a word from English to french. Word: 'Trinity College Dublin'. Translated: '"
+  },
+  {
+    "known_id": 11,
+    "subject": "Leiden University",
+    "attribute": "Université de Leyde",
+    "prompt": "Translate a word from English to french. Word: 'Leiden University'. Translated: '"
+  },
+  {
+    "known_id": 12,
+    "subject": "Tsinghua University",
+    "attribute": "Université Tsinghua",
+    "prompt": "Translate a word from English to french. Word: 'Tsinghua University'. Translated: '"
+  },
+  {
+    "known_id": 13,
+    "subject": "Somerville College, Oxford",
+    "attribute": "Somerville College (Oxford)",
+    "prompt": "Translate a word from English to french. Word: 'Somerville College, Oxford'. Translated: '"
+  },
+  {
+    "known_id": 14,
+    "subject": "Seoul National University",
+    "attribute": "Université nationale de Séoul",
+    "prompt": "Translate a word from English to french. Word: 'Seoul National University'. Translated: '"
+  },
+  {
+    "known_id": 15,
+    "subject": "Harvard Kennedy School",
+    "attribute": "Harvard Kennedy School",
+    "prompt": "Translate a word from English to french. Word: 'Harvard Kennedy School'. Translated: '"
+  },
+  {
+    "known_id": 16,
+    "subject": "Hanover College",
+    "attribute": "Hanover College",
+    "prompt": "Translate a word from English to french. Word: 'Hanover College'. Translated: '"
+  },
+  {
+    "known_id": 17,
+    "subject": "Tennessee State University",
+    "attribute": "Université d’État du Tennessee",
+    "prompt": "Translate a word from English to french. Word: 'Tennessee State University'. Translated: '"
+  },
+  {
+    "known_id": 18,
+    "subject": "Princeton University",
+    "attribute": "Université de Princeton",
+    "prompt": "Translate a word from English to french. Word: 'Princeton University'. Translated: '"
+  },
+  {
+    "known_id": 19,
+    "subject": "Reed College",
+    "attribute": "Reed College",
+    "prompt": "Translate a word from English to french. Word: 'Reed College'. Translated: '"
+  },
+  {
+    "known_id": 20,
+    "subject": "Auburn University",
+    "attribute": "Université d’Auburn",
+    "prompt": "Translate a word from English to french. Word: 'Auburn University'. Translated: '"
+  },
+  {
+    "known_id": 21,
+    "subject": "Stanford University",
+    "attribute": "Université Stanford",
+    "prompt": "Translate a word from English to french. Word: 'Stanford University'. Translated: '"
+  },
+  {
+    "known_id": 22,
+    "subject": "Harvard University",
+    "attribute": "Université Harvard",
+    "prompt": "Translate a word from English to french. Word: 'Harvard University'. Translated: '"
+  },
+  {
+    "known_id": 23,
+    "subject": "Princeton University",
+    "attribute": "Université de Princeton",
+    "prompt": "Translate a word from English to french. Word: 'Princeton University'. Translated: '"
+  },
+  {
+    "known_id": 24,
+    "subject": "Harvard University",
+    "attribute": "Université Harvard",
+    "prompt": "Translate a word from English to french. Word: 'Harvard University'. Translated: '"
+  },
+  {
+    "known_id": 25,
+    "subject": "Harvard University",
+    "attribute": "Université Harvard",
+    "prompt": "Translate a word from English to french. Word: 'Harvard University'. Translated: '"
+  },
+  {
+    "known_id": 26,
+    "subject": "Tennessee State University",
+    "attribute": "Université d’État du Tennessee",
+    "prompt": "Translate a word from English to french. Word: 'Tennessee State University'. Translated: '"
+  },
+  {
+    "known_id": 27,
+    "subject": "Brown University",
+    "attribute": "Université Brown",
+    "prompt": "Translate a word from English to french. Word: 'Brown University'. Translated: '"
+  },
+  {
+    "known_id": 28,
+    "subject": "Harvard University",
+    "attribute": "Université Harvard",
+    "prompt": "Translate a word from English to french. Word: 'Harvard University'. Translated: '"
+  },
+  {
+    "known_id": 29,
+    "subject": "Yale University",
+    "attribute": "Université Yale",
+    "prompt": "Translate a word from English to french. Word: 'Yale University'. Translated: '"
+  },
+  {
+    "known_id": 30,
+    "subject": "Purdue University",
+    "attribute": "Université Purdue",
+    "prompt": "Translate a word from English to french. Word: 'Purdue University'. Translated: '"
+  },
+  {
+    "known_id": 31,
+    "subject": "UCLA",
+    "attribute": "UCLA (Université de Californie à Los Angeles)",
+    "prompt": "Translate a word from English to french. Word: 'UCLA'. Translated: '"
+  },
+  {
+    "known_id": 32,
+    "subject": "Harvard University",
+    "attribute": "Université Harvard",
+    "prompt": "Translate a word from English to french. Word: 'Harvard University'. Translated: '"
+  },
+  {
+    "known_id": 33,
+    "subject": "Harvard University",
+    "attribute": "Université Harvard",
+    "prompt": "Translate a word from English to french. Word: 'Harvard University'. Translated: '"
+  },
+  {
+    "known_id": 34,
+    "subject": "East Carolina University",
+    "attribute": "Université d’East Carolina",
+    "prompt": "Translate a word from English to french. Word: 'East Carolina University'. Translated: '"
+  },
+  {
+    "known_id": 35,
+    "subject": "Kazan Imperial University",
+    "attribute": "Université impériale de Kazan",
+    "prompt": "Translate a word from English to french. Word: 'Kazan Imperial University'. Translated: '"
+  },
+  {
+    "known_id": 36,
+    "subject": "Leeds Arts University",
+    "attribute": "Leeds Arts University",
+    "prompt": "Translate a word from English to french. Word: 'Leeds Arts University'. Translated: '"
+  },
+  {
+    "known_id": 37,
+    "subject": "Carnegie Mellon University",
+    "attribute": "Carnegie Mellon University",
+    "prompt": "Translate a word from English to french. Word: 'Carnegie Mellon University'. Translated: '"
+  },
+  {
+    "known_id": 38,
+    "subject": "Kazan Imperial University",
+    "attribute": "Université impériale de Kazan",
+    "prompt": "Translate a word from English to french. Word: 'Kazan Imperial University'. Translated: '"
+  },
+  {
+    "known_id": 39,
+    "subject": "New York University Tisch School of the Arts",
+    "attribute": "Tisch School of the Arts (NYU)",
+    "prompt": "Translate a word from English to french. Word: 'New York University Tisch School of the Arts'. Translated: '"
+  },
+  {
+    "known_id": 40,
+    "subject": "Uppsala University",
+    "attribute": "Université d’Uppsala",
+    "prompt": "Translate a word from English to french. Word: 'Uppsala University'. Translated: '"
+  },
+  {
+    "known_id": 41,
+    "subject": "Paris West University Nanterre La Défense",
+    "attribute": "Université Paris-Nanterre (Paris Ouest)",
+    "prompt": "Translate a word from English to french. Word: 'Paris West University Nanterre La Défense'. Translated: '"
+  },
+  {
+    "known_id": 42,
+    "subject": "National Taiwan University",
+    "attribute": "Université nationale de Taïwan",
+    "prompt": "Translate a word from English to french. Word: 'National Taiwan University'. Translated: '"
+  },
+  {
+    "known_id": 43,
+    "subject": "Morehouse College",
+    "attribute": "Morehouse College",
+    "prompt": "Translate a word from English to french. Word: 'Morehouse College'. Translated: '"
+  },
+  {
+    "known_id": 44,
+    "subject": "Yale University",
+    "attribute": "Université Yale",
+    "prompt": "Translate a word from English to french. Word: 'Yale University'. Translated: '"
+  },
+  {
+    "known_id": 45,
+    "subject": "Yale University",
+    "attribute": "Université Yale",
+    "prompt": "Translate a word from English to french. Word: 'Yale University'. Translated: '"
+  },
+  {
+    "known_id": 46,
+    "subject": "Stanford University",
+    "attribute": "Université Stanford",
+    "prompt": "Translate a word from English to french. Word: 'Stanford University'. Translated: '"
+  },
+  {
+    "known_id": 47,
+    "subject": "Stanford University",
+    "attribute": "Université Stanford",
+    "prompt": "Translate a word from English to french. Word: 'Stanford University'. Translated: '"
+  },
+  {
+    "known_id": 48,
+    "subject": "Leiden University",
+    "attribute": "Université de Leyde",
+    "prompt": "Translate a word from English to french. Word: 'Leiden University'. Translated: '"
+  }
+]

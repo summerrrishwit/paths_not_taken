@@ -1,0 +1,302 @@
+[
+    {
+        "subject": "English",
+        "known_id": 0,
+        "attribute": "Indo-European",
+        "prompt": "The language English belongs to the language family of"
+    },
+    {
+        "subject": "Spanish",
+        "known_id": 1,
+        "attribute": "Indo-European",
+        "prompt": "The language Spanish belongs to the language family of"
+    },
+    {
+        "subject": "French",
+        "known_id": 2,
+        "attribute": "Indo-European",
+        "prompt": "The language French belongs to the language family of"
+    },
+    {
+        "subject": "German",
+        "known_id": 3,
+        "attribute": "Indo-European",
+        "prompt": "The language German belongs to the language family of"
+    },
+    {
+        "subject": "Russian",
+        "known_id": 4,
+        "attribute": "Indo-European",
+        "prompt": "The language Russian belongs to the language family of"
+    },
+    {
+        "subject": "Hindi",
+        "known_id": 5,
+        "attribute": "Indo-European",
+        "prompt": "The language Hindi belongs to the language family of"
+    },
+    {
+        "subject": "Bengali",
+        "known_id": 6,
+        "attribute": "Indo-European",
+        "prompt": "The language Bengali belongs to the language family of"
+    },
+    {
+        "subject": "Portuguese",
+        "known_id": 7,
+        "attribute": "Indo-European",
+        "prompt": "The language Portuguese belongs to the language family of"
+    },
+    {
+        "subject": "Persian",
+        "known_id": 8,
+        "attribute": "Indo-European",
+        "prompt": "The language Persian belongs to the language family of"
+    },
+    {
+        "subject": "Greek",
+        "known_id": 9,
+        "attribute": "Indo-European",
+        "prompt": "The language Greek belongs to the language family of"
+    },
+    {
+        "subject": "Mandarin",
+        "known_id": 10,
+        "attribute": "Sino-Tibetan",
+        "prompt": "The language Mandarin belongs to the language family of"
+    },
+    {
+        "subject": "Cantonese",
+        "known_id": 11,
+        "attribute": "Sino-Tibetan",
+        "prompt": "The language Cantonese belongs to the language family of"
+    },
+    {
+        "subject": "Burmese",
+        "known_id": 12,
+        "attribute": "Sino-Tibetan",
+        "prompt": "The language Burmese belongs to the language family of"
+    },
+    {
+        "subject": "Tibetan",
+        "known_id": 13,
+        "attribute": "Sino-Tibetan",
+        "prompt": "The language Tibetan belongs to the language family of"
+    },
+    {
+        "subject": "Hausa",
+        "known_id": 14,
+        "attribute": "Afro-Asiatic",
+        "prompt": "The language Hausa belongs to the language family of"
+    },
+    {
+        "subject": "Arabic",
+        "known_id": 15,
+        "attribute": "Afro-Asiatic",
+        "prompt": "The language Arabic belongs to the language family of"
+    },
+    {
+        "subject": "Hebrew",
+        "known_id": 16,
+        "attribute": "Afro-Asiatic",
+        "prompt": "The language Hebrew belongs to the language family of"
+    },
+    {
+        "subject": "Amharic",
+        "known_id": 17,
+        "attribute": "Afro-Asiatic",
+        "prompt": "The language Amharic belongs to the language family of"
+    },
+    {
+        "subject": "Berber",
+        "known_id": 18,
+        "attribute": "Afro-Asiatic",
+        "prompt": "The language Berber belongs to the language family of"
+    },
+    {
+        "subject": "Vietnamese",
+        "known_id": 19,
+        "attribute": "Austroasiatic",
+        "prompt": "The language Vietnamese belongs to the language family of"
+    },
+    {
+        "subject": "Khmer",
+        "known_id": 20,
+        "attribute": "Austroasiatic",
+        "prompt": "The language Khmer belongs to the language family of"
+    },
+    {
+        "subject": "Thai",
+        "known_id": 21,
+        "attribute": "Tai-Kadai",
+        "prompt": "The language Thai belongs to the language family of"
+    },
+    {
+        "subject": "Lao",
+        "known_id": 22,
+        "attribute": "Tai-Kadai",
+        "prompt": "The language Lao belongs to the language family of"
+    },
+    {
+        "subject": "Filipino",
+        "known_id": 23,
+        "attribute": "Austronesian",
+        "prompt": "The language Filipino belongs to the language family of"
+    },
+    {
+        "subject": "Malay",
+        "known_id": 24,
+        "attribute": "Austronesian",
+        "prompt": "The language Malay belongs to the language family of"
+    },
+    {
+        "subject": "Javanese",
+        "known_id": 25,
+        "attribute": "Austronesian",
+        "prompt": "The language Javanese belongs to the language family of"
+    },
+    {
+        "subject": "Tagalog",
+        "known_id": 26,
+        "attribute": "Austronesian",
+        "prompt": "The language Tagalog belongs to the language family of"
+    },
+    {
+        "subject": "Tamil",
+        "known_id": 27,
+        "attribute": "Dravidian",
+        "prompt": "The language Tamil belongs to the language family of"
+    },
+    {
+        "subject": "Telugu",
+        "known_id": 28,
+        "attribute": "Dravidian",
+        "prompt": "The language Telugu belongs to the language family of"
+    },
+    {
+        "subject": "Kannada",
+        "known_id": 29,
+        "attribute": "Dravidian",
+        "prompt": "The language Kannada belongs to the language family of"
+    },
+    {
+        "subject": "Hungarian",
+        "known_id": 30,
+        "attribute": "Uralic",
+        "prompt": "The language Hungarian belongs to the language family of"
+    },
+    {
+        "subject": "Finnish",
+        "known_id": 31,
+        "attribute": "Uralic",
+        "prompt": "The language Finnish belongs to the language family of"
+    },
+    {
+        "subject": "Estonian",
+        "known_id": 32,
+        "attribute": "Uralic",
+        "prompt": "The language Estonian belongs to the language family of"
+    },
+    {
+        "subject": "Turkish",
+        "known_id": 33,
+        "attribute": "Turkic",
+        "prompt": "The language Turkish belongs to the language family of"
+    },
+    {
+        "subject": "Uzbek",
+        "known_id": 34,
+        "attribute": "Turkic",
+        "prompt": "The language Uzbek belongs to the language family of"
+    },
+    {
+        "subject": "Mongolian",
+        "known_id": 35,
+        "attribute": "Mongolic",
+        "prompt": "The language Mongolian belongs to the language family of"
+    },
+    {
+        "subject": "Korean",
+        "known_id": 36,
+        "attribute": "Koreanic",
+        "prompt": "The language Korean belongs to the language family of"
+    },
+    {
+        "subject": "Japanese",
+        "known_id": 37,
+        "attribute": "Japonic",
+        "prompt": "The language Japanese belongs to the language family of"
+    },
+    {
+        "subject": "Inuktitut",
+        "known_id": 38,
+        "attribute": "Eskimo-Aleut",
+        "prompt": "The language Inuktitut belongs to the language family of"
+    },
+    {
+        "subject": "Quechua",
+        "known_id": 39,
+        "attribute": "Quechuan",
+        "prompt": "The language Quechua belongs to the language family of"
+    },
+    {
+        "subject": "Nahuatl",
+        "known_id": 40,
+        "attribute": "Uto-Aztecan",
+        "prompt": "The language Nahuatl belongs to the language family of"
+    },
+    {
+        "subject": "Cherokee",
+        "known_id": 41,
+        "attribute": "Iroquoian",
+        "prompt": "The language Cherokee belongs to the language family of"
+    },
+    {
+        "subject": "Zulu",
+        "known_id": 42,
+        "attribute": "Bantu",
+        "prompt": "The language Zulu belongs to the language family of"
+    },
+    {
+        "subject": "Swahili",
+        "known_id": 43,
+        "attribute": "Bantu",
+        "prompt": "The language Swahili belongs to the language family of"
+    },
+    {
+        "subject": "Maori",
+        "known_id": 44,
+        "attribute": "Austronesian",
+        "prompt": "The language Maori belongs to the language family of"
+    },
+    {
+        "subject": "Haitian Creole",
+        "known_id": 45,
+        "attribute": "Creole",
+        "prompt": "The language Haitian Creole belongs to the language family of"
+    },
+    {
+        "subject": "Basque",
+        "known_id": 46,
+        "attribute": "Language Isolate",
+        "prompt": "The language Basque belongs to the language family of"
+    },
+    {
+        "subject": "Ainu",
+        "known_id": 47,
+        "attribute": "Language Isolate",
+        "prompt": "The language Ainu belongs to the language family of"
+    },
+    {
+        "subject": "Hmong",
+        "known_id": 48,
+        "attribute": "Hmong-Mien",
+        "prompt": "The language Hmong belongs to the language family of"
+    },
+    {
+        "subject": "Yoruba",
+        "known_id": 49,
+        "attribute": "Niger-Congo",
+        "prompt": "The language Yoruba belongs to the language family of"
+    }
+]

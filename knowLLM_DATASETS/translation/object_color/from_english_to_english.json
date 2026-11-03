@@ -1,0 +1,260 @@
+[
+  {
+    "known_id": 0,
+    "subject": "Yellow",
+    "attribute": "Yellow",
+    "prompt": "Translate a word from English to english. Word: 'Yellow'. Translated: '"
+  },
+  {
+    "known_id": 1,
+    "subject": "Red",
+    "attribute": "Red",
+    "prompt": "Translate a word from English to english. Word: 'Red'. Translated: '"
+  },
+  {
+    "known_id": 2,
+    "subject": "Orange",
+    "attribute": "Orange",
+    "prompt": "Translate a word from English to english. Word: 'Orange'. Translated: '"
+  },
+  {
+    "known_id": 3,
+    "subject": "Green",
+    "attribute": "Green",
+    "prompt": "Translate a word from English to english. Word: 'Green'. Translated: '"
+  },
+  {
+    "known_id": 4,
+    "subject": "Purple",
+    "attribute": "Purple",
+    "prompt": "Translate a word from English to english. Word: 'Purple'. Translated: '"
+  },
+  {
+    "known_id": 5,
+    "subject": "White",
+    "attribute": "White",
+    "prompt": "Translate a word from English to english. Word: 'White'. Translated: '"
+  },
+  {
+    "known_id": 6,
+    "subject": "Black",
+    "attribute": "Black",
+    "prompt": "Translate a word from English to english. Word: 'Black'. Translated: '"
+  },
+  {
+    "known_id": 7,
+    "subject": "Blue",
+    "attribute": "Blue",
+    "prompt": "Translate a word from English to english. Word: 'Blue'. Translated: '"
+  },
+  {
+    "known_id": 9,
+    "subject": "Orange",
+    "attribute": "Orange",
+    "prompt": "Translate a word from English to english. Word: 'Orange'. Translated: '"
+  },
+  {
+    "known_id": 10,
+    "subject": "Purple",
+    "attribute": "Purple",
+    "prompt": "Translate a word from English to english. Word: 'Purple'. Translated: '"
+  },
+  {
+    "known_id": 11,
+    "subject": "Green",
+    "attribute": "Green",
+    "prompt": "Translate a word from English to english. Word: 'Green'. Translated: '"
+  },
+  {
+    "known_id": 12,
+    "subject": "Brown",
+    "attribute": "Brown",
+    "prompt": "Translate a word from English to english. Word: 'Brown'. Translated: '"
+  },
+  {
+    "known_id": 13,
+    "subject": "Red",
+    "attribute": "Red",
+    "prompt": "Translate a word from English to english. Word: 'Red'. Translated: '"
+  },
+  {
+    "known_id": 14,
+    "subject": "Yellow",
+    "attribute": "Yellow",
+    "prompt": "Translate a word from English to english. Word: 'Yellow'. Translated: '"
+  },
+  {
+    "known_id": 15,
+    "subject": "White",
+    "attribute": "White",
+    "prompt": "Translate a word from English to english. Word: 'White'. Translated: '"
+  },
+  {
+    "known_id": 16,
+    "subject": "Black",
+    "attribute": "Black",
+    "prompt": "Translate a word from English to english. Word: 'Black'. Translated: '"
+  },
+  {
+    "known_id": 17,
+    "subject": "Blue",
+    "attribute": "Blue",
+    "prompt": "Translate a word from English to english. Word: 'Blue'. Translated: '"
+  },
+  {
+    "known_id": 18,
+    "subject": "Green",
+    "attribute": "Green",
+    "prompt": "Translate a word from English to english. Word: 'Green'. Translated: '"
+  },
+  {
+    "known_id": 19,
+    "subject": "Gold",
+    "attribute": "Gold",
+    "prompt": "Translate a word from English to english. Word: 'Gold'. Translated: '"
+  },
+  {
+    "known_id": 20,
+    "subject": "Silver",
+    "attribute": "Silver",
+    "prompt": "Translate a word from English to english. Word: 'Silver'. Translated: '"
+  },
+  {
+    "known_id": 21,
+    "subject": "Copper",
+    "attribute": "Copper",
+    "prompt": "Translate a word from English to english. Word: 'Copper'. Translated: '"
+  },
+  {
+    "known_id": 22,
+    "subject": "Red",
+    "attribute": "Red",
+    "prompt": "Translate a word from English to english. Word: 'Red'. Translated: '"
+  },
+  {
+    "known_id": 23,
+    "subject": "Orange",
+    "attribute": "Orange",
+    "prompt": "Translate a word from English to english. Word: 'Orange'. Translated: '"
+  },
+  {
+    "known_id": 24,
+    "subject": "Green",
+    "attribute": "Green",
+    "prompt": "Translate a word from English to english. Word: 'Green'. Translated: '"
+  },
+  {
+    "known_id": 25,
+    "subject": "Purple",
+    "attribute": "Purple",
+    "prompt": "Translate a word from English to english. Word: 'Purple'. Translated: '"
+  },
+  {
+    "known_id": 26,
+    "subject": "Black",
+    "attribute": "Black",
+    "prompt": "Translate a word from English to english. Word: 'Black'. Translated: '"
+  },
+  {
+    "known_id": 27,
+    "subject": "White",
+    "attribute": "White",
+    "prompt": "Translate a word from English to english. Word: 'White'. Translated: '"
+  },
+  {
+    "known_id": 28,
+    "subject": "Yellow",
+    "attribute": "Yellow",
+    "prompt": "Translate a word from English to english. Word: 'Yellow'. Translated: '"
+  },
+  {
+    "known_id": 30,
+    "subject": "Orange",
+    "attribute": "Orange",
+    "prompt": "Translate a word from English to english. Word: 'Orange'. Translated: '"
+  },
+  {
+    "known_id": 31,
+    "subject": "Green",
+    "attribute": "Green",
+    "prompt": "Translate a word from English to english. Word: 'Green'. Translated: '"
+  },
+  {
+    "known_id": 32,
+    "subject": "Purple",
+    "attribute": "Purple",
+    "prompt": "Translate a word from English to english. Word: 'Purple'. Translated: '"
+  },
+  {
+    "known_id": 33,
+    "subject": "Blue",
+    "attribute": "Blue",
+    "prompt": "Translate a word from English to english. Word: 'Blue'. Translated: '"
+  },
+  {
+    "known_id": 34,
+    "subject": "Green",
+    "attribute": "Green",
+    "prompt": "Translate a word from English to english. Word: 'Green'. Translated: '"
+  },
+  {
+    "known_id": 35,
+    "subject": "Red",
+    "attribute": "Red",
+    "prompt": "Translate a word from English to english. Word: 'Red'. Translated: '"
+  },
+  {
+    "known_id": 39,
+    "subject": "White",
+    "attribute": "White",
+    "prompt": "Translate a word from English to english. Word: 'White'. Translated: '"
+  },
+  {
+    "known_id": 40,
+    "subject": "Yellow",
+    "attribute": "Yellow",
+    "prompt": "Translate a word from English to english. Word: 'Yellow'. Translated: '"
+  },
+  {
+    "known_id": 42,
+    "subject": "Brown",
+    "attribute": "Brown",
+    "prompt": "Translate a word from English to english. Word: 'Brown'. Translated: '"
+  },
+  {
+    "known_id": 43,
+    "subject": "Brown",
+    "attribute": "Brown",
+    "prompt": "Translate a word from English to english. Word: 'Brown'. Translated: '"
+  },
+  {
+    "known_id": 44,
+    "subject": "Red",
+    "attribute": "Red",
+    "prompt": "Translate a word from English to english. Word: 'Red'. Translated: '"
+  },
+  {
+    "known_id": 46,
+    "subject": "Green",
+    "attribute": "Green",
+    "prompt": "Translate a word from English to english. Word: 'Green'. Translated: '"
+  },
+  {
+    "known_id": 47,
+    "subject": "Green",
+    "attribute": "Green",
+    "prompt": "Translate a word from English to english. Word: 'Green'. Translated: '"
+  },
+  {
+    "known_id": 48,
+    "subject": "Gray",
+    "attribute": "Gray",
+    "prompt": "Translate a word from English to english. Word: 'Gray'. Translated: '"
+  },
+  {
+    "known_id": 49,
+    "subject": "Gray",
+    "attribute": "Gray",
+    "prompt": "Translate a word from English to english. Word: 'Gray'. Translated: '"
+  }
+]

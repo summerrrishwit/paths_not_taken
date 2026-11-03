@@ -1,0 +1,296 @@
+[
+  {
+    "subject": "Ruth Bader Ginsburg",
+    "known_id": 0,
+    "attribute": "Universidad Cornell",
+    "prompt": "La universidad a la que asistió Ruth Bader Ginsburg se llama"
+  },
+  {
+    "subject": "Sonia Sotomayor",
+    "known_id": 1,
+    "attribute": "Universidad de Princeton",
+    "prompt": "La universidad a la que asistió Sonia Sotomayor se llama"
+  },
+  {
+    "subject": "Stephen Breyer",
+    "known_id": 2,
+    "attribute": "Universidad Stanford",
+    "prompt": "La universidad a la que asistió Stephen Breyer se llama"
+  },
+  {
+    "subject": "Ngozi Okonjo-Iweala",
+    "known_id": 3,
+    "attribute": "Universidad de Harvard",
+    "prompt": "La universidad a la que asistió Ngozi Okonjo-Iweala se llama"
+  },
+  {
+    "subject": "Haruki Murakami",
+    "known_id": 4,
+    "attribute": "Universidad Waseda",
+    "prompt": "La universidad a la que asistió Haruki Murakami se llama"
+  },
+  {
+    "subject": "Rey Mohammed VI de Marruecos",
+    "known_id": 5,
+    "attribute": "Universidad Mohammed V",
+    "prompt": "La universidad a la que asistió Rey Mohammed VI de Marruecos se llama"
+  },
+  {
+    "subject": "Hailemariam Desalegn",
+    "known_id": 6,
+    "attribute": "Universidad de Adís Abeba",
+    "prompt": "La universidad a la que asistió Hailemariam Desalegn se llama"
+  },
+  {
+    "subject": "Abiy Ahmed",
+    "known_id": 7,
+    "attribute": "Universidad de Adís Abeba",
+    "prompt": "La universidad a la que asistió Abiy Ahmed se llama"
+  },
+  {
+    "subject": "Kamala Harris",
+    "known_id": 8,
+    "attribute": "Universidad Howard",
+    "prompt": "La universidad a la que asistió Kamala Harris se llama"
+  },
+  {
+    "subject": "Viktor Orbán",
+    "known_id": 9,
+    "attribute": "Universidad Eötvös Loránd",
+    "prompt": "La universidad a la que asistió Viktor Orbán se llama"
+  },
+  {
+    "subject": "Mary Robinson",
+    "known_id": 10,
+    "attribute": "Trinity College Dublin",
+    "prompt": "La universidad a la que asistió Mary Robinson se llama"
+  },
+  {
+    "subject": "Mark Rutte",
+    "known_id": 11,
+    "attribute": "Universidad de Leiden",
+    "prompt": "La universidad a la que asistió Mark Rutte se llama"
+  },
+  {
+    "subject": "Xi Jinping",
+    "known_id": 12,
+    "attribute": "Universidad Tsinghua",
+    "prompt": "La universidad a la que asistió Xi Jinping se llama"
+  },
+  {
+    "subject": "Margaret Thatcher",
+    "known_id": 13,
+    "attribute": "Somerville College (Oxford)",
+    "prompt": "La universidad a la que asistió Margaret Thatcher se llama"
+  },
+  {
+    "subject": "Ban Ki-moon",
+    "known_id": 14,
+    "attribute": "Universidad Nacional de Seúl",
+    "prompt": "La universidad a la que asistió Ban Ki-moon se llama"
+  },
+  {
+    "subject": "Ellen Johnson Sirleaf",
+    "known_id": 15,
+    "attribute": "Harvard Kennedy School",
+    "prompt": "La universidad a la que asistió Ellen Johnson Sirleaf se llama"
+  },
+  {
+    "subject": "Mike Pence",
+    "known_id": 16,
+    "attribute": "Hanover College",
+    "prompt": "La universidad a la que asistió Mike Pence se llama"
+  },
+  {
+    "subject": "Oprah Winfrey",
+    "known_id": 17,
+    "attribute": "Universidad Estatal de Tennessee",
+    "prompt": "La universidad a la que asistió Oprah Winfrey se llama"
+  },
+  {
+    "subject": "Jeff Bezos",
+    "known_id": 18,
+    "attribute": "Universidad de Princeton",
+    "prompt": "La universidad a la que asistió Jeff Bezos se llama"
+  },
+  {
+    "subject": "Steve Jobs",
+    "known_id": 19,
+    "attribute": "Reed College",
+    "prompt": "La universidad a la que asistió Steve Jobs se llama"
+  },
+  {
+    "subject": "Tim Cook",
+    "known_id": 20,
+    "attribute": "Universidad de Auburn",
+    "prompt": "La universidad a la que asistió Tim Cook se llama"
+  },
+  {
+    "subject": "Sundar Pichai",
+    "known_id": 21,
+    "attribute": "Universidad Stanford",
+    "prompt": "La universidad a la que asistió Sundar Pichai se llama"
+  },
+  {
+    "subject": "Sheryl Sandberg",
+    "known_id": 22,
+    "attribute": "Universidad de Harvard",
+    "prompt": "La universidad a la que asistió Sheryl Sandberg se llama"
+  },
+  {
+    "subject": "Michelle Obama",
+    "known_id": 23,
+    "attribute": "Universidad de Princeton",
+    "prompt": "La universidad a la que asistió Michelle Obama se llama"
+  },
+  {
+    "subject": "Bill Gates",
+    "known_id": 24,
+    "attribute": "Universidad de Harvard",
+    "prompt": "La universidad a la que asistió Bill Gates se llama"
+  },
+  {
+    "subject": "Mark Zuckerberg",
+    "known_id": 25,
+    "attribute": "Universidad de Harvard",
+    "prompt": "La universidad a la que asistió Mark Zuckerberg se llama"
+  },
+  {
+    "subject": "Oprah Winfrey",
+    "known_id": 26,
+    "attribute": "Universidad Estatal de Tennessee",
+    "prompt": "La universidad a la que asistió Oprah Winfrey se llama"
+  },
+  {
+    "subject": "Emma Watson",
+    "known_id": 27,
+    "attribute": "Universidad Brown",
+    "prompt": "La universidad a la que asistió Emma Watson se llama"
+  },
+  {
+    "subject": "Natalie Portman",
+    "known_id": 28,
+    "attribute": "Universidad de Harvard",
+    "prompt": "La universidad a la que asistió Natalie Portman se llama"
+  },
+  {
+    "subject": "George W. Bush",
+    "known_id": 29,
+    "attribute": "Universidad Yale",
+    "prompt": "La universidad a la que asistió George W. Bush se llama"
+  },
+  {
+    "subject": "Neil Armstrong",
+    "known_id": 30,
+    "attribute": "Universidad Purdue",
+    "prompt": "La universidad a la que asistió Neil Armstrong se llama"
+  },
+  {
+    "subject": "James Franco",
+    "known_id": 31,
+    "attribute": "UCLA (Universidad de California en Los Ángeles)",
+    "prompt": "La universidad a la que asistió James Franco se llama"
+  },
+  {
+    "subject": "Matt Damon",
+    "known_id": 32,
+    "attribute": "Universidad de Harvard",
+    "prompt": "La universidad a la que asistió Matt Damon se llama"
+  },
+  {
+    "subject": "Conan O'Brien",
+    "known_id": 33,
+    "attribute": "Universidad de Harvard",
+    "prompt": "La universidad a la que asistió Conan O'Brien se llama"
+  },
+  {
+    "subject": "Sandra Bullock",
+    "known_id": 34,
+    "attribute": "Universidad de East Carolina",
+    "prompt": "La universidad a la que asistió Sandra Bullock se llama"
+  },
+  {
+    "subject": "León Tolstói",
+    "known_id": 35,
+    "attribute": "Universidad Imperial de Kazán",
+    "prompt": "La universidad a la que asistió León Tolstói se llama"
+  },
+  {
+    "subject": "Henry Moore",
+    "known_id": 36,
+    "attribute": "Leeds Arts University",
+    "prompt": "La universidad a la que asistió Henry Moore se llama"
+  },
+  {
+    "subject": "Andy Warhol",
+    "known_id": 37,
+    "attribute": "Carnegie Mellon University",
+    "prompt": "La universidad a la que asistió Andy Warhol se llama"
+  },
+  {
+    "subject": "Vladímir Lenin",
+    "known_id": 38,
+    "attribute": "Universidad Imperial de Kazán",
+    "prompt": "La universidad a la que asistió Vladímir Lenin se llama"
+  },
+  {
+    "subject": "Woody Allen",
+    "known_id": 39,
+    "attribute": "Tisch School of the Arts (NYU)",
+    "prompt": "La universidad a la que asistió Woody Allen se llama"
+  },
+  {
+    "subject": "August Strindberg",
+    "known_id": 40,
+    "attribute": "Universidad de Uppsala",
+    "prompt": "La universidad a la que asistió August Strindberg se llama"
+  },
+  {
+    "subject": "Christine Lagarde",
+    "known_id": 41,
+    "attribute": "Universidad París-Nanterre (París Oeste)",
+    "prompt": "La universidad a la que asistió Christine Lagarde se llama"
+  },
+  {
+    "subject": "Ko Wen-je",
+    "known_id": 42,
+    "attribute": "Universidad Nacional de Taiwán",
+    "prompt": "La universidad a la que asistió Ko Wen-je se llama"
+  },
+  {
+    "subject": "Martin Luther King Jr.",
+    "known_id": 43,
+    "attribute": "Morehouse College",
+    "prompt": "La universidad a la que asistió Martin Luther King Jr. se llama"
+  },
+  {
+    "subject": "Ernesto Zedillo",
+    "known_id": 44,
+    "attribute": "Universidad Yale",
+    "prompt": "La universidad a la que asistió Ernesto Zedillo se llama"
+  },
+  {
+    "subject": "Angela Bassett",
+    "known_id": 45,
+    "attribute": "Universidad Yale",
+    "prompt": "La universidad a la que asistió Angela Bassett se llama"
+  },
+  {
+    "subject": "Rachel Maddow",
+    "known_id": 46,
+    "attribute": "Universidad Stanford",
+    "prompt": "La universidad a la que asistió Rachel Maddow se llama"
+  },
+  {
+    "subject": "Cory Booker",
+    "known_id": 47,
+    "attribute": "Universidad Stanford",
+    "prompt": "La universidad a la que asistió Cory Booker se llama"
+  },
+  {
+    "subject": "Mark Rutte",
+    "known_id": 48,
+    "attribute": "Universidad de Leiden",
+    "prompt": "La universidad a la que asistió Mark Rutte se llama"
+  }
+]

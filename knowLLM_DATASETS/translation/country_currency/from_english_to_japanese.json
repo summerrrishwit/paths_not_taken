@@ -1,0 +1,308 @@
+[
+  {
+    "known_id": 0,
+    "subject": "Dollar",
+    "attribute": "ドル",
+    "prompt": "Translate a word from English to japanese. Word: 'Dollar'. Translated: '"
+  },
+  {
+    "known_id": 1,
+    "subject": "Pound",
+    "attribute": "ポンド",
+    "prompt": "Translate a word from English to japanese. Word: 'Pound'. Translated: '"
+  },
+  {
+    "known_id": 2,
+    "subject": "Yen",
+    "attribute": "円",
+    "prompt": "Translate a word from English to japanese. Word: 'Yen'. Translated: '"
+  },
+  {
+    "known_id": 3,
+    "subject": "Dollar",
+    "attribute": "ドル",
+    "prompt": "Translate a word from English to japanese. Word: 'Dollar'. Translated: '"
+  },
+  {
+    "known_id": 4,
+    "subject": "Dollar",
+    "attribute": "ドル",
+    "prompt": "Translate a word from English to japanese. Word: 'Dollar'. Translated: '"
+  },
+  {
+    "known_id": 5,
+    "subject": "Real",
+    "attribute": "レアル",
+    "prompt": "Translate a word from English to japanese. Word: 'Real'. Translated: '"
+  },
+  {
+    "known_id": 6,
+    "subject": "Yuan",
+    "attribute": "人民元",
+    "prompt": "Translate a word from English to japanese. Word: 'Yuan'. Translated: '"
+  },
+  {
+    "known_id": 7,
+    "subject": "Rupee",
+    "attribute": "ルピー",
+    "prompt": "Translate a word from English to japanese. Word: 'Rupee'. Translated: '"
+  },
+  {
+    "known_id": 8,
+    "subject": "Ruble",
+    "attribute": "ルーブル",
+    "prompt": "Translate a word from English to japanese. Word: 'Ruble'. Translated: '"
+  },
+  {
+    "known_id": 9,
+    "subject": "Rand",
+    "attribute": "ランド",
+    "prompt": "Translate a word from English to japanese. Word: 'Rand'. Translated: '"
+  },
+  {
+    "known_id": 10,
+    "subject": "Peso",
+    "attribute": "ペソ",
+    "prompt": "Translate a word from English to japanese. Word: 'Peso'. Translated: '"
+  },
+  {
+    "known_id": 11,
+    "subject": "Dollar",
+    "attribute": "ドル",
+    "prompt": "Translate a word from English to japanese. Word: 'Dollar'. Translated: '"
+  },
+  {
+    "known_id": 12,
+    "subject": "Won",
+    "attribute": "ウォン",
+    "prompt": "Translate a word from English to japanese. Word: 'Won'. Translated: '"
+  },
+  {
+    "known_id": 13,
+    "subject": "Franc",
+    "attribute": "フラン",
+    "prompt": "Translate a word from English to japanese. Word: 'Franc'. Translated: '"
+  },
+  {
+    "known_id": 14,
+    "subject": "Lira",
+    "attribute": "リラ",
+    "prompt": "Translate a word from English to japanese. Word: 'Lira'. Translated: '"
+  },
+  {
+    "known_id": 15,
+    "subject": "Peso",
+    "attribute": "ペソ",
+    "prompt": "Translate a word from English to japanese. Word: 'Peso'. Translated: '"
+  },
+  {
+    "known_id": 16,
+    "subject": "Krone",
+    "attribute": "クローネ",
+    "prompt": "Translate a word from English to japanese. Word: 'Krone'. Translated: '"
+  },
+  {
+    "known_id": 17,
+    "subject": "Krona",
+    "attribute": "クローナ",
+    "prompt": "Translate a word from English to japanese. Word: 'Krona'. Translated: '"
+  },
+  {
+    "known_id": 18,
+    "subject": "Krone",
+    "attribute": "クローネ",
+    "prompt": "Translate a word from English to japanese. Word: 'Krone'. Translated: '"
+  },
+  {
+    "known_id": 19,
+    "subject": "Zloty",
+    "attribute": "ズウォティ",
+    "prompt": "Translate a word from English to japanese. Word: 'Zloty'. Translated: '"
+  },
+  {
+    "known_id": 20,
+    "subject": "Forint",
+    "attribute": "フォリント",
+    "prompt": "Translate a word from English to japanese. Word: 'Forint'. Translated: '"
+  },
+  {
+    "known_id": 21,
+    "subject": "Koruna",
+    "attribute": "コルナ",
+    "prompt": "Translate a word from English to japanese. Word: 'Koruna'. Translated: '"
+  },
+  {
+    "known_id": 22,
+    "subject": "Shekel",
+    "attribute": "シェケル",
+    "prompt": "Translate a word from English to japanese. Word: 'Shekel'. Translated: '"
+  },
+  {
+    "known_id": 23,
+    "subject": "Riyal",
+    "attribute": "リヤル",
+    "prompt": "Translate a word from English to japanese. Word: 'Riyal'. Translated: '"
+  },
+  {
+    "known_id": 24,
+    "subject": "Dirham",
+    "attribute": "ディルハム",
+    "prompt": "Translate a word from English to japanese. Word: 'Dirham'. Translated: '"
+  },
+  {
+    "known_id": 25,
+    "subject": "Dollar",
+    "attribute": "ドル",
+    "prompt": "Translate a word from English to japanese. Word: 'Dollar'. Translated: '"
+  },
+  {
+    "known_id": 26,
+    "subject": "Ringgit",
+    "attribute": "リンギット",
+    "prompt": "Translate a word from English to japanese. Word: 'Ringgit'. Translated: '"
+  },
+  {
+    "known_id": 27,
+    "subject": "Rupiah",
+    "attribute": "ルピア",
+    "prompt": "Translate a word from English to japanese. Word: 'Rupiah'. Translated: '"
+  },
+  {
+    "known_id": 28,
+    "subject": "Baht",
+    "attribute": "バーツ",
+    "prompt": "Translate a word from English to japanese. Word: 'Baht'. Translated: '"
+  },
+  {
+    "known_id": 29,
+    "subject": "Peso",
+    "attribute": "ペソ",
+    "prompt": "Translate a word from English to japanese. Word: 'Peso'. Translated: '"
+  },
+  {
+    "known_id": 30,
+    "subject": "Dong",
+    "attribute": "ドン",
+    "prompt": "Translate a word from English to japanese. Word: 'Dong'. Translated: '"
+  },
+  {
+    "known_id": 31,
+    "subject": "Pound",
+    "attribute": "ポンド",
+    "prompt": "Translate a word from English to japanese. Word: 'Pound'. Translated: '"
+  },
+  {
+    "known_id": 32,
+    "subject": "Hryvnia",
+    "attribute": "フリブニャ",
+    "prompt": "Translate a word from English to japanese. Word: 'Hryvnia'. Translated: '"
+  },
+  {
+    "known_id": 33,
+    "subject": "Leu",
+    "attribute": "レウ",
+    "prompt": "Translate a word from English to japanese. Word: 'Leu'. Translated: '"
+  },
+  {
+    "known_id": 34,
+    "subject": "Lev",
+    "attribute": "レフ",
+    "prompt": "Translate a word from English to japanese. Word: 'Lev'. Translated: '"
+  },
+  {
+    "known_id": 35,
+    "subject": "Dinar",
+    "attribute": "ディナール",
+    "prompt": "Translate a word from English to japanese. Word: 'Dinar'. Translated: '"
+  },
+  {
+    "known_id": 36,
+    "subject": "Dinar",
+    "attribute": "ディナール",
+    "prompt": "Translate a word from English to japanese. Word: 'Dinar'. Translated: '"
+  },
+  {
+    "known_id": 37,
+    "subject": "Dinar",
+    "attribute": "ディナール",
+    "prompt": "Translate a word from English to japanese. Word: 'Dinar'. Translated: '"
+  },
+  {
+    "known_id": 38,
+    "subject": "Dirham",
+    "attribute": "ディルハム",
+    "prompt": "Translate a word from English to japanese. Word: 'Dirham'. Translated: '"
+  },
+  {
+    "known_id": 39,
+    "subject": "Dinar",
+    "attribute": "ディナール",
+    "prompt": "Translate a word from English to japanese. Word: 'Dinar'. Translated: '"
+  },
+  {
+    "known_id": 40,
+    "subject": "Peso",
+    "attribute": "ペソ",
+    "prompt": "Translate a word from English to japanese. Word: 'Peso'. Translated: '"
+  },
+  {
+    "known_id": 41,
+    "subject": "Peso",
+    "attribute": "ペソ",
+    "prompt": "Translate a word from English to japanese. Word: 'Peso'. Translated: '"
+  },
+  {
+    "known_id": 42,
+    "subject": "Peso",
+    "attribute": "ペソ",
+    "prompt": "Translate a word from English to japanese. Word: 'Peso'. Translated: '"
+  },
+  {
+    "known_id": 43,
+    "subject": "Krona",
+    "attribute": "クローナ",
+    "prompt": "Translate a word from English to japanese. Word: 'Krona'. Translated: '"
+  },
+  {
+    "known_id": 44,
+    "subject": "Lari",
+    "attribute": "ラリ",
+    "prompt": "Translate a word from English to japanese. Word: 'Lari'. Translated: '"
+  },
+  {
+    "known_id": 45,
+    "subject": "Manat",
+    "attribute": "マナト",
+    "prompt": "Translate a word from English to japanese. Word: 'Manat'. Translated: '"
+  },
+  {
+    "known_id": 46,
+    "subject": "Tenge",
+    "attribute": "テンゲ",
+    "prompt": "Translate a word from English to japanese. Word: 'Tenge'. Translated: '"
+  },
+  {
+    "known_id": 47,
+    "subject": "Rupee",
+    "attribute": "ルピー",
+    "prompt": "Translate a word from English to japanese. Word: 'Rupee'. Translated: '"
+  },
+  {
+    "known_id": 48,
+    "subject": "Rupee",
+    "attribute": "ルピー",
+    "prompt": "Translate a word from English to japanese. Word: 'Rupee'. Translated: '"
+  },
+  {
+    "known_id": 49,
+    "subject": "Taka",
+    "attribute": "タカ",
+    "prompt": "Translate a word from English to japanese. Word: 'Taka'. Translated: '"
+  },
+  {
+    "known_id": 50,
+    "subject": "Rupee",
+    "attribute": "ルピー",
+    "prompt": "Translate a word from English to japanese. Word: 'Rupee'. Translated: '"
+  }
+]

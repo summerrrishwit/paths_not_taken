@@ -1,0 +1,407 @@
+[
+    {
+        "known_id": 0,
+        "subject": "United States",
+        "attribute": "English",
+        "template": "{} speak",
+        "prediction": " English.",
+        "prompt": "The official language in United States is",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 1,
+        "subject": "Canada",
+        "attribute": "English",
+        "template": "{} speak",
+        "prediction": " English.",
+        "prompt": "The official language in Canada is",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 2,
+        "subject": "Mexico",
+        "attribute": "Spanish",
+        "template": "{} speak",
+        "prediction": " Spanish.",
+        "prompt": "The official language in Mexico is",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 3,
+        "subject": "Brazil",
+        "attribute": "Portuguese",
+        "template": "{} speak",
+        "prediction": " Portuguese.",
+        "prompt": "The official language in Brazil is",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 4,
+        "subject": "Argentina",
+        "attribute": "Spanish",
+        "template": "{} speak",
+        "prediction": " Spanish.",
+        "prompt": "The official language in Argentina is",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 5,
+        "subject": "Chile",
+        "attribute": "Spanish",
+        "template": "{} speak",
+        "prediction": " Spanish.",
+        "prompt": "The official language in Chile is",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 6,
+        "subject": "Peru",
+        "attribute": "Spanish",
+        "template": "{} speak",
+        "prediction": " Spanish.",
+        "prompt": "The official language in Peru is",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 7,
+        "subject": "Colombia",
+        "attribute": "Spanish",
+        "template": "{} speak",
+        "prediction": " Spanish.",
+        "prompt": "The official language in Colombia is",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 8,
+        "subject": "Venezuela",
+        "attribute": "Spanish",
+        "template": "{} speak",
+        "prediction": " Spanish.",
+        "prompt": "The official language in Venezuela is",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 9,
+        "subject": "Spain",
+        "attribute": "Spanish",
+        "template": "{} speak",
+        "prediction": " Spanish.",
+        "prompt": "The official language in Spain is",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 10,
+        "subject": "France",
+        "attribute": "French",
+        "template": "{} speak",
+        "prediction": " French.",
+        "prompt": "The official language in France is",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 11,
+        "subject": "Germany",
+        "attribute": "German",
+        "template": "{} speak",
+        "prediction": " German.",
+        "prompt": "The official language in Germany is",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 12,
+        "subject": "Italy",
+        "attribute": "Italian",
+        "template": "{} speak",
+        "prediction": " Italian.",
+        "prompt": "The official language in Italy is",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 13,
+        "subject": "Russia",
+        "attribute": "Russian",
+        "template": "{} speak",
+        "prediction": " Russian.",
+        "prompt": "The official language in Russia is",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 14,
+        "subject": "China",
+        "attribute": "Mandarin Chinese",
+        "template": "{} speak",
+        "prediction": " Mandarin Chinese.",
+        "prompt": "The official language in China is",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 15,
+        "subject": "Japan",
+        "attribute": "Japanese",
+        "template": "{} speak",
+        "prediction": " Japanese.",
+        "prompt": "The official language in Japan is",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 16,
+        "subject": "South Korea",
+        "attribute": "Korean",
+        "template": "{} speak",
+        "prediction": " Korean.",
+        "prompt": "The official language in South Korea is",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 17,
+        "subject": "India",
+        "attribute": "Hindi",
+        "template": "{} speak",
+        "prediction": " Hindi.",
+        "prompt": "The official language in India is",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 18,
+        "subject": "Pakistan",
+        "attribute": "Urdu",
+        "template": "{} speak",
+        "prediction": " Urdu.",
+        "prompt": "The official language in Pakistan is",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 19,
+        "subject": "Nigeria",
+        "attribute": "English",
+        "template": "{} speak",
+        "prediction": " English.",
+        "prompt": "The official language in Nigeria is",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 20,
+        "subject": "Egypt",
+        "attribute": "Arabic",
+        "template": "{} speak",
+        "prediction": " Arabic.",
+        "prompt": "The official language in Egypt is",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 21,
+        "subject": "Saudi Arabia",
+        "attribute": "Arabic",
+        "template": "{} speak",
+        "prediction": " Arabic.",
+        "prompt": "The official language in Saudi Arabia is",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 22,
+        "subject": "Turkey",
+        "attribute": "Turkish",
+        "template": "{} speak",
+        "prediction": " Turkish.",
+        "prompt": "The official language in Turkey is",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 23,
+        "subject": "Australia",
+        "attribute": "English",
+        "template": "{} speak",
+        "prediction": " English.",
+        "prompt": "The official language in Australia is",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 24,
+        "subject": "New Zealand",
+        "attribute": "English",
+        "template": "{} speak",
+        "prediction": " English.",
+        "prompt": "The official language in New Zealand is",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 25,
+        "subject": "Sweden",
+        "attribute": "Swedish",
+        "template": "{} speak",
+        "prediction": " Swedish.",
+        "prompt": "The official language in Sweden is",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 26,
+        "subject": "Norway",
+        "attribute": "Norwegian",
+        "template": "{} speak",
+        "prediction": " Norwegian.",
+        "prompt": "The official language in Norway is",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 27,
+        "subject": "Denmark",
+        "attribute": "Danish",
+        "template": "{} speak",
+        "prediction": " Danish.",
+        "prompt": "The official language in Denmark is",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 28,
+        "subject": "Finland",
+        "attribute": "Finnish",
+        "template": "{} speak",
+        "prediction": " Finnish.",
+        "prompt": "The official language in Finland is",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 29,
+        "subject": "Iceland",
+        "attribute": "Icelandic",
+        "template": "{} speak",
+        "prediction": " Icelandic.",
+        "prompt": "The official language in Iceland is",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 32,
+        "subject": "Ethiopia",
+        "attribute": "Amharic",
+        "template": "{} speak",
+        "prediction": " Amharic.",
+        "prompt": "The official language in Ethiopia is",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 33,
+        "subject": "Greece",
+        "attribute": "Greek",
+        "template": "{} speak",
+        "prediction": " Greek.",
+        "prompt": "The official language in Greece is",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 34,
+        "subject": "Netherlands",
+        "attribute": "Dutch",
+        "template": "{} speak",
+        "prediction": " Dutch.",
+        "prompt": "The official language in Netherlands is",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 36,
+        "subject": "Austria",
+        "attribute": "German",
+        "template": "{} speak",
+        "prediction": " German.",
+        "prompt": "The official language in Austria is",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 37,
+        "subject": "Switzerland",
+        "attribute": "German",
+        "template": "{} speak",
+        "prediction": " German.",
+        "prompt": "The official language in Switzerland is",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 38,
+        "subject": "Portugal",
+        "attribute": "Portuguese",
+        "template": "{} speak",
+        "prediction": " Portuguese.",
+        "prompt": "The official language in Portugal is",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 39,
+        "subject": "Czech Republic",
+        "attribute": "Czech",
+        "template": "{} speak",
+        "prediction": " Czech.",
+        "prompt": "The official language in Czech Republic is",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 40,
+        "subject": "Poland",
+        "attribute": "Polish",
+        "template": "{} speak",
+        "prediction": " Polish.",
+        "prompt": "The official language in Poland is",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 41,
+        "subject": "Hungary",
+        "attribute": "Hungarian",
+        "template": "{} speak",
+        "prediction": " Hungarian.",
+        "prompt": "The official language in Hungary is",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 42,
+        "subject": "Thailand",
+        "attribute": "Thai",
+        "template": "{} speak",
+        "prediction": " Thai.",
+        "prompt": "The official language in Thailand is",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 43,
+        "subject": "Vietnam",
+        "attribute": "Vietnamese",
+        "template": "{} speak",
+        "prediction": " Vietnamese.",
+        "prompt": "The official language in Vietnam is",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 44,
+        "subject": "Malaysia",
+        "attribute": "Malay",
+        "template": "{} speak",
+        "prediction": " Malay.",
+        "prompt": "The official language in Malaysia is",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 46,
+        "subject": "Philippines",
+        "attribute": "Filipino",
+        "template": "{} speak",
+        "prediction": " Filipino.",
+        "prompt": "The official language in Philippines is",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 47,
+        "subject": "Bangladesh",
+        "attribute": "Bengali",
+        "template": "{} speak",
+        "prediction": " Bengali.",
+        "prompt": "The official language in Bangladesh is",
+        "relation_id": "P37"
+    },
+    {
+        "known_id": 48,
+        "subject": "Sri Lanka",
+        "attribute": "Sinhala",
+        "template": "{} speak",
+        "prediction": " Sinhala.",
+        "prompt": "The official language in Sri Lanka is",
+        "relation_id": "P37"
+    }
+]

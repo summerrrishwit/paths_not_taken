@@ -1,0 +1,330 @@
+#TODO: give me back the json dataset by making the original prompt into old_prompt and create new prompt fowlloing the first three examples i ahve giveen you
+#make sure each prompt has the correct le or l' given the "attribute": if the attribute is espanol, it should be l', but if it's russe or others it should be le
+[
+    {
+        "subject": "Don Quichotte",
+        "known_id": 0,
+        "attribute": "espagnol",
+        "prompt":"La langue dans laquelle {} a été écrit à l'origine était l'",
+        "old_prompt": "Dans quelle langue ce livre a-t-il été écrit à l’origine ? Exemple : Titre : Guerre et Paix ; Langue originale : russe. Titre : Don Quichotte; Langue originale :"
+    },
+    {
+        "subject": "La Divine Comédie",
+        "known_id": 1,
+        "attribute": "La langue dans laquelle {} a été écrit à l'origine était l'",
+        "old_prompt": "Dans quelle langue ce livre a-t-il été écrit à l’origine ? Exemple : Titre : Guerre et Paix ; Langue originale : russe. Titre : La Divine Comédie; Langue originale :"
+    },
+    {
+        "subject": "Guerre et Paix",
+        "known_id": 2,
+        "attribute": "russe",
+        "prompt":"La langue dans laquelle {} a été écrit à l'origine était le",#TODO: make sure each prompt has the correct le or l' given the "attribute": if the attribute is espanol, it should be l', but if it's russe or others it should be le
+        "prompt": "Dans quelle langue ce livre a-t-il été écrit à l’origine ? Exemple : Titre : Guerre et Paix ; Langue originale : russe. Titre : Guerre et Paix; Langue originale :"
+    },
+    {
+        "subject": "Les Misérables",
+        "known_id": 3,
+        "attribute": "français",
+        "prompt": "Dans quelle langue ce livre a-t-il été écrit à l’origine ? Exemple : Titre : Guerre et Paix ; Langue originale : russe. Titre : Les Misérables; Langue originale :"
+    },
+    {
+        "subject": "L’Iliade",
+        "known_id": 4,
+        "attribute": "grec",
+        "prompt": "Dans quelle langue ce livre a-t-il été écrit à l’origine ? Exemple : Titre : Guerre et Paix ; Langue originale : russe. Titre : L’Iliade; Langue originale :"
+    },
+    {
+        "subject": "L’Odyssée",
+        "known_id": 5,
+        "attribute": "grec",
+        "prompt": "Dans quelle langue ce livre a-t-il été écrit à l’origine ? Exemple : Titre : Guerre et Paix ; Langue originale : russe. Titre : L’Odyssée; Langue originale :"
+    },
+    {
+        "subject": "Faust",
+        "known_id": 6,
+        "attribute": "allemand",
+        "prompt": "Dans quelle langue ce livre a-t-il été écrit à l’origine ? Exemple : Titre : Guerre et Paix ; Langue originale : russe. Titre : Faust; Langue originale :"
+    },
+    {
+        "subject": "L’Énéide",
+        "known_id": 7,
+        "attribute": "latin",
+        "prompt": "Dans quelle langue ce livre a-t-il été écrit à l’origine ? Exemple : Titre : Guerre et Paix ; Langue originale : russe. Titre : L’Énéide; Langue originale :"
+    },
+    {
+        "subject": "Ulysse",
+        "known_id": 8,
+        "attribute": "anglais",
+        "prompt": "Dans quelle langue ce livre a-t-il été écrit à l’origine ? Exemple : Titre : Guerre et Paix ; Langue originale : russe. Titre : Ulysse; Langue originale :"
+    },
+    {
+        "subject": "Moby-Dick",
+        "known_id": 9,
+        "attribute": "anglais",
+        "prompt": "Dans quelle langue ce livre a-t-il été écrit à l’origine ? Exemple : Titre : Guerre et Paix ; Langue originale : russe. Titre : Moby-Dick; Langue originale :"
+    },
+    {
+        "subject": "Le Portrait de Dorian Gray",
+        "known_id": 10,
+        "attribute": "anglais",
+        "prompt": "Dans quelle langue ce livre a-t-il été écrit à l’origine ? Exemple : Titre : Guerre et Paix ; Langue originale : russe. Titre : Le Portrait de Dorian Gray; Langue originale :"
+    },
+    {
+        "subject": "Crime et Châtiment",
+        "known_id": 11,
+        "attribute": "russe",
+        "prompt": "Dans quelle langue ce livre a-t-il été écrit à l’origine ? Exemple : Titre : Guerre et Paix ; Langue originale : russe. Titre : Crime et Châtiment; Langue originale :"
+    },
+    {
+        "subject": "Anna Karénine",
+        "known_id": 12,
+        "attribute": "russe",
+        "prompt": "Dans quelle langue ce livre a-t-il été écrit à l’origine ? Exemple : Titre : Guerre et Paix ; Langue originale : russe. Titre : Anna Karénine; Langue originale :"
+    },
+    {
+        "subject": "Madame Bovary",
+        "known_id": 13,
+        "attribute": "français",
+        "prompt": "Dans quelle langue ce livre a-t-il été écrit à l’origine ? Exemple : Titre : Guerre et Paix ; Langue originale : russe. Titre : Madame Bovary; Langue originale :"
+    },
+    {
+        "subject": "Le Comte de Monte-Cristo",
+        "known_id": 14,
+        "attribute": "français",
+        "prompt": "Dans quelle langue ce livre a-t-il été écrit à l’origine ? Exemple : Titre : Guerre et Paix ; Langue originale : russe. Titre : Le Comte de Monte-Cristo; Langue originale :"
+    },
+    {
+        "subject": "L’Étranger",
+        "known_id": 15,
+        "attribute": "français",
+        "prompt": "Dans quelle langue ce livre a-t-il été écrit à l’origine ? Exemple : Titre : Guerre et Paix ; Langue originale : russe. Titre : L’Étranger; Langue originale :"
+    },
+    {
+        "subject": "La Métamorphose",
+        "known_id": 16,
+        "attribute": "allemand",
+        "prompt": "Dans quelle langue ce livre a-t-il été écrit à l’origine ? Exemple : Titre : Guerre et Paix ; Langue originale : russe. Titre : La Métamorphose; Langue originale :"
+    },
+    {
+        "subject": "Ainsi parlait Zarathoustra",
+        "known_id": 17,
+        "attribute": "allemand",
+        "prompt": "Dans quelle langue ce livre a-t-il été écrit à l’origine ? Exemple : Titre : Guerre et Paix ; Langue originale : russe. Titre : Ainsi parlait Zarathoustra; Langue originale :"
+    },
+    {
+        "subject": "Les Frères Karamazov",
+        "known_id": 18,
+        "attribute": "russe",
+        "prompt": "Dans quelle langue ce livre a-t-il été écrit à l’origine ? Exemple : Titre : Guerre et Paix ; Langue originale : russe. Titre : Les Frères Karamazov; Langue originale :"
+    },
+    {
+        "subject": "Le Maître et Marguerite",
+        "known_id": 19,
+        "attribute": "russe",
+        "prompt": "Dans quelle langue ce livre a-t-il été écrit à l’origine ? Exemple : Titre : Guerre et Paix ; Langue originale : russe. Titre : Le Maître et Marguerite; Langue originale :"
+    },
+    {
+        "subject": "Le Nom de la rose",
+        "known_id": 20,
+        "attribute": "italien",
+        "prompt": "Dans quelle langue ce livre a-t-il été écrit à l’origine ? Exemple : Titre : Guerre et Paix ; Langue originale : russe. Titre : Le Nom de la rose; Langue originale :"
+    },
+    {
+        "subject": "Cent ans de solitude",
+        "known_id": 21,
+        "attribute": "espagnol",
+        "prompt": "Dans quelle langue ce livre a-t-il été écrit à l’origine ? Exemple : Titre : Guerre et Paix ; Langue originale : russe. Titre : Cent ans de solitude; Langue originale :"
+    },
+    {
+        "subject": "Les Lusiades",
+        "known_id": 22,
+        "attribute": "portugais",
+        "prompt": "Dans quelle langue ce livre a-t-il été écrit à l’origine ? Exemple : Titre : Guerre et Paix ; Langue originale : russe. Titre : Les Lusiades; Langue originale :"
+    },
+    {
+        "subject": "Le Décaméron",
+        "known_id": 23,
+        "attribute": "italien",
+        "prompt": "Dans quelle langue ce livre a-t-il été écrit à l’origine ? Exemple : Titre : Guerre et Paix ; Langue originale : russe. Titre : Le Décaméron; Langue originale :"
+    },
+    {
+        "subject": "Les Souffrances du jeune Werther",
+        "known_id": 24,
+        "attribute": "allemand",
+        "prompt": "Dans quelle langue ce livre a-t-il été écrit à l’origine ? Exemple : Titre : Guerre et Paix ; Langue originale : russe. Titre : Les Souffrances du jeune Werther; Langue originale :"
+    },
+    {
+        "subject": "Le Procès",
+        "known_id": 25,
+        "attribute": "allemand",
+        "prompt": "Dans quelle langue ce livre a-t-il été écrit à l’origine ? Exemple : Titre : Guerre et Paix ; Langue originale : russe. Titre : Le Procès; Langue originale :"
+    },
+    {
+        "subject": "Les Voyages de Gulliver",
+        "known_id": 26,
+        "attribute": "anglais",
+        "prompt": "Dans quelle langue ce livre a-t-il été écrit à l’origine ? Exemple : Titre : Guerre et Paix ; Langue originale : russe. Titre : Les Voyages de Gulliver; Langue originale :"
+    },
+    {
+        "subject": "Frankenstein",
+        "known_id": 27,
+        "attribute": "anglais",
+        "prompt": "Dans quelle langue ce livre a-t-il été écrit à l’origine ? Exemple : Titre : Guerre et Paix ; Langue originale : russe. Titre : Frankenstein; Langue originale :"
+    },
+    {
+        "subject": "Le Prince",
+        "known_id": 28,
+        "attribute": "italien",
+        "prompt": "Dans quelle langue ce livre a-t-il été écrit à l’origine ? Exemple : Titre : Guerre et Paix ; Langue originale : russe. Titre : Le Prince; Langue originale :"
+    },
+    {
+        "subject": "Notre-Dame de Paris",
+        "known_id": 29,
+        "attribute": "français",
+        "prompt": "Dans quelle langue ce livre a-t-il été écrit à l’origine ? Exemple : Titre : Guerre et Paix ; Langue originale : russe. Titre : Notre-Dame de Paris; Langue originale :"
+    },
+    {
+        "subject": "Les Trois Mousquetaires",
+        "known_id": 30,
+        "attribute": "français",
+        "prompt": "Dans quelle langue ce livre a-t-il été écrit à l’origine ? Exemple : Titre : Guerre et Paix ; Langue originale : russe. Titre : Les Trois Mousquetaires; Langue originale :"
+    },
+    {
+        "subject": "La Chanson de Roland",
+        "known_id": 31,
+        "attribute": "français",
+        "prompt": "Dans quelle langue ce livre a-t-il été écrit à l’origine ? Exemple : Titre : Guerre et Paix ; Langue originale : russe. Titre : La Chanson de Roland; Langue originale :"
+    },
+    {
+        "subject": "Le Chant des Nibelungen",
+        "known_id": 32,
+        "attribute": "allemand",
+        "prompt": "Dans quelle langue ce livre a-t-il été écrit à l’origine ? Exemple : Titre : Guerre et Paix ; Langue originale : russe. Titre : Le Chant des Nibelungen; Langue originale :"
+    },
+    {
+        "subject": "Roland furieux",
+        "known_id": 33,
+        "attribute": "italien",
+        "prompt": "Dans quelle langue ce livre a-t-il été écrit à l’origine ? Exemple : Titre : Guerre et Paix ; Langue originale : russe. Titre : Roland furieux; Langue originale :"
+    },
+    {
+        "subject": "Candide",
+        "known_id": 34,
+        "attribute": "français",
+        "prompt": "Dans quelle langue ce livre a-t-il été écrit à l’origine ? Exemple : Titre : Guerre et Paix ; Langue originale : russe. Titre : Candide; Langue originale :"
+    },
+    {
+        "subject": "Le Rouge et le Noir",
+        "known_id": 35,
+        "attribute": "français",
+        "prompt": "Dans quelle langue ce livre a-t-il été écrit à l’origine ? Exemple : Titre : Guerre et Paix ; Langue originale : russe. Titre : Le Rouge et le Noir; Langue originale :"
+    },
+    {
+        "subject": "Germinal",
+        "known_id": 36,
+        "attribute": "français",
+        "prompt": "Dans quelle langue ce livre a-t-il été écrit à l’origine ? Exemple : Titre : Guerre et Paix ; Langue originale : russe. Titre : Germinal; Langue originale :"
+    },
+    {
+        "subject": "Le Chien des Baskerville",
+        "known_id": 37,
+        "attribute": "anglais",
+        "prompt": "Dans quelle langue ce livre a-t-il été écrit à l’origine ? Exemple : Titre : Guerre et Paix ; Langue originale : russe. Titre : Le Chien des Baskerville; Langue originale :"
+    },
+    {
+        "subject": "Les Aventures de Sherlock Holmes",
+        "known_id": 38,
+        "attribute": "anglais",
+        "prompt": "Dans quelle langue ce livre a-t-il été écrit à l’origine ? Exemple : Titre : Guerre et Paix ; Langue originale : russe. Titre : Les Aventures de Sherlock Holmes; Langue originale :"
+    },
+    {
+        "subject": "Le Château",
+        "known_id": 39,
+        "attribute": "allemand",
+        "prompt": "Dans quelle langue ce livre a-t-il été écrit à l’origine ? Exemple : Titre : Guerre et Paix ; Langue originale : russe. Titre : Le Château; Langue originale :"
+    },
+    {
+        "subject": "Les Buddenbrook",
+        "known_id": 40,
+        "attribute": "allemand",
+        "prompt": "Dans quelle langue ce livre a-t-il été écrit à l’origine ? Exemple : Titre : Guerre et Paix ; Langue originale : russe. Titre : Les Buddenbrook; Langue originale :"
+    },
+    {
+        "subject": "La Mort à Venise",
+        "known_id": 41,
+        "attribute": "allemand",
+        "prompt": "Dans quelle langue ce livre a-t-il été écrit à l’origine ? Exemple : Titre : Guerre et Paix ; Langue originale : russe. Titre : La Mort à Venise; Langue originale :"
+    },
+    {
+        "subject": "Docteur Faustus",
+        "known_id": 42,
+        "attribute": "allemand",
+        "prompt": "Dans quelle langue ce livre a-t-il été écrit à l’origine ? Exemple : Titre : Guerre et Paix ; Langue originale : russe. Titre : Docteur Faustus; Langue originale :"
+    },
+    {
+        "subject": "Les Fiancés",
+        "known_id": 43,
+        "attribute": "italien",
+        "prompt": "Dans quelle langue ce livre a-t-il été écrit à l’origine ? Exemple : Titre : Guerre et Paix ; Langue originale : russe. Titre : Les Fiancés; Langue originale :"
+    },
+    {
+        "subject": "Si par une nuit d’hiver un voyageur",
+        "known_id": 44,
+        "attribute": "italien",
+        "prompt": "Dans quelle langue ce livre a-t-il été écrit à l’origine ? Exemple : Titre : Guerre et Paix ; Langue originale : russe. Titre : Si par une nuit d’hiver un voyageur; Langue originale :"
+    },
+    {
+        "subject": "Le Guépard",
+        "known_id": 45,
+        "attribute": "italien",
+        "prompt": "Dans quelle langue ce livre a-t-il été écrit à l’origine ? Exemple : Titre : Guerre et Paix ; Langue originale : russe. Titre : Le Guépard; Langue originale :"
+    },
+    {
+        "subject": "La Vie et les opinions de Tristram Shandy",
+        "known_id": 46,
+        "attribute": "anglais",
+        "prompt": "Dans quelle langue ce livre a-t-il été écrit à l’origine ? Exemple : Titre : Guerre et Paix ; Langue originale : russe. Titre : La Vie et les opinions de Tristram Shandy; Langue originale :"
+    },
+    {
+        "subject": "Orgueil et Préjugés",
+        "known_id": 47,
+        "attribute": "anglais",
+        "prompt": "Dans quelle langue ce livre a-t-il été écrit à l’origine ? Exemple : Titre : Guerre et Paix ; Langue originale : russe. Titre : Orgueil et Préjugés; Langue originale :"
+    },
+    {
+        "subject": "Les Hauts de Hurlevent",
+        "known_id": 48,
+        "attribute": "anglais",
+        "prompt": "Dans quelle langue ce livre a-t-il été écrit à l’origine ? Exemple : Titre : Guerre et Paix ; Langue originale : russe. Titre : Les Hauts de Hurlevent; Langue originale :"
+    },
+    {
+        "subject": "Oliver Twist",
+        "known_id": 49,
+        "attribute": "anglais",
+        "prompt": "Dans quelle langue ce livre a-t-il été écrit à l’origine ? Exemple : Titre : Guerre et Paix ; Langue originale : russe. Titre : Oliver Twist; Langue originale :"
+    },
+    {
+        "subject": "David Copperfield",
+        "known_id": 50,
+        "attribute": "anglais",
+        "prompt": "Dans quelle langue ce livre a-t-il été écrit à l’origine ? Exemple : Titre : Guerre et Paix ; Langue originale : russe. Titre : David Copperfield; Langue originale :"
+    },
+    {
+        "subject": "L’Idiot",
+        "known_id": 51,
+        "attribute": "russe",
+        "prompt": "Dans quelle langue ce livre a-t-il été écrit à l’origine ? Exemple : Titre : Guerre et Paix ; Langue originale : russe. Titre : L’Idiot; Langue originale :"
+    },
+    {
+        "subject": "Pères et Fils",
+        "known_id": 52,
+        "attribute": "russe",
+        "prompt": "Dans quelle langue ce livre a-t-il été écrit à l’origine ? Exemple : Titre : Guerre et Paix ; Langue originale : russe. Titre : Pères et Fils; Langue originale :"
+    },
+    {
+        "subject": "Les Âmes mortes",
+        "known_id": 53,
+        "attribute": "russe",
+        "prompt": "Dans quelle langue ce livre a-t-il été écrit à l’origine ? Exemple : Titre : Guerre et Paix ; Langue originale : russe. Titre : Les Âmes mortes; Langue originale :"
+    }
+]
